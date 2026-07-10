@@ -14,151 +14,151 @@ export const iklimvebitkiortusu: Topic = {
     heading: "Akdeniz İklimi (Bölüm 1)",
     body: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "https://images.unsplash.com/photo-1445227162968-301c22629dd0?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Karadeniz İklimi (Bölüm 1)",
     body: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1425904886638-372551a0d8e8?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Karasal İklim (Bölüm 1)",
     body: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1468276311594-df7cb65d8df6?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Sert Karasal İklim (Bölüm 1)",
     body: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1445227162968-301c22629dd0?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Maki Türleri (Bölüm 1)",
     body: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1425904886638-372551a0d8e8?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Akdeniz İklimi (Bölüm 2)",
     body: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "https://images.unsplash.com/photo-1468276311594-df7cb65d8df6?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Karadeniz İklimi (Bölüm 2)",
     body: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1445227162968-301c22629dd0?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Karasal İklim (Bölüm 2)",
     body: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1425904886638-372551a0d8e8?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Sert Karasal İklim (Bölüm 2)",
     body: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1468276311594-df7cb65d8df6?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Maki Türleri (Bölüm 2)",
     body: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1445227162968-301c22629dd0?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Akdeniz İklimi (Bölüm 3)",
     body: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "https://images.unsplash.com/photo-1425904886638-372551a0d8e8?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Karadeniz İklimi (Bölüm 3)",
     body: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1468276311594-df7cb65d8df6?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Karasal İklim (Bölüm 3)",
     body: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1445227162968-301c22629dd0?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Sert Karasal İklim (Bölüm 3)",
     body: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1425904886638-372551a0d8e8?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Maki Türleri (Bölüm 3)",
     body: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1468276311594-df7cb65d8df6?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Akdeniz İklimi (Bölüm 4)",
     body: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "https://images.unsplash.com/photo-1445227162968-301c22629dd0?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Karadeniz İklimi (Bölüm 4)",
     body: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1425904886638-372551a0d8e8?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Karasal İklim (Bölüm 4)",
     body: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1468276311594-df7cb65d8df6?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Sert Karasal İklim (Bölüm 4)",
     body: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1445227162968-301c22629dd0?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Maki Türleri (Bölüm 4)",
     body: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1425904886638-372551a0d8e8?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Akdeniz İklimi (Bölüm 5)",
     body: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "https://images.unsplash.com/photo-1468276311594-df7cb65d8df6?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Karadeniz İklimi (Bölüm 5)",
     body: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1445227162968-301c22629dd0?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Karasal İklim (Bölüm 5)",
     body: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1425904886638-372551a0d8e8?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Sert Karasal İklim (Bölüm 5)",
     body: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1468276311594-df7cb65d8df6?auto=format&fit=crop&q=80&w=1000"
   },
   {
     heading: "Maki Türleri (Bölüm 5)",
     body: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: undefined
+    imageUrl: "https://images.unsplash.com/photo-1445227162968-301c22629dd0?auto=format&fit=crop&q=80&w=1000"
   }
   ],
   mustKnow: ["Konunun özü", "Sık çıkan soru tarzı"],

@@ -8,14 +8,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 1)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -26,14 +26,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 2)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -44,14 +44,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 3)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -62,14 +62,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 4)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -80,14 +80,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 5)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -98,14 +98,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 6)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -116,14 +116,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 7)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -134,14 +134,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 8)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -152,14 +152,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 9)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Boğazlara sahip olması stratejik önemini artırır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -170,14 +170,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 10)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -188,14 +188,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 11)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -206,14 +206,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 12)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -224,14 +224,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 13)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -242,14 +242,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 14)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Boğazlara sahip olması stratejik önemini artırır." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -260,14 +260,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 15)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -278,14 +278,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 16)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -297,10 +297,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 17)",
     choices: [
       { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
@@ -316,8 +316,8 @@ export const questions_turkiyenincografikonumu: Question[] = [
     choices: [
       { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -332,14 +332,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 19)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -351,10 +351,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 20)",
     choices: [
       { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
@@ -368,14 +368,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 21)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -386,14 +386,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 22)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -404,14 +404,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 23)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -422,14 +422,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 24)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -440,14 +440,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 25)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -458,14 +458,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 26)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -476,14 +476,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 27)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -494,14 +494,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 28)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -512,14 +512,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 29)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -530,14 +530,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 30)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -549,9 +549,9 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 31)",
     choices: [
       { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -566,14 +566,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 32)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -584,14 +584,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 33)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -603,10 +603,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 34)",
     choices: [
       { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
@@ -620,14 +620,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 35)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -638,14 +638,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 36)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -657,8 +657,8 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 37)",
     choices: [
       { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
@@ -674,14 +674,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 38)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -692,14 +692,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 39)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -710,14 +710,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 40)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -729,10 +729,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 41)",
     choices: [
       { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
@@ -746,14 +746,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 42)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -764,14 +764,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 43)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -782,14 +782,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 44)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -800,14 +800,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 45)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -818,14 +818,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 46)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -837,10 +837,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 47)",
     choices: [
       { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
@@ -854,14 +854,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 48)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -872,14 +872,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 49)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Boğazlara sahip olması stratejik önemini artırır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -890,14 +890,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 50)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -908,14 +908,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 51)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -928,8 +928,8 @@ export const questions_turkiyenincografikonumu: Question[] = [
     choices: [
       { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -944,14 +944,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 53)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -962,14 +962,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 54)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -980,14 +980,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 55)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -998,14 +998,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 56)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1016,14 +1016,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 57)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1034,14 +1034,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 58)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1052,14 +1052,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 59)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1070,14 +1070,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 60)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1088,14 +1088,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 61)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1106,14 +1106,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 62)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1124,14 +1124,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 63)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1144,9 +1144,9 @@ export const questions_turkiyenincografikonumu: Question[] = [
     choices: [
       { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
@@ -1162,8 +1162,8 @@ export const questions_turkiyenincografikonumu: Question[] = [
     choices: [
       { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -1178,14 +1178,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 66)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1197,10 +1197,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 67)",
     choices: [
       { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
@@ -1214,14 +1214,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 68)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1233,9 +1233,9 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 69)",
     choices: [
       { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -1250,14 +1250,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 70)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1268,14 +1268,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 71)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1286,14 +1286,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 72)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1304,14 +1304,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 73)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1323,10 +1323,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 74)",
     choices: [
       { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
@@ -1340,14 +1340,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 75)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1358,14 +1358,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 76)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1377,10 +1377,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 77)",
     choices: [
       { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
@@ -1396,9 +1396,9 @@ export const questions_turkiyenincografikonumu: Question[] = [
     choices: [
       { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
@@ -1412,14 +1412,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 79)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1430,14 +1430,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 80)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1448,14 +1448,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 81)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1466,14 +1466,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 82)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1502,14 +1502,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 84)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1520,14 +1520,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 85)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1538,14 +1538,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 86)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1556,14 +1556,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 87)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1574,14 +1574,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 88)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1592,14 +1592,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 89)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1611,10 +1611,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 90)",
     choices: [
       { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
@@ -1628,14 +1628,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 91)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1646,14 +1646,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 92)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1664,14 +1664,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 93)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1682,14 +1682,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 94)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1700,14 +1700,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 95)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1718,14 +1718,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 96)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1736,14 +1736,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 97)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1754,14 +1754,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 98)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1772,14 +1772,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 99)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Boğazlara sahip olması stratejik önemini artırır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1790,14 +1790,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 100)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1808,14 +1808,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 101)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1826,14 +1826,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 102)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1844,14 +1844,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 103)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1862,14 +1862,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 104)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Boğazlara sahip olması stratejik önemini artırır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1880,14 +1880,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 105)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1898,14 +1898,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 106)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1918,9 +1918,9 @@ export const questions_turkiyenincografikonumu: Question[] = [
     choices: [
       { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
@@ -1934,14 +1934,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 108)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1952,14 +1952,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 109)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1970,14 +1970,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 110)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1988,14 +1988,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 111)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2006,14 +2006,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 112)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2024,14 +2024,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 113)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2042,14 +2042,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 114)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Boğazlara sahip olması stratejik önemini artırır." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2060,14 +2060,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 115)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2078,14 +2078,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 116)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2096,14 +2096,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 117)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2114,14 +2114,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 118)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2132,14 +2132,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 119)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Boğazlara sahip olması stratejik önemini artırır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2150,14 +2150,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 120)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2168,14 +2168,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 121)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2186,14 +2186,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 122)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2204,14 +2204,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 123)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2222,14 +2222,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 124)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2242,9 +2242,9 @@ export const questions_turkiyenincografikonumu: Question[] = [
     choices: [
       { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
@@ -2258,14 +2258,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 126)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2276,14 +2276,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 127)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2295,10 +2295,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 128)",
     choices: [
       { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
@@ -2312,14 +2312,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 129)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2330,14 +2330,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 130)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2348,14 +2348,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 131)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2366,14 +2366,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 132)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2384,14 +2384,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 133)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2402,14 +2402,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 134)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2420,14 +2420,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 135)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2438,14 +2438,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 136)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2456,14 +2456,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 137)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2474,14 +2474,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 138)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2495,8 +2495,8 @@ export const questions_turkiyenincografikonumu: Question[] = [
       { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
@@ -2510,14 +2510,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 140)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2528,14 +2528,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 141)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2546,14 +2546,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 142)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2567,8 +2567,8 @@ export const questions_turkiyenincografikonumu: Question[] = [
       { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
@@ -2582,14 +2582,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 144)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2600,14 +2600,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 145)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2618,14 +2618,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 146)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2636,14 +2636,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 147)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2654,14 +2654,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 148)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2672,14 +2672,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 149)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Boğazlara sahip olması stratejik önemini artırır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2690,14 +2690,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 150)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2709,10 +2709,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 151)",
     choices: [
       { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
@@ -2726,14 +2726,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 152)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2744,14 +2744,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 153)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2762,14 +2762,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 154)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2780,14 +2780,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 155)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2798,14 +2798,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 156)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2816,14 +2816,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 157)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2834,14 +2834,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 158)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2852,14 +2852,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 159)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2870,14 +2870,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 160)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2888,14 +2888,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 161)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2906,14 +2906,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 162)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2924,14 +2924,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 163)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2942,14 +2942,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 164)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Boğazlara sahip olması stratejik önemini artırır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2960,14 +2960,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 165)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2978,14 +2978,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 166)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2996,14 +2996,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 167)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3014,14 +3014,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 168)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3032,14 +3032,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 169)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Boğazlara sahip olması stratejik önemini artırır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3050,14 +3050,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 170)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3068,14 +3068,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 171)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3086,14 +3086,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 172)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3104,14 +3104,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 173)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3122,14 +3122,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 174)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Boğazlara sahip olması stratejik önemini artırır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3140,14 +3140,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 175)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3158,14 +3158,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 176)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3176,14 +3176,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 177)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3194,14 +3194,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 178)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3213,10 +3213,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 179)",
     choices: [
       { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
@@ -3230,14 +3230,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 180)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3248,14 +3248,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 181)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3266,14 +3266,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 182)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3285,9 +3285,9 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 183)",
     choices: [
       { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -3302,14 +3302,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 184)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3320,14 +3320,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 185)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3338,14 +3338,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 186)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3357,10 +3357,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 187)",
     choices: [
       { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
@@ -3374,14 +3374,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 188)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3393,10 +3393,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 189)",
     choices: [
       { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
@@ -3411,10 +3411,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 190)",
     choices: [
       { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
@@ -3428,14 +3428,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 191)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3447,10 +3447,10 @@ export const questions_turkiyenincografikonumu: Question[] = [
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 192)",
     choices: [
       { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
@@ -3464,14 +3464,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 193)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3482,14 +3482,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeopolitik ile ilgili doğru bir bilgidir? (Soru 194)",
     choices: [
-      { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Boğazlara sahip olması stratejik önemini artırır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3500,14 +3500,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 195)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3518,14 +3518,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Matematik Konum ile ilgili doğru bir bilgidir? (Soru 196)",
     choices: [
-      { id: "A", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3536,14 +3536,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Özel Konum ile ilgili doğru bir bilgidir? (Soru 197)",
     choices: [
-      { id: "A", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3554,14 +3554,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sınır Kapıları ile ilgili doğru bir bilgidir? (Soru 198)",
     choices: [
-      { id: "A", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3574,9 +3574,9 @@ export const questions_turkiyenincografikonumu: Question[] = [
     choices: [
       { id: "A", text: "Boğazlara sahip olması stratejik önemini artırır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Boğazlara sahip olması stratejik önemini artırır.",
@@ -3590,14 +3590,14 @@ export const questions_turkiyenincografikonumu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Saat Dilimi ile ilgili doğru bir bilgidir? (Soru 200)",
     choices: [
-      { id: "A", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   }

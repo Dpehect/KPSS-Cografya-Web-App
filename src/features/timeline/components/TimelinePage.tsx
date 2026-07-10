@@ -53,12 +53,12 @@ export function TimelinePage() {
 
         <div className="relative z-10 grid gap-8 lg:grid-cols-[1fr_360px] lg:items-end">
           <div>
-            <p className="kicker text-[var(--bureau-inverse)]">Anayasal Süreç Atlası</p>
+            <p className="kicker text-[var(--bureau-inverse)]">Coğrafi Süreç Atlası</p>
             <h1 className="mt-4 max-w-4xl text-4xl font-black tracking-[-.055em] sm:text-5xl lg:text-6xl">
-              Olayları sıraya değil, neden-sonuç bağına yerleştir.
+              Oluşumları sıraya değil, neden-sonuç bağına yerleştir.
             </h1>
             <p className="mt-5 max-w-3xl text-base leading-8 text-[var(--bureau-inverse-copy)]">
-              Kartlara tıklayarak seçili olayı aç. Her kayıt ilgili konuya bağlanır; böylece anayasal süreç, konu anlatımı ve test pratiği tek akışta çalışır.
+              Kartlara tıklayarak seçili jeolojik dönemi aç. Her kayıt ilgili konuya bağlanır; böylece coğrafi oluşumlar, konu anlatımı ve test pratiği tek akışta çalışır.
             </p>
           </div>
 
@@ -90,7 +90,7 @@ export function TimelinePage() {
         <div className="rounded-[1.8rem] border border-[var(--bureau-line)] bg-[rgba(255,250,242,.86)] p-4 shadow-[var(--shadow-paper)]">
           <div className="mb-4 flex items-center justify-between gap-3 px-1">
             <div>
-              <p className="kicker">Anayasal Süreçk akış</p>
+              <p className="kicker">Coğrafi Süreç Akış</p>
               <h2 className="mt-1 text-2xl font-black tracking-[-.04em] text-[var(--bureau-ink)]">Tıklanabilir olay kartları</h2>
             </div>
             <CalendarClock className="text-[var(--bureau-teal)]" />
@@ -131,7 +131,7 @@ export function TimelinePage() {
                         {event.description}
                       </p>
                       <div className="mt-auto pt-5">
-                        <span className={active ? "text-xs font-black text-[var(--bureau-inverse)]" : "text-xs font-black text-[var(--bureau-teal)]"}>{event.topic?.title ?? "Genel Hukuk"}</span>
+                        <span className={active ? "text-xs font-black text-[var(--bureau-inverse)]" : "text-xs font-black text-[var(--bureau-teal)]"}>{event.topic?.title ?? "Genel Coğrafya"}</span>
                       </div>
                     </div>
                   </motion.button>
@@ -166,8 +166,8 @@ export function TimelinePage() {
 
               <div className="mt-6 rounded-[1.25rem] border border-[var(--bureau-line)] bg-white/75 p-4">
                 <p className="text-[11px] font-black uppercase tracking-[.16em] text-[var(--bureau-teal)]">İlişkili konu</p>
-                <p className="mt-2 text-base font-black text-[var(--bureau-ink)]">{selected.topic?.title ?? "Genel Hukuk"}</p>
-                <p className="mt-2 text-sm leading-7 text-[var(--bureau-copy)]">{selected.topic?.shortDescription ?? "Bu kayıt genel anayasal süreç bilgisini destekler."}</p>
+                <p className="mt-2 text-base font-black text-[var(--bureau-ink)]">{selected.topic?.title ?? "Genel Coğrafya"}</p>
+                <p className="mt-2 text-sm leading-7 text-[var(--bureau-copy)]">{selected.topic?.shortDescription ?? "Bu kayıt genel coğrafi oluşum sürecini destekler."}</p>
               </div>
 
               <div className="mt-6 grid gap-2">

@@ -8,14 +8,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 1)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -26,14 +26,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 2)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -44,14 +44,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 3)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -63,9 +63,9 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 4)",
     choices: [
       { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -80,14 +80,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 5)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -98,14 +98,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 6)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -116,14 +116,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 7)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -135,10 +135,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 8)",
     choices: [
       { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
@@ -152,14 +152,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 9)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -170,14 +170,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 10)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -191,8 +191,8 @@ export const questions_bolgelercografyasi: Question[] = [
       { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
@@ -206,14 +206,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 12)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -224,14 +224,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 13)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -242,14 +242,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 14)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -260,14 +260,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 15)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -278,14 +278,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 16)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -296,14 +296,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 17)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -314,14 +314,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 18)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -332,14 +332,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 19)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -350,14 +350,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 20)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -368,14 +368,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 21)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -386,14 +386,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 22)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -404,14 +404,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 23)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -422,14 +422,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 24)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -442,9 +442,9 @@ export const questions_bolgelercografyasi: Question[] = [
     choices: [
       { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
@@ -458,14 +458,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 26)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -476,14 +476,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 27)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -494,14 +494,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 28)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -512,14 +512,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 29)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -532,9 +532,9 @@ export const questions_bolgelercografyasi: Question[] = [
     choices: [
       { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
@@ -550,8 +550,8 @@ export const questions_bolgelercografyasi: Question[] = [
     choices: [
       { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -566,14 +566,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 32)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -586,9 +586,9 @@ export const questions_bolgelercografyasi: Question[] = [
     choices: [
       { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
@@ -602,14 +602,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 34)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -620,14 +620,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 35)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -638,14 +638,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 36)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -656,14 +656,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 37)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -674,14 +674,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 38)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -692,14 +692,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 39)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -710,14 +710,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 40)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -728,14 +728,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 41)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -746,14 +746,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 42)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -764,14 +764,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 43)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -782,14 +782,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 44)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -800,14 +800,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 45)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -818,14 +818,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 46)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -836,14 +836,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 47)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -854,14 +854,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 48)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -872,14 +872,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 49)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -891,10 +891,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 50)",
     choices: [
       { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
@@ -908,14 +908,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 51)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -926,14 +926,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 52)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -944,14 +944,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 53)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -962,14 +962,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 54)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -980,14 +980,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 55)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -998,14 +998,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 56)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1016,14 +1016,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 57)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1034,14 +1034,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 58)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1052,14 +1052,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 59)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1070,14 +1070,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 60)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1088,14 +1088,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 61)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1106,14 +1106,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 62)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1124,14 +1124,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 63)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1142,14 +1142,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 64)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1160,14 +1160,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 65)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1178,14 +1178,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 66)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1196,14 +1196,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 67)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1215,10 +1215,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 68)",
     choices: [
       { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
@@ -1232,14 +1232,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 69)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1250,14 +1250,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 70)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1268,14 +1268,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 71)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1286,14 +1286,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 72)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1304,14 +1304,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 73)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1340,14 +1340,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 75)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1358,14 +1358,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 76)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1376,14 +1376,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 77)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1394,14 +1394,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 78)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1412,14 +1412,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 79)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1430,14 +1430,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 80)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1448,14 +1448,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 81)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1466,14 +1466,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 82)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1484,14 +1484,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 83)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1502,14 +1502,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 84)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1520,14 +1520,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 85)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1540,9 +1540,9 @@ export const questions_bolgelercografyasi: Question[] = [
     choices: [
       { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
@@ -1556,14 +1556,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 87)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1577,8 +1577,8 @@ export const questions_bolgelercografyasi: Question[] = [
       { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
@@ -1592,14 +1592,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 89)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1610,14 +1610,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 90)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1628,14 +1628,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 91)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1646,14 +1646,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 92)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1664,14 +1664,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 93)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1682,14 +1682,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 94)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1700,14 +1700,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 95)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1718,14 +1718,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 96)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1736,14 +1736,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 97)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1754,14 +1754,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 98)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1773,10 +1773,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 99)",
     choices: [
       { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
@@ -1790,14 +1790,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 100)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1809,10 +1809,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 101)",
     choices: [
       { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
@@ -1826,14 +1826,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 102)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1844,14 +1844,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 103)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1862,14 +1862,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 104)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1880,14 +1880,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 105)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1898,14 +1898,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 106)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1918,9 +1918,9 @@ export const questions_bolgelercografyasi: Question[] = [
     choices: [
       { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
@@ -1934,14 +1934,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 108)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1954,8 +1954,8 @@ export const questions_bolgelercografyasi: Question[] = [
     choices: [
       { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -1970,14 +1970,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 110)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1988,14 +1988,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 111)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2006,14 +2006,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 112)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2025,9 +2025,9 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 113)",
     choices: [
       { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -2042,14 +2042,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 114)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2060,14 +2060,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 115)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2078,14 +2078,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 116)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2096,14 +2096,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 117)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2114,14 +2114,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 118)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2132,14 +2132,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 119)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2150,14 +2150,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 120)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2168,14 +2168,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 121)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2186,14 +2186,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 122)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2204,14 +2204,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 123)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2222,14 +2222,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 124)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2240,14 +2240,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 125)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2258,14 +2258,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 126)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2276,14 +2276,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 127)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2294,14 +2294,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 128)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2312,14 +2312,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 129)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2330,14 +2330,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 130)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2351,8 +2351,8 @@ export const questions_bolgelercografyasi: Question[] = [
       { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
@@ -2366,14 +2366,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 132)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2384,14 +2384,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 133)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2402,14 +2402,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 134)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2420,14 +2420,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 135)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2438,14 +2438,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 136)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2456,14 +2456,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 137)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2474,14 +2474,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 138)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2492,14 +2492,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 139)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2510,14 +2510,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 140)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2528,14 +2528,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 141)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2547,10 +2547,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 142)",
     choices: [
       { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
@@ -2564,14 +2564,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 143)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2582,14 +2582,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 144)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2600,14 +2600,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 145)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2618,14 +2618,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 146)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2636,14 +2636,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 147)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2654,14 +2654,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 148)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2672,14 +2672,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 149)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2690,14 +2690,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 150)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2708,14 +2708,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 151)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2726,14 +2726,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 152)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2744,14 +2744,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 153)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2762,14 +2762,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 154)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2781,10 +2781,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 155)",
     choices: [
       { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
@@ -2798,14 +2798,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 156)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2816,14 +2816,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 157)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2834,14 +2834,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 158)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2853,10 +2853,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 159)",
     choices: [
       { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
@@ -2870,14 +2870,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 160)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2888,14 +2888,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 161)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2906,14 +2906,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 162)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2924,14 +2924,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 163)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2943,10 +2943,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 164)",
     choices: [
       { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
@@ -2978,14 +2978,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 166)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2996,14 +2996,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 167)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3016,8 +3016,8 @@ export const questions_bolgelercografyasi: Question[] = [
     choices: [
       { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -3033,10 +3033,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 169)",
     choices: [
       { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
@@ -3050,14 +3050,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 170)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3070,9 +3070,9 @@ export const questions_bolgelercografyasi: Question[] = [
     choices: [
       { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
@@ -3086,14 +3086,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 172)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3104,14 +3104,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 173)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3123,10 +3123,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 174)",
     choices: [
       { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
@@ -3140,14 +3140,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 175)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3158,14 +3158,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 176)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3176,14 +3176,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 177)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3194,14 +3194,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 178)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3215,8 +3215,8 @@ export const questions_bolgelercografyasi: Question[] = [
       { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
@@ -3230,14 +3230,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 180)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3248,14 +3248,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 181)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3266,14 +3266,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 182)",
     choices: [
-      { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3284,14 +3284,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 183)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3302,14 +3302,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 184)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3320,14 +3320,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 185)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3338,14 +3338,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 186)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3356,14 +3356,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 187)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Her mevsim yağışlı, orman oranı en fazla, kırsalda dağınık yerleşme yaygın.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3374,14 +3374,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 188)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3393,10 +3393,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 189)",
     choices: [
       { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
@@ -3410,14 +3410,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 190)",
     choices: [
-      { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3428,14 +3428,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 191)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3446,14 +3446,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 192)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3464,14 +3464,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 193)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3500,14 +3500,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Doğu Anadolu ile ilgili doğru bir bilgidir? (Soru 195)",
     choices: [
-      { id: "A", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yükseltisi en fazla, sıcaklık ortalaması en düşük, büyükbaş hayvancılık ön planda.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3519,10 +3519,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Güneydoğu Anadolu ile ilgili doğru bir bilgidir? (Soru 196)",
     choices: [
       { id: "A", text: "Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yaz kuraklığı ve şiddetli buharlaşma en fazla, GAP ile sulamalı tarım çok gelişti.",
@@ -3537,10 +3537,10 @@ export const questions_bolgelercografyasi: Question[] = [
     stem: "Aşağıdakilerden hangisi Marmara Bölgesi ile ilgili doğru bir bilgidir? (Soru 197)",
     choices: [
       { id: "A", text: "Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yükseltisi en az, sanayi ve nüfusu en fazla, enerji tüketimi en yüksek.",
@@ -3554,14 +3554,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Ege Bölgesi ile ilgili doğru bir bilgidir? (Soru 198)",
     choices: [
-      { id: "A", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Dağlar denize dik uzanır, girinti çıkıntı çoktur, limanların hinterlandı geniştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3572,14 +3572,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz Bölgesi ile ilgili doğru bir bilgidir? (Soru 199)",
     choices: [
-      { id: "A", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Toroslar denize paralel uzanır, karstik şekiller yaygındır, seracılık fazladır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3590,14 +3590,14 @@ export const questions_bolgelercografyasi: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi İç Anadolu ile ilgili doğru bir bilgidir? (Soru 200)",
     choices: [
-      { id: "A", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yüzölçümü geniş, yağış miktarı en az, küçükbaş hayvancılık ve tahıl tarımı ilk sırada.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   }

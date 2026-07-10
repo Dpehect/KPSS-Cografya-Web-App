@@ -57,9 +57,11 @@ export const questions: Question[] = [
   ...questions_bolgelercografyasi
 ];
 
+import { timelineEvents as timelineEventsData } from "./timeline";
+
 export const exams: Exam[] = [];
 export const glossary: GlossaryItem[] = [];
-export const timelineEvents: TimelineEvent[] = [];
+export const timelineEvents: TimelineEvent[] = timelineEventsData;
 export const recommendations: StudyRecommendation[] = [];
 
 export function getTopicBySlug(slug: string): Topic | undefined {

@@ -8,14 +8,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 1)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -26,14 +26,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 2)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -44,14 +44,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 3)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -63,8 +63,8 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 4)",
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
@@ -81,10 +81,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 5)",
     choices: [
       { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
@@ -98,14 +98,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 6)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -116,14 +116,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 7)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -134,14 +134,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 8)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -152,14 +152,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 9)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -170,14 +170,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 10)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -188,14 +188,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 11)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -206,14 +206,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 12)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -224,14 +224,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 13)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -242,14 +242,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 14)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -278,14 +278,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 16)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -296,14 +296,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 17)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -314,14 +314,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 18)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -332,14 +332,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 19)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -350,14 +350,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 20)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -368,14 +368,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 21)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -387,10 +387,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 22)",
     choices: [
       { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
@@ -404,14 +404,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 23)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -423,10 +423,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 24)",
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
@@ -440,14 +440,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 25)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -459,10 +459,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 26)",
     choices: [
       { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
@@ -477,9 +477,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 27)",
     choices: [
       { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -494,14 +494,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 28)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -513,10 +513,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 29)",
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
@@ -530,14 +530,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 30)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -550,9 +550,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     choices: [
       { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
@@ -566,14 +566,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 32)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -584,14 +584,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 33)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -602,14 +602,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 34)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -621,9 +621,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 35)",
     choices: [
       { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -638,14 +638,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 36)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -656,14 +656,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 37)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -674,14 +674,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 38)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -692,14 +692,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 39)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -710,14 +710,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 40)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -728,14 +728,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 41)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -746,14 +746,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 42)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -764,14 +764,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 43)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -783,8 +783,8 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 44)",
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
@@ -800,14 +800,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 45)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -819,10 +819,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 46)",
     choices: [
       { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
@@ -836,14 +836,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 47)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -854,14 +854,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 48)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -873,9 +873,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 49)",
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -890,14 +890,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 50)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -908,14 +908,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 51)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -927,9 +927,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 52)",
     choices: [
       { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -944,14 +944,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 53)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -963,10 +963,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 54)",
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
@@ -980,14 +980,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 55)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -998,14 +998,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 56)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1016,14 +1016,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 57)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1034,14 +1034,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 58)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1052,14 +1052,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 59)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1070,14 +1070,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 60)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1088,14 +1088,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 61)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1106,14 +1106,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 62)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1124,14 +1124,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 63)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1142,14 +1142,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 64)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1162,9 +1162,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     choices: [
       { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
@@ -1178,14 +1178,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 66)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1197,9 +1197,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 67)",
     choices: [
       { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -1214,14 +1214,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 68)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1232,14 +1232,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 69)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1250,14 +1250,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 70)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1268,14 +1268,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 71)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1286,14 +1286,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 72)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1307,8 +1307,8 @@ export const questions_iklimvebitkiortusu: Question[] = [
       { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
@@ -1322,14 +1322,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 74)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1340,14 +1340,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 75)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1358,14 +1358,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 76)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1376,14 +1376,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 77)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1395,10 +1395,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 78)",
     choices: [
       { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
@@ -1412,14 +1412,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 79)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1430,14 +1430,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 80)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1450,9 +1450,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     choices: [
       { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
@@ -1466,14 +1466,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 82)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1484,14 +1484,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 83)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1503,9 +1503,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 84)",
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -1520,14 +1520,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 85)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1538,14 +1538,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 86)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1556,14 +1556,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 87)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1574,14 +1574,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 88)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1592,14 +1592,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 89)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1610,14 +1610,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 90)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1628,14 +1628,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 91)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1648,9 +1648,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     choices: [
       { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
@@ -1664,14 +1664,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 93)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1682,14 +1682,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 94)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1700,14 +1700,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 95)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1718,14 +1718,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 96)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1737,9 +1737,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 97)",
     choices: [
       { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -1755,9 +1755,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 98)",
     choices: [
       { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -1772,14 +1772,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 99)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1790,14 +1790,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 100)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1809,10 +1809,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 101)",
     choices: [
       { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
@@ -1826,14 +1826,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 102)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1844,14 +1844,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 103)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1862,14 +1862,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 104)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1880,14 +1880,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 105)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1898,14 +1898,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 106)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1916,14 +1916,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 107)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1934,14 +1934,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 108)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1952,14 +1952,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 109)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1970,14 +1970,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 110)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1988,14 +1988,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 111)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2006,14 +2006,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 112)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2024,14 +2024,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 113)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2042,14 +2042,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 114)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2060,14 +2060,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 115)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2078,14 +2078,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 116)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2096,14 +2096,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 117)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2114,14 +2114,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 118)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2133,10 +2133,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 119)",
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
@@ -2150,14 +2150,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 120)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2168,14 +2168,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 121)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2187,8 +2187,8 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 122)",
     choices: [
       { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
@@ -2204,14 +2204,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 123)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2224,9 +2224,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
@@ -2240,14 +2240,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 125)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2258,14 +2258,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 126)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2276,14 +2276,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 127)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2295,10 +2295,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 128)",
     choices: [
       { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
@@ -2313,10 +2313,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 129)",
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
@@ -2330,14 +2330,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 130)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2348,14 +2348,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 131)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2366,14 +2366,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 132)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2384,14 +2384,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 133)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2402,14 +2402,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 134)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2420,14 +2420,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 135)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2438,14 +2438,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 136)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2456,14 +2456,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 137)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2474,14 +2474,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 138)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2492,14 +2492,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 139)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2510,14 +2510,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 140)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2528,14 +2528,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 141)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2546,14 +2546,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 142)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2566,9 +2566,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     choices: [
       { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
@@ -2582,14 +2582,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 144)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2600,14 +2600,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 145)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2618,14 +2618,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 146)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2636,14 +2636,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 147)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2654,14 +2654,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 148)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2672,14 +2672,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 149)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2690,14 +2690,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 150)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2708,14 +2708,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 151)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2728,9 +2728,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     choices: [
       { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
@@ -2745,10 +2745,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 153)",
     choices: [
       { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
@@ -2763,9 +2763,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 154)",
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -2780,14 +2780,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 155)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2799,10 +2799,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 156)",
     choices: [
       { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
@@ -2816,14 +2816,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 157)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2834,14 +2834,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 158)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2852,14 +2852,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 159)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2870,14 +2870,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 160)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2888,14 +2888,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 161)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2907,10 +2907,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 162)",
     choices: [
       { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
@@ -2924,14 +2924,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 163)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2942,14 +2942,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 164)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2960,14 +2960,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 165)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2978,14 +2978,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 166)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2996,14 +2996,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 167)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3014,14 +3014,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 168)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3032,14 +3032,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 169)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3050,14 +3050,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 170)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3068,14 +3068,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 171)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3087,9 +3087,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 172)",
     choices: [
       { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -3104,14 +3104,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 173)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3122,14 +3122,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 174)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3140,14 +3140,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 175)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3158,14 +3158,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 176)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3176,14 +3176,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 177)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3194,14 +3194,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 178)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3214,9 +3214,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
@@ -3230,14 +3230,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 180)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3248,14 +3248,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 181)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3266,14 +3266,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 182)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3284,14 +3284,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 183)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3304,9 +3304,9 @@ export const questions_iklimvebitkiortusu: Question[] = [
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
@@ -3320,14 +3320,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 185)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3338,14 +3338,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 186)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3375,10 +3375,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 188)",
     choices: [
       { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
@@ -3393,10 +3393,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 189)",
     choices: [
       { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
@@ -3410,14 +3410,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 190)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3428,14 +3428,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 191)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3447,10 +3447,10 @@ export const questions_iklimvebitkiortusu: Question[] = [
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 192)",
     choices: [
       { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
@@ -3464,14 +3464,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 193)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3482,14 +3482,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 194)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3500,14 +3500,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 195)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3518,14 +3518,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Akdeniz İklimi ile ilgili doğru bir bilgidir? (Soru 196)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar ılık ve yağışlı. Bitki örtüsü maki.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3536,14 +3536,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karadeniz İklimi ile ilgili doğru bir bilgidir? (Soru 197)",
     choices: [
-      { id: "A", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Her mevsim yağışlı, yazlar serin kışlar ılık. Bitki örtüsü orman.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3554,14 +3554,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karasal İklim ile ilgili doğru bir bilgidir? (Soru 198)",
     choices: [
-      { id: "A", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlı. Bitki örtüsü bozkır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3572,14 +3572,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Sert Karasal İklim ile ilgili doğru bir bilgidir? (Soru 199)",
     choices: [
-      { id: "A", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Doğu Anadolu'da görülür. Yazlar serin, kışlar çok soğuk. Bitki örtüsü çayır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3590,14 +3590,14 @@ export const questions_iklimvebitkiortusu: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Maki Türleri ile ilgili doğru bir bilgidir? (Soru 200)",
     choices: [
-      { id: "A", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Zakkum, defne, kocayemiş, zeytin, keçiboynuzu karakteristik makilerdir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   }

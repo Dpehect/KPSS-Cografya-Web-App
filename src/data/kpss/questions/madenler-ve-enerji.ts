@@ -8,14 +8,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 1)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -26,14 +26,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 2)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -44,14 +44,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 3)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -64,9 +64,9 @@ export const questions_madenlerveenerji: Question[] = [
     choices: [
       { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
@@ -80,14 +80,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 5)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -98,14 +98,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 6)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -116,14 +116,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 7)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -134,14 +134,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 8)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -152,14 +152,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 9)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -170,14 +170,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 10)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -188,14 +188,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 11)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -206,14 +206,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 12)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -224,14 +224,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 13)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -242,14 +242,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 14)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -260,14 +260,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 15)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -278,14 +278,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 16)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -296,14 +296,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 17)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -315,10 +315,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 18)",
     choices: [
       { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
@@ -332,14 +332,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 19)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -352,8 +352,8 @@ export const questions_madenlerveenerji: Question[] = [
     choices: [
       { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -369,10 +369,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 21)",
     choices: [
       { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
@@ -386,14 +386,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 22)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -404,14 +404,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 23)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -423,10 +423,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 24)",
     choices: [
       { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
@@ -440,14 +440,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 25)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -458,14 +458,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 26)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -477,10 +477,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 27)",
     choices: [
       { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
@@ -495,10 +495,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 28)",
     choices: [
       { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
@@ -512,14 +512,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 29)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -530,14 +530,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 30)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -548,14 +548,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 31)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -567,10 +567,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 32)",
     choices: [
       { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
@@ -584,14 +584,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 33)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -602,14 +602,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 34)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -620,14 +620,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 35)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -638,14 +638,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 36)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -656,14 +656,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 37)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -674,14 +674,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 38)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -692,14 +692,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 39)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -710,14 +710,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 40)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -728,14 +728,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 41)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -747,10 +747,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 42)",
     choices: [
       { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
@@ -764,14 +764,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 43)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -782,14 +782,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 44)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -800,14 +800,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 45)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -818,14 +818,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 46)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -837,9 +837,9 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 47)",
     choices: [
       { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -854,14 +854,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 48)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -872,14 +872,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 49)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -890,14 +890,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 50)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -908,14 +908,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 51)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -926,14 +926,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 52)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -946,9 +946,9 @@ export const questions_madenlerveenerji: Question[] = [
     choices: [
       { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
@@ -962,14 +962,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 54)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -981,8 +981,8 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 55)",
     choices: [
       { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
@@ -998,14 +998,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 56)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1016,14 +1016,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 57)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1034,14 +1034,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 58)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1052,14 +1052,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 59)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1071,10 +1071,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 60)",
     choices: [
       { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
@@ -1088,14 +1088,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 61)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1106,14 +1106,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 62)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1124,14 +1124,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 63)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1144,9 +1144,9 @@ export const questions_madenlerveenerji: Question[] = [
     choices: [
       { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
@@ -1161,9 +1161,9 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 65)",
     choices: [
       { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -1178,14 +1178,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 66)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1196,14 +1196,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 67)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1214,14 +1214,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 68)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1232,14 +1232,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 69)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1250,14 +1250,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 70)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1268,14 +1268,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 71)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1286,14 +1286,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 72)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1304,14 +1304,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 73)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1323,8 +1323,8 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 74)",
     choices: [
       { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
@@ -1340,14 +1340,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 75)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1358,14 +1358,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 76)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1376,14 +1376,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 77)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1394,14 +1394,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 78)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1415,8 +1415,8 @@ export const questions_madenlerveenerji: Question[] = [
       { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
@@ -1430,14 +1430,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 80)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1448,14 +1448,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 81)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1468,9 +1468,9 @@ export const questions_madenlerveenerji: Question[] = [
     choices: [
       { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
@@ -1484,14 +1484,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 83)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1502,14 +1502,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 84)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1520,14 +1520,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 85)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1538,14 +1538,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 86)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1556,14 +1556,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 87)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1574,14 +1574,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 88)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1592,14 +1592,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 89)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1611,9 +1611,9 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 90)",
     choices: [
       { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -1628,14 +1628,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 91)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1646,14 +1646,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 92)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1664,14 +1664,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 93)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1683,10 +1683,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 94)",
     choices: [
       { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
@@ -1700,14 +1700,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 95)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1718,14 +1718,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 96)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1737,9 +1737,9 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 97)",
     choices: [
       { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -1754,14 +1754,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 98)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1772,14 +1772,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 99)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1791,10 +1791,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 100)",
     choices: [
       { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
@@ -1808,14 +1808,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 101)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1827,10 +1827,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 102)",
     choices: [
       { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
@@ -1844,14 +1844,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 103)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1862,14 +1862,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 104)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1880,14 +1880,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 105)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1898,14 +1898,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 106)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1916,14 +1916,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 107)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1934,14 +1934,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 108)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1952,14 +1952,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 109)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1970,14 +1970,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 110)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1989,9 +1989,9 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 111)",
     choices: [
       { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -2006,14 +2006,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 112)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2026,9 +2026,9 @@ export const questions_madenlerveenerji: Question[] = [
     choices: [
       { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
@@ -2043,9 +2043,9 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 114)",
     choices: [
       { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -2060,14 +2060,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 115)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2080,9 +2080,9 @@ export const questions_madenlerveenerji: Question[] = [
     choices: [
       { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
@@ -2097,9 +2097,9 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 117)",
     choices: [
       { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -2114,14 +2114,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 118)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2134,9 +2134,9 @@ export const questions_madenlerveenerji: Question[] = [
     choices: [
       { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
@@ -2150,14 +2150,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 120)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2168,14 +2168,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 121)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2188,9 +2188,9 @@ export const questions_madenlerveenerji: Question[] = [
     choices: [
       { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
@@ -2205,10 +2205,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 123)",
     choices: [
       { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
@@ -2222,14 +2222,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 124)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2240,14 +2240,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 125)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2258,14 +2258,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 126)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2276,14 +2276,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 127)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2294,14 +2294,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 128)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2312,14 +2312,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 129)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2330,14 +2330,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 130)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2348,14 +2348,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 131)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2366,14 +2366,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 132)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2384,14 +2384,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 133)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2402,14 +2402,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 134)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2420,14 +2420,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 135)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2439,10 +2439,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 136)",
     choices: [
       { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
@@ -2456,14 +2456,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 137)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2474,14 +2474,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 138)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2492,14 +2492,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 139)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2511,10 +2511,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 140)",
     choices: [
       { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
@@ -2531,8 +2531,8 @@ export const questions_madenlerveenerji: Question[] = [
       { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
@@ -2546,14 +2546,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 142)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2564,14 +2564,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 143)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2582,14 +2582,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 144)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2600,14 +2600,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 145)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2618,14 +2618,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 146)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2636,14 +2636,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 147)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2654,14 +2654,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 148)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2672,14 +2672,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 149)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2690,14 +2690,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 150)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2708,14 +2708,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 151)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2726,14 +2726,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 152)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2744,14 +2744,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 153)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2762,14 +2762,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 154)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2782,8 +2782,8 @@ export const questions_madenlerveenerji: Question[] = [
     choices: [
       { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -2798,14 +2798,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 156)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2816,14 +2816,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 157)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2835,9 +2835,9 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 158)",
     choices: [
       { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -2852,14 +2852,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 159)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2871,10 +2871,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 160)",
     choices: [
       { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
@@ -2888,14 +2888,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 161)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2906,14 +2906,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 162)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2924,14 +2924,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 163)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2943,10 +2943,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 164)",
     choices: [
       { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
@@ -2978,14 +2978,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 166)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2996,14 +2996,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 167)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3015,10 +3015,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 168)",
     choices: [
       { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
@@ -3032,14 +3032,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 169)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3050,14 +3050,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 170)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3068,14 +3068,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 171)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3086,14 +3086,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 172)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3106,9 +3106,9 @@ export const questions_madenlerveenerji: Question[] = [
     choices: [
       { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
@@ -3122,14 +3122,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 174)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3140,14 +3140,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 175)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3158,14 +3158,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 176)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3176,14 +3176,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 177)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3194,14 +3194,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 178)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3212,14 +3212,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 179)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3230,14 +3230,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 180)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3248,14 +3248,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 181)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3266,14 +3266,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 182)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3284,14 +3284,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 183)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3302,14 +3302,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 184)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3320,14 +3320,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 185)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3338,14 +3338,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 186)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3356,14 +3356,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 187)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3374,14 +3374,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 188)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3392,14 +3392,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 189)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3411,10 +3411,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 190)",
     choices: [
       { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
@@ -3428,14 +3428,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 191)",
     choices: [
-      { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3446,14 +3446,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 192)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3465,10 +3465,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 193)",
     choices: [
       { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
@@ -3482,14 +3482,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 194)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3500,14 +3500,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 195)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3519,10 +3519,10 @@ export const questions_madenlerveenerji: Question[] = [
     stem: "Aşağıdakilerden hangisi Bor Mineralleri ile ilgili doğru bir bilgidir? (Soru 196)",
     choices: [
       { id: "A", text: "Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye dünya rezervlerinin %70'ine sahiptir. Balıkesir, Kütahya, Eskişehir.",
@@ -3536,14 +3536,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demir ile ilgili doğru bir bilgidir? (Soru 197)",
     choices: [
-      { id: "A", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Divriği (Sivas) ve Hekimhan (Malatya) en önemli çıkarım alanlarıdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3554,14 +3554,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Linyit ile ilgili doğru bir bilgidir? (Soru 198)",
     choices: [
-      { id: "A", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye'nin hemen her bölgesinde çıkarılır. Afşin-Elbistan en büyük havzadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3572,14 +3572,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Petrol ile ilgili doğru bir bilgidir? (Soru 199)",
     choices: [
-      { id: "A", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar." },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Sadece Güneydoğu Anadolu'da (Batman) çıkarılır. İhtiyacın azını karşılar.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3590,14 +3590,14 @@ export const questions_madenlerveenerji: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Jeotermal ile ilgili doğru bir bilgidir? (Soru 200)",
     choices: [
-      { id: "A", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Ege Bölgesi (Denizli Sarayköy, Aydın Germencik) birinci sıradadır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   }

@@ -8,14 +8,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 1)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -26,14 +26,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 2)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -44,14 +44,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 3)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -62,14 +62,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 4)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -80,14 +80,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 5)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -98,14 +98,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 6)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -117,10 +117,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 7)",
     choices: [
       { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
@@ -134,14 +134,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 8)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -152,14 +152,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 9)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -170,14 +170,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 10)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -188,14 +188,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 11)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -207,10 +207,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 12)",
     choices: [
       { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
@@ -224,14 +224,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 13)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -242,14 +242,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 14)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -260,14 +260,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 15)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -278,14 +278,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 16)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -296,14 +296,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 17)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -314,14 +314,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 18)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -333,8 +333,8 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 19)",
     choices: [
       { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
@@ -350,14 +350,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 20)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -369,9 +369,9 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 21)",
     choices: [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -386,14 +386,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 22)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -404,14 +404,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 23)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -422,14 +422,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 24)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -440,14 +440,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 25)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -458,14 +458,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 26)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -478,9 +478,9 @@ export const questions_ulasimveturizm: Question[] = [
     choices: [
       { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
@@ -494,14 +494,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 28)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -512,14 +512,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 29)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -530,14 +530,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 30)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -549,9 +549,9 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 31)",
     choices: [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -566,14 +566,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 32)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -585,10 +585,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 33)",
     choices: [
       { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
@@ -604,9 +604,9 @@ export const questions_ulasimveturizm: Question[] = [
     choices: [
       { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
@@ -620,14 +620,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 35)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -638,14 +638,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 36)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -656,14 +656,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 37)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -674,14 +674,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 38)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -692,14 +692,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 39)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -710,14 +710,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 40)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -728,14 +728,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 41)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -748,8 +748,8 @@ export const questions_ulasimveturizm: Question[] = [
     choices: [
       { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -764,14 +764,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 43)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -782,14 +782,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 44)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -800,14 +800,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 45)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -818,14 +818,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 46)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -836,14 +836,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 47)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -854,14 +854,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 48)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -872,14 +872,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 49)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -890,14 +890,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 50)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -909,10 +909,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 51)",
     choices: [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
@@ -928,9 +928,9 @@ export const questions_ulasimveturizm: Question[] = [
     choices: [
       { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
@@ -944,14 +944,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 53)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -962,14 +962,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 54)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -980,14 +980,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 55)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -998,14 +998,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 56)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1016,14 +1016,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 57)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1034,14 +1034,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 58)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1052,14 +1052,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 59)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1070,14 +1070,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 60)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1089,10 +1089,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 61)",
     choices: [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
@@ -1106,14 +1106,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 62)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1124,14 +1124,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 63)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1142,14 +1142,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 64)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1161,10 +1161,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 65)",
     choices: [
       { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
@@ -1181,8 +1181,8 @@ export const questions_ulasimveturizm: Question[] = [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
@@ -1197,10 +1197,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 67)",
     choices: [
       { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
@@ -1215,10 +1215,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 68)",
     choices: [
       { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
@@ -1232,14 +1232,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 69)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1250,14 +1250,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 70)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1268,14 +1268,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 71)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1286,14 +1286,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 72)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1304,14 +1304,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 73)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1322,14 +1322,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 74)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1341,10 +1341,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 75)",
     choices: [
       { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
@@ -1359,10 +1359,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 76)",
     choices: [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
@@ -1376,14 +1376,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 77)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1394,14 +1394,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 78)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1412,14 +1412,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 79)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1430,14 +1430,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 80)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1448,14 +1448,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 81)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1466,14 +1466,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 82)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1484,14 +1484,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 83)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1502,14 +1502,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 84)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1520,14 +1520,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 85)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1538,14 +1538,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 86)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1556,14 +1556,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 87)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1574,14 +1574,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 88)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1593,10 +1593,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 89)",
     choices: [
       { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
@@ -1610,14 +1610,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 90)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1629,10 +1629,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 91)",
     choices: [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
@@ -1646,14 +1646,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 92)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1664,14 +1664,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 93)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1682,14 +1682,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 94)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1700,14 +1700,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 95)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1719,9 +1719,9 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 96)",
     choices: [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -1736,14 +1736,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 97)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1754,14 +1754,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 98)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1772,14 +1772,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 99)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1790,14 +1790,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 100)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1808,14 +1808,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 101)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1826,14 +1826,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 102)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1844,14 +1844,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 103)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1862,14 +1862,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 104)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1880,14 +1880,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 105)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1900,8 +1900,8 @@ export const questions_ulasimveturizm: Question[] = [
     choices: [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -1916,14 +1916,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 107)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1934,14 +1934,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 108)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1952,14 +1952,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 109)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1970,14 +1970,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 110)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -1989,10 +1989,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 111)",
     choices: [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
@@ -2006,14 +2006,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 112)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2024,14 +2024,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 113)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2042,14 +2042,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 114)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2060,14 +2060,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 115)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2078,14 +2078,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 116)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2096,14 +2096,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 117)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2115,10 +2115,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 118)",
     choices: [
       { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
@@ -2132,14 +2132,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 119)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2150,14 +2150,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 120)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2169,10 +2169,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 121)",
     choices: [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
@@ -2186,14 +2186,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 122)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2204,14 +2204,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 123)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2222,14 +2222,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 124)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2240,14 +2240,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 125)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2258,14 +2258,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 126)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2278,8 +2278,8 @@ export const questions_ulasimveturizm: Question[] = [
     choices: [
       { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -2294,14 +2294,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 128)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2313,10 +2313,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 129)",
     choices: [
       { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
@@ -2330,14 +2330,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 130)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2348,14 +2348,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 131)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2366,14 +2366,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 132)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2384,14 +2384,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 133)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2402,14 +2402,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 134)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2420,14 +2420,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 135)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2441,8 +2441,8 @@ export const questions_ulasimveturizm: Question[] = [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
@@ -2458,9 +2458,9 @@ export const questions_ulasimveturizm: Question[] = [
     choices: [
       { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
@@ -2474,14 +2474,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 138)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2492,14 +2492,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 139)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2510,14 +2510,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 140)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2528,14 +2528,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 141)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2546,14 +2546,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 142)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2564,14 +2564,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 143)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2582,14 +2582,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 144)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2601,10 +2601,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 145)",
     choices: [
       { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
@@ -2618,14 +2618,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 146)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2636,14 +2636,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 147)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2654,14 +2654,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 148)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2672,14 +2672,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 149)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2690,14 +2690,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 150)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2709,10 +2709,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 151)",
     choices: [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
@@ -2726,14 +2726,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 152)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2744,14 +2744,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 153)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2762,14 +2762,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 154)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2780,14 +2780,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 155)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2799,10 +2799,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 156)",
     choices: [
       { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
@@ -2816,14 +2816,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 157)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2834,14 +2834,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 158)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2852,14 +2852,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 159)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2870,14 +2870,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 160)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2888,14 +2888,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 161)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2908,9 +2908,9 @@ export const questions_ulasimveturizm: Question[] = [
     choices: [
       { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
@@ -2924,14 +2924,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 163)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2943,9 +2943,9 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 164)",
     choices: [
       { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -2960,14 +2960,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 165)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2978,14 +2978,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 166)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -2996,14 +2996,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 167)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3014,14 +3014,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 168)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3033,9 +3033,9 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 169)",
     choices: [
       { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -3050,14 +3050,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 170)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3068,14 +3068,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 171)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3086,14 +3086,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 172)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3105,10 +3105,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 173)",
     choices: [
       { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
@@ -3123,9 +3123,9 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 174)",
     choices: [
       { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
     correctChoiceId: "A",
@@ -3140,14 +3140,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 175)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3158,14 +3158,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 176)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3176,14 +3176,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 177)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "A", text: "Yanlış çeldirici 4" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3195,10 +3195,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 178)",
     choices: [
       { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
@@ -3212,14 +3212,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 179)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
       { id: "C", text: "Yanlış çeldirici 2" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3230,14 +3230,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 180)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Yanlış çeldirici 2" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3248,14 +3248,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 181)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3266,14 +3266,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 182)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 1" },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3284,14 +3284,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 183)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3305,8 +3305,8 @@ export const questions_ulasimveturizm: Question[] = [
       { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
       { id: "B", text: "Yanlış çeldirici 1" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
@@ -3320,14 +3320,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 185)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3338,14 +3338,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 186)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "D", text: "Yanlış çeldirici 1" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3356,14 +3356,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 187)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3374,14 +3374,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 188)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 4" },
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3394,9 +3394,9 @@ export const questions_ulasimveturizm: Question[] = [
     choices: [
       { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
@@ -3410,14 +3410,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 190)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "A", text: "Yanlış çeldirici 4" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 1" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3428,14 +3428,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 191)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 1" },
+      { id: "D", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
       { id: "E", text: "Yanlış çeldirici 4" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3446,14 +3446,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 192)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "A", text: "Yanlış çeldirici 3" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 2" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3464,14 +3464,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 193)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3483,10 +3483,10 @@ export const questions_ulasimveturizm: Question[] = [
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 194)",
     choices: [
       { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Yanlış çeldirici 4" },
       { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
@@ -3502,9 +3502,9 @@ export const questions_ulasimveturizm: Question[] = [
     choices: [
       { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Yanlış çeldirici 2" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
     correctChoiceId: "A",
     explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
@@ -3518,14 +3518,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Karayolu ile ilgili doğru bir bilgidir? (Soru 196)",
     choices: [
-      { id: "A", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." },
+      { id: "A", text: "Yanlış çeldirici 2" },
       { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "C", text: "Yanlış çeldirici 3" },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Türkiye'de yük ve yolcu taşımacılığında en çok kullanılan ağdır.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3536,14 +3536,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "orta",
     stem: "Aşağıdakilerden hangisi Demiryolu ile ilgili doğru bir bilgidir? (Soru 197)",
     choices: [
-      { id: "A", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Yanlış çeldirici 3" },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur." }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
+    correctChoiceId: "E",
+    explanation: "Doğru cevap E şıkkıdır. Çünkü Doğu Karadeniz, Antalya bölümü, Hakkari gibi engebeli yerlerde yoktur.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3554,14 +3554,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Denizyolu ile ilgili doğru bir bilgidir? (Soru 198)",
     choices: [
-      { id: "A", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
-      { id: "B", text: "Yanlış çeldirici 1" },
+      { id: "A", text: "Yanlış çeldirici 1" },
+      { id: "B", text: "Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra)." },
       { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 3" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
+    correctChoiceId: "B",
+    explanation: "Doğru cevap B şıkkıdır. Çünkü Uluslararası ticarette en ucuz taşıma yöntemidir (yük taşımacılığında ilk sıra).",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3572,14 +3572,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "ileri",
     stem: "Aşağıdakilerden hangisi Deniz Turizmi ile ilgili doğru bir bilgidir? (Soru 199)",
     choices: [
-      { id: "A", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 2" },
+      { id: "B", text: "Yanlış çeldirici 3" },
+      { id: "C", text: "Yanlış çeldirici 4" },
+      { id: "D", text: "Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir." },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
+    correctChoiceId: "D",
+    explanation: "Doğru cevap D şıkkıdır. Çünkü Akdeniz ve Ege kıyılarında güneşlenme süresi uzun olduğu için gelişmiştir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   },
@@ -3590,14 +3590,14 @@ export const questions_ulasimveturizm: Question[] = [
     difficulty: "temel",
     stem: "Aşağıdakilerden hangisi Tarih ve Kültür ile ilgili doğru bir bilgidir? (Soru 200)",
     choices: [
-      { id: "A", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
-      { id: "B", text: "Yanlış çeldirici 1" },
-      { id: "C", text: "Yanlış çeldirici 2" },
-      { id: "D", text: "Yanlış çeldirici 3" },
-      { id: "E", text: "Yanlış çeldirici 4" }
+      { id: "A", text: "Yanlış çeldirici 3" },
+      { id: "B", text: "Yanlış çeldirici 2" },
+      { id: "C", text: "Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir." },
+      { id: "D", text: "Yanlış çeldirici 4" },
+      { id: "E", text: "Yanlış çeldirici 1" }
     ],
-    correctChoiceId: "A",
-    explanation: "Doğru cevap A şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
+    correctChoiceId: "C",
+    explanation: "Doğru cevap C şıkkıdır. Çünkü Kapadokya, Efes, Göbeklitepe, Safranbolu önemli turizm merkezleridir.",
     examTip: "Bu bilgi KPSS'de doğrudan sorulabilir, dikkat!",
     tags: ["coğrafya", "çıkmış-soru-benzeri"]
   }

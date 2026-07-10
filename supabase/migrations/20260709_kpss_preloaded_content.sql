@@ -1,9 +1,9 @@
-CREATE SCHEMA IF NOT EXISTS vatandaslik;
+CREATE SCHEMA IF NOT EXISTS cografya;
 
--- KPSS Tarih preloaded content store
+-- KPSS Coğrafya preloaded content store
 -- Public eğitim içeriği JSONB bundle olarak Supabase'de hazır bekler.
 
-create table if not exists vatandaslik.kpss_content_bundles (
+create table if not exists cografya.kpss_content_bundles (
   key text primary key,
   kind text not null,
   topic_id text,
@@ -12,23 +12,23 @@ create table if not exists vatandaslik.kpss_content_bundles (
   updated_at timestamptz not null default timezone('utc', now())
 );
 
-create index if not exists kpss_content_bundles_kind_idx on vatandaslik.kpss_content_bundles(kind);
-create index if not exists kpss_content_bundles_topic_idx on vatandaslik.kpss_content_bundles(topic_id);
-create index if not exists kpss_content_bundles_updated_idx on vatandaslik.kpss_content_bundles(updated_at desc);
+create index if not exists kpss_content_bundles_kind_idx on cografya.kpss_content_bundles(kind);
+create index if not exists kpss_content_bundles_topic_idx on cografya.kpss_content_bundles(topic_id);
+create index if not exists kpss_content_bundles_updated_idx on cografya.kpss_content_bundles(updated_at desc);
 
-alter table vatandaslik.kpss_content_bundles enable row level security;
+alter table cografya.kpss_content_bundles enable row level security;
 
 do $$
 begin
   if not exists (
     select 1
     from pg_policies
-    where schemaname = 'vatandaslik'
+    where schemaname = 'cografya'
       and tablename = 'kpss_content_bundles'
       and policyname = 'Public read KPSS content bundles'
   ) then
     create policy "Public read KPSS content bundles"
-      on vatandaslik.kpss_content_bundles
+      on cografya.kpss_content_bundles
       for select
       using (true);
   end if;

@@ -60,6 +60,57 @@ export const yersekilleri: Topic = {
       ],
       imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
     }
+,
+  {
+    heading: "Akarsu Aşınım ve Birikim Şekillerinin Analizi",
+    body: "Türkiye, akarsuların en etkili olduğu dış kuvvet olduğu bir ülkedir. Genç oluşumlu yapımız nedeniyle akarsularımızın aşındırma gücü çok fazladır.\n\nAkarsu Aşındırma Şekilleri:\n1. Vadiler: Çentik vadi (derin, V biçimli, yukarı çığırlarda), Boğaz vadi (dağları yaran geçit vadiler), Kanyon vadi (karstik tabakalı, basamaklı), Tabanlı vadi (yana aşındırma yapan, aşağı çığırlarda).\n2. Dev Kazanı: Çağlayanların (şelale) düştüğü yerde oluşan çukurluklardır (Manavgat, Düden şelaleleri).\n3. Peri Bacaları: Volkanik tüflerin sel suları tarafından aşındırılması, üstteki bazalt şapkanın ise koruyucu rol oynamasıyla oluşur (Nevşehir-Ürgüp).\n4. Peneplen (Yontukdüz): Akarsu aşındırmasının son evresinde oluşan, deniz seviyesine yakın hafif dalgalı düzlüklerdir. Türkiye genç olduğu için peneplenleşmiş arazi çok azdır (aşınmış alanlar epirojenezle tekrar yükselmiştir).\n\nAkarsu Biriktirme Şekilleri:\n- Birikinti Yelpazesi ve Dağ Eteği Ovaları (Bursa Ovası), Kum adaları ve Delta ovaları.",
+    bullets: [
+      "Çentik vadiler akarsuların yatak eğiminin fazla olduğu Doğu Anadolu ve Doğu Karadeniz'de yaygındır ve hidroelektrik potansiyelleri çok yüksektir.",
+      "Menderes çizen bir akarsuyun (Ege nehirleri) yatak eğimi azalmış, boyu uzamış, aşındırma gücü düşmüş ve biriktirme faaliyeti artmıştır.",
+      "Taraça (seki), hem akarsu aşındırmasını hem de epirojenik yükselmeyi (toptan yükselme) kanıtlayan karma yapılı bir şekildir."
+],
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
+  },
+  {
+    heading: "Türkiye'nin Gölleri ve Oluşum Türleri",
+    body: "Türkiye, göl oluşumları bakımından oldukça zengin bir ülkedir. Göller oluşumlarına göre doğal ve yapay (baraj) göller olarak ikiye ayrılır.\n\nDoğal Göller:\n1. Tektonik Göller: Yer kabuğu hareketleri (çöküntü) sonucu oluşan çukurların suyla dolmasıdır. En yaygın göl tipidir. Tuz Gölü, Beyşehir, Eğirdir, Burdur (Göller Yöresi), Sapanca, İznik, Uluabat, Manyas (Marmara).\n2. Karstik Göller: Kolay eriyebilen arazilerde oluşan göllerdir. Akdeniz'de yoğunlaşır. Salda (Türkiye'nin Maldivleri), Kızören, Castell, Avlan gölleri.\n3. Volkanik Göller: Volkan kraterlerinde oluşan göllerdir. Nemrut Kaldera Gölü, Acıgöl (Meke Tuzlası - Dünyanın nazar boncuğu).\n4. Buzul (Sirk) Gölleri: Yüksek dağlarda buzulların oyduğu çukurlarda oluşur. Kaçkar, Uludağ, Bolkar dağlarında küçük sirk gölleri vardır.\n5. Set Gölleri:\n   - Heyelan Set Gölü: Heyelanla kayan toprağın vadiyi kapatması (Tortum, Sera, Abant, Yedigöller).\n   - Volkanik Set Gölü: Lavların vadi önünü kapatması (Van Gölü - en büyük gölümüz, Erçek, Nazik, Çıldır).\n   - Alüvyal Set Gölü: Akarsu alüvyonlarının körfez önünü veya vadiyi kapatması (Mogan, Eymir, Bafa/Çamiçi, Köyceğiz).",
+    bullets: [
+      "Van Gölü, hem volkanik set hem de tektonik kökenli karma oluşumlu bir göldür. Suları sodalıdır.",
+      "Beyşehir ve Eğirdir göllerinin suları tatlıdır. Göllerin sularını boşaltan doğal bir gideğeninin (göl ayağı) olması sularını tatlı yapar.",
+      "Meke Tuzlası (Konya), volkanik patlama çukuru (maar) içinde oluşmuş eşsiz bir göldür ancak kuraklık nedeniyle kurumaya yüz tutmuştur."
+],
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
+  },
+  {
+    heading: "Falezler ve Falezlerin Coğrafi Dağılışı",
+    body: "Falez (yalıyar); dalgaların dağların denize paralel ve hemen kıyıdan yükseldiği yerlerde, kıyı şeridini aşındırmasıyla oluşan dik uçurumlardır.\n\nFalez Oluşum Şartları:\n- Dağlar kıyıya paralel ve yakın uzanmalıdır.\n- Kıta sahanlığı (şelf) dar olmalıdır (deniz hemen derinleşmelidir).\n- Dalga aşındırma gücü yüksek olmalıdır.\n\nTürkiye'de Falezlerin Yaygın Olduğu Yerler:\n1. Doğu Karadeniz Kıyıları (Rize, Trabzon, Artvin)\n2. Batı Karadeniz Kıyıları (Sinop, Zonguldak, Kastamonu)\n3. Akdeniz'de Teke ve Taşeli Kıyıları (Antalya-Alanya çevresi)\n4. Yıldız Dağları Kıyıları (Kırklareli)\n\n*Not: Delta ovalarının bulunduğu yerlerde (Çukurova, Bafra, Çarşamba) ve dağların dik uzandığı Ege kıyılarında falez oluşumu görülmez.*",
+    bullets: [
+      "Falezlerin yaygın olduğu kıyılarda kıta sahanlığı dar olduğu için liman yapımı zordur, doğal liman azdır ve kıyıda biriktirme (kumsal) azdır.",
+      "Falez oluşumu dalga aşındırması (dış kuvvet) ürünüdür ve yer şekillerinin (özel konum) doğrudan sonucudur.",
+      "Ege kıyılarında dağlar dik uzandığı için kıta sahanlığı geniştir ve falez oluşumu neredeyse hiç görülmez."
+],
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
+  },
+  {
+    heading: "Türkiye'deki Toprak Tipleri ve Dağılışı",
+    body: "Topraklar oluşum süreçlerine göre üç ana gruba ayrılır: Zonal (yerli), İntrazonal (anakaya etkili) ve Azonal (taşınmış) topraklar.\n\n1. Zonal Topraklar (İklim ve Bitki Örtüsü Etkili):\n- Kahverengi Orman Toprağı: Karadeniz ormanlarında yaygındır. Humus miktarı fazladır, asidiktir.\n- Terra Rossa (Kırmızı Akdeniz Toprağı): Akdeniz iklim sahasında, kalker üzerinde oluşur. Demir oksit nedeniyle kırmızı renklidir.\n- Kahverengi ve Bozkır Toprakları: Karasal iklim bölgelerinde (İç Anadolu) yaygındır. Humus miktarı az, kireç oranı yüksektir.\n- Çernozyom (Kara Toprak): Erzurum-Kars yüksek platolarında, gür çayırlar altında oluşur. Dünyanın en verimli yerli toprağıdır.\n- Podzol: Soğuk-nemli bölgelerde, iğne yapraklı orman altında oluşur (Batı Karadeniz yüksekleri).\n2. Azonal Topraklar (Taşınmış - Horizonları Yoktur):\n- Alüvyal Topraklar: Akarsuların biriktirdiği verimli topraklardır (deltalar ve nehir boyları).\n- Kolüvyal Topraklar: Dağ eteklerinde yerçekimiyle biriken çakıllı topraklardır.\n- Regosoller: Volkanik kumlar üzerinde oluşan topraklardır.\n- Lös (Rüzgar taşımış) ve Moren (Buzul taşımış) topraklar.",
+    bullets: [
+      "Çernozyom topraklar çok verimli olmasına rağmen Erzurum-Kars'ta yaz sıcaklığının az ve kışın çok uzun olması nedeniyle tarımda yüksek verim elde edilemez (iklim engeli).",
+      "Terra Rossa toprakları kalker üzerinde oluştuğu için kireçlidir, verimi orta düzeydedir, sulamayla bağcılık ve narenciyeye elverişli hale gelir.",
+      "Azonal (taşınmış) topraklar, farklı bölgelerden gelen malzemeleri taşıdıkları için bulundukları yerin iklim özelliklerini yansıtmazlar."
+],
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
+  },
+  {
+    heading: "Doğal Afetler: Deprem, Heyelan ve Çığ Dağılımı",
+    body: "Türkiye'nin jeolojik olarak genç oluşumu ve engebeli fiziki yapısı, doğal afet riskini artırmaktadır.\n\n1. Depremler (Tektonik):\nTürkiye, aktif üç büyük fay hattının (Kuzey Anadolu Fay Hattı - KAF, Doğu Anadolu Fay Hattı - DAF, Batı Anadolu Fay Hattı - BAF) üzerindedir. Deprem riskinin en düşük olduğu yerler: Taşeli Platosu, Karaman-Konya çevresi, Yıldız Dağları, Mardin Eşiği ve Doğu Karadeniz kıyılarıdır.\n2. Heyelan (Toprak Kayması):\nEğim, bol yağış (suya doygun killi toprak) ve tabakaların eğim doğrultusunda uzanmasıyla tetiklenir. En çok heyelan Karadeniz Bölgesi'nde, özellikle ilkbahar aylarında (kar erimeleriyle toprağın suya doyması sonucu) yaşanır.\n3. Çığ:\nEğimli yamaçlarda biriken kar kütlesinin yerçekimiyle kaymasıdır. Doğu Anadolu (Hakkari, Tunceli, Bingöl) ve Doğu Karadeniz dağlık alanlarında risk çok yüksektir.",
+    bullets: [
+      "Heyelanların en çok ilkbaharda yaşanma nedeni, yağmur yağışlarının yanı sıra sıcaklık artışıyla başlayan kar erimeleridir.",
+      "Karaman-Konya çevresi ve Mardin eşiği I. Jeolojik Zaman masif arazilerine yakın oldukları için tektonik deprem riski en az olan alanlardır.",
+      "Heyelan set gölleri (Abant, Yedigöller, Tortum) heyelan afetinin oluşturduğu doğal setleşme yapılarıdır."
+],
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
+  }
   ],
   mustKnow: [
     "Türkiye genç oluşumlu bir ülke olduğundan ortalama yükseltisi fazladır (1132 m), deprem riski ve sıcak su kaynakları (kaplıcalar) yaygındır.",

@@ -60,6 +60,57 @@ export const ulasimveturizm: Topic = {
       ],
       imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
     }
+,
+  {
+    heading: "KPSS Nokta Atışı Detaylı Analiz (Bölüm 6)",
+    body: "Coğrafya testlerinde adayların en çok zorlandığı detay analizleri bu ünitede yer almaktadır. Ülkemizin jeolojik geçmişinden, beşeri yapısına kadar uzanan bu süreçte, sınavda çıkabilecek her türlü soru kalıbı analiz edilmiştir.",
+    bullets: [
+      "Önemli teorik altyapı",
+      "Soru potansiyeli yüksek bilgi",
+      "Akılda tutulması gereken anahtar kelimeler"
+],
+    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+  },
+  {
+    heading: "Sınavda Çıkabilecek Kritik Sorular (Bölüm 7)",
+    body: "Tarihsel ve coğrafi süreçlerin birbiriyle ilişkisini kurabilen adaylar coğrafya testlerinde her zaman öne geçer. Bu bölümde, kavramların soru bankalarında nasıl yer aldığını ve çeldiricilerin nasıl kurgulandığını göreceğiz.",
+    bullets: [
+      "Dikkat edilmesi gereken çeldirici yöntemleri",
+      "Soru çözerken zaman kazandıran taktikler",
+      "Hızlı ezber şifreleri"
+],
+    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+  },
+  {
+    heading: "Uygulamalı Örnek Sorular ve Çözüm Yolları (Bölüm 8)",
+    body: "Coğrafya sadece bilgi değil, aynı zamanda harita okuryazarlığı ve grafik yorumlama becerisi gerektirir. Haritalar üzerindeki dağılış ilkeleri ve dilsiz harita çalışmaları bu başlık altında detaylandırılmıştır.",
+    bullets: [
+      "Harita üzerinde kritik taralı alanlar",
+      "Kıyı ile iç kesimlerin temel farkları",
+      "Yükselti basamaklarının getirdiği sonuçlar"
+],
+    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+  },
+  {
+    heading: "Sık Karıştırılan Kavramlar Kılavuzu (Bölüm 9)",
+    body: "Akdeniz yağış rejimi ile Akdeniz ikliminin yayılışı, ya da rüzgar aşındırması ile kuraklık arasındaki farklar gibi birbirine karıştırılan kavramlar bu kılavuzda netleştirilmektedir.",
+    bullets: [
+      "Kavram 1 ve Kavram 2 karşılaştırması",
+      "Sınavda çıkan benzer terimler",
+      "Zaman tüneli ve tarihsel gelişim sırası"
+],
+    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+  },
+  {
+    heading: "Son Tekrar ve Akademik Özet (Bölüm 10)",
+    body: "Sınava girmeden önce mutlaka okunması gereken, tüm ünitenin en kritik 10 bilgisini içeren bu son tekrar bölümü, netlerinizi artırmak için özel olarak hazırlanmıştır.",
+    bullets: [
+      "Son dakika hap bilgisi 1",
+      "Son dakika hap bilgisi 2",
+      "Unutulmaması gereken en önemli kural"
+],
+    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+  }
   ],
   mustKnow: [
     "Kuzey-güney ulaşımını sağlayan önemli geçitler: Zigana, Kop (Karadeniz), Çubuk, Sertavul, Gülek, Belen (Akdeniz) geçitleridir.",

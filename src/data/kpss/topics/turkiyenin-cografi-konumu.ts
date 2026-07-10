@@ -60,6 +60,57 @@ export const turkiyenincografikonumu: Topic = {
       ],
       imageUrl: "/images/topics/cografi_konum_1783726519779.png"
     }
+,
+  {
+    heading: "Enlem Etkisinin İstisnaları: Mikroklima ve Çelişkiler",
+    body: "Normal şartlarda enlem etkisine göre ekvatordan kutuplara gidildikçe sıcaklıkların azalması gerekir. Ancak Türkiye'de yer şekilleri ve denizellik gibi özel konum şartları, bu kurala uymayan 'mikroklima' (dar alandaki özel iklim) sahaları oluşturmuştur.\n\nÖrnekler:\n1. Rize'de Turunçgil ve Zeytin Yetişmesi: Doğu Karadeniz kıyılarında kış ılıklığı nedeniyle enlem etkisiyle Akdeniz'de yetişmesi gereken ürünler buralarda da yetişir.\n2. Artvin Yusufeli'de Zeytin Yetişmesi: Çoruh vadisinin korunaklı yapısı kış ılıklığı sağlar.\n3. Iğdır'da Pamuk Yetişmesi: Çevresine göre çukurda (mikroklima) kalan ova, yaz sıcaklığı ve kuraklığı sağlayarak pamuk yetişmesine elverişli ortam sunar.\n4. Amasya'da Bamya ve Şeftali Yetişmesi: Benzer vadi korunaklılığı etkilidir.\n\nBu durumlar enlem (matematik) konumuyla çelişir ve tamamen özel (göreceli) konumun bir sonucudur.",
+    bullets: [
+      "Mikroklima sahaları, enlem etkisine tamamen terstir ve göreceli konumla açıklanır.",
+      "Rize'de turunçgil, Iğdır'da pamuk en çok sorulan KPSS mikroklima örnekleridir.",
+      "Bu alanlarda üretilen ürünler genellikle yerel tüketimi karşılar, dış ticarette payları düşüktür."
+],
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
+  },
+  {
+    heading: "Değişen Jeopolitik Konum ve Mavi Vatan Konsepti",
+    body: "Jeopolitik konum; bir ülkenin coğrafi özelliklerinin uluslararası siyaset ve askeri stratejiler üzerindeki etkisidir. Türkiye'nin jeopolitiği Soğuk Savaş sonrasında ve enerji krizleriyle birlikte sürekli güç kazanmıştır.\n\nJeopolitik Güç Unsurları:\n1. Enerji Nakil Hatları (Boru Hatları): Hazar ve Ortadoğu doğalgazını Avrupa'ya taşıyan TANAP (Trans Anadolu Doğalgaz Boru Hattı) ve TürkAkım projeleri Türkiye'yi vazgeçilmez bir transit ülke yapmıştır.\n2. Boğazlar (İstanbul ve Çanakkale): Montrö Boğazlar Sözleşmesi uyarınca Karadeniz'e kıyısı olan ve olmayan ülkelerin savaş gemilerinin geçişini denetleme yetkisi jeopolitik gücümüzün zirvesidir.\n3. Mavi Vatan Konsepti: Türkiye'nin Karadeniz, Ege ve Akdeniz'deki ilan edilmiş veya öngörülen deniz yetki alanlarını (kıta sahanlığı ve münhasır ekonomik bölge) kapsayan doktrindir. Doğu Akdeniz'deki doğalgaz arama faaliyetleri bu jeopolitik mücadelenin merkezindedir.",
+    bullets: [
+      "Montrö Boğazlar Sözleşmesi (1936), boğazlar üzerindeki egemenliğimizi uluslararası düzeyde tescilleyen en önemli jeopolitik belgedir.",
+      "Mavi Vatan, denizlerdeki ekonomik haklarımızı (balıkçılık, petrol/gaz arama) koruma kararlılığıdır.",
+      "TANAP, Türkiye'yi Doğu-Batı enerji koridorunun en stratejik aktörü haline getirmiştir."
+],
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
+  },
+  {
+    heading: "Sınır Güvenliği ve Tarihsel Anlaşmalar",
+    body: "Türkiye'nin bugünkü kara sınırları, geçmişte yapılan ikili ve çok taraflı anlaşmalarla şekillenmiştir. Sınırların çizilme biçimi hem doğal engelleri hem de siyasi uzlaşıları yansıtır.\n\nTarihsel Anlaşmalar:\n- Yunanistan Sınırı: 1923 Lozan Antlaşması ile Meriç Nehri sınır kabul edildi.\n- Bulgaristan Sınırı: 1913 İstanbul Antlaşması ve Lozan ile netleşti.\n- Gürcistan, Ermenistan ve Nahçıvan Sınırları: 1921 Moskova ve Kars Antlaşmaları ile Sovyet Rusya ile çizildi.\n- İran Sınırı: 1639 Kasr-ı Şirin Antlaşması ile Zagros Dağları su bölümü çizgisi esas alınarak çizildi. Sınırımızdaki en dağlık ve doğal sınırların başında gelir.\n- Irak Sınırı: 1926 Ankara Antlaşması ile Musul meselesinin çözümüyle İngiltere/Irak ile çizildi. Çok engebeli ve dağlık bir sınırdır.\n- Suriye Sınırı: 1921 Ankara Antlaşması ile çizmiş, 1939'da Hatay'ın anavatana katılmasıyla bugünkü son halini almıştır.",
+    bullets: [
+      "Meriç ve Aras nehirleri akarsu yatağını takip eden doğal sınırlara örnektir.",
+      "İran sınırı, 1639'dan beri değişmeyen en kararlı ve su bölümü çizgilerini (dağların en yüksek sırtlarını) takip eden sınırımızdır.",
+      "Suriye sınırı, engebeli dağların olmadığı, büyük oranda düzlük arazilerden geçen en uzun sınırımızdır."
+],
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
+  },
+  {
+    heading: "Türkiye'nin Üye Olduğu Önemli Uluslararası Kuruluşlar",
+    body: "Türkiye, coğrafi konumu gereği hem Doğu hem de Batı dünyasındaki birçok uluslararası örgüte üyedir. Bu üyelikler ülkemizin diplomatik gücünü ve bölgesel rolünü pekiştirir.\n\nÜye Olduğumuz Kuruluşlar:\n1. NATO (Kuzey Atlantik Antlaşması Örgütü): 1952 yılında Kore Savaşı'na asker gönderilmesi sonrası üye olunmuştur. Türkiye, NATO'nun en büyük ikinci askeri gücüne sahiptir.\n2. KEİ (Karadeniz Ekonomik İşbirliği Teşkilatı): 1992 yılında Türkiye'nin öncülüğünde İstanbul'da kurulmuştur. Karadeniz havzasındaki ülkelerin ekonomik iş birliğini hedefler.\n3. D-8 (Gelişmekte Olan Sekiz Ülke): Türkiye, İran, Pakistan, Bangladeş, Malezya, Endonezya, Mısır ve Nijerya'dan oluşur. Türkiye'nin öncülüğünde kurulmuştur.\n4. Avrupa Konseyi, AGİT ve Türk Devletleri Teşkilatı (TDT): Kültürel ve ekonomik işbirliklerini içerir.\n\n*Not: Türkiye Avrupa Birliği'ne (AB) üye değildir (aday ülkedir) ve OPEC (Petrol İhraç Eden Ülkeler) veya NAFTA gibi bölgesel örgütlere üye değildir.*",
+    bullets: [
+      "KEİ (Karadeniz Ekonomik İşbirliği), Türkiye'nin bölgesel liderlik amacıyla bizzat kurucusu olduğu en aktif örgütlerdendir.",
+      "Türkiye Birleşmiş Milletler (BM) ve NATO'nun kurucu veya ilk üyeleri arasında yer alarak güvenlik mimarisinde aktif rol oynamaktadır.",
+      "AB üyeliği adaylık sürecinde olup, Gümrük Birliği anlaşmasıyla ekonomik entegrasyon sağlanmıştır."
+],
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
+  },
+  {
+    heading: "Ulusal Saat ve Enerji Tasarrufu İlişkisi",
+    body: "Türkiye'de saat dilimleri boylam farkının doğrudan bir sonucudur. Ülkemiz 26°-45° Doğu boylamları arasında yer aldığı için 2. ve 3. saat dilimlerini kullanma potansiyeline sahiptir.\n\nSaat Uygulamaları:\n- Geçmişte kış aylarında 30° Doğu (İzmit - +2. saat dilimi), yaz aylarında ise 45° Doğu (Iğdır - +3. saat dilimi) saatleri kullanılırdı.\n- 2016 yılında alınan kararla yaz-kış saati değişimi sonlandırılmış ve yıl boyunca kalıcı olarak +3. Saat Dilimi (Iğdır saati) kullanılmaya başlanmıştır.\n\nKalıcı Saat Dilimi Tercih Nedenleri:\n1. Enerji Tasarrufu: Akşam saatlerinde gün ışığından daha fazla yararlanılarak elektrik tüketiminin azaltılması hedeflenmiştir.\n2. Batı ile Uyuşmazlık: Avrupa ülkeleriyle olan saat farkının kışın 3 saate çıkması, borsa, bankacılık ve ticaret işlemlerinde senkronizasyon zorluklarına yol açmaktadır.",
+    bullets: [
+      "Kalıcı olarak 45° Doğu Iğdır saati (+3. saat dilimi) kullanılmaktadır.",
+      "Yaz-kış saati değişimin kaldırılmasıyla kışın batıdaki şehirlerde (İstanbul, İzmir) sabah saatlerinde hava daha geç aydınlanmaktadır.",
+      "Aynı boylam üzerindeki noktalarda yerel saat her zaman aynıdır ancak ekinokslar dışında güneşin doğuş-batış saati değişir."
+],
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
+  }
   ],
   mustKnow: [
     "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır.",

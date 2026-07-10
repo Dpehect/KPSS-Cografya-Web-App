@@ -60,6 +60,57 @@ export const iklimvebitkiortusu: Topic = {
       ],
       imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
     }
+,
+  {
+    heading: "Sıcaklık Dağılışı ve İzoterm Haritalarının Yorumlanması",
+    body: "Türkiye'de sıcaklığın dağılışını enlem (matematik konum), denizellik-karasallık ve yükselti (özel konum) faktörleri belirler. Sınavda izoterm (eş sıcaklık) haritaları sıkça yorumlatılır.\n\nİzoterm Haritası Kuralları:\n1. Yıllık Ortalama Sıcaklık Dağılışı: En yüksek sıcaklıklar enlem ve güney sektörlü rüzgarlar nedeniyle Akdeniz kıyılarında ve Güneydoğu Anadolu'da görülür. En düşük sıcaklıklar ise enlem ve yüksekliğin etkisiyle Kuzeydoğu Anadolu'da (Erzurum-Kars-Ardahan) yaşanır.\n2. Ocak Ayı (Kış) Sıcaklık Dağılışı: En yüksek sıcaklıklar denizellik ve enlem etkisiyle Akdeniz kıyılarındadır (+10°C). En düşük sıcaklıklar karasallık ve yüksekliğin zirve yaptığı Erzurum-Kars yöresindedir (-10°C ile -15°C arası). Kışın sıcaklık dağılışında yükselti ve karasallık enlemden daha etkilidir (Örn: Samsun kışın Ankara'dan sıcaktır; enlemle çelişir).\n3. Temmuz Ayı (Yaz) Sıcaklık Dağılışı: En yüksek sıcaklıklar enlem ve Basra alçak basıncının getirdiği çöl rüzgarları nedeniyle Güneydoğu Anadolu Bölgesi'ndedir (Şanlıurfa çevresi 35°C üzeri). Akdeniz'den daha sıcaktır, çünkü karasallık nemin az olmasına ve aşırı ısınmaya yol açar.",
+    bullets: [
+      "Kışın deniz kıyısındaki yerlerin iç kesimlerden sıcak olması enlemle çelişir, tamamen denizellik ve nem (özel konum) etkisiyle açıklanır.",
+      "Güneydoğu Anadolu'nun yazın Akdeniz'den sıcak olmasının nedeni karasallık (nem azlığı) ve güneyden esen kuru rüzgarlardır.",
+      "Yıllık sıcaklık farkının en az olduğu bölgemiz nemlilik nedeniyle Karadeniz, en fazla olduğu bölgemiz ise karasallık nedeniyle Doğu Anadolu'dur."
+],
+    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
+  },
+  {
+    heading: "Nemlilik ve Yağış İlişkisi (Mutlak, Maksimum, Bağıl Nem)",
+    body: "Nemlilik, sıcaklık farklarını dengeleyen ve yağış oluşumunu belirleyen temel iklim elemanıdır. Üç nem türünün Türkiye'deki dağılışı farklıdır.\n\n1. Mutlak Nem (Var Olan Nem):\nHavadaki su buharı miktarıdır. Sıcaklık ve su kaynağına (denizellik) bağlıdır. Türkiye'de mutlak nemin en fazla olduğu bölge her mevsim sıcak ve deniz kenarı olan Akdeniz kıyılarıdır.\n2. Maksimum Nem (Nem Taşıma Kapasitesi):\nHavanın sıcaklığına bağlıdır. Sıcaklık arttıkça maksimum nem artar (hava genişler). Türkiye'de maksimum nemin en fazla olduğu yer; yazın Güneydoğu Anadolu, kışın ise Akdeniz kıyılarıdır.\n3. Bağıl Nem (Nispi Nem - Yağış İhtimali):\nMutlak nemin maksimum neme oranıdır. Sıcaklık ile bağıl nem ters orantılıdır (soğuyan hava daralır ve yağış bırakır). Bağıl nemin yıl boyunca en yüksek olduğu bölgemiz düzenli yağışlı ve bulutlu olan Karadeniz Bölgesi'dir. En düşük olduğu bölge ise yaz kuraklığı yaşayan Güneydoğu Anadolu'dur.",
+    bullets: [
+      "Bağıl nemin %100'e ulaşıp aşmasıyla yağış başlar. Karadeniz'de bağıl nem hep yüksektir, bu yüzden bulutluluk oranı çok fazladır.",
+      "Güneydoğu Anadolu'da yazın bağıl nemin aşırı düşük olması, havada nem açığının (yağış uzaklığının) en yüksek olduğunu gösterir.",
+      "Mutlak nem kıyılardan iç kesimlere gidildikçe ve yükseldikçe hızla azalır."
+],
+    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
+  },
+  {
+    heading: "Kar Yağışları, Karın Yerde Kalma Süresi ve Don Olayları",
+    body: "Kar yağışı ve don olayları, kış sıcaklıklarının 0°C'nin altına indiği karasal bölgelerimizin karakteristik özelliğidir.\n\nCoğrafi Dağılım:\n- Akdeniz ve Ege kıyıları: Kış ılıklığı ve enlem etkisi nedeniyle kar yağışı ve don olayları neredeyse hiç görülmez. Tarımda seracılığın gelişmesini bu durum sağlamıştır.\n- Karadeniz kıyıları: Nemlilik nedeniyle don olayları ve kar yağışı iç kesimlere göre oldukça azdır.\n- İç Anadolu ve Doğu Anadolu: Yükselti ve şiddetli karasallık nedeniyle kar yağışlı gün sayısı çok fazladır.\n\nKarın Yerde Kalma Süresi:\nKarın yerde kalma süresi yükseltinin batıdan doğuya artmasına bağlı olarak doğuya doğru uzar. Türkiye'de karın yerde kalma süresinin en uzun olduğu yer Kuzeydoğu Anadolu (Erzurum-Kars) ve Hakkari yöresidir. Bu durum kış turizmini (kayak) olumlu etkilerken, ulaşımı ve tarımsal hayatı olumsuz etkiler.",
+    bullets: [
+      "Kıyı bölgelerinde kış ılıklığı sayesinde tarımsal üretim (özellikle seracılık ve zeytincilik) don riskinden korunur.",
+      "Erzurum-Kars'ta karın yerde kalma süresi 120 günü aşarken, Akdeniz kıyılarında bu süre sıfır gündür.",
+      "Don olaylarının en yoğun olduğu dönemlerde tarımsal ürünlerin zarar görmemesi için seralarda ısıtma yapılır."
+],
+    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
+  },
+  {
+    heading: "Ormanlarımızın Ağaç Türlerine Göre Dağılışı",
+    body: "Türkiye ormanları, nem ve sıcaklık koşullarına bağlı olarak farklı ağaç türlerinden oluşur. Ormanlarımızın %70'inden fazlası kıyı bölgelerimizde yer alır.\n\nAğaç Türleri ve Dağılımları:\n1. İğne Yapraklı Ormanlar (Soğuğa ve kuraklığa dayanıklı):\n- Kızılçam: Akdeniz ikliminin en tipik ağacıdır. Işık isteği fazladır. Türkiye kızılçam varlığında dünya lideridir. Tahrip edilirse maki oluşur.\n- Karaçam ve Sarıçam: Soğuğa dayanıklı iğne yapraklılardır. Sarıçamlar en yüksek soğuk sınırlarda (Erzurum-Kars, Sarıkamış) yetişir. Karaçam ise İç Anadolu dağlarında yaygındır.\n2. Yayvan Yapraklı Ormanlar (Nem ve sıcaklık ister):\n- Meşe: Türkiye'de yetişme alanı en geniş olan ağaç türüdür. Karasal iklime çok uyumludur.\n- Kayın: Nemli ve serin iklimleri sever. Karadeniz kıyılarında yaygındır.\n- Sedir ve Ardıç: Toroslar yüksek kuşağında yaygındır.",
+    bullets: [
+      "Sarıçam ormanlarının en gür olduğu yer yüksek rakımlı Kars-Sarıkamış yöresidir (soğuğa en dayanıklı çam türüdür).",
+      "Kızılçamlar kolay yanabilen reçineli yapıya sahiptir. Bu yüzden yazın Ege ve Akdeniz'de orman yangını riski çok yüksektir.",
+      "Meşe ağacının Türkiye'nin hemen her yerinde yetişebilmesi, toprak ve iklim seçiciliğinin en az olmasındandır."
+],
+    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
+  },
+  {
+    heading: "İklim Değişikliği ve Türkiye'nin Gelecekteki Su Stresi",
+    body: "Türkiye, Akdeniz Havzası'nda yer alması nedeniyle küresel iklim değişikliğinden en çok etkilenecek ülkeler arasındadır. Gelecekte kuraklık ve çölleşme riski artmaktadır.\n\nİklim Değişikliğinin Etkileri:\n1. Su Stresi ve Kuraklık: Yağışların azalması ve buharlaşmanın artmasıyla göllerimiz (Tuz Gölü, Beyşehir, Eğirdir) küçülmekte, yer altı su seviyeleri hızla düşmektedir. Türkiye 'su zengini' bir ülke değildir; 'su stresi çeken' bir ülkedir.\n2. Tarımsal Üretimde Azalma: Nadas ihtiyacı artmakta, sulu tarım alanlarında tuzlanma yaşanmakta ve buğday gibi temel ürünlerin verimi düşmektedir.\n3. Uç Değerdeki Hava Olayları: Ani sel baskınları (özellikle Karadeniz ve büyük kentlerde), şiddetli fırtınalar ve orman yangınlarının sıklığı artmaktadır.",
+    bullets: [
+      "Konya Ovası'nda yer altı sularının aşırı çekilmesiyle oluşan obrukların artışı, su stresinin en somut göstergesidir.",
+      "İklim değişikliğiyle birlikte Akdeniz iklim kuşağı kuzeye doğru kaymakta, İç Anadolu ve Güneydoğu'da yarı çöl iklimi özellikleri belirmektedir.",
+      "Su tasarrufu için damla sulama yöntemleri ve kuraklığa dayanıklı tohumların kullanımı hayati önem taşımaktadır."
+],
+    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
+  }
   ],
   mustKnow: [
     "Türkiye'nin Akdeniz iklim kuşağında olması matematik konumunun, kıyı ile iç kesimler arasındaki büyük iklim farkı ise özel konumunun sonucudur.",

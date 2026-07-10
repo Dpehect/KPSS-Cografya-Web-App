@@ -13,7 +13,7 @@ export type GeneratedQuestionTest = {
   questionIds: string[];
 };
 
-export const TESTS_PER_LEVEL = 10;
+export const TESTS_PER_LEVEL = 50;
 export const QUESTIONS_PER_TEST = 20;
 
 const levelLabels: Record<TestLevel, string> = { kolay: "Kolay", orta: "Orta", zor: "Zor" };

@@ -10,104 +10,103 @@ export const bolgelercografyasi: Topic = {
   estimatedMinutes: 60,
   keywords: ["kpss", "coğrafya", "bölgeler coğrafyası", "marmara", "ege", "akdeniz", "karadeniz", "doğu anadolu", "güneydoğu anadolu"],
   summary: [
-    {
-      heading: "Marmara ve Ege Bölgeleri: Sanayi, Nüfus ve Tarım Odakları",
-      body: "Marmara ve Ege Bölgeleri, Türkiye'nin batısında yer alan, ekonomik gelişmişlik seviyesi en yüksek bölgelerdir.\n\nMarmara Bölgesi:\n- Fiziki Özellikleri: Ortalama yükseltisi en az olan bölgedir. Dağlık alanlar az, düzlükler (plato ve ovalar) yaygındır. Yıldız Dağları en engebeli yeridir. Üç farklı iklim (Karadeniz, Akdeniz, Karasal) geçiş tipi olarak görülür.\n- Beşeri ve Ekonomik Özellikleri: Nüfus miktarı ve yoğunluğu en fazla olan bölgedir. Sanayi, ticaret, bankacılık, turizm ve ulaşım sektörlerinde liderdir. Enerji tüketimi en fazladır. Kümes hayvancılığı (pazara yakınlık) ve ayçiçeği (Ergene) tarımı öndedir. Çatalca-Kocaeli en gelişmiş bölümüdür.\n\nEge Bölgesi:\n- Fiziki Özellikleri: Dağlar kıyıya dik uzanır (Kıyı Ege). Bu yüzden graben ovaları (Bakırçay, Gediz, Menderes) yaygındır. Girinti-çıkıntı fazla, enine kıyı tipi görülür. Denizel etki iç kesimlere girebilir. Menteşe Yöresi ise dağların kıyıya paralel uzandığı engebeli ve seyrek nüfuslu istisnai yerdir.\n- Beşeri ve Ekonomik Özellikleri: Zeytin, tütün, incir, üzüm (ZÜTİ) üretiminde ilk sıradadır. Jeotermal enerji kaynakları en zengindir. Kıyı Ege'de nüfus yoğundur.",
-      bullets: [
-        "Marmara'da yükseltinin az olması, yol yapım maliyetlerinin düşük olmasına ve tarım alanlarının makineleşmeye çok elverişli olmasına zemin hazırlamıştır.",
-        "Ege Bölgesi'nde dağların dik uzanması kıyı ile iç kesimler arasında iklim farkını azaltırken, kıyı limanlarının hinterlandını (art bölgesini) çok genişletmiştir.",
-        "Menteşe Yöresi (Muğla), Ege'nin en çok yağış alan ama engebe nedeniyle en seyrek nüfuslu ve demiryolu olmayan yöresidir."
-      ],
-      imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
-    },
-    {
-      heading: "Akdeniz ve İç Anadolu Bölgeleri: Karstik Yapı ve Tahıl Ambarı",
-      body: "Akdeniz ve İç Anadolu, coğrafi karakterleri bakımından birbirini tamamlayan farklı fiziki yapılara sahiptir.\n\nAkdeniz Bölgesi:\n- Fiziki Özellikleri: Toros Dağları kıyıya paralel uzanır. Boyuna kıyı tipi yaygındır. Kıyı ile iç kesimler arasında ulaşım geçitlerle sağlanır. Karstik yer şekilleri (Teke ve Taşeli platoları, polyeler, obruklar) en yaygın coğrafi unsurdur.\n- Beşeri ve Ekonomik Özellikleri: Seracılık, turunçgil, muz tarımında liderdir. Deniz turizmi sezonu en uzun bölgedir. Karstik yapı nedeniyle Teke ve Taşeli yörelerinde nüfus son derece seyrektir. Kıl keçisi yetiştiriciliği yaygındır.\n\nİç Anadolu Bölgesi:\n- Fiziki Özellikleri: Yüzölçümü bakımından ikinci büyük bölgedir. Çevresi dağlarla çevrili olduğu için denizel etkiler giremez ve karasal iklim hakimdir. Türkiye'nin en az yağış alan bölgesidir. Rüzgar erozyonu ve çölleşme riski (Konya Karapınar) en yüksektir.\n- Beşeri ve Ekonomik Özellikleri: Nüfus dağılışı düzlük alanlarda yoğundur. Tahıl tarımı (buğday, arpa) ve şeker pancarı üretiminde birinci sıradadır. Küçükbaş hayvancılık (koyun) bozkır bitki örtüsü nedeniyle yaygındır.",
-      bullets: [
-        "Akdeniz karstik polyeleri (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) tarımsal üretimin yoğunlaştığı düzlüklerdir.",
-        "İç Anadolu, Türkiye'nin tahıl ambarı olarak adlandırılır. Nadas alanlarının en geniş olduğu ikinci bölgemizdir (birinci Güneydoğu'dur).",
-        "Teke ve Taşeli platoları karstik erime nedeniyle su tutmayan, kurak ve engebeli yapısıyla tarıma elverişsizdir; bu yüzden seyrek nüfusludur."
-      ],
-      imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
-    },
-    {
-      heading: "Karadeniz Bölgesi: Yağış, Orman ve Dağınık Yerleşme",
-      body: "Karadeniz Bölgesi, nemli iklim özellikleri, gür ormanları ve engebeli yer şekilleriyle Türkiye'nin en özgün coğrafi karakterine sahip bölgelerinden biridir.\n\nFiziki Özellikleri:\n- Dağlar kıyıya paralel uzanır (Kuzey Anadolu Dağları). Falezler (yalıyar) son derece yaygındır. \n- Kıyı ile iç kesimler arasında iklim, sıcaklık ve yağış farkı çok fazladır. Doğu Karadeniz en yüksek ve en engebeli bölümdür.\n- Türkiye'nin en çok yağış alan bölgesidir. Yağış rejimi düzenlidir. Heyelan (toprak kayması) riski en yüksek bölgedir.\n\nBeşeri ve Ekonomik Özellikleri:\n- Kırsal kesimde dağınık yerleşme (suyun bol, arazinin engebeli olması nedeniyle) hakimdir. Nüfus dar kıyı şeridinde toplanmıştır.\n- Çay, fındık tarımında liderdir. Ormancılık faaliyetleri çok gelişmiştir. \n- Büyükbaş mera hayvancılığı yaygındır. Taş kömürü madenciliği (Zonguldak) sanayinin temelidir.\n- Kıyı şeridi dışında demiryolu bağlantısı yoktur (Samsun ve Zonguldak hariç).",
-      bullets: [
-        "Heyelanların en çok Karadeniz'de görülme nedeni: Aşırı yağış, killi toprak yapısı ve dik yamaç eğimidir.",
-        "Kuzey Anadolu Dağları'nın kıyıya paralel olması, denizel havanın iç kesimlere geçmesini önlemiş; iç kesimlerde (Gümüşhane, Bayburt) iklimi sert karasallaştırmıştır.",
-        "Doğu Karadeniz kıyıları engebeli yapısı nedeniyle net göç veren bir bölgedir. Tarımda makine kullanımı engebe yüzünden imkansıza yakındır."
-      ],
-      imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
-    },
-    {
-      heading: "Doğu Anadolu Bölgesi: Yükselti, Soğuk ve Mera Hayvancılığı",
-      body: "Doğu Anadolu Bölgesi, Türkiye'nin en yüksek, en engebeli ve fiziki şartları en zorlu coğrafi bölgesidir.\n\nFiziki Özellikleri:\n- Yüzölçümü en büyük bölgedir. Ortalama yükseltisi en fazla olan bölgedir (2000 metre üzeri).\n- Karasallık derecesi en şiddetlidir. Kışlar çok soğuk, uzun ve kar yağışlı geçer. Don olayları ve çığ riski en yüksektir.\n- Akarsuların akış hızları ve hidroelektrik enerji potansiyelleri en yüksektir. \n- Maden çeşitliliği ve rezervi en zengin olan bölgedir (Yukarı Fırat).\n\nBeşeri ve Ekonomik Özellikleri:\n- Nüfus miktarı ve yoğunluğu en az olan bölgelerdendir. Tarım alanları kısıtlıdır, tarım ürünlerinin olgunlaşma süresi en uzundur.\n- Yaz yağışlarıyla yeşeren gür Alpin çayırlar sayesinde büyükbaş mera hayvancılığı (Erzurum-Kars-Ardahan) en önemli geçim kaynağıdır.\n- Sanayi faaliyetlerinin en az geliştiği bölgedir, bu yüzden sürekli dışarıya göç verir.",
-      bullets: [
-        "Erzurum-Kars-Ardahan platolarında yaz yağışlarının görülmesi büyükbaş mera hayvancılığını geliştirmiştir ancak verim iklime bağlı olduğundan dalgalıdır.",
-        "Yukarı Fırat Bölümü (Elazığ, Malatya çevresi), maden çeşitliliği ve rezervi bakımından sadece bölgenin değil, Türkiye'nin en zengin alanıdır.",
-        "Dağlık yapı akarsuları derin vadilere hapsetmiştir. Bu durum baraj yapımını kolaylaştırmış ve hidroelektrik potansiyelini zirveye taşımıştır."
-      ],
-      imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
-    },
-    {
-      heading: "Güneydoğu Anadolu Bölgesi: Buharlaşma, Petrol ve GAP'ın Etkisi",
-      body: "Güneydoğu Anadolu, düzlük arazileri, yaz sıcaklığı ve GAP (Güneydoğu Anadolu Projesi) yatırımlarıyla tarımda devrim yaşayan bir bölgemizdir.\n\nFiziki Özellikleri:\n- Ortalama yükseltisi İç ve Doğu Anadolu'ya göre oldukça azdır. Geniş düzlükler ve platolar kaplar.\n- Yaz sıcaklığı ve buharlaşma şiddeti en fazla olan bölgemizdir. Yağış miktarı İç Anadolu'dan fazla olmasına rağmen, buharlaşma nedeniyle en kurak bölgedir.\n- Tek volkanik yükseltisi kalkan biçimli Karacadağ'dır.\n\nBeşeri ve Ekonomik Özellikleri:\n- GAP (Güneydoğu Anadolu Projesi) sayesinde sulama imkanları gelişmiş, bölgede pamuk, mısır, sebze üretimi patlama yapmıştır. Pamuk üretiminde Türkiye birincisidir.\n- Antep fıstığı ve kırmızı mercimek üretiminde liderdir.\n- Türkiye'de petrolün çıkarıldığı tek bölgedir (Batman ve Adıyaman çevresi).\n- Sanayi ve ticaret Gaziantep çevresinde yoğunlaşmıştır. Gaziantep, bölgenin en büyük sanayi merkezidir.",
-      bullets: [
-        "Güneydoğu'nun en kurak bölge olmasının nedeni yağış azlığı değil, aşırı yaz sıcaklığı ve buna bağlı buharlaşmadır (Sıkça sorulur).",
-        "GAP öncesinde bölgede sadece kuraklığa dayanıklı kırmızı mercimek ekilirken; GAP sonrasında pamuk ekimi zirveye yerleşmiştir.",
-        "Bölgenin güney sınırları düz bir ovadan ibarettir, bu durum Suriye sınırının çizilmesini kolaylaştırmış ve yapay bir sınır oluşmasına yol açmıştır."
-      ],
-      imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
-    }
-,
   {
-    heading: "KPSS Nokta Atışı Detaylı Analiz (Bölüm 6)",
-    body: "Coğrafya testlerinde adayların en çok zorlandığı detay analizleri bu ünitede yer almaktadır. Ülkemizin jeolojik geçmişinden, beşeri yapısına kadar uzanan bu süreçte, sınavda çıkabilecek her türlü soru kalıbı analiz edilmiştir.",
+    heading: "Marmara Bölgesi: Sanayi ve Nüfusun Kalbi",
+    body: "Marmara Bölgesi, yükseltisi en az olan, en düz coğrafi bölgemizdir. Üç farklı iklimin (Karadeniz, Akdeniz, Karasal) geçiş kuşağında yer alır. Nüfus miktarı, nüfus yoğunluğu, sanayi tesisleri, ticaret hacmi ve enerji tüketimi bakımından Türkiye'de birinci sıradadır. Çatalca-Kocaeli bölümü sanayinin en yoğun olduğu alandır. Kümes hayvancılığı (pazara yakınlık) ve ayçiçeği (Ergene havzası) tarımı çok gelişmiştir. Yıldız Dağları bölümü ise engebeli yapısıyla bölgenin en seyrek nüfuslu yeridir.",
     bullets: [
-      "Önemli teorik altyapı",
-      "Soru potansiyeli yüksek bilgi",
-      "Akılda tutulması gereken anahtar kelimeler"
+      "Marmara'da yükseltinin az olması, yol yapım maliyetlerinin düşük olmasına ve tarım alanlarının makineleşmeye çok elverişli olmasına zemin hazırlamıştır.",
+      "Bölge, tüketici nüfusun devasa boyutta olması nedeniyle kümes hayvancılığı yatırımlarında liderdir.",
+      "Yıldız Dağları bölümü (Kırklareli), ulaşım yollarına sapa kalması nedeniyle seyrek nüfuslanmıştır."
 ],
     imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
   },
   {
-    heading: "Sınavda Çıkabilecek Kritik Sorular (Bölüm 7)",
-    body: "Tarihsel ve coğrafi süreçlerin birbiriyle ilişkisini kurabilen adaylar coğrafya testlerinde her zaman öne geçer. Bu bölümde, kavramların soru bankalarında nasıl yer aldığını ve çeldiricilerin nasıl kurgulandığını göreceğiz.",
+    heading: "Ege Bölgesi: Horst-Graben Sistemleri ve Tarım",
+    body: "Ege Bölgesi'nde dağlar kıyıya dik uzanır (Kıyı Ege). Horst adı verilen kırık dağlar (Kaz, Madra, Yunt, Bozdağlar, Aydın, Menteşe) ile graben adı verilen çöküntü ovaları (Bakırçay, Gediz, Menderes) yaygındır. Enine kıyı tipi görülür, girinti çıkıntı fazladır ve denizel etki iç kesimlere girebilir. Zeytin, tütün, incir ve üzüm (ZÜTİ) üretiminde ilk sıradadır. Jeotermal enerji kaynakları en zengindir. Menteşe Yöresi (Muğla) ise dağların kıyıya paralel uzandığı engebeli ve seyrek nüfuslu istisnai yerdir.",
     bullets: [
-      "Dikkat edilmesi gereken çeldirici yöntemleri",
-      "Soru çözerken zaman kazandıran taktikler",
-      "Hızlı ezber şifreleri"
+      "Ege Bölgesi'nde dağların dik uzanması kıyı ile iç kesimler arasında iklim farkını azaltırken, kıyı limanlarının hinterlandını çok genişletmiştir.",
+      "Menteşe Yöresi, Ege'nin en çok yağış alan ama engebe nedeniyle en seyrek nüfuslu ve demiryolu olmayan yöresidir.",
+      "Kıyı Ege ovaları alüvyal toprakları sayesinde tarımsal verimliliği en yüksek alanlardandır."
 ],
     imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
   },
   {
-    heading: "Uygulamalı Örnek Sorular ve Çözüm Yolları (Bölüm 8)",
-    body: "Coğrafya sadece bilgi değil, aynı zamanda harita okuryazarlığı ve grafik yorumlama becerisi gerektirir. Haritalar üzerindeki dağılış ilkeleri ve dilsiz harita çalışmaları bu başlık altında detaylandırılmıştır.",
+    heading: "Akdeniz Bölgesi: Karstik Yapı ve Seracılık",
+    body: "Akdeniz Bölgesi'nde Toros Dağları kıyıya paralel uzanır, boyuna kıyı tipi yaygındır. Kıyı ile iç kesimler arasında ulaşım geçitlerle (Çubuk, Sertavul, Gülek, Belen) sağlanır. Karstik yer şekilleri (Teke ve Taşeli platoları, polyeler, obruklar) en yaygın coğrafi unsurdur. Seracılık, turunçgil, muz tarımında liderdir. Deniz turizmi sezonu en uzun bölgedir. Karstik yapı nedeniyle Teke ve Taşeli yörelerinde nüfus son derece seyrektir. Kıl keçisi yetiştiriciliği yaygındır.",
     bullets: [
-      "Harita üzerinde kritik taralı alanlar",
-      "Kıyı ile iç kesimlerin temel farkları",
-      "Yükselti basamaklarının getirdiği sonuçlar"
+      "Akdeniz karstik polyeleri (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) tarımsal üretimin yoğunlaştığı düzlüklerdir.",
+      "Teke ve Taşeli platoları karstik erime nedeniyle su tutmayan, kurak ve engebeli yapısıyla tarıma elverişsizdir; bu yüzden seyrek nüfusludur.",
+      "Çukurova ovası Türkiye'nin en büyük alüvyal delta ovası olarak yılda birden fazla ürün alınabilen tarım merkezidir."
 ],
     imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
   },
   {
-    heading: "Sık Karıştırılan Kavramlar Kılavuzu (Bölüm 9)",
-    body: "Akdeniz yağış rejimi ile Akdeniz ikliminin yayılışı, ya da rüzgar aşındırması ile kuraklık arasındaki farklar gibi birbirine karıştırılan kavramlar bu kılavuzda netleştirilmektedir.",
+    heading: "İç Anadolu Bölgesi: Kuraklık ve Tahıl Ambarı",
+    body: "İç Anadolu Bölgesi, yüzölçümü bakımından ikinci büyük bölgedir. Çevresi yüksek dağlarla çevrili olduğu için denizel etkiler giremez ve karasal iklim hakimdir. Türkiye'nin en az yağış alan bölgesidir. Rüzgar erozyonu ve çölleşme riski (Konya Karapınar) en yüksektir. Tahıl tarımı (buğday, arpa) ve şeker pancarı üretiminde birinci sıradadır. Küçükbaş hayvancılık (koyun) bozkır bitki örtüsü nedeniyle yaygındır. Nüfus düzlük alanlarda (Konya, Eskişehir, Kayseri) yoğundur.",
     bullets: [
-      "Kavram 1 ve Kavram 2 karşılaştırması",
-      "Sınavda çıkan benzer terimler",
-      "Zaman tüneli ve tarihsel gelişim sırası"
+      "İç Anadolu, Türkiye'nin tahıl ambarı olarak adlandırılır. Nadas alanlarının en geniş olduğu ikinci bölgemizdir.",
+      "Konya Ovası Projesi (KOP) ile Göksu nehrinin suları mavi tünel vasıtasıyla Konya ovasına akıtılarak tarımsal verim artırılmıştır.",
+      "Bozkır bitki örtüsü koyun yetiştiriciliğini (küçükbaş hayvancılık) bölgenin temel geçim kaynağı yapmıştır."
 ],
     imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
   },
   {
-    heading: "Son Tekrar ve Akademik Özet (Bölüm 10)",
-    body: "Sınava girmeden önce mutlaka okunması gereken, tüm ünitenin en kritik 10 bilgisini içeren bu son tekrar bölümü, netlerinizi artırmak için özel olarak hazırlanmıştır.",
+    heading: "Karadeniz Bölgesi: Yağış, Orman ve Dağınık Yerleşme",
+    body: "Karadeniz Bölgesi, nemli iklim özellikleri, gür ormanları ve engebeli yer şekilleriyle özgün bir coğrafyaya sahiptir. Dağlar kıyıya paralel uzanır (Kuzey Anadolu Dağları). Falezler son derece yaygındır. Yağış rejimi düzenli olup heyelan riski en yüksek bölgedir. Kırsal kesimde dağınık yerleşme (suyun bol, arazinin engebeli olması nedeniyle) hakimdir. Çay ve fındık tarımında liderdir. Ormancılık faaliyetleri çok gelişmiştir. Taş kömürü madenciliği (Zonguldak) sanayinin temelidir.",
     bullets: [
-      "Son dakika hap bilgisi 1",
-      "Son dakika hap bilgisi 2",
-      "Unutulmaması gereken en önemli kural"
+      "Heyelanların en çok Karadeniz'de görülme nedeni: Aşırı yağış, killi toprak yapısı ve dik yamaç eğimidir.",
+      "Kuzey Anadolu Dağları'nın kıyıya paralel olması, denizel havanın iç kesimlere geçmesini önlemiş; iç kesimlerde (Gümüşhane, Bayburt) iklimi sert karasallaştırmıştır.",
+      "Doğu Karadeniz kıyıları engebeli yapısı nedeniyle net göç veren bir bölgedir. Tarımda makine kullanımı engebe yüzünden imkansıza yakındır."
+],
+    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+  },
+  {
+    heading: "Doğu Anadolu Bölgesi: Yükselti, Soğuk ve Mera Hayvancılığı",
+    body: "Doğu Anadolu Bölgesi, Türkiye'nin en yüksek, en engebeli ve fiziki şartları en zorlu coğrafi bölgesidir. Yüzölçümü en büyük, ortalama yükseltisi en fazla olan bölgedir (2000 metre üzeri). Karasallık derecesi en şiddetlidir. Kışlar çok soğuk, uzun ve kar yağışlı geçer. Don olayları ve çığ riski en yüksektir. Akarsuların akış hızları ve hidroelektrik enerji potansiyelleri en yüksektir. Yaz yağışlarıyla yeşeren gür Alpin çayırlar sayesinde büyükbaş mera hayvancılığı (Erzurum-Kars) en önemli geçim kaynağıdır.",
+    bullets: [
+      "Erzurum-Kars-Ardahan platolarında yaz yağışlarının görülmesi büyükbaş mera hayvancılığını geliştirmiştir ancak verim iklime bağlı olduğundan dalgalıdır.",
+      "Yukarı Fırat Bölümü (Elazığ, Malatya çevresi), maden çeşitliliği ve rezervi bakımından sadece bölgenin değil, Türkiye'nin en zengin alanıdır.",
+      "Dağlık yapı akarsuları derin vadilere hapsetmiştir. Bu durum baraj yapımını kolaylaştırmış ve hidroelektrik potansiyelini zirveye taşımıştır."
+],
+    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+  },
+  {
+    heading: "Güneydoğu Anadolu Bölgesi: Buharlaşma ve Pamuk",
+    body: "Güneydoğu Anadolu, düzlük arazileri, yaz sıcaklığı ve GAP (Güneydoğu Anadolu Projesi) yatırımlarıyla tarımda devrim yaşayan bir bölgemizdir. Ortalama yükseltisi azdır. Yaz sıcaklığı ve buharlaşma şiddeti en fazla olan bölgemizdir. Yağış miktarı İç Anadolu'dan fazla olmasına rağmen, buharlaşma nedeniyle en kurak bölgedir. GAP sayesinde sulama imkanları gelişmiş, pamuk üretiminde Türkiye birincisi olmuştur. Antep fıstığı ve kırmızı mercimek üretiminde liderdir. Petrolün çıkarıldığı tek bölgedir.",
+    bullets: [
+      "Güneydoğu'nun en kurak bölge olmasının nedeni yağış azlığı değil, aşırı yaz sıcaklığı ve buna bağlı buharlaşmadır.",
+      "GAP öncesinde bölgede sadece kuraklığa dayanıklı kırmızı mercimek ekilirken; GAP sonrasında pamuk ekimi zirveye yerleşmiştir.",
+      "Bölgenin güney sınırları düz bir ovadan ibarettir, bu durum Suriye sınırının çizilmesini kolaylaştırmış ve yapay bir sınır oluşmasına yol açmıştır."
+],
+    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+  },
+  {
+    heading: "Bölgesel Kalkınma Projelerinin Detayları",
+    body: "Türkiye'de bölgeler arasındaki coğrafi ve sosyo-ekonomik gelişmişlik farklarını azaltmak amacıyla Bölgesel Kalkınma Projeleri hazırlanmıştır.\n- GAP (Güneydoğu Anadolu Projesi): Sulama ve hidroelektrik odaklı en başarılı ve uygulanmış projedir.\n- KOP (Konya Ovası Projesi): İç Anadolu'da tarımsal sulama ve su tasarrufu odaklıdır.\n- DOKAP (Doğu Karadeniz Projesi): Yayla turizmi (Yeşil Yol), hayvancılık ve kıyı ulaşımı geliştirmeyi hedefler.\n- DAP (Doğu Anadolu Projesi): Hayvancılık ve tarımsal altyapıyı modernize etmeyi amaçlar.\n- ZBK (Zonguldak Bartın Karabük): Demir-çelik ve madencilik sektörünün dönüşümünü hedefler.",
+    bullets: [
+      "GAP, sosyo-ekonomik dönüşümü sağlayan Türkiye'nin ilk ve en kapsamlı bölgesel kalkınma projesidir.",
+      "KOP projesi, yeraltı sularının tükenmesini önlemek için Göksu nehrinin sularını barajlar ve tünellerle Konya ovasına aktarmaktadır.",
+      "DOKAP kapsamındaki 'Yeşil Yol' projesi, Karadeniz yaylalarını kesintisiz yollarla birbirine bağlayarak turizmi canlandırmaktadır."
+],
+    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+  },
+  {
+    heading: "Marmara Bölgesi'nin Deprem Riski ve Sanayi Desantralizasyonu",
+    body: "Marmara Bölgesi, Türkiye nüfusunun ve sanayisinin yaklaşık %60'ını barındırır. Ancak bölge, Kuzey Anadolu Fay Hattı (KAF) üzerinde yer aldığından büyük bir deprem riski altındadır. Olası bir İstanbul depreminin ülke ekonomisine vereceği zararları azaltmak amacıyla, son yıllarda devlet ve planlama kuruluşları 'Sanayi Desantralizasyonu' (sanayinin merkezden uzaklaştırılması) politikası yürütmektedir. Bu kapsamda yeni ağır sanayi yatırımları Marmara yerine Aksaray, Konya, Kırıkkale gibi deprem riskinin az olduğu İç Anadolu şehirlerine kaydırılmaktadır.",
+    bullets: [
+      "Sanayinin Marmara'da aşırı yığılması, deprem güvenliği açısından ulusal bir güvenlik riski oluşturmaktadır.",
+      "Desantralizasyon politikası, Marmara'ya yönelik nüfus göçünü azaltarak nüfusun Anadolu'ya dengeli dağılmasını sağlar.",
+      "Aksaray ve Konya, demiryolu bağlantısı ve deprem güvenliği nedeniyle yeni sanayi yatırımlarının gözde merkezleri olmuştur."
+],
+    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+  },
+  {
+    heading: "Ege'de Jeotermal Isıtmalı Seracılık ve İnovasyon",
+    body: "Ege Bölgesi, fay hatlarının (kırıklı yapı) en yoğun olduğu bölgemizdir. Bu durum bölgeyi jeotermal kaynaklar (sıcak su) bakımından zenginleştirmiştir. Son yıllarda Ege'de, jeotermal kaynaklar sadece elektrik üretiminde değil, 'Jeotermal Isıtmalı Teknolojik Seracılık' alanında da kullanılmaktadır. Denizli (Sarayköy), Aydın ve İzmir (Dikili) çevresinde kurulan devasa seralar, kış aylarında yer altından gelen sıcak su borularıyla ısıtılarak kömür ve doğalgaz maliyeti olmaksızın organik ihracatlık domates ve sebze üretimi gerçekleştirmektedir.",
+    bullets: [
+      "Jeotermal seracılık, kış aylarında ısıtma maliyetlerini %80 oranında düşürerek tarımda devasa kar marjı sağlar.",
+      "Dikili (İzmir) jeotermal sera bölgesi, Avrupa'nın en büyük teknolojik sera alanlarından biridir.",
+      "Bu yöntem, fosil yakıt kullanılmadığı için çevre dostu ve sıfır karbon salınımlı tarımsal inovasyon örneğidir."
 ],
     imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
   }

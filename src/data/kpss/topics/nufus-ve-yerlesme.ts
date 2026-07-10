@@ -10,104 +10,103 @@ export const nufusveyerlesme: Topic = {
   estimatedMinutes: 60,
   keywords: ["kpss", "coğrafya", "nüfus ve yerleşme", "göçler", "köyaltı yerleşmeleri", "nüfus yoğunluğu", "mesken tipleri"],
   summary: [
-    {
-      heading: "Türkiye'de Nüfusun Dağılışını Etkileyen Faktörler",
-      body: "Türkiye'de nüfusun dağılışı son derece düzensizdir. Bu düzensizlik üzerinde fiziki (doğal) ve beşeri faktörlerin etkisi büyüktür.\n\n1. Fiziki (Doğal) Faktörler:\n- İklim: Nüfusun dağılışını etkileyen en temel faktördür. Kıyı kesimler nemli ve ılık iklim şartlarına sahip olduğu için iç kesimlere göre daha sık nüfuslanmıştır.\n- Yer Şekilleri: Engebeli ve dağlık alanlar tarım, ulaşım ve sanayiyi zorlaştırdığı için seyrek nüfusludur. (Örn: Hakkari, Doğu Karadeniz dağlık alanları, Teke ve Taşeli platoları, Menteşe yöresi).\n- Su Kaynakları ve Toprak Özellikleri: Tarımsal faaliyetler için verimli topraklar ve su kenarları sık nüfusludur. Kurak olan Tuz Gölü çevresi ve erozyona açık alanlar seyrektir.\n\n2. Beşeri Faktörler:\n- Sanayileşme ve Ticaret: İş imkanlarının fazlalığı nedeniyle nüfusun en çok çekildiği alanlardır (Çatalca-Kocaeli, Bursa, İzmir, Adana).\n- Tarım: Verimli tarım ovalarının bulunduğu yerler sık nüfusludur (Çukurova, Kıyı Ege, Bursa Ovası).\n- Ulaşım: Önemli kavşak noktalarındaki şehirler hızlı büyür (Ankara, Afyonkarahisar, Gaziantep).\n- Madencilik: Zonguldak (taş kömürü), Batman (petrol), Soma (linyit) gibi yerler maden çıkarımıyla nüfusu çekmiştir.",
-      bullets: [
-        "Menteşe Yöresi (Muğla), kıyıda yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfusludur (Tuzak soru).",
-        "Teke ve Taşeli Platoları, Akdeniz kıyısında olmalarına karşın engebeli arazi ve karstik yapının (suyun yer altına sızması) etkisiyle seyrek nüfusludur.",
-        "Doğu Karadeniz kıyı kuşağı dar bir şeritte sık nüfusluyken, dağların hemen arkasındaki iç kesimler (Gümüşhane, Bayburt) çok seyrek nüfusludur."
-      ],
-      imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
-    },
-    {
-      heading: "Nüfusun Yapısı, Özellikleri ve Yoğunluk Türleri",
-      body: "Türkiye nüfusu, demografik olarak dinamik bir yapıdan yavaş yavaş yaşlanan bir yapıya geçiş sürecindedir. Nüfus yapısının özellikleri KPSS'de tablo yorumlama olarak sıkça sorulur.\n\n1. Yaş Yapısı ve Piramit:\nTürkiye'de doğum oranları hızla azalmaktadır. Bu durum nüfus piramidinin tabanının daralmasına neden olur. Yaşlı nüfus oranı (65+ yaş) ve ortanca yaş (medyan yaş) sürekli yükselmektedir. Türkiye olgun nüfus yapısına sahip, gelişmekte olan bir ülke grafiği sunar.\n2. Sektörel Dağılım ve Okuryazarlık:\nAktif nüfusun en büyük kısmı Hizmet sektöründe çalışır. Bunu sırasıyla Sanayi ve Tarım takip eder. Okuryazarlık oranı %97'nin üzerindedir ve kentleşme oranı %93'ü aşmıştır.\n3. Nüfus Yoğunluğu Türleri:\n- Aritmetik Nüfus Yoğunluğu: Toplam nüfus / Toplam yüzölçümü. Türkiye'de nüfus sürekli arttığı için bu yoğunluk her yıl artar. En yüksek Marmara, en düşük Doğu Anadolu'dur.\n- Tarımsal Nüfus Yoğunluğu: Tarımda çalışan nüfus / Tarım alanları. Tarım alanlarının çok dar olduğu dağlık ve engebeli yerlerde (Doğu Karadeniz, Hakkari, Teke-Taşeli) bu yoğunluk çok yüksek; İç Anadolu ve Güneydoğu gibi düz yerlerde ise düşüktür.\n- Fizyolojik Nüfus Yoğunluğu: Toplam nüfus / Tarım alanları. Tarım alanları kısıtlı ama nüfusu devasa olan Marmara'da bu yoğunluk zirvededir.",
-      bullets: [
-        "Medyan (ortanca) yaşın yükselmesi, doğum oranlarının azaldığını ve ortalama yaşam süresinin uzadığını gösteren en net kanıttır.",
-        "Tarımsal nüfus yoğunluğunun yüksek olması o bölgenin dağlık ve engebeli olduğunun (tarım arazisinin darlığının) göstergesidir.",
-        "Marmara Bölgesi, tarımsal nüfus yoğunluğu en düşük bölgelerden biriyken, fizyolojik ve aritmetik yoğunlukta Türkiye lideridir."
-      ],
-      imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
-    },
-    {
-      heading: "Türkiye'de Göçler: Nedenleri, Sonuçları ve Mevsimlik Göç",
-      body: "Türkiye'de göçler genel olarak iç kesimlerden kıyı kesimlere, kırsaldan kentlere ve doğudan batıya doğrudur.\n\nGöçlerin Nedenleri:\n- İtici Faktörler (Kırsalda): Tarımda makineleşme (iş gücü ihtiyacını azaltır), miras yoluyla toprakların bölünmesi, eğitim ve sağlık hizmetlerinin yetersizliği, kan davaları, erozyon.\n- Çekici Faktörler (Kentte): İş olanaklarının fazlalığı, daha iyi eğitim ve sağlık hizmetleri, kültürel ve sosyal yaşamın cazibesi.\n\nGöçlerin Sonuçları:\n- Kentlerde düzensiz kentleşme (gecekondu), altyapı yetersizliği ve çevre kirliliği oluşur.\n- Sanayi tesisleri şehir merkezinde kalır.\n- Kırsalda okullar ve sağlık ocakları kapanır, yatırımlar atıl kalır.\n\nMevsimlik (Geçici) Göçler:\nYılın belirli dönemlerinde çalışmak amacıyla yapılan göçlerdir.\n- Tarım Göçü: Adana'ya pamuk, Ordu ve Giresun'a fındık, Rize'ye çay, Şanlıurfa ve Ege'ye tarım işçiliği için gidilmesi.\n- Turizm Göçü: Akdeniz ve Ege kıyılarına yaz aylarında otel çalışanlarının ve hizmet sektörünün kayması.\n- Yaylacılık: Akdeniz ve Karadeniz'de yazın sürüleri otlatmak veya serinlemek amacıyla yüksek alanlara çıkılması.",
-      bullets: [
-        "Tarımda makineleşme, düzlük alanlarda (İç Anadolu, Güneydoğu) göçü artıran itici bir güçken; Karadeniz gibi dağlık yerlerde makineleşme yapılamadığı için göçe neden olmaz.",
-        "Mevsimlik göç alan yerlerde (Antalya, Muğla, Ordu) yaz aylarında nüfus geçici olarak katlanır, bu durum belediye hizmetlerini zorlaştırır.",
-        "Beyin göçü ve işçi göçleri (Almanya vb.) Türkiye'nin dış göç hareketlerini oluşturur."
-      ],
-      imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
-    },
-    {
-      heading: "Kentsel ve Kırsal Yerleşmeler: Köyaltı Yerleşmeleri",
-      body: "Yerleşmeler temel ekonomik faaliyetlerine ve nüfus büyüklüklerine göre ikiye ayrılır.\n\nKöyaltı Yerleşmeleri:\nKöy sınırları içinde yer alan, idari olarak köye bağlı ama ondan mesafe olarak uzak olan küçük yerleşmelerdir. Tarım ve hayvancılık amacıyla kurulmuşlardır. Sürekli ve geçici olarak ikiye ayrılırlar:\n\n1. Sürekli Köyaltı Yerleşmeleri (Tarım ağırlıklı):\n- Mezra: Doğu ve Güneydoğu Anadolu'da yaygındır. Birkaç ev ve geniş tarım arazisinden oluşur.\n- Divan: Batı Karadeniz'de (Samsun, Bolu, Sinop) yaygındır. Birkaç mahallenin birleşmesiyle oluşur.\n- Mahalle: Tarım ve hayvancılık yapılan, köye bağlı sürekli yerleşmedir.\n- Çiftlik: Geniş tarım ve hayvancılık arazisi üzerine kurulu yerleşmelerdir. Trakya, Ege, İç Anadolu'da yaygındır.\n\n2. Geçici Köyaltı Yerleşmeleri (Hayvancılık ağırlıklı):\n- Yayla: En yaygın geçici yerleşmedir. Karadeniz (turizm/otlatma), Akdeniz (serinleme/otlatma) ve Doğu Anadolu'da yaygındır.\n- Kom: Doğu Anadolu'da hayvancılık amaçlı kurulan geçici meskenlerdir.\n- Oba: Göçebe ailelerin çadır kurarak oluşturduğu topluluklardır. En çok Toroslar'da (Yörükler) görülür.\n- Ağıl: Küçükbaş hayvanların gece barınması için taş veya ahşap çitlerle çevrili alanlardır. İç Anadolu ve Doğu Anadolu'da yaygındır.",
-      bullets: [
-        "Mezra, Divan, Mahalle ve Çiftlik sürekli (yaz-kış kalınan) yerleşmelerdir.",
-        "Yayla, Kom, Oba, Ağıl, Dam ve Dalyan ise geçici (sadece yazın veya hayvancılık döneminde kalınan) yerleşmelerdir.",
-        "Dalyan, Ege kıyılarında yaygın olan balık üretimi ve avcılığı yapılan geçici bir kıyı yerleşmesidir."
-      ],
-      imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
-    },
-    {
-      heading: "Mesken (Konut) Tipleri ve Coğrafi Dağılışı",
-      body: "Kırsal alanlarda evlerin yapımında kullanılan malzemeler, doğrudan o bölgenin iklimine, yer şekillerine ve jeolojik/bitkisel kaynaklarına bağlıdır. KPSS'de mesken tipleri ve görüldükleri bölgeler sıkça soru konusu olur.\n\n1. Ahşap Meskenler:\nOrman örtüsünün zengin, nem ve yağışın bol olduğu Karadeniz kıyı kuşağında en yaygın konut tipidir. Ahşap malzeme kolay çürümediği ve yalıtım sağladığı için tercih edilir.\n2. Taş Meskenler:\nArazide kireçtaşı (kalker), volkanik taşlar veya diğer kayaçların bol olduğu engebeli yerlerde yaygındır. Akdeniz Bölgesi (kalker/kireç taşı), Doğu Anadolu (bazalt/tüf), İç Anadolu (tüf sahaları - Ürgüp/Göreme çevresi) ve Ege'de taş evler yaygındır.\n3. Toprak (Kerpiç) Meskenler:\nKurak ve yarı kurak iklim bölgelerinde, ağaç ve taşın bulunmadığı düzlüklerde saman ve çamurun karıştırılmasıyla yapılan evlerdir. Yazın serin, kışın sıcak tutar ancak yağışla kolayca yıpranır. İç Anadolu ve Güneydoğu Anadolu bölgelerinde en yaygın mesken türüdür.",
-      bullets: [
-        "Karadeniz'deki ahşap meskenler tamamen özel konumun (iklim ve gür orman varlığı) sonucudur.",
-        "İç Anadolu ve Güneydoğu'da kerpiç (toprak) evlerin yaygın olması kurak iklimin ve orman azlığının bir sonucudur.",
-        "Gelişmiş şehirlerde betonarme binaların yaygınlaşmasıyla geleneksel ahşap, taş ve kerpiç evler önemini yitirmiştir."
-      ],
-      imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
-    }
-,
   {
-    heading: "KPSS Nokta Atışı Detaylı Analiz (Bölüm 6)",
-    body: "Coğrafya testlerinde adayların en çok zorlandığı detay analizleri bu ünitede yer almaktadır. Ülkemizin jeolojik geçmişinden, beşeri yapısına kadar uzanan bu süreçte, sınavda çıkabilecek her türlü soru kalıbı analiz edilmiştir.",
+    heading: "Türkiye'de Nüfusun Dağılışını Etkileyen Faktörler",
+    body: "Türkiye'de nüfusun dağılışı son derece düzensizdir. Bu düzensizlik üzerinde fiziki (doğal) ve beşeri faktörlerin etkisi büyüktür. İklim (nemlilik/sıcaklık) nüfusun kıyı bölgelerinde toplanmasını sağlarken, engebeli dağlık alanlar (Hakkari, Doğu Karadeniz) ve kurak yerler (Tuz Gölü çevresi) seyrek nüfusludur. Sanayileşme, ticaret ve ulaşımın geliştiği Marmara (Çatalca-Kocaeli) ve Kıyı Ege ise iş imkanlarının fazlalığı nedeniyle nüfusun en yoğun olduğu alanlardır.",
     bullets: [
-      "Önemli teorik altyapı",
-      "Soru potansiyeli yüksek bilgi",
-      "Akılda tutulması gereken anahtar kelimeler"
+      "Menteşe Yöresi (Muğla), kıyıda yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfusludur.",
+      "Teke ve Taşeli Platoları, Akdeniz kıyısında olmalarına karşın engebeli arazi ve karstik yapının etkisiyle seyrek nüfusludur.",
+      "Doğu Karadeniz kıyı kuşağı dar bir şeritte sık nüfusluyken, dağların hemen arkasındaki iç kesimler (Gümüşhane, Bayburt) çok seyrek nüfusludur."
 ],
     imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
   },
   {
-    heading: "Sınavda Çıkabilecek Kritik Sorular (Bölüm 7)",
-    body: "Tarihsel ve coğrafi süreçlerin birbiriyle ilişkisini kurabilen adaylar coğrafya testlerinde her zaman öne geçer. Bu bölümde, kavramların soru bankalarında nasıl yer aldığını ve çeldiricilerin nasıl kurgulandığını göreceğiz.",
+    heading: "Nüfusun Yapısı, Özellikleri ve Yoğunluk Türleri",
+    body: "Türkiye nüfusu, demografik olarak dinamik bir yapıdan yavaş yavaş yaşlanan bir yapıya geçiş sürecindedir. Doğum oranlarının düşmesiyle nüfus piramidinin tabanı daralmaktadır. Ortalama ömür uzamakta ve okuryazarlık oranı %97'nin üzerine çıkmaktadır. Nüfus yoğunluğu türleri coğrafi yorumlama için önemlidir. Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle elde edilir ve sürekli artar. Tarımsal nüfus yoğunluğu ise tarım alanlarının çok dar olduğu dağlık bölgelerde (Doğu Karadeniz, Hakkari) çok yüksek çıkar.",
     bullets: [
-      "Dikkat edilmesi gereken çeldirici yöntemleri",
-      "Soru çözerken zaman kazandıran taktikler",
-      "Hızlı ezber şifreleri"
+      "Medyan (ortanca) yaşın yükselmesi, doğum oranlarının azaldığını ve ortalama yaşam süresinin uzadığını gösteren en net kanıttır.",
+      "Tarımsal nüfus yoğunluğunun yüksek olması o bölgenin dağlık ve engebeli olduğunun (tarım arazisinin darlığının) göstergesidir.",
+      "Marmara Bölgesi, tarımsal nüfus yoğunluğu en düşük bölgelerden biriyken, fizyolojik ve aritmetik yoğunlukta Türkiye lideridir."
 ],
     imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
   },
   {
-    heading: "Uygulamalı Örnek Sorular ve Çözüm Yolları (Bölüm 8)",
-    body: "Coğrafya sadece bilgi değil, aynı zamanda harita okuryazarlığı ve grafik yorumlama becerisi gerektirir. Haritalar üzerindeki dağılış ilkeleri ve dilsiz harita çalışmaları bu başlık altında detaylandırılmıştır.",
+    heading: "Türkiye'de Göçler: Nedenleri, Sonuçları ve Mevsimlik Göç",
+    body: "Türkiye'de göçler genel olarak iç kesimlerden kıyı kesimlere, kırsaldan kentlere ve doğudan batıya doğrudur. Kırsalda toprakların mirasla bölünmesi ve tarımda makineleşme insanları göçe zorlayan itici faktörlerken, kentlerdeki iş ve eğitim olanakları çekici faktörlerdir. Göç alan şehirlerde düzensiz kentleşme, altyapı yetersizliği ve sanayi tesislerinin şehir merkezinde kalması gibi sorunlar yaşanır. Tarım (pamuk, fındık, çay), turizm ve yaylacılık ise mevsimlik geçici göçleri tetikler.",
     bullets: [
-      "Harita üzerinde kritik taralı alanlar",
-      "Kıyı ile iç kesimlerin temel farkları",
-      "Yükselti basamaklarının getirdiği sonuçlar"
+      "Tarımda makineleşme, düzlük alanlarda göçü artıran itici bir güçken; Karadeniz gibi dağlık yerlerde makineleşme yapılamadığı için göçe neden olmaz.",
+      "Mevsimlik göç alan yerlerde yaz aylarında nüfus geçici olarak katlanır, bu durum belediye hizmetlerini zorlaştırır.",
+      "Beyin göçü ve işçi göçleri Türkiye'nin dış göç hareketlerini oluşturur."
 ],
     imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
   },
   {
-    heading: "Sık Karıştırılan Kavramlar Kılavuzu (Bölüm 9)",
-    body: "Akdeniz yağış rejimi ile Akdeniz ikliminin yayılışı, ya da rüzgar aşındırması ile kuraklık arasındaki farklar gibi birbirine karıştırılan kavramlar bu kılavuzda netleştirilmektedir.",
+    heading: "Kentsel ve Kırsal Yerleşmeler: Köyaltı Yerleşmeleri",
+    body: "Yerleşmeler ekonomik faaliyetlerine ve nüfuslarına göre ayrılır. Kırsal kesimde köy sınırları içinde yer alan, hayvancılık ve tarım amaçlı kurulan küçük meskenlere köyaltı yerleşmeleri denir. Sürekli (mezra, divan, mahalle, çiftlik) ve geçici (yayla, kom, oba, ağıl, dalyan) yerleşmeler olarak gruplandırılır. Mezra Doğu Anadolu'da, Divan Batı Karadeniz'de yaygın sürekli yerleşmelerken; Yayla en yaygın geçici yerleşmedir. Oba ise Toroslar'da göçebe Yörük çadırlarından oluşur.",
     bullets: [
-      "Kavram 1 ve Kavram 2 karşılaştırması",
-      "Sınavda çıkan benzer terimler",
-      "Zaman tüneli ve tarihsel gelişim sırası"
+      "Mezra, Divan, Mahalle ve Çiftlik sürekli (yaz-kış kalınan) yerleşmelerdir.",
+      "Yayla, Kom, Oba, Ağıl, Dam ve Dalyan ise geçici yerleşmelerdir.",
+      "Dalyan, Ege kıyılarında yaygın olan balık üretimi ve avcılığı yapılan geçici bir kıyı yerleşmesidir."
 ],
     imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
   },
   {
-    heading: "Son Tekrar ve Akademik Özet (Bölüm 10)",
-    body: "Sınava girmeden önce mutlaka okunması gereken, tüm ünitenin en kritik 10 bilgisini içeren bu son tekrar bölümü, netlerinizi artırmak için özel olarak hazırlanmıştır.",
+    heading: "Mesken (Konut) Tipleri ve Coğrafi Dağılışı",
+    body: "Kırsal alanlarda evlerin yapımında kullanılan malzemeler, doğrudan o bölgenin iklimine, yer şekillerine ve jeolojik kaynaklarına bağlıdır. Ormanların ve nemin bol olduğu Karadeniz kıyı kuşağında geleneksel evlerin malzemesi ahşaptır. Karstik ve volkanik arazilerin yaygın olduğu Akdeniz (kalker), Doğu Anadolu (bazalt) ve İç Anadolu (tüf) çevresinde taş meskenler görülür. Kurak ve ağacın az olduğu İç Anadolu ve Güneydoğu ovalarında ise çamur ve samanın kurutulmasıyla yapılan kerpiç (toprak) evler yaygındır.",
     bullets: [
-      "Son dakika hap bilgisi 1",
-      "Son dakika hap bilgisi 2",
-      "Unutulmaması gereken en önemli kural"
+      "Karadeniz'deki ahşap meskenler tamamen özel konumun (iklim ve gür orman varlığı) sonucudur.",
+      "İç Anadolu ve Güneydoğu'da kerpiç evlerin yaygın olması kurak iklimin ve orman azlığının bir sonucudur.",
+      "Gelişmiş şehirlerde betonarme binaların yaygınlaşmasıyla geleneksel ahşap, taş ve kerpiç evler önemini yitirmiştir."
+],
+    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+  },
+  {
+    heading: "Türkiye'de Nüfus Politikaları ve Tarihsel Evreleri",
+    body: "Türkiye Cumhuriyeti, kurulduğu günden bugüne sosyal ve ekonomik şartlara bağlı olarak farklı nüfus politikaları uygulamıştır. 1923-1965 yılları arasında savaştan yeni çıkmış ülkenin iş gücü ihtiyacını karşılamak amacıyla nüfus artış hızını artırıcı politikalar (çok çocuklu ailelere madalya, vergi muafiyeti) uygulanmıştır. 1965-1980 arasında kalkınma hızını korumak için nüfus artış hızını azaltıcı aile planlaması kanunu çıkarılmıştır. Günümüzde ise doğum oranlarının çok düşmesiyle tekrar nüfus artışını teşvik edici politikalar öne çıkmıştır.",
+    bullets: [
+      "1940-1945 yılları arasında (II. Dünya Savaşı dönemi) askere alınmalar nedeniyle nüfus artış hızı tarihin en düşük seviyesine inmiştir.",
+      "1950-1960 yılları arası ise sağlık ve yaşam koşullarının iyileşmesiyle nüfus artış hızının en yüksek olduğu dönemdir.",
+      "Günümüzdeki nüfus politikaları sadece sayısal artışı değil, eğitim ve sağlık kalitesini yükseltmeyi de hedefler."
+],
+    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+  },
+  {
+    heading: "Nüfusun Eğitim, Sağlık ve Sosyo-Ekonomik Göstergeleri",
+    body: "Nüfusun niteliği, ülkenin sosyo-ekonomik gelişmişlik seviyesini gösterir. Türkiye'de okuma yazma oranı Cumhuriyetin ilk yıllarında %10'lardayken günümüzde %97'yi aşmıştır. Ortalama yaşam süresi sağlık hizmetlerinin kalitesiyle uzamış ve kadınlarda 81, erkeklerde 76 yıla ulaşmıştır. Kentsel nüfus oranı, sanayileşme ve büyükşehir yasalarının etkisiyle %93'ün üzerine çıkarken kırsal nüfus %7'lere kadar gerilemiştir. Kentli nüfus oranının en fazla olduğu bölge Marmara'dır.",
+    bullets: [
+      "Kadınların okuma yazma oranı ve iş gücüne katılım oranının yüksek olması o bölgenin gelişmişlik seviyesinin yüksek olduğunu gösterir.",
+      "Doğu Karadeniz ve Doğu Anadolu kırsalında tarım ve hayvancılık nedeniyle kırsal nüfus oranı diğer bölgelere göre daha yüksek kalmıştır.",
+      "Okuryazarlık oranının en yüksek olduğu coğrafi bölge Marmara ve Ege'dir."
+],
+    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+  },
+  {
+    heading: "Göçün Mekansal Etkileri ve Şehirlerin Fonksiyonları",
+    body: "Kırsaldan kentlere yapılan büyük göçler mekansal değişimlere yol açar. Göç alan şehirlerde çarpık kentleşme (gecekondu), altyapı yetersizliği, okul ve hastanelerde aşırı yoğunluk oluşur ve sanayi tesisleri şehir merkezinde kalır. Göç veren kırsal alanlarda ise tarım toprakları boş kalır, genç nüfus gittiği için yaşlı ve kadın nüfus kırsalda yalnızlaşır. Şehirler ise gelişimlerini sağlayan fonksiyona göre sanayi (Kocaeli, Bursa), idari (Ankara), liman (İzmir, Mersin) veya ulaşım (Afyon) şehirleri olarak sınıflandırılır.",
+    bullets: [
+      "Gelişmiş şehirlerin göç almasında en büyük çekici faktör iş imkanlarının ve yaşam kalitesinin yüksek olmasıdır.",
+      "Bir şehrin birden fazla fonksiyonu olabilir (Örn: İstanbul hem liman, hem ticaret, hem sanayi metropolüdür).",
+      "Kırsal alanda tarım arazilerinin miras yoluyla parçalanması tarımsal üretimi düşürerek göçü tetikleyen en büyük itici güçtür."
+],
+    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+  },
+  {
+    heading: "Kırsal Alanlarda Yerleşme Dokuları (Toplu ve Dağınık)",
+    body: "Kırsal yerleşmelerde evlerin birbirine olan mesafesi su kaynaklarına ve yer şekillerine göre belirlenir. Toplu yerleşmelerde evler birbirine yakındır; suyun az olduğu, düzlük arazilerin kapladığı İç Anadolu ve Güneydoğu ovalarında yaygındır (insanlar tek bir çeşme/kuyu etrafında toplanır). Dağınık yerleşmelerde ise evler birbirinden uzak ve tarlaların ortasındadır; su kaynaklarının çok bol ve arazinin çok engebeli olduğu Karadeniz kıyı kuşağında (özellikle Doğu Karadeniz) yaygındır.",
+    bullets: [
+      "Karadeniz'de dağınık yerleşmelerin görülmesi tamamen özel konumun (bol su ve engebeli yamaçlar) sonucudur.",
+      "İç Anadolu'da toplu yerleşmelerin görülmesi su azlığı (fiziki kuraklık) nedeniyle insanların su kaynakları başına toplanmasının sonucudur.",
+      "Dağınık yerleşmelerde komşuluk ilişkileri ve altyapı hizmetlerinin (yol, elektrik) maliyeti toplu yerleşmelere göre çok daha zordur."
+],
+    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+  },
+  {
+    heading: "Gelecekteki Demografik Yapı ve Yaşlanan Nüfus Sorunsalı",
+    body: "Türkiye, demografik geçiş sürecinin üçüncü aşamasındadır. Doğum oranlarının hızla düşmesi ve ortalama ömrün uzamasıyla yaşlı nüfus oranı (65 yaş üstü) %10'u aşarak ülkeyi 'yaşlanan nüfuslu ülkeler' sınıfına sokmuştur. Gelecekte aktif genç iş gücünün azalması, sosyal güvenlik sisteminin üzerinde büyük yük oluşturacaktır. Bu demografik fırsat penceresinin kapanmaya başlamasıyla devlet, çalışan annelere çocuk yardımları, esnek çalışma saatleri ve kreş teşvikleri gibi doğum oranlarını artırıcı önlemler almaktadır.",
+    bullets: [
+      "Nüfus piramidinin tabanının daralması doğum oranlarının azaldığını, üst kısmının genişlemesi ise yaşlı nüfusun arttığını gösterir.",
+      "Ortanca yaşın yükselmesi genç nüfus dinamizminin kaybedildiğinin en net kanıtıdır.",
+      "Gelişmiş batı ülkeleri gibi Türkiye de gelecekte iş gücü açığını kapatmak için dışarıdan göç alma ihtiyacı duyabilir."
 ],
     imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
   }

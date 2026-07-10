@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tl-temel-hukuk-01",
+    "topic_id": "temel-hukuk",
+    "date": "1926",
+    "title": "Medeni Kanun",
+    "description": "Medeni Kanun ile haklar eşitlendi.",
+    "tone": "gold",
+    "sort_order": 0,
+    "is_published": true
+  },
+  {
+    "id": "tl-anayasa-tarihi-01",
+    "topic_id": "anayasa-tarihi",
+    "date": "1982",
+    "title": "Mevcut Anayasa",
+    "description": "1982 Anayasası yürürlüğe girdi.",
+    "tone": "gold",
+    "sort_order": 1,
+    "is_published": true
+  },
+  {
+    "id": "tl-yasama-01",
+    "topic_id": "yasama",
+    "date": "600",
+    "title": "Milletvekili Sayısı",
+    "description": "Vekil sayısı 600'e çıkarıldı.",
+    "tone": "gold",
+    "sort_order": 2,
+    "is_published": true
+  },
+  {
+    "id": "tl-yurutme-01",
+    "topic_id": "yurutme",
+    "date": "2017",
+    "title": "Cumhurbaşkanlığı Sistemi",
+    "description": "Yürütmedeki iki başlılık kaldırıldı.",
+    "tone": "gold",
+    "sort_order": 3,
+    "is_published": true
+  },
+  {
+    "id": "tl-yargi-01",
+    "topic_id": "yargi",
+    "date": "1962",
+    "title": "AYM Kurulması",
+    "description": "Anayasa Mahkemesi kurularak denetim başladı.",
+    "tone": "gold",
+    "sort_order": 4,
+    "is_published": true
+  },
+  {
+    "id": "tl-idare-hukuku-01",
+    "topic_id": "idare-hukuku",
+    "date": "5 Yılda",
+    "title": "Yerel Seçimler",
+    "description": "Belediye ve muhtar seçimleri yapılır.",
+    "tone": "gold",
+    "sort_order": 5,
+    "is_published": true
+  },
+  {
+    "id": "tl-guncel-bilgiler-01",
+    "topic_id": "guncel-bilgiler",
+    "date": "Her Yıl",
+    "title": "Yerel Seçimler",
+    "description": "Belediye ve muhtar seçimleri yapılır.",
+    "tone": "gold",
+    "sort_order": 6,
+    "is_published": true
+  }
+]

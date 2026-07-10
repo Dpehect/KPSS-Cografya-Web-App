@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { Providers } from "@/app/providers";
 import "@/app/globals.css";
+import "@/app/button-text-fix.css";
 
 const sans = Geist({ variable: "--font-sans", subsets: ["latin"], display: "swap", preload: true });
 const mono = Geist_Mono({ variable: "--font-mono", subsets: ["latin"], display: "swap", preload: false });

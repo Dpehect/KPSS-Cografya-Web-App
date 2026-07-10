@@ -1,0 +1,40 @@
+/* Button Text Contrast Fixes */
+
+/* Dark backgrounds (slate-800, slate-900, black, indigo-600, blue-600 etc.) */
+button.bg-slate-900, button.bg-slate-800, button.bg-slate-950, button.bg-black,
+button.bg-blue-600, button.bg-blue-700, button.bg-indigo-600, button.bg-indigo-700,
+button.bg-rose-600, button.bg-red-600, button.bg-emerald-600, button.bg-green-600,
+button[class*="bg-slate-9"], button[class*="bg-slate-8"],
+button.bg-\[\#101828\],
+.bg-\[\#101828\],
+[class*="bg-slate-900"] {
+  color: #ffffff !important;
+}
+
+/* Light backgrounds (white, slate-50, slate-100, blue-50, transparent etc.) */
+button.bg-white, button.bg-slate-50, button.bg-slate-100, button.bg-slate-200,
+button.bg-blue-50, button.bg-indigo-50, button.bg-rose-50,
+button.bg-transparent,
+button[class*="bg-white"],
+.bg-white {
+  color: #0f172a !important;
+}
+
+/* Fix specific transparent/outline buttons that should inherit dark color when not hovered */
+button.border:not([class*="bg-"]) {
+  color: #0f172a !important;
+}
+
+/* Focus/Hover states shouldn't break the rules if they change background */
+button.hover\:bg-slate-900:hover, button.hover\:bg-slate-800:hover, button.hover\:bg-black:hover {
+  color: #ffffff !important;
+}
+
+button.hover\:bg-slate-100:hover, button.hover\:bg-slate-50:hover, button.hover\:bg-white:hover {
+  color: #0f172a !important;
+}
+
+/* Muted / disabled buttons */
+button:disabled {
+  color: #94a3b8 !important;
+}

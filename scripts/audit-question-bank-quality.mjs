@@ -8,13 +8,11 @@ const fileExists = (relative) => fs.existsSync(path.join(root, relative));
 const read = (relative) => (fileExists(relative) ? fs.readFileSync(path.join(root, relative), "utf8") : "");
 
 const requiredPatterns = [
-  { label: "Anayasa", re: /anayasa/i },
-  { label: "Yasama", re: /yasama/i },
-  { label: "Yürütme", re: /yürütme|yurutme/i },
-  { label: "Yargı", re: /yargı|yargi/i },
-  { label: "İdare Hukuku", re: /idare\s+hukuku/i },
-  { label: "Müeyyide", re: /müeyyide|mueyyide/i },
-  { label: "Cumhurbaşkanı", re: /cumhurbaşkanı|cumhurbaskani/i },
+  { label: "Coğrafi Konum", re: /coğrafi/i },
+  { label: "Yer Şekilleri", re: /şekilleri/i },
+  { label: "İklim", re: /iklim/i },
+  { label: "Nüfus", re: /nüfus/i },
+  { label: "Tarım", re: /tarım/i },
 ];
 
 async function loadStructuredData() {

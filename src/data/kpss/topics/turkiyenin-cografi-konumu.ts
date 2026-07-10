@@ -14,151 +14,151 @@ export const turkiyenincografikonumu: Topic = {
     heading: "Matematik Konum (Bölüm 1)",
     body: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Özel Konum (Bölüm 1)",
     body: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1585828114-1e0c812d08a0?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Sınır Kapıları (Bölüm 1)",
     body: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Jeopolitik (Bölüm 1)",
     body: "Boğazlara sahip olması stratejik önemini artırır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Saat Dilimi (Bölüm 1)",
     body: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1585828114-1e0c812d08a0?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Matematik Konum (Bölüm 2)",
     body: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Özel Konum (Bölüm 2)",
     body: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Sınır Kapıları (Bölüm 2)",
     body: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1585828114-1e0c812d08a0?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Jeopolitik (Bölüm 2)",
     body: "Boğazlara sahip olması stratejik önemini artırır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Saat Dilimi (Bölüm 2)",
     body: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Matematik Konum (Bölüm 3)",
     body: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1585828114-1e0c812d08a0?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Özel Konum (Bölüm 3)",
     body: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Sınır Kapıları (Bölüm 3)",
     body: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Jeopolitik (Bölüm 3)",
     body: "Boğazlara sahip olması stratejik önemini artırır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1585828114-1e0c812d08a0?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Saat Dilimi (Bölüm 3)",
     body: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Matematik Konum (Bölüm 4)",
     body: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Özel Konum (Bölüm 4)",
     body: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1585828114-1e0c812d08a0?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Sınır Kapıları (Bölüm 4)",
     body: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Jeopolitik (Bölüm 4)",
     body: "Boğazlara sahip olması stratejik önemini artırır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Saat Dilimi (Bölüm 4)",
     body: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1585828114-1e0c812d08a0?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Matematik Konum (Bölüm 5)",
     body: "Türkiye 36°-42° Kuzey enlemleri, 26°-45° Doğu boylamları arasındadır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Özel Konum (Bölüm 5)",
     body: "Asya, Avrupa ve Afrika'nın birbirine en çok yaklaştığı noktadadır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Sınır Kapıları (Bölüm 5)",
     body: "En uzun kara sınırımız Suriye, en kısa sınırımız Nahçıvan iledir. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1585828114-1e0c812d08a0?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Jeopolitik (Bölüm 5)",
     body: "Boğazlara sahip olması stratejik önemini artırır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Saat Dilimi (Bölüm 5)",
     body: "Türkiye +3. saat dilimini (Iğdır) ulusal saat olarak kullanır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   }
   ],
   mustKnow: ["Konunun özü", "Sık çıkan soru tarzı"],

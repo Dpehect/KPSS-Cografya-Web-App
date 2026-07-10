@@ -14,151 +14,151 @@ export const yersekilleri: Topic = {
     heading: "Kıvrım Dağları (Bölüm 1)",
     body: "Kuzey Anadolu Dağları ve Toroslar Alp-Himalaya orojenezi ile oluşmuştur. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Kırık Dağları (Bölüm 1)",
     body: "Ege Bölgesi'ndeki dağlar (Kaz, Madra, Yunt, Bozdağlar, Aydın, Menteşe) kırılma ile oluşmuştur. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1454496564633-069d28270e38?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Volkanik Dağlar (Bölüm 1)",
     body: "Ağrı, Tendürek, Süphan, Nemrut, Erciyes, Hasan, Melendiz, Karacadağ. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1469334023215-bf37ae615128?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Platolar (Bölüm 1)",
     body: "İç Anadolu'da Obruk, Cihanbeyli, Haymana, Bozok, Uzunyayla; Doğu'da Erzurum-Kars. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Karstik Şekiller (Bölüm 1)",
     body: "Akdeniz'de lapya, dolin, uvala, polye ve mağaralar yaygındır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1454496564633-069d28270e38?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Kıvrım Dağları (Bölüm 2)",
     body: "Kuzey Anadolu Dağları ve Toroslar Alp-Himalaya orojenezi ile oluşmuştur. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1469334023215-bf37ae615128?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Kırık Dağları (Bölüm 2)",
     body: "Ege Bölgesi'ndeki dağlar (Kaz, Madra, Yunt, Bozdağlar, Aydın, Menteşe) kırılma ile oluşmuştur. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Volkanik Dağlar (Bölüm 2)",
     body: "Ağrı, Tendürek, Süphan, Nemrut, Erciyes, Hasan, Melendiz, Karacadağ. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1454496564633-069d28270e38?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Platolar (Bölüm 2)",
     body: "İç Anadolu'da Obruk, Cihanbeyli, Haymana, Bozok, Uzunyayla; Doğu'da Erzurum-Kars. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1469334023215-bf37ae615128?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Karstik Şekiller (Bölüm 2)",
     body: "Akdeniz'de lapya, dolin, uvala, polye ve mağaralar yaygındır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Kıvrım Dağları (Bölüm 3)",
     body: "Kuzey Anadolu Dağları ve Toroslar Alp-Himalaya orojenezi ile oluşmuştur. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1454496564633-069d28270e38?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Kırık Dağları (Bölüm 3)",
     body: "Ege Bölgesi'ndeki dağlar (Kaz, Madra, Yunt, Bozdağlar, Aydın, Menteşe) kırılma ile oluşmuştur. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1469334023215-bf37ae615128?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Volkanik Dağlar (Bölüm 3)",
     body: "Ağrı, Tendürek, Süphan, Nemrut, Erciyes, Hasan, Melendiz, Karacadağ. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Platolar (Bölüm 3)",
     body: "İç Anadolu'da Obruk, Cihanbeyli, Haymana, Bozok, Uzunyayla; Doğu'da Erzurum-Kars. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1454496564633-069d28270e38?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Karstik Şekiller (Bölüm 3)",
     body: "Akdeniz'de lapya, dolin, uvala, polye ve mağaralar yaygındır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1469334023215-bf37ae615128?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Kıvrım Dağları (Bölüm 4)",
     body: "Kuzey Anadolu Dağları ve Toroslar Alp-Himalaya orojenezi ile oluşmuştur. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Kırık Dağları (Bölüm 4)",
     body: "Ege Bölgesi'ndeki dağlar (Kaz, Madra, Yunt, Bozdağlar, Aydın, Menteşe) kırılma ile oluşmuştur. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1454496564633-069d28270e38?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Volkanik Dağlar (Bölüm 4)",
     body: "Ağrı, Tendürek, Süphan, Nemrut, Erciyes, Hasan, Melendiz, Karacadağ. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1469334023215-bf37ae615128?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Platolar (Bölüm 4)",
     body: "İç Anadolu'da Obruk, Cihanbeyli, Haymana, Bozok, Uzunyayla; Doğu'da Erzurum-Kars. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Karstik Şekiller (Bölüm 4)",
     body: "Akdeniz'de lapya, dolin, uvala, polye ve mağaralar yaygındır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1454496564633-069d28270e38?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Kıvrım Dağları (Bölüm 5)",
     body: "Kuzey Anadolu Dağları ve Toroslar Alp-Himalaya orojenezi ile oluşmuştur. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1469334023215-bf37ae615128?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Kırık Dağları (Bölüm 5)",
     body: "Ege Bölgesi'ndeki dağlar (Kaz, Madra, Yunt, Bozdağlar, Aydın, Menteşe) kırılma ile oluşmuştur. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Volkanik Dağlar (Bölüm 5)",
     body: "Ağrı, Tendürek, Süphan, Nemrut, Erciyes, Hasan, Melendiz, Karacadağ. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1454496564633-069d28270e38?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Platolar (Bölüm 5)",
     body: "İç Anadolu'da Obruk, Cihanbeyli, Haymana, Bozok, Uzunyayla; Doğu'da Erzurum-Kars. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1469334023215-bf37ae615128?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Karstik Şekiller (Bölüm 5)",
     body: "Akdeniz'de lapya, dolin, uvala, polye ve mağaralar yaygındır. Bu konu KPSS'de sıkça soru getiren ve coğrafi yorumlama becerisi isteyen önemli bir başlıktır.",
     bullets: ["Önemli özellik", "Sınav tüyosu", "Karıştırılmamalı"],
-    imageUrl: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1000"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   }
   ],
   mustKnow: ["Konunun özü", "Sık çıkan soru tarzı"],

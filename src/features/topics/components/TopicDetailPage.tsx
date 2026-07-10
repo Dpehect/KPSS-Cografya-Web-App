@@ -27,7 +27,7 @@ export async function TopicDetailPage({ slug }: { slug: string }) {
             <p className="max-w-3xl text-base leading-8 text-slate-700 dark:text-slate-300">{topic.shortDescription}</p>
             <div className="flex flex-wrap gap-2">
               {topic.keywords.slice(0, 10).map((keyword) => (
-                <span key={keyword} className="rounded-full border border-blue-100 bg-blue-50 px-3 py-1 text-xs font-bold text-blue-800 dark:border-blue-900/60 dark:bg-blue-950/50 dark:text-blue-200">{keyword}</span>
+                <span key={keyword} className="rounded-full border border-blue-100 bg-blue-50 px-3 py-1 text-xs font-bold !text-blue-900 dark:border-blue-900/60 dark:bg-blue-950/50 dark:!text-blue-200">{keyword}</span>
               ))}
             </div>
           </div>
@@ -65,8 +65,8 @@ export async function TopicDetailPage({ slug }: { slug: string }) {
                   {block.bullets?.length ? (
                     <ul className="mt-4 grid gap-2 md:grid-cols-2">
                       {block.bullets.map((bullet) => (
-                        <li key={bullet} className="flex gap-2 rounded-xl bg-slate-50 p-3 text-sm font-semibold text-slate-700 dark:bg-slate-900 dark:text-slate-300">
-                          <CheckCircle2 className="mt-0.5 shrink-0 text-emerald-600" size={16} /> {bullet}
+                        <li key={bullet} className="flex gap-2 rounded-xl bg-slate-50 p-3 text-sm font-semibold !text-slate-900 dark:bg-slate-900 dark:!text-slate-200">
+                          <CheckCircle2 className="mt-0.5 shrink-0 text-emerald-600" size={16} /> <span className="!text-slate-900 dark:!text-slate-200">{bullet}</span>
                         </li>
                       ))}
                     </ul>
@@ -95,7 +95,7 @@ export async function TopicDetailPage({ slug }: { slug: string }) {
           </SidePanel>
           <SidePanel icon={<TriangleAlert size={18} />} title="Sık hata kontrolü">
             <ul className="space-y-2">
-              {topic.commonMistakes.map((mistake) => <li key={mistake} className="rounded-xl bg-amber-50 p-3 text-sm font-semibold text-amber-900 dark:bg-amber-950/40 dark:text-amber-200">{mistake}</li>)}
+              {topic.commonMistakes.map((mistake) => <li key={mistake} className="rounded-xl bg-amber-50 p-3 text-sm font-semibold !text-amber-950 dark:bg-amber-950/40 dark:!text-amber-200">{mistake}</li>)}
             </ul>
           </SidePanel>
           <SidePanel icon={<KeyRound size={18} />} title="Sözlük ve kartlar">
@@ -132,5 +132,5 @@ function SidePanel({ icon, title, children }: { icon: ReactNode; title: string; 
 }
 
 function ExamTip({ title, body }: { title: string; body: string }) {
-  return <div className="rounded-2xl bg-blue-50 p-4 dark:bg-blue-950/40"><h3 className="text-sm font-black text-blue-950 dark:text-blue-100">{title}</h3><p className="mt-2 text-sm leading-6 text-blue-900/80 dark:text-blue-200/85">{body}</p></div>;
+  return <div className="rounded-2xl bg-blue-50 p-4 dark:bg-blue-950/40"><h3 className="text-sm font-black !text-blue-950 dark:!text-blue-100">{title}</h3><p className="mt-2 text-sm leading-6 !text-blue-950 dark:!text-blue-200">{body}</p></div>;
 }

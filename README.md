@@ -8,6 +8,6 @@ Rotating Asset Mapping: I mapped 15 custom educational geography graphics to 90 
 Dynamic Question Context: I replaced static explanations with dynamic, topic-specific tips for every single question. Additionally, choice options are fully randomized programmatically to eliminate answer biases.
 Tech Stack: Next.js, React, TypeScript, Tailwind CSS v4, Supabase
 
-Live Project: https://kpss-cografya-web-app.vercel.app/topics/turkiyenin-cografi-konumu
+Live Project: https://kpss-cografya-web-app.vercel.app/
 
 Source Code: https://github.com/Dpehect/KPSS-Cografya-Web-App

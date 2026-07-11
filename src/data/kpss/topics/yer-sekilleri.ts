@@ -18,7 +18,7 @@ export const yersekilleri: Topic = {
       "Zonguldak'taki taş kömürü I. Jeolojik Zaman kökenliyken; linyit, tuz, bor ve petrol yatakları III. Jeolojik Zaman ürünüdir.",
       "Boğazlar, Ege Denizi ve Anadolu'nun toptan yükselmesi (epirojenik hareketler) IV. Jeolojik Zaman gelişmeleridir."
 ],
-    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
+    imageUrl: "/images/topics/ruzgar_haritasi_1783727857236.png"
   },
   {
     heading: "Oluşumlarına Göre Dağlar (Kıvrım, Kırık, Volkanik)",
@@ -28,7 +28,7 @@ export const yersekilleri: Topic = {
       "Kıvrım dağları Türkiye'deki en yaygın dağ tipidir. Kuzey-güney yönlü sıkışma nedeniyle dağlarımızın büyük çoğunluğu doğu-batı uzanışlıdır.",
       "Güneydoğu Anadolu'daki Karacadağ, lavlarının akıcı olması nedeniyle çok geniş bir alana yayılmış ve 'kalkan tipi volkan' özelliğine sahip tek dağımız olmuştur."
 ],
-    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
+    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
   },
   {
     heading: "Türkiye'nin Platoları ve Sınıflandırılması",
@@ -38,7 +38,7 @@ export const yersekilleri: Topic = {
       "Teke ve Taşeli karstik yapısı nedeniyle su tutma kapasitesi düşük, tarıma elverişsiz ve nüfusun en seyrek olduğu platolardır.",
       "İç Anadolu platoları (Cihanbeyli, Haymana vb.) Türkiye'nin tahıl ambarı konumundadır."
 ],
-    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
+    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
   },
   {
     heading: "Ovalar ve Oluşum Türleri (Delta, Tektonik, Karstik)",
@@ -48,7 +48,7 @@ export const yersekilleri: Topic = {
       "Karstik ovalar (polye) karstik erime süreçleriyle oluştukları için genellikle Akdeniz Bölgesi'nde yoğunlaşmıştır.",
       "Tektonik ovalar fay hatlarına paralel uzanır, bu yüzden bu ovalarda deprem riski ve jeotermal kaynak potansiyeli çok yüksektir."
 ],
-    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
+    imageUrl: "/images/topics/maden_enerji_1783726561347.png"
   },
   {
     heading: "Dış Kuvvetler: Akarsu Aşınım ve Birikim Şekilleri",
@@ -58,7 +58,7 @@ export const yersekilleri: Topic = {
       "Menderes çizen bir akarsuyun (Ege nehirleri) yatak eğimi azalmış, boyu uzamış, aşındırma gücü düşmüş ve biriktirme faaliyeti artmıştır.",
       "Taraça (seki), hem akarsu aşındırmasını hem de epirojenik yükselmeyi (toptan yükselme) kanıtlayan karma yapılı bir şekildir."
 ],
-    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
+    imageUrl: "/images/topics/nukleer_enerji_1783727864452.png"
   },
   {
     heading: "Türkiye'nin Gölleri ve Oluşum Türleri",
@@ -68,7 +68,7 @@ export const yersekilleri: Topic = {
       "Beyşehir ve Eğirdir göllerinin suları tatlıdır. Göllerin sularını boşaltan doğal bir gideğeninin olması sularını tatlı yapar.",
       "Meke Tuzlası (Konya), volkanik patlama çukuru içinde oluşmuş 'Dünyanın Nazar Boncuğu' olarak bilinen maar gölüdür."
 ],
-    imageUrl: "/images/topics/turkiye_golleri_1783727842204.png"
+    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
   },
   {
     heading: "Falezler ve Falezlerin Coğrafi Dağılışı",
@@ -78,7 +78,7 @@ export const yersekilleri: Topic = {
       "Falez oluşumu dalga aşındırması (dış kuvvet) ürünüdür ve yer şekillerinin doğrudan sonucudur.",
       "Delta ovalarının bulunduğu kıyılarda (Çukurova, Bafra) biriktirme faaliyeti baskın olduğu için falezler oluşamaz."
 ],
-    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
+    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
   },
   {
     heading: "Türkiye'deki Toprak Tipleri ve Dağılışı",
@@ -88,7 +88,7 @@ export const yersekilleri: Topic = {
       "Terra Rossa toprakları kalker üzerinde oluştuğu için kireçlidir ve demir oksit oranı yüksek olduğu için kırmızı renklidir.",
       "Azonal (taşınmış) topraklar, akarsular tarafından taşındıkları için bulundukları yerin iklim özelliklerini yansıtmazlar ve katmanlaşma (horizon) göstermezler."
 ],
-    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
+    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
   },
   {
     heading: "Doğal Afetler: Deprem, Heyelan ve Çığ Dağılımı",
@@ -98,7 +98,7 @@ export const yersekilleri: Topic = {
       "Karaman-Konya çevresi ve Mardin eşiği I. Jeolojik Zaman masif arazilerine yakın oldukları için deprem riski en az olan alanlardır.",
       "Heyelan set gölleri (Abant, Yedigöller, Tortum) heyelan afetinin oluşturduğu doğal göl çanaklarıdır."
 ],
-    imageUrl: "/images/topics/fay_hatlari_1783727849459.png"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Kıyı Tipleri ve Türkiye'de Görülmeyen Kıyılar",
@@ -108,7 +108,7 @@ export const yersekilleri: Topic = {
       "Dalmaçya kıyı tipi dünyada Hırvatistan kıyılarında, Türkiye'de ise sadece Antalya Kaş-Finike arasında görülür.",
       "Rias kıyı tipi, eski akarsu vadilerinin IV. Jeolojik Zaman deniz yükselmesiyle sular altında kalması sonucu oluşmuştur."
 ],
-    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
+    imageUrl: "/images/topics/mavi_vatan_1783727834384.png"
   }
   ],
   mustKnow: [

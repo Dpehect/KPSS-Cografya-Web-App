@@ -18,7 +18,7 @@ export const nufusveyerlesme: Topic = {
       "Teke ve Taşeli Platoları, Akdeniz kıyısında olmalarına karşın engebeli arazi ve karstik yapının etkisiyle seyrek nüfusludur.",
       "Doğu Karadeniz kıyı kuşağı dar bir şeritte sık nüfusluyken, dağların hemen arkasındaki iç kesimler (Gümüşhane, Bayburt) çok seyrek nüfusludur."
 ],
-    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
   },
   {
     heading: "Nüfusun Yapısı, Özellikleri ve Yoğunluk Türleri",
@@ -28,7 +28,7 @@ export const nufusveyerlesme: Topic = {
       "Tarımsal nüfus yoğunluğunun yüksek olması o bölgenin dağlık ve engebeli olduğunun (tarım arazisinin darlığının) göstergesidir.",
       "Marmara Bölgesi, tarımsal nüfus yoğunluğu en düşük bölgelerden biriyken, fizyolojik ve aritmetik yoğunlukta Türkiye lideridir."
 ],
-    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+    imageUrl: "/images/topics/ruzgar_haritasi_1783727857236.png"
   },
   {
     heading: "Türkiye'de Göçler: Nedenleri, Sonuçları ve Mevsimlik Göç",
@@ -48,7 +48,7 @@ export const nufusveyerlesme: Topic = {
       "Yayla, Kom, Oba, Ağıl, Dam ve Dalyan ise geçici yerleşmelerdir.",
       "Dalyan, Ege kıyılarında yaygın olan balık üretimi ve avcılığı yapılan geçici bir kıyı yerleşmesidir."
 ],
-    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
   },
   {
     heading: "Mesken (Konut) Tipleri ve Coğrafi Dağılışı",
@@ -58,7 +58,7 @@ export const nufusveyerlesme: Topic = {
       "İç Anadolu ve Güneydoğu'da kerpiç evlerin yaygın olması kurak iklimin ve orman azlığının bir sonucudur.",
       "Gelişmiş şehirlerde betonarme binaların yaygınlaşmasıyla geleneksel ahşap, taş ve kerpiç evler önemini yitirmiştir."
 ],
-    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+    imageUrl: "/images/topics/maden_enerji_1783726561347.png"
   },
   {
     heading: "Türkiye'de Nüfus Politikaları ve Tarihsel Evreleri",
@@ -68,7 +68,7 @@ export const nufusveyerlesme: Topic = {
       "1950-1960 yılları arası ise sağlık ve yaşam koşullarının iyileşmesiyle nüfus artış hızının en yüksek olduğu dönemdir.",
       "Günümüzdeki nüfus politikaları sadece sayısal artışı değil, eğitim ve sağlık kalitesini yükseltmeyi de hedefler."
 ],
-    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+    imageUrl: "/images/topics/nukleer_enerji_1783727864452.png"
   },
   {
     heading: "Nüfusun Eğitim, Sağlık ve Sosyo-Ekonomik Göstergeleri",
@@ -78,7 +78,7 @@ export const nufusveyerlesme: Topic = {
       "Doğu Karadeniz ve Doğu Anadolu kırsalında tarım ve hayvancılık nedeniyle kırsal nüfus oranı diğer bölgelere göre daha yüksek kalmıştır.",
       "Okuryazarlık oranının en yüksek olduğu coğrafi bölge Marmara ve Ege'dir."
 ],
-    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
   },
   {
     heading: "Göçün Mekansal Etkileri ve Şehirlerin Fonksiyonları",
@@ -88,7 +88,7 @@ export const nufusveyerlesme: Topic = {
       "Bir şehrin birden fazla fonksiyonu olabilir (Örn: İstanbul hem liman, hem ticaret, hem sanayi metropolüdür).",
       "Kırsal alanda tarım arazilerinin miras yoluyla parçalanması tarımsal üretimi düşürerek göçü tetikleyen en büyük itici güçtür."
 ],
-    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
   },
   {
     heading: "Kırsal Alanlarda Yerleşme Dokuları (Toplu ve Dağınık)",
@@ -98,7 +98,7 @@ export const nufusveyerlesme: Topic = {
       "İç Anadolu'da toplu yerleşmelerin görülmesi su azlığı (fiziki kuraklık) nedeniyle insanların su kaynakları başına toplanmasının sonucudur.",
       "Dağınık yerleşmelerde komşuluk ilişkileri ve altyapı hizmetlerinin (yol, elektrik) maliyeti toplu yerleşmelere göre çok daha zordur."
 ],
-    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
   },
   {
     heading: "Gelecekteki Demografik Yapı ve Yaşlanan Nüfus Sorunsalı",
@@ -108,7 +108,7 @@ export const nufusveyerlesme: Topic = {
       "Ortanca yaşın yükselmesi genç nüfus dinamizminin kaybedildiğinin en net kanıtıdır.",
       "Gelişmiş batı ülkeleri gibi Türkiye de gelecekte iş gücü açığını kapatmak için dışarıdan göç alma ihtiyacı duyabilir."
 ],
-    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   }
   ],
   mustKnow: [

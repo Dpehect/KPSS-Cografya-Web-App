@@ -18,7 +18,7 @@ export const bolgelercografyasi: Topic = {
       "Bölge, tüketici nüfusun devasa boyutta olması nedeniyle kümes hayvancılığı yatırımlarında liderdir.",
       "Yıldız Dağları bölümü (Kırklareli), ulaşım yollarına sapa kalması nedeniyle seyrek nüfuslanmıştır."
 ],
-    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+    imageUrl: "/images/topics/nukleer_enerji_1783727864452.png"
   },
   {
     heading: "Ege Bölgesi: Horst-Graben Sistemleri ve Tarım",
@@ -28,7 +28,7 @@ export const bolgelercografyasi: Topic = {
       "Menteşe Yöresi, Ege'nin en çok yağış alan ama engebe nedeniyle en seyrek nüfuslu ve demiryolu olmayan yöresidir.",
       "Kıyı Ege ovaları alüvyal toprakları sayesinde tarımsal verimliliği en yüksek alanlardandır."
 ],
-    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
   },
   {
     heading: "Akdeniz Bölgesi: Karstik Yapı ve Seracılık",
@@ -38,7 +38,7 @@ export const bolgelercografyasi: Topic = {
       "Teke ve Taşeli platoları karstik erime nedeniyle su tutmayan, kurak ve engebeli yapısıyla tarıma elverişsizdir; bu yüzden seyrek nüfusludur.",
       "Çukurova ovası Türkiye'nin en büyük alüvyal delta ovası olarak yılda birden fazla ürün alınabilen tarım merkezidir."
 ],
-    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
   },
   {
     heading: "İç Anadolu Bölgesi: Kuraklık ve Tahıl Ambarı",
@@ -58,7 +58,7 @@ export const bolgelercografyasi: Topic = {
       "Kuzey Anadolu Dağları'nın kıyıya paralel olması, denizel havanın iç kesimlere geçmesini önlemiş; iç kesimlerde (Gümüşhane, Bayburt) iklimi sert karasallaştırmıştır.",
       "Doğu Karadeniz kıyıları engebeli yapısı nedeniyle net göç veren bir bölgedir. Tarımda makine kullanımı engebe yüzünden imkansıza yakındır."
 ],
-    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Doğu Anadolu Bölgesi: Yükselti, Soğuk ve Mera Hayvancılığı",
@@ -68,7 +68,7 @@ export const bolgelercografyasi: Topic = {
       "Yukarı Fırat Bölümü (Elazığ, Malatya çevresi), maden çeşitliliği ve rezervi bakımından sadece bölgenin değil, Türkiye'nin en zengin alanıdır.",
       "Dağlık yapı akarsuları derin vadilere hapsetmiştir. Bu durum baraj yapımını kolaylaştırmış ve hidroelektrik potansiyelini zirveye taşımıştır."
 ],
-    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+    imageUrl: "/images/topics/mavi_vatan_1783727834384.png"
   },
   {
     heading: "Güneydoğu Anadolu Bölgesi: Buharlaşma ve Pamuk",
@@ -78,7 +78,7 @@ export const bolgelercografyasi: Topic = {
       "GAP öncesinde bölgede sadece kuraklığa dayanıklı kırmızı mercimek ekilirken; GAP sonrasında pamuk ekimi zirveye yerleşmiştir.",
       "Bölgenin güney sınırları düz bir ovadan ibarettir, bu durum Suriye sınırının çizilmesini kolaylaştırmış ve yapay bir sınır oluşmasına yol açmıştır."
 ],
-    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+    imageUrl: "/images/topics/sinir_kapisi_1783727826782.png"
   },
   {
     heading: "Bölgesel Kalkınma Projelerinin Detayları",
@@ -88,7 +88,7 @@ export const bolgelercografyasi: Topic = {
       "KOP projesi, yeraltı sularının tükenmesini önlemek için Göksu nehrinin sularını barajlar ve tünellerle Konya ovasına aktarmaktadır.",
       "DOKAP kapsamındaki 'Yeşil Yol' projesi, Karadeniz yaylalarını kesintisiz yollarla birbirine bağlayarak turizmi canlandırmaktadır."
 ],
-    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Marmara Bölgesi'nin Deprem Riski ve Sanayi Desantralizasyonu",
@@ -98,7 +98,7 @@ export const bolgelercografyasi: Topic = {
       "Desantralizasyon politikası, Marmara'ya yönelik nüfus göçünü azaltarak nüfusun Anadolu'ya dengeli dağılmasını sağlar.",
       "Aksaray ve Konya, demiryolu bağlantısı ve deprem güvenliği nedeniyle yeni sanayi yatırımlarının gözde merkezleri olmuştur."
 ],
-    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+    imageUrl: "/images/topics/turkiye_golleri_1783727842204.png"
   },
   {
     heading: "Ege'de Jeotermal Isıtmalı Seracılık ve İnovasyon",
@@ -108,7 +108,7 @@ export const bolgelercografyasi: Topic = {
       "Dikili (İzmir) jeotermal sera bölgesi, Avrupa'nın en büyük teknolojik sera alanlarından biridir.",
       "Bu yöntem, fosil yakıt kullanılmadığı için çevre dostu ve sıfır karbon salınımlı tarımsal inovasyon örneğidir."
 ],
-    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
+    imageUrl: "/images/topics/fay_hatlari_1783727849459.png"
   }
   ],
   mustKnow: [

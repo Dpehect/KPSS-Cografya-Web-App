@@ -2,11 +2,11 @@ import type { Flashcard } from "@/types/study";
 
 export const flashcards_nufusveyerlesme: Flashcard[] = [
   {
-    "id": "4b86d403-e99b-4205-9aa1-9e9bbd9cbdba",
+    "id": "162fb53b-87f2-45ad-b9cf-70d49052d945",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #1)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -14,11 +14,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2609de59-c78b-4c90-b792-86a81f727742",
+    "id": "a4f8b020-6eba-461e-be28-5e52d67032c5",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #2)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -26,11 +26,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ee2d665e-448b-478f-a2f2-defc902959dc",
+    "id": "ce8772cf-9767-4c96-a230-46cb60c49518",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #3)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -38,11 +38,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ec825230-a91c-440e-8f6b-3e2e8e87ea62",
+    "id": "cce6b65f-7914-4df6-a8d2-13a64e288d04",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #4)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -50,11 +50,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c41d21fe-712d-42e1-93ef-0bf8c62d07e5",
+    "id": "ffcb3d04-d2a0-4cb8-b29d-f793c0d9c3aa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #5)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -62,11 +62,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cfcb3fc2-ceaf-4fc9-a435-1e5f2fdd6827",
+    "id": "61ee8755-853c-4602-bc54-58da045538ca",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #6)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -74,11 +74,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0134dd7e-b093-4aa2-8d63-b64f7f12579d",
+    "id": "be011e4e-d697-446e-8986-809f7a00280c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #7)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -86,11 +86,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "41ff0ad9-8757-4d6b-9028-a8a29123ae11",
+    "id": "187aab42-209e-4b90-bd6a-e0f629613216",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #8)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -98,11 +98,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4973d9f9-f2b1-4a31-b782-cd9a4994b65d",
+    "id": "67657447-9e05-490c-ba5a-2ba5155ff8ee",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #9)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -110,11 +110,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a57a71db-f348-4288-8841-bfec26b6c8f6",
+    "id": "6cca7cb2-2cc4-4b51-92ab-4fceb2db760f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #10)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -122,11 +122,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1ad659d3-89d9-46ea-9614-990278e2bc22",
+    "id": "5eb4f06e-dd42-4600-8172-1e5f01b091ff",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #11)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -134,11 +134,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d5b1145c-ab52-4dc6-b38b-75836efca72b",
+    "id": "d74e12b1-bcdf-476c-b7cf-7247aaf1b380",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #12)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -146,11 +146,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7a5ed145-cc4e-47b1-b57b-9a5491fc69dc",
+    "id": "5bf9e81b-44e1-4769-982d-e74de05fe29d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #13)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -158,11 +158,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f9de3572-ea63-4605-9a06-aff5176baccb",
+    "id": "3d5aff8d-fdaa-401b-b016-d978578f0e31",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #14)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -170,11 +170,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e354595f-dc03-4752-99ea-e3ae6afb99ad",
+    "id": "dd175fac-87a6-4f92-b8af-25a7e6172dfe",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #15)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -182,11 +182,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fca2eaf9-d5bb-40ca-bf00-5650543fc921",
+    "id": "4bf43d65-2105-4a75-9020-fc8e484dbf47",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #16)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -194,11 +194,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f0c39153-8230-42bf-aec7-b2bd91a1ec35",
+    "id": "0dc027e9-b857-414c-a649-b689f9395941",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #17)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -206,11 +206,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "42b8267e-bb0d-4a5f-af0e-a21798b16a44",
+    "id": "eaa75c19-a235-429f-a7de-b03810e424ef",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #18)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -218,11 +218,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "17b4abe4-5eee-4189-88c2-b0860b1c5d6f",
+    "id": "86321234-1913-48c6-b8ed-56f0e0cd4e2a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #19)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -230,11 +230,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e40bd0c4-7127-4db0-9423-3f3f6d15fa35",
+    "id": "4bad2c19-bdf0-4043-9117-9098649e51c2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #20)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -242,11 +242,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "add0e419-e445-44b6-ae76-cefda1f9aa22",
+    "id": "239fe312-c243-4535-b437-df285cc380bd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #21)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -254,11 +254,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "13ffc005-c298-4376-8ca9-f657bd9cbacf",
+    "id": "20330c1d-d239-4eb4-84c4-2a1155540c93",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #22)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -266,11 +266,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "63492979-98ff-4a8c-bbb6-67d05cf0f0ed",
+    "id": "b36dd98c-a75d-4ec2-aca3-2ab35fe043b9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #23)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -278,11 +278,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1accb553-2c42-4c38-affc-6ab1e738d1d8",
+    "id": "88bb7155-d7f0-4f71-a1d8-44ed016c451d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #24)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -290,11 +290,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d2693e59-a7c3-4aa7-9dfb-7ff13e5559f5",
+    "id": "8441c2ef-46aa-4f9e-b6d7-15167bec1466",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #25)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -302,11 +302,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "adafc55a-2eeb-44aa-b1f1-53a7149601ba",
+    "id": "18da68f1-f25e-4e22-848a-33e44763f33d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #26)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -314,11 +314,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5e2e0b60-ed86-44b0-88bb-bcd02845affe",
+    "id": "0db55f70-5478-4a2f-871a-868486c936a3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #27)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -326,11 +326,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ffaf9fc0-1f90-4c6e-be01-732d3807d335",
+    "id": "95454ab3-4fe6-47af-811d-17c171970f87",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #28)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -338,11 +338,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "15cebef7-b848-4a80-afa0-c79568ecfd4c",
+    "id": "b05ab74f-8e53-40aa-97f6-2d0f5b208bc9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #29)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -350,11 +350,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c4535c85-a3ea-481e-a7cd-1c27bda5f659",
+    "id": "7dd447d2-b2e5-48a0-a21f-2c315afeac40",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #30)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -362,11 +362,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6e603956-e65d-47b7-baa2-ddb1a660c8c2",
+    "id": "383941c1-5579-4cab-848c-3a844569bbf4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #31)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -374,11 +374,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ca18f935-87c2-4b3f-aef1-3cf907635396",
+    "id": "a0cedfd0-0b96-4469-b08b-7eca01f09e91",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #32)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -386,11 +386,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "86f69c11-1e78-4bbe-b2a0-bea9e41efef4",
+    "id": "5adaf5cd-f883-4a37-8faf-5ea171f10b8f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #33)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -398,11 +398,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c59feffe-1b56-4f08-b7b0-c9526e1a28c9",
+    "id": "4d4ca9b7-66cc-41da-8658-97b0da9ace98",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #34)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -410,11 +410,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bd8c26c6-70b6-41f1-aa4a-d2b835131066",
+    "id": "f31f57ec-64cf-4f75-99e7-d52c18a2aa4f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #35)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -422,11 +422,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "81d2d47e-2c47-4a7d-86e4-4ec8ed240aae",
+    "id": "85b3326c-b62b-401e-9035-1b13a7ad18a4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #36)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -434,11 +434,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4cb6a549-0eef-46f5-9335-56e9c1fcc69d",
+    "id": "e812f68b-398f-400b-a3ae-8e305b7a9b33",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #37)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -446,11 +446,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3cd3063d-7861-4d45-ba00-171119a74fd7",
+    "id": "f3cdf6e6-a28e-48a8-93da-a333e9f44a48",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #38)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -458,11 +458,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4656c6f9-c5a7-46e5-8faf-85ed685dff86",
+    "id": "e3264cd4-7d97-48c1-8fa1-518a310e4532",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #39)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -470,11 +470,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "68ba87d7-9b42-4888-b5b3-7f6245be5cca",
+    "id": "47fd1d9c-a7c0-4f30-b4f5-ed126028d3a6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #40)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -482,11 +482,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0b7ad288-b0ca-4974-ac62-4f2d19ea0cd0",
+    "id": "42d4e507-710c-4471-9cc6-320cfa49d3d6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #41)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -494,11 +494,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "082ead4b-39b9-417a-ab70-4ed3e9c3c443",
+    "id": "0b5f6543-e084-4f77-92ac-d1cadd097f54",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #42)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -506,11 +506,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f027c7b2-1fe1-48ba-8009-df8884433fb2",
+    "id": "760c9d1b-55ae-460d-aeb3-0a573538457a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #43)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -518,11 +518,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bc83aa9e-7eae-4d9e-8865-60dabfbf3c45",
+    "id": "554362f1-e40a-40f5-8836-66e87c8a33f1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #44)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -530,11 +530,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "57d1541d-c3d5-48c0-8a30-498d3e31debb",
+    "id": "d3f48cd4-f67f-4c23-9c0d-7ea977728bff",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #45)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -542,11 +542,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a8fa2297-c11d-49a6-abc3-e5bc1190f58f",
+    "id": "25305390-7ecc-4ef4-baf1-bc4b7adba85c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #46)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -554,11 +554,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "535c5836-301e-4dfb-9ac2-e5003553bc05",
+    "id": "45c3c011-3908-42ca-80f2-0f84a26b50a3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #47)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -566,11 +566,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d94be154-5b8c-421d-a03f-2222f6bff526",
+    "id": "607ee4d3-d9f4-4897-908b-c9adac794cea",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #48)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -578,11 +578,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e8d0c6fd-4fac-4f16-ba2f-d364a823ff70",
+    "id": "e6f7f306-0d7b-444e-ac23-0bd7352a94ad",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #49)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -590,11 +590,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "89c74484-1445-444c-a8f5-1455200d6990",
+    "id": "8ba4d4ce-cc84-4177-b10b-9e362449afe4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #50)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -602,11 +602,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0ef9a1c1-eec8-41e8-a30a-5c29d5ca01e1",
+    "id": "334bfd12-78ad-4d66-a6d8-fd9d46513fe3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #51)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -614,11 +614,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "886f7b82-f031-4791-b2c1-0678fe9f49dd",
+    "id": "39aed55c-c2e5-4feb-9f9f-88e450ce4caa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #52)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -626,11 +626,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "932c179a-da5a-40f6-a446-dc5e6917e28f",
+    "id": "050f2e8b-2ea9-4b02-a94b-4235011bc230",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #53)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -638,11 +638,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bc16edfc-0adc-4547-be12-8fa7363d1417",
+    "id": "f724da20-77dc-48c6-a473-dcbaffe3eced",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #54)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -650,11 +650,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "768c961c-5924-4a6b-bdea-e8bff6df485a",
+    "id": "d37a1bf2-e289-46c4-95e2-737f0a2f6695",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #55)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -662,11 +662,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fb4eb56f-35a5-4468-9ae5-08d143d52fae",
+    "id": "4d01f17b-c34a-4ae1-8220-1e869a8d2133",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #56)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -674,11 +674,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d626db8e-87d4-4630-900b-89d8dcfe36a9",
+    "id": "b29b439a-3f2c-4b30-a5d4-bb3b410dd30e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #57)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -686,11 +686,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9ac19c1e-048c-4b86-9c49-03e483654c8d",
+    "id": "81649f84-9553-40e5-9a71-44dc4c9ce626",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #58)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -698,11 +698,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "afd0c978-d189-4d1c-898f-cb15ad2c7bce",
+    "id": "92f8d713-de28-455b-b468-f6aaa250009f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #59)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -710,11 +710,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4fb76571-0268-4520-993b-2510d5e60d20",
+    "id": "433e60d7-3e46-45d8-9c0e-2d5963af7c5a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #60)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -722,11 +722,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "678df220-5f38-45f6-8ec9-e7eed1a70166",
+    "id": "cb06c7c6-1a53-42b0-829e-bc3ad0d94cd8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #61)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -734,11 +734,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c8b28414-02ba-4acd-92e3-9c228226046f",
+    "id": "c8aa9979-5844-40d1-ae85-4c437f5f0e2a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #62)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -746,11 +746,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "edaa8684-25ad-4fac-b090-28c4c88732a6",
+    "id": "6978f9e5-3f4e-4202-8ea1-42739401ca4a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #63)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -758,11 +758,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9e4c8432-148f-4ecb-92f3-9a2e94fc1d04",
+    "id": "19837be8-7c60-4d3d-9153-5ec1ceb9b310",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #64)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -770,11 +770,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "910d7056-495c-42fa-bf04-637520d9ed06",
+    "id": "5c485cbc-b193-4d45-b14b-2a05a87ca7c8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #65)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -782,11 +782,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "86668f81-5dde-4981-89be-ec7d53e7d55f",
+    "id": "a4161c1a-2346-45e8-b594-c60aecf765c1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #66)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -794,11 +794,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "77cf2c23-1ea3-4984-9062-9445f9e07ddd",
+    "id": "8049fc24-6ac0-485b-8806-d9dddefa6af8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #67)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -806,11 +806,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "df7588f1-13fe-4fd1-9647-d47be7ee3cc3",
+    "id": "62e174e9-4212-4081-909a-4d108ba9392e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #68)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -818,11 +818,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7f6a042b-da02-44cc-b539-74d2d9cb895d",
+    "id": "b34f8297-72aa-449e-af4c-883d86f0a00b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #69)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -830,11 +830,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "915855db-95c7-4cdb-8bc2-ac953ae1d772",
+    "id": "75f74197-e6b9-4dc6-b132-4e2e258d7418",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #70)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -842,11 +842,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "26103a85-b0bd-44ca-834b-70a83483d586",
+    "id": "b33fa882-fe7a-48e0-8f86-cbcdb1fb2837",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #71)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -854,11 +854,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "41c7231b-a88b-4b15-b135-e8da3218c911",
+    "id": "f80b3ef3-099b-4af0-8998-be69a711c468",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #72)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -866,11 +866,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bdf900f9-1ce5-4a29-aac5-b38a8ffdb39c",
+    "id": "99021730-0097-4a53-ba9b-cd057cabf6bc",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #73)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -878,11 +878,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bf01b5eb-079e-4087-abfc-3c5807b3f331",
+    "id": "cbbb11ec-08c1-4104-bd9a-f993aa23a1eb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #74)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -890,11 +890,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0d79c461-e8c0-4546-a440-19815232e777",
+    "id": "3acdaaca-c671-4fd4-a56d-63845b36cba3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #75)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -902,11 +902,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6f393cee-964e-483f-85dd-d49e603dd6c3",
+    "id": "9e1a05ed-e4a3-4730-8405-15d357f7231d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #76)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -914,11 +914,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e2f69212-0fcc-4cad-bc9b-41a33624a748",
+    "id": "37d8d090-ab1f-4641-8fcb-1c620f24756d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #77)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -926,11 +926,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "06fd8449-588e-471c-9e6a-aa96b5d8b66d",
+    "id": "301217be-536d-4cc5-bfbf-8739abcc528b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #78)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -938,11 +938,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d5b55596-e626-4512-a2fc-5f2fe61ed221",
+    "id": "d73af1da-aaaf-4605-bd95-3e6a451f74f8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #79)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -950,11 +950,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "22fbd456-a91e-4166-b9cc-9f30daeee481",
+    "id": "d5665542-e440-47a3-a38f-ba2a89e29280",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #80)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -962,11 +962,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8f854b4a-738f-44a1-84a4-fdb5ba50c79e",
+    "id": "87ef13af-3fc8-444f-80db-57a1248237b7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #81)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -974,11 +974,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a790dcf6-65f7-4adf-9c30-6c98962171cd",
+    "id": "6faf875e-87b1-4ae7-a15d-33925aab122b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #82)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -986,11 +986,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e06e003b-959c-451e-a671-1ccdcdc4ac72",
+    "id": "4850fcd7-fa13-4f8c-bc33-dbe0579d12b4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #83)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -998,11 +998,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7fdc27ce-e707-4b60-8218-497e750d55ed",
+    "id": "bccd0fa3-c1ea-4730-9d44-a2f13a31dcc2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #84)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1010,11 +1010,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "99a2febf-25d8-40dc-9fef-ade1cd63262f",
+    "id": "1df21bc5-7078-4d07-bec1-d99a067c72ed",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #85)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1022,11 +1022,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1fd204a8-f61a-4560-89ba-4c1977e3fa0e",
+    "id": "7046eea9-20d8-4be3-9695-c06e9107c0b2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #86)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1034,11 +1034,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f83d6e93-1a0c-41e5-bec0-23ebfaf8d88f",
+    "id": "f811b6af-b266-46a2-b884-15b9f6e1b1af",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #87)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1046,11 +1046,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b196d439-bbd9-4a35-81bf-0ea23522a35e",
+    "id": "d374750f-268f-4df2-b2c2-9b7a1b62c9df",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #88)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1058,11 +1058,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5dacca3c-66f1-47de-95ff-dc9b85cdd25b",
+    "id": "5360342b-a2d8-4e90-92cb-2410f86d58ba",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #89)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1070,11 +1070,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "298667f4-80b0-459a-b491-9ab5d6a5be6c",
+    "id": "40c1262b-6387-476d-aad2-60927f6eb684",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #90)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1082,11 +1082,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0d027954-40c1-4e88-8933-37f8059e2193",
+    "id": "be235be9-e170-4985-a3b3-d66479abda04",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #91)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1094,11 +1094,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5e67531e-2204-460c-a020-66f0611c210e",
+    "id": "b0048081-5b85-4ff7-b242-cb218ed143e2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #92)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1106,11 +1106,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c46f66ed-ee63-4c7c-952d-c317a89eef93",
+    "id": "d789e29a-4e46-44a0-b40f-d0c770a436e7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #93)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1118,11 +1118,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3812d481-b63c-46d4-987b-f2ec728b7c31",
+    "id": "120b627c-397c-46ad-a405-4a1274cdf9d8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #94)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1130,11 +1130,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "06321d63-40d5-46b1-bd64-f0cd6980beec",
+    "id": "af790d5d-a655-4bf5-993b-1def5661f5f2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #95)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1142,11 +1142,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0435a4e3-400c-4153-81e7-bc916612a61f",
+    "id": "17e07b55-4d02-4e59-be0c-4f63aa1dcf7f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #96)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1154,11 +1154,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ad55644b-f327-4971-b9b7-9f073e23f0a5",
+    "id": "da3c8e7d-613e-480c-a53c-87a3cf74b7d3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #97)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1166,11 +1166,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ebacf6da-08ed-4e7c-9505-14767724d8f2",
+    "id": "1ff4c6a1-4657-49be-9ad5-d294d146e711",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #98)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1178,11 +1178,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a70acd3f-5345-4136-ab71-9975fc11c3f2",
+    "id": "20a526e5-cd27-45bc-8406-d271809406af",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #99)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1190,11 +1190,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c460e72a-d028-452a-acb3-a65f36e7096e",
+    "id": "4c3b2b16-fe1d-49b2-9856-32001560da87",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #100)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1202,11 +1202,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "993e7d34-e63e-4a52-9898-c7c9626ad310",
+    "id": "3fa325b9-a7f8-44b7-803b-1fa23e7ea232",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #101)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1214,11 +1214,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b814122a-b8c6-4d31-b78a-201a20412610",
+    "id": "e8276f69-9553-403c-81b4-4d32dd59dcdf",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #102)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1226,11 +1226,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c8c88790-952e-4d4e-bc2d-7860f97da73e",
+    "id": "e9dcfadf-554d-4810-bd31-bbb97adb7dc5",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #103)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1238,11 +1238,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b9d4da96-a14b-4c58-9af8-5213159b8a93",
+    "id": "3bf4d748-cee8-49c7-8a94-193766f234b0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #104)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1250,11 +1250,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c69e4bea-bdb2-4714-a5fc-ec1d71658d07",
+    "id": "fcc1f133-bd03-4852-89b3-f5128e13d9a7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #105)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1262,11 +1262,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5bb9d903-e7f0-4b88-be75-991ae073c786",
+    "id": "165d1c91-222d-490f-a11b-4df37476541f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #106)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1274,11 +1274,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4ae432ce-5f43-4d57-bfe9-449b418d7a92",
+    "id": "295933ca-08b3-4910-8910-4eae0c42cf86",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #107)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1286,11 +1286,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bd0a1404-0a71-40a1-8b97-2c9c0c634048",
+    "id": "e8b5333b-da7d-4390-ad54-bbf9f06e8406",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #108)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1298,11 +1298,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f8053fd0-1444-4b15-b53a-681a8a82fc5b",
+    "id": "85a3618e-b111-4fc8-8695-18134d194b46",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #109)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1310,11 +1310,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9baaa61f-6c05-464d-a03b-5ea3a1a8b13e",
+    "id": "1657de84-d887-476f-b602-54bb83d195d8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #110)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1322,11 +1322,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "38b30e70-384e-47be-bbeb-1bc11536f3fe",
+    "id": "8729ba95-27a1-433c-b45c-7bca39f4b3c5",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #111)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1334,11 +1334,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c7844698-443d-4d27-99ff-1c3d5866dc45",
+    "id": "176ba327-4bf3-44b4-bca3-95610d767857",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #112)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1346,11 +1346,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "575e41ea-5579-4277-89e8-09184f9842e9",
+    "id": "7f21e791-451c-4888-b43e-f78f32fcba8c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #113)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1358,11 +1358,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e39dcb48-0d58-4d57-b9fc-5ce1f040834b",
+    "id": "fe4052ab-3987-4dfe-b43a-378e51df8cdc",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #114)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1370,11 +1370,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f1f0e79d-2acb-45b3-ae6a-ad13c0885525",
+    "id": "adb42814-4c2a-4a7f-b4e3-cf86ed720265",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #115)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1382,11 +1382,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bf1ddf29-0ebb-4a24-b210-e93ca10034f6",
+    "id": "9c96b830-a554-437a-9fb8-4003626821b2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #116)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1394,11 +1394,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "43b61502-9e56-483e-8aa6-5b4d819f7e31",
+    "id": "4d2b5c17-24a4-464b-9a75-f8599f49ecbe",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #117)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1406,11 +1406,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "24b5e43c-0bf1-4527-8390-306b1cda0a8f",
+    "id": "b76d47f9-0c23-4784-8982-7ddd7c0f5d5c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #118)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1418,11 +1418,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fe1f2db0-3ace-4978-a4e2-dd501a6419d0",
+    "id": "b98dd520-d9fc-469b-bac0-34a1f7d3eb6b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #119)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1430,11 +1430,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a50599bd-b643-43fc-b61d-2f8b318f15d4",
+    "id": "399a725f-a965-45be-9dae-6a25e672afb6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #120)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1442,11 +1442,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e83cada4-3664-47ab-aa8d-b60bbbb8e62d",
+    "id": "2b78a3e2-5113-45cc-bbfd-94527bb16228",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #121)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1454,11 +1454,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ac7c828d-0313-48e8-8aeb-4fb6bbe62c34",
+    "id": "43521d09-4ed5-41f7-8ac1-8ae5aaf5270c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #122)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1466,11 +1466,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "17e60e06-6128-4f84-aac6-142f9c88dacf",
+    "id": "130a72e3-6f7c-4b58-9288-f112c9629ef5",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #123)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1478,11 +1478,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9f2cb5fb-b1fd-4bab-9364-864248d9ce2f",
+    "id": "6ab0b074-29d3-4d07-92fa-5092a49cfccd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #124)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1490,11 +1490,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1e610a82-515d-4f4b-af80-3afc6f60b45e",
+    "id": "27963ed2-e450-4d4f-a44d-0baa77f5f33d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #125)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1502,11 +1502,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "daed9941-9852-4d6c-b360-1aa52dc2f9ea",
+    "id": "d10a3305-1b9c-45c0-8b71-32cee08d9cc7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #126)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1514,11 +1514,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8cdbf7f3-176b-4a1b-b2d1-69d1ac8fbb22",
+    "id": "59051888-cecb-4a22-97c8-819b760e4c0e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #127)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1526,11 +1526,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "46d5cc67-7566-4f15-a0dc-b6a0daf624b7",
+    "id": "880d3b48-5f3b-43e2-a0cc-96f7b3ee6e12",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #128)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1538,11 +1538,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ca69ee77-7319-4060-92f3-89dbf4f72392",
+    "id": "07252132-a411-4cfe-a549-c625d811b621",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #129)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1550,11 +1550,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "39ce545c-40be-4bf2-a5e0-26b036e1d609",
+    "id": "2c626bec-4e67-4790-9b53-db0d716d52e0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #130)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1562,11 +1562,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7f6ca36e-ee04-4809-b6a2-2e161a7c538c",
+    "id": "e76adfae-92e7-4a07-8f7c-8731c33ad651",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #131)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1574,11 +1574,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "881c263c-e00e-43a2-9921-a3db9c676a4a",
+    "id": "d71f9ddb-4193-4e25-be11-b4c8ef2e95f9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #132)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1586,11 +1586,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cd0fdcad-f32d-4cd5-8716-d41cf08e655d",
+    "id": "d945c546-fae8-49e0-a276-8e5720450daa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #133)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1598,11 +1598,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a9cd980e-4eab-4b1e-8b58-3a06d13d70f0",
+    "id": "c9d90a7e-ecbc-4d6d-96e9-0dad0be6271e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #134)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1610,11 +1610,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "52a3a1c3-93b7-4f84-9902-768ea6e4ff56",
+    "id": "40630907-c43a-47b8-a8ad-06483a248b3a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #135)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1622,11 +1622,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7ba4afa9-37b7-4fe6-9ae3-f063cf30a1a0",
+    "id": "088538ef-d2f2-4e41-8f2c-637dabe87888",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #136)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1634,11 +1634,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0ed86fcb-e980-4fc3-b35a-2b5e98fc7b72",
+    "id": "094d1ee5-2fef-4976-89ba-72495dcc1ae2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #137)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1646,11 +1646,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1eba9ace-0879-41e2-b181-3b8fedbfbc47",
+    "id": "550d649b-05b0-4c7d-a71d-b7a128ad766c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #138)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1658,11 +1658,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d87d9f24-7d0a-4eec-828d-e276c02c2b7b",
+    "id": "9d0b3c9e-c9e6-4e4d-921b-44a42ee82ab4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #139)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1670,11 +1670,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "45307195-33a2-4a4f-8e67-441468355eee",
+    "id": "1c372cca-a706-4914-8d90-f7f774120699",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #140)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1682,11 +1682,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "77130626-a1c6-4151-a716-86cf2afacbe0",
+    "id": "27b14bb1-fccf-4892-842d-f74e5ba042bd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #141)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1694,11 +1694,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1cdb583c-8e7b-4cb0-ba80-23858064f6d6",
+    "id": "2f0eb929-4293-4cec-baa6-d4bbc9a09fd1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #142)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1706,11 +1706,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "54f02c38-80df-4bc6-92c5-344696863f7e",
+    "id": "70aa0765-02d7-4113-a037-8d34b86e6db1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #143)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1718,11 +1718,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c0b40a05-6b42-4eca-8ebd-7c4160c5717e",
+    "id": "f2aefc90-f944-4e3e-b81a-66eebc08aece",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #144)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1730,11 +1730,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ca4b5648-2182-4693-ad4f-c049cbe58897",
+    "id": "4479ed5e-1b4f-41f1-869b-2ba4e8e8b3de",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #145)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1742,11 +1742,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "23190712-473b-4110-9463-b03d311b0181",
+    "id": "392ba65e-ceaa-46a7-886e-19f3ca970735",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #146)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1754,11 +1754,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f92ad73b-7840-4216-9f4f-7be8ec3ac0d0",
+    "id": "0b294ecc-f4ac-4592-a7f2-6b1d0ed7c824",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #147)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1766,11 +1766,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "49bbe650-e73d-4047-aced-45a1e6a0e746",
+    "id": "88ee0e8d-5baa-4d05-b3ca-d9d1d5d67ffd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #148)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1778,11 +1778,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "043184bc-7245-44ae-a479-f21ec8210c20",
+    "id": "694edce2-e641-4023-9b89-317e0332e710",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #149)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1790,11 +1790,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3dc99573-fb8a-4004-bcc2-63fc7a5fe170",
+    "id": "e24f9e92-cd33-4885-aabb-9b8f4b683180",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #150)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1802,11 +1802,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "35b3cc18-671c-45f9-bdc4-412e4fdc0f98",
+    "id": "1017c0fa-17ca-4ef3-8f60-2ecef18f32da",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #151)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1814,11 +1814,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0d033194-cf7d-4605-80f8-edec10ef1837",
+    "id": "8348ba78-3643-4650-8f35-5725d8d26ce7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #152)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1826,11 +1826,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d5b4696d-aebb-47ec-afb9-835bffd316b0",
+    "id": "84c88a92-d2f8-4757-9996-7edcc1789c69",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #153)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1838,11 +1838,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "be025c48-ac0a-419e-a28f-80bfc0ffbd6f",
+    "id": "6fef9867-b780-4012-9a2d-16e4a65cec67",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #154)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1850,11 +1850,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "de6fb22a-be8b-425a-a8b9-fd73edf4fae0",
+    "id": "e86d1fed-d665-43ff-9d6f-6ec9f53a086b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #155)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1862,11 +1862,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7a526c08-6315-4fce-8e7a-479ebe229847",
+    "id": "6c760210-e829-48f0-9788-917a81d4c622",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #156)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1874,11 +1874,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ee7c5692-0d69-4940-81be-2d91490be7d0",
+    "id": "52fbbe65-d9a4-46a4-b81b-733d9f9fbef0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #157)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1886,11 +1886,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bc6bed5b-a837-4462-8bea-7e19178f3bf4",
+    "id": "e647dc08-a04c-48e1-939c-9f7a185635e9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #158)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1898,11 +1898,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a6298f3e-0864-464c-9f43-4b1b7fda06a7",
+    "id": "a54569da-5e05-48b9-8b90-2bac911e624f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #159)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1910,11 +1910,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "42fae465-2df3-4fac-8fd5-6aaa0ecc7b50",
+    "id": "c67bb9b3-d465-43bc-9e85-df4fe9747eac",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #160)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1922,11 +1922,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "65fed1b9-7b8a-4b9c-9271-f4cc93ca0369",
+    "id": "d5a45023-0306-4e27-bfcf-ff1f76043db4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #161)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1934,11 +1934,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9f07cd47-9b9f-4f41-9cd4-b211c9ec753d",
+    "id": "73e11aee-8ec0-4598-810e-7b9850036088",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #162)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1946,11 +1946,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "756fdc0a-9cc2-40a7-80a8-97002d0c7ab9",
+    "id": "2b0952d8-b250-44bb-8229-7480192fb19d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #163)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1958,11 +1958,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b5039347-2db2-462a-939f-0d93662e9a6c",
+    "id": "91642ec3-f3e8-4b1f-a9d0-0637ae845f87",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #164)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1970,11 +1970,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5ea10f4b-4b47-43cb-99bc-71ba34545a0a",
+    "id": "8aabd33f-7dfb-4ce9-8c30-68efee0fc060",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #165)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1982,11 +1982,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e461b0f6-be88-4f95-8ed9-6c2b3fc793c3",
+    "id": "0a3ece05-fbdd-4ec6-8dfc-ff4f96bcb1d9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #166)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1994,11 +1994,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cd61fe9c-6a08-4806-b12f-4155fff25d76",
+    "id": "eb48f073-1c8a-46f4-b926-76b0dd7059d9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #167)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2006,11 +2006,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d215d473-34ff-4b92-a6b9-5bba0aca9cc7",
+    "id": "84b71f25-c055-488f-a476-89f301e5f665",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #168)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2018,11 +2018,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e7b98267-4624-411d-9f1f-880186c0e81a",
+    "id": "b3235976-73dd-4672-a15a-6078a5b69682",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #169)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2030,11 +2030,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "084e0345-8ce9-44d6-97ff-fa556904dbb2",
+    "id": "842a0d20-e7a4-4c84-88a8-3a27874378e9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #170)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2042,11 +2042,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9659848a-1f0d-4307-8d31-bb437b40fc62",
+    "id": "46f5e3b0-b297-460e-a791-a29e5c468f30",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #171)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2054,11 +2054,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "93b1f0a1-654a-4cc4-ba86-721bf425565d",
+    "id": "a65063e4-058e-4081-8263-6e228930cf04",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #172)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2066,11 +2066,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1fa28b8b-45de-4589-9133-218fb69df948",
+    "id": "7200f4ca-0939-449f-a91a-3193b552eae6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #173)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2078,11 +2078,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fca260e8-03de-45bc-882f-4041ca4fb0cb",
+    "id": "c21a6319-e4ce-4bce-8e39-0eda0ea0ec52",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #174)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2090,11 +2090,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "16642cb0-9040-4b15-9e15-4c08bbb2aa85",
+    "id": "09b59f78-2d1c-4b62-b5a9-0e27cb23670f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #175)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2102,11 +2102,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fb6ee513-30a6-41e5-91b1-30b891b2e6ba",
+    "id": "00abc611-4d6f-41bd-b903-3d6af2f98cef",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #176)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2114,11 +2114,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9488f09b-5e96-490c-951e-cc84d7c56e39",
+    "id": "cde640dc-8a5b-4b8b-83a8-49dfd63f38c8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #177)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2126,11 +2126,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "264caad3-ecf2-4d49-90d3-f637c03abfbb",
+    "id": "5f0bbd43-34c2-4ea5-905b-f14b8a88c6ad",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #178)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2138,11 +2138,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "29268874-e849-4384-9121-f6614f57d8e8",
+    "id": "e6556be4-579b-4b25-bc4a-2a4ec0951d2a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #179)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2150,11 +2150,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6408e340-085c-47a3-b9ca-900b7c8f4bed",
+    "id": "8b9dedd4-1106-4f15-93ed-42c0f602ad47",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #180)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2162,11 +2162,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "62aaa198-b000-4db3-bbf3-b68bc49ed43a",
+    "id": "d00f8e4c-e366-495c-ac83-a4fcd9eede1c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #181)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2174,11 +2174,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c417b0a7-c925-4bf5-b3f8-a5e0037c3d2b",
+    "id": "7c497bcc-dcd6-409d-9340-8b5d8ecfcb59",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #182)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2186,11 +2186,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "05704f87-8e1e-487e-ad29-4e7e39fcb02d",
+    "id": "389ef05a-2f35-436c-b9d3-33b954b49d9e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #183)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2198,11 +2198,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "05365cd5-ac64-4612-a70d-5f2a0faf4b93",
+    "id": "88ad6b9e-21e6-4a1c-ac1b-e3922f803ed4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #184)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2210,11 +2210,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6b4ca9bc-c8b9-42a6-88cb-92e2d4d769f5",
+    "id": "1bc7d908-3a85-4343-b67f-166bd18a8f90",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #185)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2222,11 +2222,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7a724d76-c505-4455-83a1-a6655239dbdb",
+    "id": "2c6e8df5-ef1e-4229-8c1f-201670491930",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #186)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2234,11 +2234,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4429f7b3-d778-42e6-8753-d36539bfb2d1",
+    "id": "0714307e-0bfb-4e18-a16e-f4c1747c3923",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #187)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2246,11 +2246,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cdd2a676-6513-4751-b50e-a376d1f265db",
+    "id": "ddab5e30-841c-4f24-8135-d1405ebee377",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #188)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2258,11 +2258,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8c05e085-e05e-466e-80cb-8f34c50e6ee9",
+    "id": "74c0b37b-d428-4308-b994-2e2949853404",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #189)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2270,11 +2270,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5dfbad4c-6bd8-430f-b113-a4d7daafa689",
+    "id": "2267e2d0-198c-4cc7-9f37-841ed8e3fcc0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #190)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2282,11 +2282,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bd37ff09-bebc-4542-82dd-c55565023f49",
+    "id": "779710f8-aace-4cdd-b2fe-ed721c979970",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #191)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2294,11 +2294,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "55cd66b5-60ea-4ad9-a81d-ae312b08c950",
+    "id": "b8e91d10-0b8a-4002-aa64-2dafd409bff6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #192)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2306,11 +2306,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a049bdde-02a9-4751-a309-37f0990d53b8",
+    "id": "4ffa2975-b44d-4293-ae63-1d893217afa1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #193)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2318,11 +2318,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "dce6701a-cdc2-4da5-8cec-dc4d71a80fb5",
+    "id": "2a5d7807-e14f-430d-b4c1-02918a863a13",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #194)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2330,11 +2330,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "be984ca4-e4a8-4781-8c70-731f31d6f5cb",
+    "id": "05ef0ccd-518c-49b6-97e9-195b93b896a4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #195)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2342,11 +2342,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "40f75544-63fc-4319-a915-376c40f4dde5",
+    "id": "65ba648b-c205-4690-9513-989c501b726b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #196)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2354,11 +2354,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "956d22c9-d380-491a-a5f7-0b6f82c4fec1",
+    "id": "933e14a6-2030-463a-a4e3-d3d931778840",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #197)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2366,11 +2366,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "15e50610-0c3c-4959-8876-2c65d4db726c",
+    "id": "723852d9-45af-462e-ba78-403a130a843c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #198)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2378,11 +2378,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b5633909-e49f-472f-9748-5e622758a04e",
+    "id": "eb647337-ba6d-47ae-b754-367ecf797e2e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #199)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2390,11 +2390,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "82b874bd-ae5d-4c5f-a0b2-19660d19bc84",
+    "id": "b53ddf41-d8ce-45b2-b7e8-8b9b8ef45aee",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #200)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2402,11 +2402,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "42cc6815-b935-44a6-901a-71a12f517c47",
+    "id": "da8d8dff-9fbb-42f8-8292-80db333122a3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #201)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2414,11 +2414,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a48eb32f-7b27-44cf-b9a9-a650471be677",
+    "id": "546ef516-da10-4acf-9086-1975434cc26c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #202)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2426,11 +2426,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b67ee652-601a-4bf4-b96e-420d6895500f",
+    "id": "89914097-752c-493d-a3f3-ee5a7fbf8d4c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #203)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2438,11 +2438,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "929bacca-eee5-45ec-836b-cd26422d2c7a",
+    "id": "c11bc5a7-bb57-40d4-8120-bac005176990",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #204)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2450,11 +2450,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fd8da68c-1644-491b-9530-a27b21ac8583",
+    "id": "2c95ba4f-82ab-4aa6-87da-222845100487",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #205)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2462,11 +2462,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "01a1820e-b400-4eea-8eac-56c77a4f274e",
+    "id": "005a1193-36a8-4adb-ba95-8b77c4f2a40e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #206)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2474,11 +2474,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3777856d-9f34-4486-9ecd-1a7fc9136249",
+    "id": "7f258590-dfd7-4b90-b6c3-e0cc3967ab42",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #207)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2486,11 +2486,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "81b09f8c-038f-454e-b06d-3ac536b6cde6",
+    "id": "51337461-bbb7-4585-a9b2-9aa808b4f43d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #208)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2498,11 +2498,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4ef9f5bd-3dda-4884-b31e-7c6024622800",
+    "id": "6207ef5a-fafe-40c1-ad84-50dcb51ec819",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #209)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2510,11 +2510,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "14213474-e428-4136-b516-d7f65f43990a",
+    "id": "3bbbce42-9825-41dc-accd-34bed265c042",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #210)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2522,11 +2522,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c69ec669-f0ed-46f4-806e-d8a2af27b355",
+    "id": "f89a6b1b-bdef-4c08-a5b6-0d0a3546f2b8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #211)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2534,11 +2534,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8540906b-f282-4717-b484-8924d5c79e4d",
+    "id": "9dbb30d7-c8cd-4eb7-a16b-64cf4d4fcb40",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #212)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2546,11 +2546,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1c8e0995-f8a3-4347-a668-4f9ff4ce0afe",
+    "id": "05a924b8-b872-4e3a-bfa1-8c9627ebf3b0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #213)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2558,11 +2558,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6be720c9-6514-4842-bc4f-408327cf9938",
+    "id": "ffd4a322-8a6a-433f-8442-26dff4b0e839",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #214)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2570,11 +2570,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "90469118-f9cd-4012-93e7-143caa57e49b",
+    "id": "827ce327-a041-4784-ab36-b6326867b412",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #215)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2582,11 +2582,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "dba26750-0676-43b3-98b4-d169b0389ca6",
+    "id": "221dbb76-cf83-470f-ae9d-fbc2f965603f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #216)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2594,11 +2594,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ad9aa5e0-b244-48a5-9a1f-0722f71ad3d7",
+    "id": "f8fa5bb1-ab49-43d6-9354-0cb96d178cec",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #217)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2606,11 +2606,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "32eda2dc-9744-4993-b7c5-074d12548fb9",
+    "id": "190a402b-2da6-45e8-b171-92ac3e2c1510",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #218)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2618,11 +2618,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fb91099d-84cf-4d93-8e13-ecc0c6fb83b3",
+    "id": "bebe3850-6a74-41fb-9eac-dd7f7c737fc9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #219)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2630,11 +2630,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "02b4e2e6-29a0-47db-bfdc-04ac164bf31d",
+    "id": "cae3f95d-91a7-40b9-b443-56516a132c79",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #220)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2642,11 +2642,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5fc25dc5-cdba-49fe-a20a-904dabaa8372",
+    "id": "9ad232b4-3265-4a3c-92b2-237b75c5f377",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #221)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2654,11 +2654,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "834792d2-c220-47dc-9b2d-48f2596e7b86",
+    "id": "7e393991-9549-4a9a-bc78-ab1ff4c54f09",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #222)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2666,11 +2666,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "648725b4-73e7-4420-998b-fe85f8775c18",
+    "id": "809c1511-cfe0-4ef8-b31d-77edc00d4484",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #223)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2678,11 +2678,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2061d8a3-dddd-42f1-86ac-8961c0d7d08d",
+    "id": "88b7bb10-5374-4218-92a3-a3a280f420e8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #224)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2690,11 +2690,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3b1dbd9c-8220-49f5-9210-59adff2f7b22",
+    "id": "6f6048ce-a111-4c47-94c4-72992f399b66",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #225)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2702,11 +2702,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d2c6bcff-ffef-40db-8a50-cef4d40acf60",
+    "id": "2721263d-5e1f-4047-aadf-6c4b08e29d59",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #226)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2714,11 +2714,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a029a207-4377-453b-9a39-a21cf9ebe40b",
+    "id": "2278e208-6b79-4279-814a-473fdca28293",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #227)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2726,11 +2726,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9a4e7558-2137-4c63-bf62-2d5660032100",
+    "id": "0a3816bd-f69b-481f-b1c4-3974776d2421",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #228)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2738,11 +2738,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a7fc1605-b86f-446b-9a5f-d1ccdc0d62ad",
+    "id": "d0145276-bd9f-4b5a-8a47-3c3e17efb0b0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #229)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2750,11 +2750,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8940e9c0-1820-4923-bfe9-467cfc129373",
+    "id": "cc169bc5-9493-499c-853b-372182416f3a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #230)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2762,11 +2762,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d059a511-21ff-469d-a589-8a94f2fc4688",
+    "id": "9e8c8e5a-f128-453b-a8c2-e405c1aa2a04",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #231)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2774,11 +2774,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ad1663cc-3e0b-4af3-ba45-a1f9edcc37ed",
+    "id": "2324a65c-c04d-4413-9a2a-3c778c9069f8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #232)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2786,11 +2786,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "73867f0b-d803-4a43-b490-9acda2165c07",
+    "id": "00201ce5-68a9-4e22-ba09-2495b4fef688",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #233)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2798,11 +2798,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f90b03b3-aeab-4669-b486-a0ec5027354c",
+    "id": "0995ec3d-aeaa-44da-9daa-3c170097a1d6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #234)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2810,11 +2810,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6e855286-8e17-4a09-a6bf-a4e63fa7fa62",
+    "id": "7baa3414-b98d-4dec-99fb-56fa5e8ba3c9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #235)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2822,11 +2822,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "012dbb1b-c1b4-4ea4-b920-5eabe7d2619c",
+    "id": "3449174f-784c-42d4-abb3-633025d00082",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #236)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2834,11 +2834,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cd5e5583-6202-4565-8d66-e1e5bb87e97e",
+    "id": "3870adaa-a49a-4f09-a25f-294b00fedd71",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #237)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2846,11 +2846,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "931104db-5b46-4477-af65-f257b6ec749a",
+    "id": "622e2972-71d5-4332-973d-2ee16dff132f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #238)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2858,11 +2858,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a93696ea-5a1b-46aa-96c2-2243bf444a7e",
+    "id": "4a14d90d-919b-41f2-9dd0-2983ead4f530",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #239)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2870,11 +2870,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1d4284f9-415b-4f6c-956a-f88775edd7f3",
+    "id": "553c2289-b2ae-4f49-90fa-8af4a03d0e92",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #240)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2882,11 +2882,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "396de4fb-6c83-47b3-b9b5-25e2f1ed4d12",
+    "id": "009b623e-e63e-40c7-8cf2-ca7beea8c0da",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #241)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2894,11 +2894,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f96f03e9-ec16-4550-808d-c41fe42c2ee5",
+    "id": "5433faa8-1436-4897-b005-cfb7e05c1190",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #242)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2906,11 +2906,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "19db6172-fac0-40f0-bc8b-6b2a6cee9025",
+    "id": "5a988f80-e8ad-4c76-a36b-7fa2376e72f4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #243)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2918,11 +2918,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9b56d14e-6f18-4780-85bc-d953f2ed80f6",
+    "id": "f8c26246-f04b-4a74-85f2-85932b00f3b1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #244)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2930,11 +2930,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c16d5e83-063c-4dbe-b2f5-af5db162f797",
+    "id": "95646976-4ce7-4ccb-9ed2-daf9badcb3bb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #245)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2942,11 +2942,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bd656d20-d34d-4093-8a76-90d57b792659",
+    "id": "72b7cb70-319f-4b51-8ea1-3265534b4fe0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #246)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2954,11 +2954,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "005b9bc7-bdeb-4035-bb89-40173e9b2408",
+    "id": "8cfd476a-1ad8-4c1c-beba-d8cad20384c1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #247)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2966,11 +2966,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "31b7f038-3696-4f43-938d-1686cad0297e",
+    "id": "3ec8d89b-1ab7-4026-a75e-259e401bcc4a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #248)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2978,11 +2978,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2c100985-05ae-43e8-98e4-9b1f86ccec5d",
+    "id": "caac4aa3-09a5-44d2-88bc-d73f8fd26f3d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #249)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2990,11 +2990,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7208b02d-be8f-47cd-9b4b-351bfe188ab8",
+    "id": "2ec6c189-ff72-455c-a0f6-e6ddfde00df1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #250)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3002,11 +3002,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2cd44818-42e1-4606-a907-7e89a55bdab2",
+    "id": "ed775f73-f1f2-4dbf-81dd-122aa15d3a0b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #251)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3014,11 +3014,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fdb7c266-7788-4c0b-bc25-c9b8655aa70f",
+    "id": "82abe5c3-baf8-4b0b-b935-96d1da6f65bd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #252)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3026,11 +3026,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1799224d-0600-4e68-aa38-62e069374afa",
+    "id": "48028b94-8eb2-4a46-9364-b5b9fc7f5052",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #253)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3038,11 +3038,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f39eb98e-351e-4f65-ab03-4b5bbcfdb52e",
+    "id": "5785189e-6176-4f3a-bca1-0f191d7706c1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #254)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3050,11 +3050,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cfbce1aa-a170-4f35-badb-57fccc1770f3",
+    "id": "27a05adb-01b5-4242-9123-952494b3073d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #255)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3062,11 +3062,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e4604c4f-dda7-4747-9b14-52fe32fed30e",
+    "id": "d1994bfa-4ef6-4269-9452-6a9e5fd1a4aa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #256)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3074,11 +3074,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2dfb61d0-ec4f-4211-ba59-697a86438048",
+    "id": "e7329058-57c5-4003-9ab0-d209f0b3a744",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #257)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3086,11 +3086,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4ea10c5b-5d49-4be3-a199-670ad6e89155",
+    "id": "3e44da05-5498-4369-86e3-794428e4037e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #258)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3098,11 +3098,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cd0f433a-27be-4f20-81be-a0dc5a29909a",
+    "id": "34ff9d34-2523-45b1-be22-077213041672",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #259)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3110,11 +3110,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e7891141-5883-491b-8b90-29cff9a1aeb9",
+    "id": "8f516dbc-ebc1-4e97-9cfc-b2feddada47e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #260)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3122,11 +3122,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0d66c921-b584-4842-9df4-e938fa58eebe",
+    "id": "a1900823-d0e7-482c-be19-c32bc0ccd273",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #261)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3134,11 +3134,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b83182d5-3a13-4a62-90d5-b2502df17c8d",
+    "id": "7421481d-09a9-4952-b76b-c75fc3664e00",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #262)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3146,11 +3146,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "24b90efe-23b2-4c21-b4d2-c168f27fcb09",
+    "id": "11ea41d4-b384-4ec2-bab3-ab5cb79d2fb4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #263)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3158,11 +3158,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "156317dc-70c6-4f5c-a5e6-bae41c068ab5",
+    "id": "9e61e418-f629-4617-bbcd-469bf28ed5dd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #264)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3170,11 +3170,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "70f669bb-a4d2-4b69-a85e-2a5ce1fff9dc",
+    "id": "3bebd3e6-cba9-4050-b25e-24ae807b6539",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #265)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3182,11 +3182,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8b09cda5-135b-41fc-b016-9042e6c794be",
+    "id": "10ce054e-4e58-42e4-80a7-a3951af32363",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #266)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3194,11 +3194,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1e2d161b-7f75-4895-8a63-009b82c233ed",
+    "id": "7f0e79e3-7ac6-441f-a927-6cd86a06b73b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #267)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3206,11 +3206,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "35a324da-b8b4-493c-aabd-763f2fa6eeaa",
+    "id": "2c778324-0454-4828-bdf4-d1d2881bf987",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #268)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3218,11 +3218,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "345b32c6-2ef6-41bd-a881-b4a52e555524",
+    "id": "3faf744c-bf01-4c11-98b1-4e4231436696",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #269)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3230,11 +3230,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f9b18d6b-75f9-4fa9-b8b9-fc5937e46772",
+    "id": "b5c5ddef-2fc9-4da0-b803-4af77a059a0f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #270)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3242,11 +3242,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d2ad0549-41a1-4f79-93cb-3f62005119fc",
+    "id": "f9621a50-20eb-4857-90ab-d4b21db367fd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #271)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3254,11 +3254,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6541d917-7747-48c5-a781-9353e533547a",
+    "id": "eafe8933-6554-43af-aac7-1aee09f490bf",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #272)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3266,11 +3266,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4263040f-be83-42fd-8d25-8fd01c33bf44",
+    "id": "02a4b93b-f54f-4b92-8ebc-2698dc5a1c9e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #273)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3278,11 +3278,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a0a19c56-ee7c-454d-a96c-87426d4602ac",
+    "id": "199305df-c0e7-49e0-8a75-28052302eb53",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #274)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3290,11 +3290,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4861984f-81c2-4e59-88ac-33ee63a9f2ff",
+    "id": "a3648ac0-1c68-442a-9513-5ec53670f1ec",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #275)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3302,11 +3302,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c0f2b149-7803-4b9a-bb3d-d9672a1da13c",
+    "id": "3eb74882-ee32-4663-9709-071d3ea91265",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #276)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3314,11 +3314,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0281b126-ad17-4240-99cf-afe7d50bfc98",
+    "id": "efeab0cc-33cf-4b61-9d7f-211f3031b84c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #277)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3326,11 +3326,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "24192ddc-08e7-41c2-9fc7-96ecf57774a6",
+    "id": "0d3e779f-d491-4c4b-823f-8dbeabd71110",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #278)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3338,11 +3338,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "04e41471-4d1b-4a2a-848c-27a0a1a8f37d",
+    "id": "b2d70df6-31a1-4e86-90fc-ccb01250fe5f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #279)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3350,11 +3350,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5186fb27-b1ae-4b42-b585-99446e08c4ec",
+    "id": "019c592c-0969-4eee-a0f1-7216771634a2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #280)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3362,11 +3362,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "61bfacc1-9516-40af-844c-96a77b2c6a49",
+    "id": "30d86dd2-6a50-4bba-84de-942a2576a1c1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #281)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3374,11 +3374,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "23d35924-22ab-4159-b320-8c5df50c1fe5",
+    "id": "d0c4531a-9529-468c-967d-1858ba020d55",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #282)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3386,11 +3386,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "91495bd5-7899-42c7-a212-8e895d627ab3",
+    "id": "1f2e3f70-5da6-485a-8e09-a700432046ec",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #283)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3398,11 +3398,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "35860793-fc2d-47fd-b741-5c854fd67fff",
+    "id": "9c8ca905-4cc8-47c5-8b5d-19a45fb0e111",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #284)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3410,11 +3410,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "78325214-be8d-408a-93ed-69da3a85f031",
+    "id": "e70b3044-a96a-47f7-ac32-dc4ef533c8aa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #285)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3422,11 +3422,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "23201e55-6291-4260-b4a5-aad2820b6209",
+    "id": "827da0c0-b7f7-4248-927a-20d2c22c2baa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #286)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3434,11 +3434,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2568b5de-3e32-4537-8b17-516b75424cff",
+    "id": "fd6a1ce1-06e6-44cc-ac9e-0b64d8169c16",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #287)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3446,11 +3446,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "dda4c5ac-ce7d-44db-a938-c1aeb6dce493",
+    "id": "2c85f3c0-0027-4e2f-ad46-4ba8910af5fc",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #288)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3458,11 +3458,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "33e8af81-4bae-4a7c-861e-d524a9eeada0",
+    "id": "4952267b-971d-491d-a93d-2bc3f5b1228d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #289)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3470,11 +3470,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "be93dd42-a2d1-4d56-a49d-a39f6c769bea",
+    "id": "ab384f4d-594f-4dc4-bef7-179d8897efe0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #290)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3482,11 +3482,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6de51158-4308-4002-9891-79a695c36e0b",
+    "id": "ea2c0a23-165d-4e12-a7bb-804a94067f44",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #291)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3494,11 +3494,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8a1426b9-10e6-4d03-9331-2544c6f39040",
+    "id": "1fee8eb2-38af-4306-9be4-421082103ada",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #292)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3506,11 +3506,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "49204a88-de1f-4081-9ce8-2df6b53028cb",
+    "id": "12ca767a-1225-4896-bdeb-1b1db76ffdf9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #293)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3518,11 +3518,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f3dd2769-31b9-492d-9099-12d847b3646d",
+    "id": "f3a3b20a-4133-4dff-9132-f22f9b919e21",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #294)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3530,11 +3530,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "547873f7-c661-4ce7-afdf-caeaec215cf3",
+    "id": "08f5fa83-5520-4498-af4c-95cfa294a017",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #295)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3542,11 +3542,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3c6ab759-683a-46dd-8e1c-8a3ac38f7c6d",
+    "id": "eb6079cf-3674-4f91-b79b-a269a8915946",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #296)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3554,11 +3554,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "70e4f6fc-5b9d-4994-b2bb-e660a78f85d6",
+    "id": "2d40be34-8447-4d63-962c-b9df67c59f5b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #297)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3566,11 +3566,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d46b1014-49c9-4ef0-87a4-002d0ad39024",
+    "id": "451bf640-fb71-4864-a10e-517ef0ac776e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #298)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3578,11 +3578,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cfceffd9-ea34-4bbe-80d5-056cb4945f67",
+    "id": "0489f4fe-c52d-4f0d-9c07-d9d1eb3e096e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #299)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3590,11 +3590,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1e16dfe7-0259-42d9-a3b7-e959d0be6536",
+    "id": "2cc55fcd-0723-4e1a-bb2d-1625dbd403af",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #300)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3602,11 +3602,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2da9b6ed-2997-4ae7-af13-a13bcdc6efe3",
+    "id": "57cf2f72-896e-4fe2-8959-edc8246cc45b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #301)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3614,11 +3614,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3b2d4669-4c72-4f68-a8ea-b39548d39500",
+    "id": "42905e9c-b057-4df3-8d4b-0416b763965a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #302)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3626,11 +3626,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c1f73cf1-72c4-4758-8bd4-a533945c0edc",
+    "id": "78497063-9cf1-4cec-bab7-b2db5add0386",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #303)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3638,11 +3638,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a091616e-9a4b-4727-af11-1c722a5c0ed0",
+    "id": "5ffc2897-83bc-4bc8-bb74-39029d59a7e1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #304)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3650,11 +3650,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "550c70bd-53aa-4f3b-bcd2-4b6be525c544",
+    "id": "d3c3bbad-0007-4c5f-bcfb-a6c0234ccc1e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #305)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3662,11 +3662,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3d131ef4-1d41-47e3-a857-acc348872e6b",
+    "id": "f1a79168-1ea9-444a-add5-459b8bba6b6a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #306)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3674,11 +3674,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "52902ea0-87a9-420d-89d6-fdf342988ed1",
+    "id": "179dbc62-ffc1-4a23-9d09-8aab9e36dbab",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #307)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3686,11 +3686,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cfbd981f-f195-4a9d-a5bd-17b141db0329",
+    "id": "33c35eec-9ce7-499c-a133-241395416e7e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #308)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3698,11 +3698,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e965991a-f00b-417e-95fa-28ab0f527d07",
+    "id": "e02c4ccb-1fe5-48b3-b215-bdc8fbb40cfb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #309)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3710,11 +3710,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "501c6c65-c569-44d4-894b-e24471b18425",
+    "id": "9bb9d467-a7ef-4dfb-83e7-fa2baa7025cc",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #310)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3722,11 +3722,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a314c5f1-f8eb-40f9-9de3-4c2b62bff12d",
+    "id": "ad3f7a17-014c-427b-97ec-994e670f8035",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #311)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3734,11 +3734,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2cc998e5-b577-4d94-91c9-a601271a11c0",
+    "id": "06d365db-a403-4421-8560-39796af3d4db",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #312)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3746,11 +3746,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "88a49ede-c126-4214-8bc2-9256e3f19a2a",
+    "id": "77d1fb52-51e7-4b0a-80bf-0f14d243adf4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #313)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3758,11 +3758,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fe2dd777-1ceb-41ff-866e-f502a6dc602a",
+    "id": "46676282-410d-4feb-b19d-fc0054d3376b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #314)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3770,11 +3770,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "67fec69e-a963-4d61-961f-de49b4b0f531",
+    "id": "a3fce022-8922-4f9b-add3-0cc8cbcd6b09",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #315)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3782,11 +3782,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ffc1d217-716d-4785-9793-b7bae68999da",
+    "id": "b53f660b-36f0-4cba-849a-f0069cd0b24f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #316)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3794,11 +3794,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d6ebbf80-f679-4de6-b7d1-36aea4a98ffc",
+    "id": "27e2d3f4-821a-4e15-8436-457379c62eef",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #317)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3806,11 +3806,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "28c1cb30-d9d1-43c0-a95f-be562abd8878",
+    "id": "4e133736-c539-48f9-a179-fa118e4306f2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #318)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3818,11 +3818,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "66e8c8e1-059d-4a75-a073-52e8754911d3",
+    "id": "1fd0c316-3dc2-44bb-b3b3-b24a09388635",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #319)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3830,11 +3830,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6dc16ccc-9a6e-49c2-b34e-be0fe96e091a",
+    "id": "f14b04aa-c3a6-4515-b54d-718041fbe2f0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #320)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3842,11 +3842,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1f037ae3-5aef-412f-9096-115593473a98",
+    "id": "ba7781d5-14cb-4673-ab6b-0251cfebed9e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #321)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3854,11 +3854,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fdbc612e-ff56-47c2-a7d6-9ac1af9eb484",
+    "id": "8d81d8d9-2bca-4727-9662-2352c05025db",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #322)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3866,11 +3866,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5db27b1b-5858-49c0-a027-26e63d8c41c1",
+    "id": "09c93188-dda5-457e-943a-db5447dc812b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #323)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3878,11 +3878,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3ce4c157-66b1-487b-a543-1eec3cd9fed5",
+    "id": "e7a9efd7-ee8e-40b1-a7b8-b2d848f6c62c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #324)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3890,11 +3890,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9b0177a0-5b28-49b2-8c21-eabccd3b965c",
+    "id": "ec02b963-c159-4323-b1f2-ba3cc2f21d41",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #325)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3902,11 +3902,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5dc7d85d-46bc-4cb9-a73e-500e27fdf93c",
+    "id": "b3a77379-579e-4475-ad3a-3529bf64be51",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #326)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3914,11 +3914,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cf864aab-eef0-44bf-a940-8910048c27e3",
+    "id": "513199f7-ea05-4e13-9dce-5c6986e74a9c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #327)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3926,11 +3926,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cdae2259-3552-4cb9-81d8-3cfc7cecfeef",
+    "id": "f3f21d38-ac3e-4ef5-9921-b039068e8fed",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #328)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3938,11 +3938,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "681f8085-3895-40ab-999e-34ae0a60d8e1",
+    "id": "c96b6ef9-f37e-40ff-bc95-9c3edd2e5379",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #329)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3950,11 +3950,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3ecda39b-94d0-47da-ad83-1541ffb5382c",
+    "id": "2fb619ea-508c-4440-97fb-c94d4e0a6f65",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #330)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3962,11 +3962,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "474c76b9-84c4-498b-a07e-63ba4c267b8b",
+    "id": "1192bcf8-7ebc-41ac-802f-76e43c686ce6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #331)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3974,11 +3974,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "42fe2ff7-f1e0-44e4-923b-d70e0c4b2fd8",
+    "id": "a55902f9-c99e-4fe4-b8d5-2d75171b7d67",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #332)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3986,11 +3986,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "220c6f01-eac8-4453-9b1a-6e6e062a67f7",
+    "id": "942b1ed9-0a9a-4eee-83da-233c37a6661e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #333)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3998,11 +3998,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "95bdfb32-6fa1-486b-8d31-2e4bb3145efa",
+    "id": "5eab3d12-ad9b-4e55-816f-6b8738eff175",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #334)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4010,11 +4010,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9e0caac6-e8a9-42d2-9d75-aa73285365fc",
+    "id": "16c07026-4cc3-4104-8763-96922b282df6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #335)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4022,11 +4022,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8a4d23d3-f78a-4da6-b299-33bb7ecbbd15",
+    "id": "1f173cf8-75da-4ed8-b964-cf77c95d3fcf",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #336)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4034,11 +4034,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8d5c15aa-8c3d-44ac-997b-2f6e61c801f7",
+    "id": "7c548fd7-59cf-4c18-8a2e-1967373ea657",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #337)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4046,11 +4046,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "da254457-e9a4-45f6-a8cc-d1c23534c255",
+    "id": "fde21505-edc3-415c-b7fe-68975894a59e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #338)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4058,11 +4058,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0bf95371-15ba-4da8-94e6-64cde4ffb4d2",
+    "id": "a540720c-3ee7-4b6b-a497-5b906f9a2754",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #339)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4070,11 +4070,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "68c1779c-b52c-4919-bff1-5b01ccc22d9f",
+    "id": "dc509e47-ddcd-46e6-9972-f483e09b0294",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #340)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4082,11 +4082,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0a74ffb0-59d0-49bd-b949-07783c2edef3",
+    "id": "8cdf69f5-8788-4457-ae3e-0a084f6303e9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #341)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4094,11 +4094,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f5da3320-5b1e-471a-8c79-a6552e474967",
+    "id": "e005e37b-3177-4bdd-b408-6bb5752df2d2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #342)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4106,11 +4106,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8cb71abf-b980-4785-a5af-0d3cd6dfe940",
+    "id": "ae0ce30b-af6e-4460-a1bf-f66d2d8564c2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #343)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4118,11 +4118,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ccdd473c-01ba-4d96-b607-e32b619c8c50",
+    "id": "8cba814b-a316-43b7-89da-b9cf86464e3b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #344)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4130,11 +4130,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5d6f65fb-b589-432b-95b8-26959054ec34",
+    "id": "ebfbd3e5-b611-45ad-814b-04ec073fe5cd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #345)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4142,11 +4142,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "34fb5240-419a-494d-bd34-f9aae420f2b8",
+    "id": "669e5173-73a9-4666-a790-181bcae6dbc2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #346)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4154,11 +4154,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e28badc5-1abe-4d38-adf8-7230ad2ce402",
+    "id": "fedd020a-4a93-495e-96f3-8463126c4e6c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #347)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4166,11 +4166,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6723389d-49cc-43a2-aeff-a6e59d735835",
+    "id": "b3500add-055f-4f70-892d-85ff5bcb3a78",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #348)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4178,11 +4178,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3b999311-72e6-474d-a031-75f63873a109",
+    "id": "1565a987-e65d-4a8e-9298-1add8b434e22",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #349)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4190,11 +4190,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2db17bcf-4309-404d-8e49-51550f4fd232",
+    "id": "d99031d1-c50c-44b3-a277-a6d9fdc6bb33",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #350)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4202,11 +4202,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "de0a4ad8-332d-45cd-a4f6-8349c615ea31",
+    "id": "32cca2d5-3a09-4c37-9340-437b4bd72d80",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #351)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4214,11 +4214,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "58945b4e-3347-454c-9927-4d10c0366a0c",
+    "id": "59be5fcd-5fba-4a0f-8965-69a7073017c8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #352)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4226,11 +4226,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d1af20a7-8651-4351-9402-70c4c21099ae",
+    "id": "f8e349ba-5eb0-462d-90ed-9657bb00df38",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #353)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4238,11 +4238,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "325e265e-ffd7-4806-9d0f-54b23dae54c6",
+    "id": "2b6de0d1-9adb-442c-89ea-f9e83811b998",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #354)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4250,11 +4250,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b6afe07a-e89d-4db1-b7cb-3d0f00b75510",
+    "id": "6354e126-97ff-44c1-9dc8-0dd7f6fbfe4f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #355)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4262,11 +4262,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "27926f6c-7eda-40a6-a4ee-e4aa1d7d3087",
+    "id": "3265fac4-8a9c-4d6d-8cb9-643824c0cc19",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #356)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4274,11 +4274,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d289a088-5563-4530-af1e-77eb846b1782",
+    "id": "db5b82b7-6694-47d5-9ce2-71adb456de69",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #357)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4286,11 +4286,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c3673567-702c-4029-8dca-bee04b62ecb4",
+    "id": "f2dea93a-9236-4ca3-be79-96957c00b124",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #358)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4298,11 +4298,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ba41c7ec-cb01-4dd2-87af-edbdbb3c0843",
+    "id": "f6f2cfbe-7135-4970-82f3-34ec13fad096",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #359)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4310,11 +4310,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "117a85dd-c5b4-4a85-8c6e-27a6a847e85e",
+    "id": "941f5fd1-6535-41b6-80d3-a4833ff97874",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #360)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4322,11 +4322,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "488cfb0f-d329-41b4-b449-54c59be96e8e",
+    "id": "e843146c-7597-40ca-86a0-778ebd2354d2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #361)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4334,11 +4334,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3a56848d-831b-4c3f-983d-a6221db0389c",
+    "id": "263eaa89-3dc1-4210-982c-9e83d50e0b5b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #362)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4346,11 +4346,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "efb24df5-24e5-4b48-baea-e49070364723",
+    "id": "3e065a23-1bfe-45e9-adae-091c2df2b032",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #363)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4358,11 +4358,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1aaf0020-bb1f-42c8-a291-d5b595f70ada",
+    "id": "fb86237f-a889-4731-a4e6-461e153bab95",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #364)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4370,11 +4370,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "661990b6-34a8-4c0a-bcab-314ec6e45203",
+    "id": "34298724-1f51-48dc-881c-347a59d486eb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #365)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4382,11 +4382,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0a3487e7-b5b5-430d-8745-d7817564993a",
+    "id": "d4b0bcb8-490f-4c1f-8f6a-1e3f3a9957ec",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #366)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4394,11 +4394,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "50cf9796-a6b6-435a-887c-675e1cf98c1a",
+    "id": "5276ae66-d7eb-4222-a137-018e968eb892",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #367)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4406,11 +4406,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "678fa24b-4a26-4f78-add4-6851dca19b77",
+    "id": "679aeabf-b74a-4aa6-a1c3-7aa1c4b28ae4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #368)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4418,11 +4418,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8022de1b-0279-4418-b6e7-6bf7a97d581a",
+    "id": "48f7cb91-c46d-4c7a-8109-5dfb9e36f60c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #369)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4430,11 +4430,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "383057e9-d604-4eab-a1ce-d22fab6eb378",
+    "id": "4057607f-222e-4a6a-921b-aeb3fd8e16b3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #370)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4442,11 +4442,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c16d9f66-3647-46e6-8e74-039b81cd7f20",
+    "id": "689396e0-0232-490d-805a-2f5edffb22d5",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #371)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4454,11 +4454,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d2e615ed-0cd5-40ad-b7cb-7e38448c09d6",
+    "id": "6cd4f194-5430-459a-9e2a-9a2b60873120",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #372)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4466,11 +4466,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1e06067f-a54a-434c-b207-186bb1674386",
+    "id": "d7667a2e-c2c3-4d38-8dbb-2d89100d381b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #373)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4478,11 +4478,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "37311f7a-daef-4ffe-8f6f-94844f7f1bd5",
+    "id": "4cf387cf-4377-4602-8a7c-2630f7f48014",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #374)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4490,11 +4490,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "678fd7cc-ce5f-4b2e-b9ab-9afb37f838df",
+    "id": "0e341c90-845d-405b-a612-cafde6def92e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #375)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4502,11 +4502,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "af33f247-9381-42bb-ac02-ca073a85a9b9",
+    "id": "cc409e03-caa4-488d-b531-6ed2159d1fe3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #376)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4514,11 +4514,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e3fee4a6-3dd7-41b8-b6ba-c08f86ffc0f2",
+    "id": "40744559-5265-41b9-b960-90031f16da4c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #377)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4526,11 +4526,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8a4310d8-c980-483b-a076-a3c210a58c53",
+    "id": "13238beb-4399-4fb2-a773-4b3597ae01a7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #378)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4538,11 +4538,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ec0dd2e2-c383-48ff-a8df-21a4bc8ee2c6",
+    "id": "8d16f00d-dcbb-4f9a-ad5e-84976fafeb81",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #379)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4550,11 +4550,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1ae81886-8f9d-4ce8-8be0-1d325bb08bb4",
+    "id": "7a77d48d-d585-4c10-bd66-c1f4a6d1db8b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #380)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4562,11 +4562,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "05da9f22-6ee8-4ebc-b4b9-07b1ed86aebe",
+    "id": "2a74955c-5611-4acf-aeaf-182b528eb9fc",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #381)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4574,11 +4574,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3c16f7ae-f053-4734-a4c5-1ce208591a6c",
+    "id": "eac4e484-5667-4fd0-836b-605300c1ae91",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #382)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4586,11 +4586,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "480d2164-e80d-4369-b97a-0ca241e879d8",
+    "id": "412f56c9-0ca2-40f4-871d-1302eac95ddd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #383)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4598,11 +4598,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "12138c4c-067d-445a-bc35-788f503f4acc",
+    "id": "f96f213d-abb1-4aec-a63c-ed9a1f5d82dc",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #384)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4610,11 +4610,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "de3f04f1-7d47-497c-aa90-3a36f81ad634",
+    "id": "b0c5bd57-f0ac-4920-9878-72a257966d6a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #385)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4622,11 +4622,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c654195e-abee-4fd8-8c78-736a31b7013e",
+    "id": "283817cc-9f1d-4b61-96c2-fbceb6f577b6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #386)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4634,11 +4634,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "afaaf941-139a-409e-a10b-87c21841db4e",
+    "id": "7b320be1-85ea-4c34-b3fb-7536e2a30bfa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #387)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4646,11 +4646,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a6675294-0200-4936-85ca-5d724bb30e35",
+    "id": "477b4fe2-5ba9-494a-ad60-c16b04f7cf54",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #388)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4658,11 +4658,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cea1db70-b1b2-49c6-9d18-b0907645a8f5",
+    "id": "0e1db099-1266-4ab9-b4ac-02065554415c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #389)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4670,11 +4670,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c902943d-204a-425a-a4d2-8c806af08139",
+    "id": "3e46e824-b2ba-4c46-8296-7c2b62cb92d1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #390)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4682,11 +4682,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c17196ec-1c15-4ee5-bbc8-38a4a35a241b",
+    "id": "e699950e-7c10-4be0-a1cc-937ad20c46f6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #391)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4694,11 +4694,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b70c92ad-a7e3-4be2-af90-22d307792833",
+    "id": "339b90b8-094f-4961-8e05-9618d7ae2dd6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #392)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4706,11 +4706,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "917dcbc3-5597-4a89-8079-bae470044313",
+    "id": "189ab4eb-aa80-4294-b8d9-3c6b213c07ec",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #393)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4718,11 +4718,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "12efb930-2ca9-42ad-9b19-c9837bbf645c",
+    "id": "4de5e52f-05e2-45a0-b456-0f4568e39267",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #394)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4730,11 +4730,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3acf9099-cefc-4fbc-8410-08a0cec51acb",
+    "id": "4804d24a-54cb-4859-a1a3-770e16836beb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #395)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4742,11 +4742,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1213eb20-08dd-4646-8e48-0b6f33de9266",
+    "id": "8919dc54-af20-4682-a22a-a7391dcaab67",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #396)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4754,11 +4754,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "44906ba0-7453-4e49-a50d-604e994b1737",
+    "id": "271d8621-0933-4e0a-bc1b-c6af64c879c0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #397)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4766,11 +4766,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6a9d3904-9385-4114-b23f-95315b62dca3",
+    "id": "a4f09cdb-1791-49a4-98ce-2eb98b66e28d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #398)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4778,11 +4778,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "47b21156-d373-4825-8330-4e7b0e7a7d42",
+    "id": "86c1124f-6b4b-4661-98b9-ddee98a97cee",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #399)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4790,11 +4790,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7d2f786c-a3a9-427e-aeb7-aae43f8997ca",
+    "id": "eee8c0ef-fa23-470b-bec8-bba053b11b44",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #400)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4802,11 +4802,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "870a49cf-1133-429e-9d70-9a4c05053794",
+    "id": "3e351bd6-bb73-4200-aa67-e46389eef913",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #401)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4814,11 +4814,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bf0bbd17-0222-4f28-9a82-b917d091f4e0",
+    "id": "f83abd3a-211b-4b8e-82fe-4cf659b663e0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #402)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4826,11 +4826,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bfadefd6-98b4-4f5d-82f5-f132f61bbf16",
+    "id": "572bca5f-cf35-41df-a03f-fb250988e794",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #403)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4838,11 +4838,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2a59e7f8-beff-4932-8378-bf8c2f60d0d4",
+    "id": "ed0e0e50-d483-4001-ba4c-df7a9f4fbd42",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #404)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4850,11 +4850,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "80e2cae7-5562-469f-8b0b-30ea22a61fd9",
+    "id": "7c81e8b2-781b-4fb1-919c-7905cbfd7d03",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #405)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4862,11 +4862,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7a9c3fad-0695-49d2-8f12-93bed4718ac3",
+    "id": "82dc2acc-8386-43ba-8832-abc51c1babe8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #406)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4874,11 +4874,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f2e86b0f-5fa6-4c3c-a9f5-bf7a088e58e6",
+    "id": "d36c694f-2e60-4c3b-870f-979421f855be",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #407)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4886,11 +4886,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9b033c48-5437-4c0d-bfc2-87041c4b70fe",
+    "id": "6a42e308-8430-45c5-b007-c631140e9cab",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #408)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4898,11 +4898,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4128c17d-f4ae-49e7-bdf6-63648d3d6c14",
+    "id": "82f7580c-f657-44e2-b975-a12159f5f38e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #409)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4910,11 +4910,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2440a0e5-e883-488a-824d-ae5ff33c2b34",
+    "id": "d8436599-e9fe-43b6-af27-2bc2ad60541b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #410)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4922,11 +4922,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "48fc718d-dbb0-456a-885a-ec3e6ce56b03",
+    "id": "a337871b-a401-4f9b-a8b2-d80b16ba9b4f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #411)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4934,11 +4934,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1591e726-a80c-43ac-a075-d717fdccea77",
+    "id": "f133ac66-432f-4782-8c03-749fa0360878",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #412)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4946,11 +4946,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c15f8261-07ba-4b7f-a554-2f1c84fc4b9f",
+    "id": "f6758e65-bfd3-4dc5-9328-baa557ac9d84",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #413)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4958,11 +4958,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6ea590b7-aa3a-435f-9fe1-9608bacf773c",
+    "id": "17b002f5-bbd5-44f1-b1ff-2384ea7ae00f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #414)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4970,11 +4970,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6d292317-3d65-4083-8df0-6bf822c4d398",
+    "id": "d1b2a338-5560-416f-886d-99413efec090",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #415)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4982,11 +4982,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d44110a9-9b9e-49a5-a45c-6689907d2851",
+    "id": "18b8643f-7ff2-409e-895c-55a23076b4de",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #416)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4994,11 +4994,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3c2e6211-77f4-4ec7-b1d3-d4b6edea6dce",
+    "id": "b1d6cd62-825f-4d04-8ae9-065fd5e0c440",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #417)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5006,11 +5006,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "aa6fdd58-d8e9-4ed7-b1b3-a69e1c4d8e01",
+    "id": "a70a7e60-774a-4888-8c26-fd765b869196",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #418)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5018,11 +5018,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "81fe804f-0dbb-4469-b833-b061c562a833",
+    "id": "87349cfb-7f45-42f8-8281-6b81e8524ab8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #419)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5030,11 +5030,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2b6f67da-95e7-48cb-abd2-f71410ec8f42",
+    "id": "aab88130-379d-4fd4-96d1-dbcd44809b5f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #420)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5042,11 +5042,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9de89154-7b22-43c8-ad83-02e9555b3c22",
+    "id": "267a84d7-56ec-47b2-9190-44b95d949fb8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #421)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5054,11 +5054,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "801e0990-b831-458d-8163-7190a3abf5a8",
+    "id": "085909be-74a2-42dc-bd3d-dcd08c6b665f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #422)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5066,11 +5066,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bc482fd6-1ae8-445c-92f6-ee819253bbad",
+    "id": "66a3b46d-18b6-4f6f-bb73-0461733548ac",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #423)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5078,11 +5078,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "36b1146a-a54e-4044-adfc-1576d422d951",
+    "id": "5fb3aace-b51b-4a17-8c1b-1417655a4850",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #424)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5090,11 +5090,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c633a0b2-fe6f-4e90-bbaa-71af28be05b2",
+    "id": "86bbd0f9-b9cf-4a5c-85a4-dfdbdc7a9e94",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #425)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5102,11 +5102,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "58d3d511-8196-4b83-8434-e8d0943c116c",
+    "id": "1331de88-293f-47b6-97d1-300b8157010b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #426)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5114,11 +5114,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9219f002-c448-4bc4-8f51-8cb723640786",
+    "id": "f8c2dadd-f8de-4ee0-a536-f1a88f5f6c40",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #427)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5126,11 +5126,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "32eea62a-4d6e-4fe7-8b2a-e9c5d7115580",
+    "id": "11cc3ef5-743d-4a36-9111-19de4f639be8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #428)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5138,11 +5138,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fd3ca6e3-6c1c-44b2-a93f-38a12be2aff4",
+    "id": "9e1a2870-543c-4887-a54f-f248d5fee469",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #429)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5150,11 +5150,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6224587a-5044-4786-9736-4dc6b35821da",
+    "id": "38d0805f-f958-4525-b5e3-05f5f3a5a443",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #430)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5162,11 +5162,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f946c042-3e5a-4257-b756-f514bc9f12e8",
+    "id": "21b3e49e-b0c6-4472-8143-9b11900a2140",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #431)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5174,11 +5174,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6555a15b-8fac-4c20-a615-7fbccc939ae7",
+    "id": "5f27bd31-b5ab-4162-aa93-50909150b4b7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #432)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5186,11 +5186,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0845014f-b1cd-4f12-a451-aa03812f23f7",
+    "id": "c1cffb37-2f3f-43cf-8d53-14c2979940bb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #433)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5198,11 +5198,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b03fe719-0ce4-4db5-809a-80b68b9ef1d6",
+    "id": "65911e96-a270-4beb-adec-a4cab8a7b9c0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #434)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5210,11 +5210,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0e507c9d-b020-4c5d-a986-e33d9fecd2c3",
+    "id": "0da97c6b-2424-4e81-b750-5281c4bd6f9b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #435)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5222,11 +5222,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "89393525-c8bb-431a-9779-1ab3243689cc",
+    "id": "2ff3a2d3-bfc1-476f-b2d8-07c08595039e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #436)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5234,11 +5234,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "17ac9846-774f-4eeb-a88b-5843c896b814",
+    "id": "6ffe1b79-c4be-4f5f-8de3-ea2db15b9623",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #437)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5246,11 +5246,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ba49097d-beda-498e-99ad-e7aa455d1ca9",
+    "id": "e0bd8808-cf41-4fd9-a720-3e5874474179",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #438)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5258,11 +5258,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7eccebbc-051c-4d24-a62c-d8dec8f0eecc",
+    "id": "9ba65a45-cd3f-49da-b8d9-302d017e1610",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #439)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5270,11 +5270,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4de3f0f0-0b73-49ca-98a5-8a17554130cb",
+    "id": "f4a79a59-989e-450e-8e3b-86e95af9da74",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #440)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5282,11 +5282,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9451c7b6-0d0a-4910-9df1-afe3a7425d9b",
+    "id": "1319b70a-3978-48cb-9828-eeb6683e0a99",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #441)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5294,11 +5294,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cb6e0010-c11c-419b-be01-e6c41e5a01b7",
+    "id": "9fe082bc-2d62-459a-ad41-cd01d45bc13d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #442)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5306,11 +5306,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "111b6c76-3da6-4608-bfaa-79681aea12c8",
+    "id": "f53c223b-a72e-408e-a0e7-4796c6b302b8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #443)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5318,11 +5318,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "82aec807-bb29-42ee-b644-f00e359ccf2b",
+    "id": "6369d56b-bca6-4626-bf71-7743a94df991",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #444)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5330,11 +5330,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "43485707-eb09-4e11-b82a-8e296573a323",
+    "id": "efb676f6-f5ee-499a-917e-6ea70eaef12e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #445)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5342,11 +5342,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2b7f9761-893b-46f0-8ad4-79cd4d21a87d",
+    "id": "13b2067d-9649-4676-8f3d-95f8db9c4eab",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #446)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5354,11 +5354,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "90f29877-826a-4506-8c73-6766772f6d29",
+    "id": "ca0a9898-cfdc-463d-b4af-87596e25b00a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #447)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5366,11 +5366,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e29c2b27-97a2-4c90-8bb5-9ca6018733ad",
+    "id": "eb785af9-cb2d-444d-a658-9719f2d99ea8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #448)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5378,11 +5378,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7a28cc6b-bfa3-428d-8e66-3ffd8b6d8a25",
+    "id": "bab34b35-0dc7-433e-89af-d1682f7ebf33",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #449)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5390,11 +5390,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "08f5191a-eeaa-4177-b752-46714b5be42b",
+    "id": "189e11ff-515e-4998-98e0-f860e1acea75",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #450)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5402,11 +5402,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "dcf14aa5-404f-45a9-ab36-73df087f9007",
+    "id": "0dcaa4df-adee-4961-b8a3-47f2d3f4b8d6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #451)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5414,11 +5414,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7ed0c464-72ac-48a6-b7b9-66817ee42c46",
+    "id": "f47d5630-d8f0-4f3d-bd20-860a12a55b23",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #452)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5426,11 +5426,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b458f926-4850-4844-ae4b-80df2d08506f",
+    "id": "f80ecc69-4145-4f7e-b803-1c1c276b1d12",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #453)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5438,11 +5438,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "30c2ffdd-950d-4aeb-96b2-d5697024461a",
+    "id": "110e6746-ee38-43c6-8b90-f9ffad829e1c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #454)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5450,11 +5450,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "75de5d22-7247-44d0-8878-9b3e6e664d81",
+    "id": "a48c3db2-dfbe-49e0-a685-c75505df6b73",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #455)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5462,11 +5462,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "134a9af7-225c-4075-9490-0ba7acb699f4",
+    "id": "eb042e9e-391e-44af-b242-6361e81d205d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #456)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5474,11 +5474,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1923ced2-5e0b-4093-a516-dc19c6dce2f7",
+    "id": "1ebf847e-cccd-4573-9e73-ba66ba05180a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #457)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5486,11 +5486,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "532a5f27-df5d-4c47-98ce-9ff39807f3ca",
+    "id": "f5bb995a-656d-4685-97e5-68801a133405",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #458)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5498,11 +5498,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bf27a17f-e244-460d-ba5a-41a60bbe2b4f",
+    "id": "8c9c2772-c0b0-4cfe-b6b7-0eb16de72e28",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #459)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5510,11 +5510,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b2c341da-9628-47ae-84de-28b8a48886cd",
+    "id": "9526329c-02be-403f-8547-a1d0f661317c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #460)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5522,11 +5522,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "742c2e8e-83ba-4e7d-8ccd-55a7f59c162d",
+    "id": "7800d723-75dc-4476-8f8d-c481bcc2dae2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #461)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5534,11 +5534,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "458bade3-187f-4ff2-bce7-8744f0cbd4c7",
+    "id": "6b96095e-8cab-44e4-82fa-a7523ea10d25",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #462)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5546,11 +5546,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1b5368e9-cc8a-49f4-9cf3-ece1e99bf7c4",
+    "id": "8d00ab78-e8b9-45ec-8280-9b4b18e2f8d5",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #463)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5558,11 +5558,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "235889e9-fece-4cab-8a8d-e5cd3edb7427",
+    "id": "ce6adbaf-1776-4a06-aff2-3a899abf06eb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #464)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5570,11 +5570,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "843ce739-a7b8-48d5-b867-370a0d2d6bb4",
+    "id": "0326667c-db81-4ddf-89fc-2cb822e11999",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #465)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5582,11 +5582,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "afc87bdc-6915-414f-84a4-90244fcada57",
+    "id": "c67ed50f-b007-42b0-a1aa-795b21bd0e62",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #466)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5594,11 +5594,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bfb32841-90b9-4861-9131-dbf51fd90a40",
+    "id": "f2a726de-7bae-46da-9be8-9ad10c77532b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #467)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5606,11 +5606,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b75bfe6a-bd5b-4636-a369-8cb35b570c4e",
+    "id": "aa1f04d4-82ea-4131-8edc-9302a66adaaf",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #468)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5618,11 +5618,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7bf6e5ef-7a63-44dd-a468-0eb263003ebf",
+    "id": "4d2bb01c-c1c1-459d-b4bc-939889d47bad",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #469)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5630,11 +5630,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "118895da-9eda-49d8-9aa3-cf29e0215c26",
+    "id": "f34c6b30-fa69-4eb0-abb9-c7b55d3c579a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #470)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5642,11 +5642,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0f724bef-7bb0-4e77-a06e-4aa0e59fd58c",
+    "id": "4c37f3d3-7e7a-4a85-a4d9-6d2b0b593716",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #471)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5654,11 +5654,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ebc9132c-c4d6-45fe-97f5-d9ac4541c733",
+    "id": "a6af5902-eb18-46d5-b68a-97ab37a4f66d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #472)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5666,11 +5666,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "15234836-6371-4c47-9817-c251f20401f3",
+    "id": "36d91717-c4f2-425d-a2ef-235514810e91",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #473)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5678,11 +5678,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6b6ef350-03dd-4ff6-929d-70a32f821f63",
+    "id": "d24e52ae-f88b-4b1f-ab2f-ff480fbf9b14",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #474)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5690,11 +5690,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6f88952a-d83f-4255-b743-3c27ffe51520",
+    "id": "2956de7f-7fd3-4ff1-8e2a-6b03d63132f9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #475)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5702,11 +5702,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bfaf6f57-e254-4265-9edb-e731aba47312",
+    "id": "31f5c4c7-32ba-4ab2-bf6a-854a0925ef46",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #476)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5714,11 +5714,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "15d48d2b-9812-4685-9b09-c831da934815",
+    "id": "0ab44cc3-d93e-4dc6-8685-1eba8cd7a278",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #477)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5726,11 +5726,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "799403e6-a2bd-477f-b800-fc5e0571aee8",
+    "id": "a6286f48-afe9-4dbe-b630-e67f32537542",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #478)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5738,11 +5738,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d5ac76aa-6521-48e3-8e2c-9217a7806e59",
+    "id": "cf32d0ca-2954-4b0d-8fb4-ebb511a2e373",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #479)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5750,11 +5750,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "dafa692c-8c99-4512-a896-d88c41124c58",
+    "id": "556e19c4-7ca0-4184-a4ce-4e4d9bcf2380",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #480)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5762,11 +5762,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5aabbbd7-4ab3-4e99-bddf-6cbd51981a4c",
+    "id": "0a21cf78-8d8d-46f8-96cb-1d6020473f8f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #481)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5774,11 +5774,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a1f931bb-8f36-44f4-94a8-4efc00706534",
+    "id": "8ba2aef0-5704-441e-892e-36489ac23e08",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #482)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5786,11 +5786,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "827721bb-d0ac-41e9-959f-a3d90c668385",
+    "id": "309dcd90-635f-4f31-a66a-3549b2868970",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #483)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5798,11 +5798,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1a476f7c-a79e-42a2-b6f0-82b8127bbf67",
+    "id": "77de512f-d9e7-43cc-a381-4347db5d6d69",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #484)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5810,11 +5810,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e1653e85-c6b3-42b6-9215-8655520eec6d",
+    "id": "941959c4-587f-4a22-8615-3c33c2cbb41c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #485)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5822,11 +5822,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "76fa128e-e2fa-4a33-87e4-bbf8b80e2ec3",
+    "id": "e7b03a8b-acc1-438e-85c6-e605bad09c30",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #486)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5834,11 +5834,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4c0547c8-363e-4db8-a1d4-12a643a18caf",
+    "id": "b47b886e-381f-4237-a6ae-f6fe602fbf9c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #487)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5846,11 +5846,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "91abdef2-334e-46f7-aa1a-b0d5c8641abf",
+    "id": "a9fadea2-e6d0-4a49-80bb-9fd96088e671",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #488)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5858,11 +5858,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9f39d9ca-c900-46eb-a058-af1e5ddbe20f",
+    "id": "94b456ad-72fd-49d1-a871-c4490edf83e0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #489)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5870,11 +5870,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bd221430-804d-440c-9810-a29e10726357",
+    "id": "338ff70a-ca47-4d1e-837b-a91ecb9e6619",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #490)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5882,11 +5882,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "76ba7f97-3f53-49a8-a564-1ccc9bc97070",
+    "id": "95cd1516-e3cf-4e06-9771-8227fdcd6abd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #491)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5894,11 +5894,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d55b8ef7-937c-440c-b4f9-e0e8b6a3e4e9",
+    "id": "e486c396-5aa9-492a-93e2-99448512abfa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #492)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5906,11 +5906,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e23868d8-54f8-407f-8d66-6eb74244cddd",
+    "id": "c40a33d0-2ae4-4890-bd46-642e987f2943",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #493)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5918,11 +5918,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9c51bb69-6ed9-44bf-8337-ac8500a34747",
+    "id": "cf73edc2-d026-450e-ab51-e85d575b4d71",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #494)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5930,11 +5930,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "991df526-0c09-4bb4-811c-3b543c274af7",
+    "id": "bad6d924-8437-409c-b01e-759dbaa5d603",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #495)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5942,11 +5942,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d730bd6d-b023-4a2e-9f12-62f2903869dd",
+    "id": "3307f0b2-4747-4acb-b137-5e9b1f1d65ca",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #496)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5954,11 +5954,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "01081fb6-a88c-4d5d-91d2-e6e46ef58b1c",
+    "id": "1c547c8b-2f5c-40e5-a251-d7d9c9513695",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #497)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5966,11 +5966,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "75540e75-8520-4c92-ba50-86e550874506",
+    "id": "81d318f5-a41c-48f4-a108-18eab3cb271a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #498)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5978,11 +5978,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d01cef08-5380-4bdf-a67e-67342e77eb56",
+    "id": "f8c21a68-550b-490b-a0de-e99210deaa12",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #499)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5990,11 +5990,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f95dfecc-1809-4ebb-ba42-70e54b0fce20",
+    "id": "4221bd5f-f58f-42ed-a9da-2a1833c22581",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #500)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6002,11 +6002,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d1714dcd-378a-4d4d-9fcd-f1e33afa854e",
+    "id": "d94ea2db-98f0-47a5-aca4-0392ec52170a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #501)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6014,11 +6014,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f727d4b7-b6fb-4f7c-ae5c-97126e65f5a2",
+    "id": "b9b722c3-fb94-45fc-b6b3-67a413d22b5a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #502)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6026,11 +6026,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "389087d2-9ba9-4c44-9203-18fa5b65231c",
+    "id": "998c8d8c-699d-430f-8182-90714a84d26f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #503)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6038,11 +6038,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "341d9ed4-8bbc-40c5-af96-ec08d7968ca0",
+    "id": "42cca08d-3e41-4b71-ae7b-5f6c0c3afa05",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #504)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6050,11 +6050,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e650cfec-e1ed-4073-b219-2b4e6ad64f3c",
+    "id": "599008b7-0527-4014-9434-0b6be53978ae",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #505)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6062,11 +6062,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9cb12524-920d-4d9a-a08b-c74d99f13913",
+    "id": "15f7b7f2-b189-4012-8d20-d1eeb0cf55c4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #506)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6074,11 +6074,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c3f8eea2-c960-42ea-bf27-97f2e94712e7",
+    "id": "87456850-3e72-42f8-a5d2-6f0e80cd8a46",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #507)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6086,11 +6086,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "667ef76a-47cb-4c4c-b618-b39990f7bc0f",
+    "id": "65d15355-2977-458a-8daf-c6bf4a1a2792",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #508)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6098,11 +6098,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "aedf36ea-d2a7-40ab-840a-6d0a95f693a6",
+    "id": "161e5a76-e358-4409-9cfb-8abb6ed68e0b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #509)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6110,11 +6110,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a014b04b-e38a-4426-8ad1-8bb5ffdf8e1f",
+    "id": "08f77949-4a35-426c-b1f8-5abad105dbd2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #510)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6122,11 +6122,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "91ae6a36-7b09-4588-957c-8b8d1d7ff84e",
+    "id": "0a72ee66-071e-484e-8688-5a34b5e66c65",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #511)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6134,11 +6134,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "56644960-15d9-4d43-b494-990085bd0c14",
+    "id": "db1974b7-8d8d-4fc2-a9f1-b15b0dec42a2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #512)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6146,11 +6146,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ec09c9c7-6270-46fb-99b7-a8a0c35c2e54",
+    "id": "509e4419-e962-4cdd-a5b5-ef90f8510e57",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #513)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6158,11 +6158,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "908b0700-943e-4e1f-8d33-29a3387e5865",
+    "id": "b682d891-78d7-4f2b-9398-3c314a000682",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #514)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6170,11 +6170,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "efd94b6b-7433-46a8-b339-55a2e7853927",
+    "id": "bd9eac6c-1a22-44d4-b318-d32ce4544591",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #515)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6182,11 +6182,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "88aa13f4-f3bc-44bf-9def-366151fa5221",
+    "id": "20f744c3-aaee-4ea9-a754-f867c3fa6ed8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #516)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6194,11 +6194,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2a476bf6-22be-4ef9-97d1-1479d2dca25d",
+    "id": "1a5fb870-1b65-43a2-b2e3-7cc6dd915ce7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #517)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6206,11 +6206,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8468ed64-2add-4a69-875f-e4d7dbb8bfad",
+    "id": "0d5fc696-d386-471d-9182-4760fd3add5e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #518)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6218,11 +6218,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ea42b8ed-d0c8-4085-8ce5-b94a771d7a7b",
+    "id": "081c4791-61f7-4e9c-baa8-a51c76409341",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #519)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6230,11 +6230,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2c256e05-5b77-478a-97f0-7c4e7e2de341",
+    "id": "974065aa-b1e2-4b6e-a03a-9b139833433d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #520)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6242,11 +6242,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "06f1feb1-a289-4394-b19a-5ceab00b7b34",
+    "id": "010e7344-23b6-45aa-82b5-1ea36add5c59",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #521)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6254,11 +6254,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ed601e4a-3079-47d5-9b8e-a62f2430e7bc",
+    "id": "27167bc2-4e2d-48c9-989e-2bb40dc442f1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #522)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6266,11 +6266,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ce7baee0-ed70-4dda-ac82-1ac9e14ec086",
+    "id": "8604f07a-f2d9-4eb1-9ef1-2d37a522014a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #523)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6278,11 +6278,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f5a2b310-6f2b-4ed8-a231-55ff1987bd09",
+    "id": "0d00940e-f8dc-4537-acef-477f6f25a536",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #524)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6290,11 +6290,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "91e449de-882d-4a63-8bb3-ecef5c0ad415",
+    "id": "b080652f-788f-4ec4-8162-218f10e37888",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #525)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6302,11 +6302,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e4ef559b-6dbb-4dc2-9b50-4c3fcedb5a9d",
+    "id": "90336c1e-fb94-489a-a1c4-9e190a8051c0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #526)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6314,11 +6314,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "de0e0ecd-6edf-435d-bc92-7b8f7511ba65",
+    "id": "0274a652-73d8-424a-8d18-30c4adbeb2a6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #527)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6326,11 +6326,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5a58cf94-b4c3-4b32-b6e0-64a8e8054541",
+    "id": "51c0dc82-6b8b-4870-85f7-5eecd2941501",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #528)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6338,11 +6338,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f50c5c5e-cf65-4508-9e55-8ed81ba947d2",
+    "id": "19f2d335-5d9d-4cd1-b15b-45a0f220cb65",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #529)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6350,11 +6350,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f5121a39-ceda-49aa-8b86-f52249494774",
+    "id": "909483fb-152c-40c6-a734-2c3acba7d308",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #530)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6362,11 +6362,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "104d9b79-a603-45e5-8656-17a56575ab32",
+    "id": "0dbdf216-6093-455f-8e90-e78908d10f01",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #531)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6374,11 +6374,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "105a71eb-3889-4a71-8faa-be8e0d3de452",
+    "id": "b69a444e-1cd6-403b-aa78-32581ec30306",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #532)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6386,11 +6386,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "26a58443-2d04-4a13-a406-0247de2f0177",
+    "id": "7d96e36d-e83a-406f-970a-e78bbc0d0df7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #533)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6398,11 +6398,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b99ac8d6-4d28-48cc-b8b5-178687aa1192",
+    "id": "275dd481-bfee-4566-bf43-38354127644b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #534)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6410,11 +6410,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "24c13264-f5d4-4fdc-988f-7df43f63c60b",
+    "id": "f918cb76-47ca-447e-8649-bee60d2df551",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #535)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6422,11 +6422,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7fd8c574-b886-4dd0-8918-7a35370759a5",
+    "id": "da19e430-efac-4d84-9305-d3338fe89006",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #536)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6434,11 +6434,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ab19e082-d1b1-44fe-8706-f098b7184e0b",
+    "id": "b02749bc-ae2f-4df2-bf8b-aedb01a7f8b8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #537)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6446,11 +6446,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "28b2b6b2-57a3-412c-9ebd-2e786f0241bb",
+    "id": "d97c26eb-0b36-43b2-891b-65584195969c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #538)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6458,11 +6458,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a08e1138-1072-4822-8f1b-43ec1fffc460",
+    "id": "e3bc4dc4-f634-41bd-9cf4-375114a7505f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #539)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6470,11 +6470,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6dfd84f2-e986-4176-b9e5-7ad54c9a8768",
+    "id": "cfc26918-e95b-4f8f-8056-66373beed3ce",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #540)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6482,11 +6482,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7cc87a0d-8fbc-465f-a4ce-69f8dde74088",
+    "id": "92576dd7-ccb5-44a7-9c68-1e5a39d2569b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #541)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6494,11 +6494,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "eac9d3b3-b39c-4cf1-a305-4e00a64643d2",
+    "id": "de8c6c40-8d9a-4302-8137-0a537663e4d6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #542)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6506,11 +6506,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5e725c6a-b20c-42d7-b955-68c16621d1f3",
+    "id": "7584fa62-f6ff-4474-9929-b2051906387c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #543)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6518,11 +6518,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ba61084d-4743-4c72-a878-2bbf06ab5bdc",
+    "id": "5e80b2a7-f0c1-4c9b-aa15-955ac9cc107f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #544)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6530,11 +6530,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "937f36bc-1dd6-4721-b1f7-70e3d5883ce7",
+    "id": "e326ccca-7fbb-4ac5-a07f-df3fd7b20ecd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #545)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6542,11 +6542,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9c86a87c-250e-4b26-baac-08298e00a0e8",
+    "id": "dcc43d83-10c6-4477-9a92-8022beb1b79b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #546)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6554,11 +6554,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "22f30119-d664-4f49-937c-d89a2ed77341",
+    "id": "16c4c1e7-b978-48c6-99d2-dca01eb0f180",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #547)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6566,11 +6566,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b918d836-b498-4739-b222-9651733eff4a",
+    "id": "1b4a3902-a5ed-4e09-84de-77ca347a998b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #548)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6578,11 +6578,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "944e7b7c-37d8-4868-a0a4-95e962d5ec2f",
+    "id": "d7bf154d-5bcd-46e5-95b9-71a3f35165f8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #549)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6590,11 +6590,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f4e492ab-7017-431e-9aa0-8c390c1a91f8",
+    "id": "197a5478-9b43-49ab-89b5-1286ff7af0ea",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #550)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6602,11 +6602,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "20222f4f-c480-4bda-899f-b9b22625d28f",
+    "id": "78dfa1c1-a74b-4049-8d5e-c60517ef49fb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #551)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6614,11 +6614,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6cb88670-4062-4ce1-8fbb-c44d2023061a",
+    "id": "ce7a8a7f-0de1-421b-9dcb-0c00fe92d8c4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #552)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6626,11 +6626,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4c440ef8-2c42-4baf-a101-45f4564defc7",
+    "id": "790cae7b-f540-43e3-92cc-4f0eab33bced",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #553)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6638,11 +6638,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "70f376b8-a2d6-4523-9382-d51d4d4fbe2e",
+    "id": "d5bcd775-695e-4dca-b975-ef05ecd26447",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #554)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6650,11 +6650,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "81069a06-99a2-4148-b936-c61a3fbf6ac9",
+    "id": "88420349-5250-4e60-82df-a42763a36771",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #555)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6662,11 +6662,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4edc8781-3e7d-4f18-9ee1-b9b3aad70cb6",
+    "id": "cc3ba7ae-beb4-4298-a7cd-6ff9907b7e4d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #556)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6674,11 +6674,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f8764c93-eb8a-45d4-abd8-3d4bd4809d41",
+    "id": "87c9bbfc-7f5c-482b-bd70-ae0bda446a03",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #557)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6686,11 +6686,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5c9198b2-e957-4f7c-b63e-c4bcc38148b7",
+    "id": "1e52678a-7097-49d8-a095-7e8fdfd3c6d6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #558)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6698,11 +6698,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e5ef958c-d9e2-4535-a3e8-13f690c3d299",
+    "id": "a619d00e-c8a4-4d98-a2b8-26c3169c511c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #559)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6710,11 +6710,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9e61ae3f-62bf-4170-8981-24b8d352a6a1",
+    "id": "8c5e9dfc-9054-4a4d-b302-ecb21f8e1595",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #560)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6722,11 +6722,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a47baefc-239a-4d11-b673-cf29ec1a895c",
+    "id": "43378a94-2b9a-4520-a360-e43eef8bb10f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #561)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6734,11 +6734,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "779cde51-454f-4bb1-a76a-2f5490cef531",
+    "id": "4b2bb6dd-9fc6-4372-aa8f-70767fea2cf8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #562)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6746,11 +6746,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0ef39d67-2848-4b08-95d0-f26bde5210f2",
+    "id": "705ac453-c3fc-47a2-ab5d-906e68d9756c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #563)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6758,11 +6758,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cd4c4da8-a30b-49b1-b890-22c13e18a644",
+    "id": "20c9a529-a9c8-40d2-905f-2e509ddf05df",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #564)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6770,11 +6770,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "28f5855f-c291-404d-8a37-a278104d6b0b",
+    "id": "a0fb90cf-f3e9-4312-ac56-e383f176d5ed",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #565)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6782,11 +6782,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f8c62679-20bf-458a-a0cd-ee67c13c8a39",
+    "id": "de4392e3-dc36-4208-b018-457ae912f454",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #566)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6794,11 +6794,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6eb810b3-72a9-4393-8d02-fd4887d7cc7b",
+    "id": "bfb0b452-dcc6-45e2-b694-f616e23ab93e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #567)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6806,11 +6806,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f578d89a-ca63-4686-8177-2d5efb02b5c7",
+    "id": "36aedb2f-7cac-45c5-b397-9a275d8afc6d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #568)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6818,11 +6818,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "97c837fa-6ffe-42c9-8124-35fe29182bfa",
+    "id": "fa17bf7d-0d28-4968-8381-4bbedcfb7b92",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #569)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6830,11 +6830,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b383b0a7-906d-4e78-b6bf-7159297822f5",
+    "id": "8814b251-2110-419e-8c53-f786643b062f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #570)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6842,11 +6842,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "95996392-e079-41fe-b93e-a48cbdfb3ddf",
+    "id": "d3e0fde1-5ea2-4daa-8f11-e0de9c15a64a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #571)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6854,11 +6854,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2c2e0272-aad7-46a6-b686-3c59ec70fae6",
+    "id": "fc6cf03b-2668-4faf-8c19-aecf71cd7434",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #572)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6866,11 +6866,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "89bb2006-34f3-46ad-9034-aa18f37cb208",
+    "id": "16bb94a0-2c8f-40b0-a95d-0c3dbdb0196f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #573)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6878,11 +6878,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "72c12e31-0652-45e0-9e90-b0dc05945d5d",
+    "id": "bfaade97-0361-43b0-a2fe-b0f9e60bccf4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #574)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6890,11 +6890,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "760843d9-7a21-4401-affe-d2bec1646ea6",
+    "id": "395c63fc-9f14-4018-86ff-201d80b49162",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #575)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6902,11 +6902,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "46aba539-3bf9-4153-89ba-788da130d073",
+    "id": "de44c327-62f2-426e-97af-8fc56968a7dd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #576)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6914,11 +6914,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ee244d99-b26f-4539-ab49-70f683810fb4",
+    "id": "fa1711be-585c-48ae-b4eb-42501413cf5a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #577)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6926,11 +6926,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "25cdc1ff-4e0a-4231-8908-24c4bde875e9",
+    "id": "f1cf52df-21e6-4f41-9a33-0551cbcd58a4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #578)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6938,11 +6938,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "00af99e0-08e0-42d6-8c5d-59bd1a2f5dee",
+    "id": "db762dc3-33ea-437e-a321-efdf6cb02d36",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #579)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6950,11 +6950,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "273f1ab2-f198-4ec1-9325-95eb49f9103f",
+    "id": "0ce39cf3-4618-4424-9400-60826ac39bee",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #580)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6962,11 +6962,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1eb5fbb7-9fb0-4419-8375-11b661357cea",
+    "id": "fac0acb7-71d0-4602-8588-64223415d2b8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #581)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6974,11 +6974,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "dcd0c2cc-236b-4aa9-8fc5-1a8007f541be",
+    "id": "ab09f765-4ee2-4d55-97bb-a61e7ebc1b67",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #582)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6986,11 +6986,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b0d6a92d-54ad-4cd3-a0af-ffe90b0fdc58",
+    "id": "43532396-1b5f-4f90-8e3a-c0e2b39682a1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #583)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6998,11 +6998,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c6cd10b4-a5b1-446b-ad4f-81a119fcd10f",
+    "id": "535d747b-a9f2-49ca-8327-da37bac3807a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #584)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7010,11 +7010,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e9976f44-eefc-4552-a45c-963997053851",
+    "id": "26ba5be7-33d7-4282-9756-c3c00aabb2b7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #585)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7022,11 +7022,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "037c6f56-a6b5-45df-9807-dfc342205c07",
+    "id": "e66414ab-bb18-4495-8dc0-a1a4872cedf3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #586)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7034,11 +7034,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "817f2a41-b57d-4300-96b3-c512e133a0e9",
+    "id": "ccf9f141-a6bd-489f-8063-bf2b2fea82df",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #587)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7046,11 +7046,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a633cb44-cce0-48fc-a6c5-2b704dfb9b83",
+    "id": "519a6d51-236c-4529-83d8-d1de5a40b806",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #588)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7058,11 +7058,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e4a54482-a26a-42d7-8d73-fe2bab71e481",
+    "id": "bc497136-9db9-443f-9885-5b0b7683bd90",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #589)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7070,11 +7070,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8cdc7dec-b99b-4e70-b80c-218c531642c2",
+    "id": "0fdaa8a0-cba1-4486-aef7-5094ebeb2533",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #590)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7082,11 +7082,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "672ad90a-c3a3-4dd8-a0c8-174b8678534a",
+    "id": "b652b15b-aadf-41bc-a7b4-5fb0e12bbdc9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #591)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7094,11 +7094,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "aa6d79c4-9158-4b4f-b20a-05998acc2a98",
+    "id": "f8603ce8-beb7-4094-998e-f8942f4cf256",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #592)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7106,11 +7106,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d25ea65a-5dd2-4e57-9880-e362e114f5ae",
+    "id": "be0958a1-47d9-4e39-a535-68210f870a7d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #593)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7118,11 +7118,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ddb0101f-ba46-4547-b97b-92c483f0998d",
+    "id": "643542d8-69db-4a21-8268-f91050094509",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #594)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7130,11 +7130,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "51f2384c-ba7e-495f-981c-056ab0115de7",
+    "id": "c31496f0-1e47-41cd-8db1-4d0b11e77a8c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #595)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7142,11 +7142,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e4056b0a-7a3a-4f20-b92a-2a86540ff32e",
+    "id": "96fce441-f2e2-4dce-997f-d2d0369ba74f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #596)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7154,11 +7154,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6dde4c32-4f6b-4871-af0d-f54923f5bb04",
+    "id": "083026a5-828c-47ff-a547-e16b92f0d138",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #597)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7166,11 +7166,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "309c86a7-f93e-47c1-a982-8c99e33c8d28",
+    "id": "8099fc86-fbd2-458e-b90c-77d39a917b28",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #598)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7178,11 +7178,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "92f18392-33a6-416a-b0c7-3e5a3dda68c4",
+    "id": "70000f33-8634-428a-b398-70e4972f908d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #599)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7190,11 +7190,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "22a156b0-cbee-4c40-af40-48507e0ca666",
+    "id": "1db7e256-c40c-47a2-ac28-34b26462e017",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #600)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7202,11 +7202,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "039f3744-446d-43dd-9c55-e636aebcc293",
+    "id": "fa8825d2-1d2f-4ea4-a78b-6656f1c75b55",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #601)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7214,11 +7214,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e7a734c5-bf38-4859-b9f8-60031ed9306f",
+    "id": "0b745d07-b750-484f-99a6-6f7a1fa81601",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #602)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7226,11 +7226,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "18076aa5-2006-4a51-a8fa-40ce6bdcbd61",
+    "id": "f3d9de4f-72e5-4815-b6ce-b558763e5c85",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #603)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7238,11 +7238,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "eef1c872-2f20-4129-a2dd-17e8abcaad03",
+    "id": "b81ed122-f945-4536-94d3-04323d862447",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #604)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7250,11 +7250,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "01bc81d8-fdeb-4d6d-84fb-9e862b5432ea",
+    "id": "5a8fb64f-9ee2-4bed-b51b-63183ed858ed",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #605)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7262,11 +7262,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "72813ec2-2b7e-44c2-813a-abc029b6e48a",
+    "id": "bb2e5d8e-9470-4447-a4fd-beb09f3e4b1f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #606)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7274,11 +7274,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f399c0e5-c2fb-4b03-96e9-0f7d064fd305",
+    "id": "5bdcdca5-6681-432a-9f03-2218464ee256",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #607)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7286,11 +7286,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6d68a1f3-3cb6-4d2e-84a2-46b6407a37d4",
+    "id": "3ae83937-d51a-45e6-a8fd-a76b47e8b8da",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #608)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7298,11 +7298,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ba83662f-5455-4500-8c03-22ef6af96ec1",
+    "id": "81591ae9-5504-417a-82f9-1378093aaabb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #609)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7310,11 +7310,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "092e443e-2670-433b-adf6-b51d430c4385",
+    "id": "0b752d12-1845-40e2-93e1-e066a0dbb070",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #610)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7322,11 +7322,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2073d256-99ff-49b8-82bd-b2709310431f",
+    "id": "12821934-623f-4c65-bc57-1587ba2657b0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #611)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7334,11 +7334,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "473bcea8-01f7-423e-a3f9-357a9ee5a4ea",
+    "id": "4e7901de-5526-4d89-a424-c449835a1f8e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #612)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7346,11 +7346,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "94361cee-617f-447a-9db4-bfbfaab9b2e0",
+    "id": "b25b2e86-60fb-40aa-98f7-a2096b70fe12",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #613)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7358,11 +7358,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "52704e91-7bab-42c7-9c26-f1c1ea025a10",
+    "id": "5742b45d-b0a2-4fc5-bee6-7de89cbc48e8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #614)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7370,11 +7370,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e02af88c-57c3-46ad-ae0b-4c318732363a",
+    "id": "c5c0c646-1d76-451f-b0c3-7d6b34a89f18",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #615)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7382,11 +7382,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "15680534-802e-47f0-b159-81164b1463c2",
+    "id": "f00374a7-f0b1-494f-a28a-e48441d19952",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #616)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7394,11 +7394,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a4144471-aef2-42f2-8da1-a5f12a12aba1",
+    "id": "d38f64b4-676e-477b-97dd-bfdc6a425d1b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #617)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7406,11 +7406,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "156074ef-506c-4b2e-8ef9-d23f1099d2fe",
+    "id": "16d277fc-b247-41eb-9c57-f54dfe3e1a66",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #618)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7418,11 +7418,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "36f63cf6-f825-4913-aa7c-67e7adfa1a50",
+    "id": "7307e4c3-1369-4369-bbac-d2f0c9b00b77",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #619)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7430,11 +7430,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c893d080-99b2-4477-8f2f-3ab3b4377c71",
+    "id": "b6961c06-8525-4ab1-a958-d13a8a9ef802",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #620)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7442,11 +7442,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a5bc62ab-d5a9-40c2-9735-4f049ca25e0b",
+    "id": "381ec0ba-5195-4b6d-8852-668ccd385115",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #621)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7454,11 +7454,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e14985e2-bd2e-4fc7-bd95-53753b1b3706",
+    "id": "c6b35531-d584-4e1f-817e-a90b4c0ad9ea",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #622)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7466,11 +7466,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5893f1bf-2cfd-4f2b-9301-fbdd00f0c5de",
+    "id": "a1e1488a-7d51-4fed-b64a-d15f08f6414d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #623)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7478,11 +7478,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9a2fb827-b1ca-4712-a8a1-af673a650044",
+    "id": "177180c3-3ece-4e9f-8893-083e00f41eb3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #624)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7490,11 +7490,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8de69d34-3805-4252-a7da-853d0108f6ed",
+    "id": "a4df3190-f7ff-4798-87ca-4b08d874ae8f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #625)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7502,11 +7502,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2ecaa94e-4ce7-4baf-b12f-4cf7fdcaa522",
+    "id": "4d8fef42-6471-43fc-9e51-d8b4aafce0a6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #626)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7514,11 +7514,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "825ab3e3-f393-41a2-9047-6161a0bfb309",
+    "id": "9d076c1a-250d-4a47-9995-fc7bef4070a7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #627)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7526,11 +7526,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9a127f05-21b1-4d46-8c54-3a07705ae197",
+    "id": "8183a9f8-afee-44f8-9f60-9d7a3c1c4680",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #628)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7538,11 +7538,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e4446429-1941-4f17-bbd0-6cfed30ef6ff",
+    "id": "5ef5c92d-e008-4600-96c4-60d52a763eaa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #629)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7550,11 +7550,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cac81a8b-86a6-4492-b751-cf0e82eafd68",
+    "id": "dca86320-f12a-42f8-b7a7-6f2e05d4381d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #630)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7562,11 +7562,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "812e2ca9-d0db-4bb1-90f4-56caee0d637d",
+    "id": "485d3c18-d1d1-42f5-b1d7-23f972e35e73",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #631)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7574,11 +7574,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "715712db-b558-4b43-8034-b5a412e7b88b",
+    "id": "7ba4d1db-0ecd-41b3-b42a-dca67830fcc0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #632)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7586,11 +7586,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8a279cc3-85fd-4ae2-9c72-1ca8c423d45c",
+    "id": "683a7d92-cffa-462e-b63f-b7e06f3e1967",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #633)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7598,11 +7598,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "dc9d31ce-876a-4be5-9fd4-c9a3340b25fc",
+    "id": "bef7a6ab-afd4-413c-ad1b-e7819be38e73",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #634)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7610,11 +7610,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e9bda466-46a4-476c-afbb-5b436e1be7f6",
+    "id": "a1686215-c5a8-4b36-8799-569cfec3cd21",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #635)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7622,11 +7622,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "568bc35d-64df-4841-8ab5-3dbdf6454d23",
+    "id": "080ddbe9-b823-457b-9b23-03f9e418464e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #636)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7634,11 +7634,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1d7fb962-63ad-41c0-9cd8-d6d024d21966",
+    "id": "bd7e8bc8-c305-46c9-ac75-dad617551f99",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #637)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7646,11 +7646,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "857eb555-651f-4e6f-a12e-1b4999b79d9e",
+    "id": "0ea1165c-c510-4e19-ad70-70f457aabe7c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #638)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7658,11 +7658,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b5dd34a8-5af9-43a4-8196-92aba9e261c9",
+    "id": "a8ca40e6-70c3-4bba-a9f6-909b39a05320",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #639)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7670,11 +7670,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "064b3b73-c119-4cfd-a754-7501f96d195a",
+    "id": "3ae2a173-68ee-4dfd-9378-0e83763cbc70",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #640)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7682,11 +7682,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "77ebef2c-2594-44a1-88ea-4e93d0cac435",
+    "id": "25ef2399-6544-48f7-b825-670542f2b8e2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #641)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7694,11 +7694,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e306cae4-a5aa-4c40-8b94-9288bcc1b3cb",
+    "id": "b2ca5645-201e-407d-9b60-1844e98be598",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #642)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7706,11 +7706,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9f25792f-b6d0-4418-bef7-37dd31c01b92",
+    "id": "113569f4-df40-481b-9fc6-9293dbe60de1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #643)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7718,11 +7718,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "138a066b-dde5-4dbc-aab9-3289059c7dbd",
+    "id": "f6d4f94a-109a-473f-b3de-8079979b8276",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #644)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7730,11 +7730,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "33b95767-b84a-42b7-9034-dc10d1ffae20",
+    "id": "2bb5f972-893b-4a9e-b9e3-98f0d625a590",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #645)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7742,11 +7742,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "192defc7-cf23-4b41-a306-5f06d933b5c1",
+    "id": "3e443820-69a5-418f-8131-9df6f66d18fc",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #646)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7754,11 +7754,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "74f5a608-26d6-4d0a-a427-d1b4596b200d",
+    "id": "f4801a7e-ad11-463f-a3d4-5e24daeaf280",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #647)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7766,11 +7766,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b4a48734-29a5-4d1e-9ac0-e1e714d2ce6a",
+    "id": "9ca92d5e-54ac-44f8-98b4-bb2190b643eb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #648)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7778,11 +7778,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "58632bfc-d061-4963-8643-485214c8d474",
+    "id": "f480ee86-df29-4eec-98c3-1ae05d0840ee",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #649)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7790,11 +7790,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2c8ae75d-53b7-4f0d-a969-72ddfcbfc22b",
+    "id": "1f974003-09a5-48c2-ba93-cabe0ebb6445",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #650)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7802,11 +7802,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "639783f3-cf29-43d5-9150-eee1afbfb0e6",
+    "id": "c7dd5f36-6831-48e4-97ad-7ae69524d408",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #651)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7814,11 +7814,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b3d3f3ae-72d2-4f7c-9674-8ce336e46175",
+    "id": "206d0175-efe0-4de8-950a-5b2e6fa49dba",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #652)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7826,11 +7826,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f0f9bee8-8da6-4c49-b7fd-d2f68269572f",
+    "id": "5613ac67-c370-43c0-b45c-ffd418f1efb6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #653)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7838,11 +7838,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "dee08dbd-ecf7-4550-9c44-d8bfa0c48553",
+    "id": "b793d0d0-b489-4b94-8c24-af2d4fbd536b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #654)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7850,11 +7850,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "eba3f640-b358-4b5c-b8b6-4131b98050f0",
+    "id": "6d121112-f27d-4a72-8226-177f196e5398",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #655)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7862,11 +7862,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ef866945-2a9b-4c4a-98c4-2f140421e31d",
+    "id": "831a190d-703e-41ca-bede-b7e38e00817f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #656)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7874,11 +7874,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ec71b8e8-577e-4124-9492-4a49aae44a9c",
+    "id": "2c4c8793-e96a-4ef7-9413-d7f921ecfb33",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #657)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7886,11 +7886,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e0c7261f-d3b6-4bf5-ad00-d4209f692883",
+    "id": "22c00f0d-ea69-44a4-a4de-12e0814a21f6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #658)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7898,11 +7898,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "188d596a-032d-4dc9-bfeb-8d9b8e2b27b5",
+    "id": "4241353d-2639-4fe7-83b5-63f8d65ebca1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #659)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7910,11 +7910,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5a137dce-de64-4978-a010-cbf8506a140f",
+    "id": "ae3166bb-7eee-43eb-95e6-89711ab41f11",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #660)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7922,11 +7922,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9e372ae6-92f7-4da5-bc97-f8cece545108",
+    "id": "1a25e0c3-7a01-4e9a-8cc8-ede3c7dedae6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #661)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7934,11 +7934,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4af29437-c4e0-49fe-b645-8c09007b041a",
+    "id": "a7365b19-e624-447d-8f0f-57e4d5106c0b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #662)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7946,11 +7946,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "11f9ef55-5ac4-453c-8898-586bb326c1a5",
+    "id": "8d2560de-5309-4a6b-9894-2377aeaf0e91",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #663)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7958,11 +7958,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1f06cc61-b4ad-48b4-b746-f57541983b04",
+    "id": "840239a9-2166-49c7-b171-faca7d6be846",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #664)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7970,11 +7970,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c60b35da-e684-4b4f-bccb-87ad4cead404",
+    "id": "2fc02743-8eb0-44e0-a2e4-c84dc016314a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #665)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7982,11 +7982,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "27c865b6-b7ab-4f4b-a2af-07670cf578b3",
+    "id": "6ffd9628-2268-4bc8-97a1-e6d83045f0af",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #666)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7994,11 +7994,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "26d358d2-1a04-4c02-8e5e-5c7a9f80db0e",
+    "id": "0aa721a8-da00-4351-a332-39ed6f5542f1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #667)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8006,11 +8006,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5232ec58-4b0c-4d4c-898b-e681143bc96f",
+    "id": "a5c73496-3742-4e73-beae-d8f005e753b8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #668)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8018,11 +8018,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f03676a7-7067-418d-ba3a-8e72ca5d0f8b",
+    "id": "e073ae58-3b8c-417f-b803-8abcb76a0214",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #669)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8030,11 +8030,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d5a97470-742f-478e-8f75-73a3631160a2",
+    "id": "4ff50a7c-15a6-4d54-9fb7-156e929530d1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #670)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8042,11 +8042,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f4baa6ed-f9c3-46be-ae5b-96c6f6695a14",
+    "id": "ab328256-7d17-4d68-8e81-acab31b5c241",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #671)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8054,11 +8054,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c4faf4e6-a338-4c23-9786-e7b522eb046e",
+    "id": "2ee6cd9e-7b64-4678-bcd1-a9e97982ad96",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #672)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8066,11 +8066,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "dbafdf08-09d4-45b8-85dc-88788631c246",
+    "id": "f10eaaf4-2015-42b2-8edc-4df751e71f5b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #673)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8078,11 +8078,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b53aabd5-0312-42c2-bd4b-92cfd010d029",
+    "id": "033a179e-5c63-4805-8695-9e1f7ac13f2a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #674)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8090,11 +8090,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4a13a704-432b-463b-8c4a-d37526e163f3",
+    "id": "2e427c8b-aceb-48b4-aa62-228a2aad9dbb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #675)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8102,11 +8102,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ab40851f-2490-44af-9495-00ba07faf5cc",
+    "id": "b9464e8b-ff7d-4c73-9e6a-ab52d22435c2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #676)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8114,11 +8114,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "79397ec6-c58e-49a7-99f7-2562d8b0798e",
+    "id": "8d76311a-66ef-467d-bc3b-e48f0de1abd3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #677)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8126,11 +8126,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b45cb5b4-e16c-4e2d-8e38-bda8edf3f231",
+    "id": "d8ed6d11-28e6-4812-bb36-6c72b4105c58",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #678)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8138,11 +8138,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8aa1cf1c-4216-43a0-b424-a3fccc119cc9",
+    "id": "bd66532b-0b38-4b6b-a050-b2715dc49840",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #679)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8150,11 +8150,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ff45faf8-633a-46ce-8505-616ad12060de",
+    "id": "5b910ecb-4cde-4766-ae99-78303d4c2662",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #680)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8162,11 +8162,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9351fb26-1532-4fd2-8b04-eaa6b36a161f",
+    "id": "5da0ec46-31be-4e38-ae3f-497a4d4aae86",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #681)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8174,11 +8174,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cae4d6f7-b97f-41c1-9aef-0a16a1acc038",
+    "id": "0ec4f855-3614-4743-99fc-b878205d7fb3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #682)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8186,11 +8186,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bf2f6b60-7c48-4b21-841e-ccc7770a1998",
+    "id": "a33424d6-b0c4-49a7-b0de-c4635770cc83",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #683)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8198,11 +8198,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9177610c-73a5-4bcc-b2ec-bd3db3d93045",
+    "id": "109b2eee-bdbf-44c7-bc95-a99e121d239f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #684)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8210,11 +8210,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "202af267-b8f2-4db5-8e25-70123649ec20",
+    "id": "64ca25d4-f36f-4c15-884e-e018ecf5503f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #685)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8222,11 +8222,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f7489767-cfad-4e02-a248-4f8fea466dd8",
+    "id": "3b4741d5-9254-4611-a5fa-3b63a669a5f2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #686)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8234,11 +8234,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7e9a7bf6-de17-4a90-bfe6-0397d2eda58a",
+    "id": "8d7bb7eb-382d-442f-8b10-57a1e5372095",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #687)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8246,11 +8246,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1e52c8ee-3d3a-4cd1-87c8-f23456fb817a",
+    "id": "a74fd8ab-d749-4075-8f11-2b0b9fe05da6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #688)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8258,11 +8258,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6f1201ca-b992-4821-8328-e70df1942d58",
+    "id": "575ddb30-e0f9-409e-b274-bf32eca9cd7a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #689)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8270,11 +8270,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2a911f60-e87d-4215-8114-b9c8bdf8eb59",
+    "id": "847998c4-bdaa-4847-9eb6-c971adc8613d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #690)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8282,11 +8282,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "faf1f330-4b4a-49b9-aef0-32402421a470",
+    "id": "309b8faa-1432-4e41-8f07-c8c79493e99b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #691)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8294,11 +8294,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "89719236-a011-42b6-bd94-a01adfe632b3",
+    "id": "5b32fffb-052c-4ad9-80c2-622428bc5605",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #692)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8306,11 +8306,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8466e05a-a079-4a72-91df-6ee3da27f801",
+    "id": "afd266fb-4b6f-4304-a5c5-0b80a6b33453",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #693)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8318,11 +8318,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2ada6a9f-f3bd-4a9e-9d84-5b5f3888a115",
+    "id": "20887a8c-69c4-46e6-87f2-d4c773d3f0b4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #694)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8330,11 +8330,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1f4dab5d-cdfd-413b-81e7-475de0423583",
+    "id": "77f7c211-8006-4950-b3eb-cbbd2f134b86",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #695)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8342,11 +8342,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "85f4c8bd-969b-4eaf-bc83-947c692bebdf",
+    "id": "7736894d-c0e8-4548-883f-e0b37e70ed09",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #696)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8354,11 +8354,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9683053a-d30b-4b13-9168-2309500b54ab",
+    "id": "cf651ac8-e4bd-44e8-a74b-c028c976c1fd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #697)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8366,11 +8366,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f6190017-1b7d-46a5-813d-7f32062b88d2",
+    "id": "d9d9ca78-1150-4adf-956c-22210c7c5b3e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #698)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8378,11 +8378,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4e57bda2-7f36-4100-a25c-c61ccbffcd1d",
+    "id": "26bdaacf-853d-486e-a635-92215c988b28",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #699)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8390,11 +8390,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ea6c9ddb-00a6-4933-a5a1-51a505cc52ba",
+    "id": "ca690c1e-8a49-488e-bee8-37006a40bc96",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #700)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8402,11 +8402,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e3505e58-b63b-45e8-927e-c5be4da8f75f",
+    "id": "de6bbc9f-9c99-4407-9e5c-31a4ac74a050",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #701)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8414,11 +8414,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5c69735f-5a3b-4af4-a2f1-607376682ccc",
+    "id": "7ddcd256-73d0-4c24-8a63-2182320bfdd3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #702)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8426,11 +8426,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6ceb4adc-e063-445e-b743-ef96f86ea475",
+    "id": "a136ae59-beff-4879-8ee9-41f270e3a7cc",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #703)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8438,11 +8438,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8c0bb4e2-c09f-4c05-95c2-eae7c2ee42fa",
+    "id": "1adfbe8b-e308-4275-b5b1-35f88747d196",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #704)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8450,11 +8450,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d6c5b821-2010-4e57-bffd-ee9130c3306e",
+    "id": "a89418af-430e-478b-aee6-d9cba55f7086",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #705)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8462,11 +8462,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6c9b6f6f-7fd8-45c9-9938-056e6b4f88f0",
+    "id": "221c5cc3-1936-4c76-b516-668b4e741997",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #706)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8474,11 +8474,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3b12584e-57af-4b4c-bd2a-f42e30696027",
+    "id": "b5aab312-bf8b-4b9f-8c08-5f48202e4dfa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #707)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8486,11 +8486,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bf3837f2-4b40-4885-b0e5-af0681b58e6e",
+    "id": "cb981bcf-be7a-40d9-a841-ae84a41410b8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #708)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8498,11 +8498,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6d497de6-9fdd-4342-a5ea-08e1b7c62db0",
+    "id": "edba944f-633b-45a7-95b6-9b6e492d24a8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #709)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8510,11 +8510,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "de5e1401-d780-45ef-aa3b-c84f03a59658",
+    "id": "6606fb84-3756-42af-97eb-da15c72a823b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #710)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8522,11 +8522,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b7e9d624-a736-4ff6-a270-ab754e7428a7",
+    "id": "3a4d5f96-f6de-4216-898e-ecacae7633e6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #711)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8534,11 +8534,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c5744078-a44e-4569-88d5-99e57c52adcc",
+    "id": "ac0688ef-1b6e-4a3b-9a1b-fcfdc4d4e98d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #712)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8546,11 +8546,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "419a6aa9-e72e-4e48-8b52-0e13e9008b9f",
+    "id": "5ec8da81-a6b6-49ba-8bb0-ad1520a2954e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #713)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8558,11 +8558,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1a0f26ad-22ce-434b-bd24-aae8bbb1c768",
+    "id": "c41f9daf-a369-4f9e-a7bc-cc087715585b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #714)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8570,11 +8570,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fb713995-6433-4cbc-90c9-297a6094070e",
+    "id": "17890ca7-213e-4979-89c2-d1eb85489c63",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #715)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8582,11 +8582,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8fca479e-61c4-4e93-84bc-04f4f27d8bdc",
+    "id": "5923f883-22e9-4d62-a9c6-2bcbdc7b27a6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #716)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8594,11 +8594,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e4c62cff-1706-4c41-830e-3eb7240b310b",
+    "id": "c7743b3e-4e44-4613-92d8-2833b7dda90a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #717)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8606,11 +8606,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bee1fef7-1df4-4d64-8121-800a7f1c5368",
+    "id": "d48de8a5-649a-44d0-a472-290209b0631b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #718)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8618,11 +8618,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7c0dcf0a-a1e5-4e58-be5e-9963a87db660",
+    "id": "eee680ad-6e80-4994-8450-1c8036f79a97",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #719)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8630,11 +8630,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1465c39e-ba91-42c3-a23b-37928f12d0af",
+    "id": "dd5f7909-25fc-4684-a586-0f9d96f30312",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #720)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8642,11 +8642,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "10018534-004c-44f5-abfd-fb8fc78974e2",
+    "id": "57c03d75-cfe2-42f5-b28d-960a27f092f8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #721)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8654,11 +8654,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1ec8bc23-1c4c-4f11-88c5-b7397d1b9527",
+    "id": "00929336-b40c-469e-9f16-bae9d0e7a6af",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #722)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8666,11 +8666,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "86c49572-cb57-44cf-89d0-c10f0c888566",
+    "id": "85f249e1-b0fe-4744-976b-b6a6254a235f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #723)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8678,11 +8678,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "64ef0f4a-cd44-4531-b7e3-88539cc124b5",
+    "id": "1018cd4f-85a4-4841-a56f-e53731ad74a5",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #724)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8690,11 +8690,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "af520bc6-511f-4a98-9337-2df0f2eed6ab",
+    "id": "e2126bc6-af3d-4d5d-8de4-21837cae8ee1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #725)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8702,11 +8702,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "16742974-c375-4535-9c74-95ecbcad48c3",
+    "id": "c35e65a1-3c84-44cc-88af-169dcd2dccab",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #726)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8714,11 +8714,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a828cccd-7386-46fe-97a0-1ecbc2183ff9",
+    "id": "efd45210-6ade-4932-a687-7195c35ce136",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #727)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8726,11 +8726,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "03246d2f-6eeb-4648-9ded-c033dc78f0b3",
+    "id": "3ba69aea-4bdd-4094-b058-440dd5726629",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #728)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8738,11 +8738,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c82899e6-58f9-4b9c-8553-1712886ae533",
+    "id": "90dd5bda-eb7e-463f-a685-dba3f9d986eb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #729)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8750,11 +8750,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5f4d6032-3910-4081-9ed5-fb4c82ba7d06",
+    "id": "2e821011-01cc-49cf-8d19-22f3abd7b5b4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #730)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8762,11 +8762,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c03f6f0e-2069-45cc-9e57-6710d770b421",
+    "id": "39618f45-238e-410a-ab1d-4012256ec6f1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #731)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8774,11 +8774,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9f9a90e8-2c16-41d8-a1aa-76327cee139a",
+    "id": "802ecdfb-5762-4093-8806-ba5b71311157",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #732)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8786,11 +8786,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "dc93de1f-4229-415c-8832-efcde3ea1fa2",
+    "id": "6c1edaa2-6708-481f-8d6a-dfbf348cda03",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #733)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8798,11 +8798,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f8ac4392-ceff-4ee1-a66b-645fbb97fb30",
+    "id": "b37a82dd-f49d-4ca6-85be-6d3891df94c2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #734)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8810,11 +8810,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "637c0101-84d9-4d0b-bc1d-047b4d0aedac",
+    "id": "2fc1b2c8-3f58-4f3c-988b-d83e9f27d663",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #735)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8822,11 +8822,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5d0190b1-7f00-4c67-bcc7-7180f3ce1983",
+    "id": "f8453301-d785-4775-8523-a47bc39b27e7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #736)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8834,11 +8834,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "491a9b99-7be2-4c93-b1b3-a55c593f396f",
+    "id": "2cb7546a-39ae-4520-b173-1474f60d8094",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #737)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8846,11 +8846,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "da1e2152-200d-41b0-b8cd-ce6a0a29a803",
+    "id": "1d3c436c-ac39-46c5-90a3-7ab722fb3482",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #738)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8858,11 +8858,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "da91fb23-01df-48ca-ab56-a5e38c4186d4",
+    "id": "36b97ef2-0c2a-4184-8c04-9cc6c96f565a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #739)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8870,11 +8870,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ee7e94a5-674a-42b3-9d3e-5fb63caf94f6",
+    "id": "7985df72-b2c2-4179-a22f-0cdcbed9b1b7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #740)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8882,11 +8882,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f9a8fc9d-df44-4a7b-93be-66ab2e03c9fb",
+    "id": "00969bba-be00-4538-ab09-49b7807f8cab",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #741)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8894,11 +8894,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0a965b0b-bfda-49f0-9da8-d30345d1b7b6",
+    "id": "edf70f3b-8537-4a2b-be23-63407b9ba89d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #742)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8906,11 +8906,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5dd202bd-6f3e-4d7b-9e0e-ebec9607e63f",
+    "id": "1b28ca32-2baa-4296-9ae0-d92b0cc63580",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #743)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8918,11 +8918,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "65d46a22-105f-4864-a7f5-6131c3a23622",
+    "id": "9cc0792f-4cf4-4b08-a358-1c4b05c6de44",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #744)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8930,11 +8930,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4e905886-c203-4fd4-8aa6-d3e65ce49e07",
+    "id": "8c806b4f-af3c-4add-8c2a-6a98bedd246a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #745)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8942,11 +8942,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a7539787-1abf-4394-80cc-41081eaf4372",
+    "id": "13892a92-aff9-40b9-a70d-1e00269650fa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #746)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8954,11 +8954,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "df365953-7e5e-43e6-ad8b-37370800ed4e",
+    "id": "821c49fe-526b-4680-9789-1e7b3c54c18e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #747)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8966,11 +8966,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "efc6de48-9e9e-4af1-8df2-294511e001e4",
+    "id": "8e863933-1df5-4d1b-949c-488604740a73",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #748)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8978,11 +8978,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6acfaafb-8ea8-44cd-9748-b1cbfe44593f",
+    "id": "ebf9821e-643a-46c4-867c-14f20783c86f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #749)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8990,11 +8990,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bf88a9c1-40e6-4dbd-bec2-935d2c9bc05b",
+    "id": "a54b48a9-cfc1-4f2c-92c1-0dc5c92ad045",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #750)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9002,11 +9002,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "84a33400-3820-4d11-8a6c-884e1ab34727",
+    "id": "8409b692-8a10-4f8d-ab56-7edd39b910c2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #751)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9014,11 +9014,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "548cba96-1921-465d-99b5-977374cd8380",
+    "id": "578a20f9-8651-4d2b-b8db-a539cbfe7fcf",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #752)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9026,11 +9026,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "831f216a-b9ae-41fd-9a0d-e7ed6c45ea27",
+    "id": "0329185e-c1cc-4c6a-9aad-bed68aaf0eb8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #753)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9038,11 +9038,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "923b70f5-8681-48db-a96e-7cb1d07e464d",
+    "id": "7c181001-035e-4e1c-a369-699b9e5af202",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #754)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9050,11 +9050,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6be1b416-9f9a-4e2c-94f9-9a9bfdd72a39",
+    "id": "5c17eb6d-cd2b-48ee-a152-1b54a56679de",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #755)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9062,11 +9062,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "670a5e0a-6c2f-4076-b085-e98d2c50ea20",
+    "id": "97211910-09ff-417e-ae61-7af2186d9ea8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #756)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9074,11 +9074,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d4c5364b-b4d9-4114-8d28-4b403fb03a63",
+    "id": "6d6fa5f4-c7e3-4adf-a6d2-a8cc41d767f7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #757)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9086,11 +9086,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c4971741-4091-4801-9722-ddac29cc45cb",
+    "id": "d2595966-bc34-4a10-85f1-de625c75298f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #758)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9098,11 +9098,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c441e848-8fa9-4557-b049-aee9dbfe8299",
+    "id": "9f41099a-3de8-414c-9676-a54a98d1ae3a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #759)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9110,11 +9110,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6b8d3e94-8a0a-499a-b4ec-5f9d9f8ac782",
+    "id": "6667211b-f63e-4219-b694-f13aa30fd5fa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #760)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9122,11 +9122,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e2cacb9e-2424-4c08-86fc-fa0ab8d3bdea",
+    "id": "e5d791c0-8d06-4590-bad4-d0f32af05971",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #761)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9134,11 +9134,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d6baca61-12f5-4bee-8fc8-b92acf66e648",
+    "id": "cbab33e8-d7e2-4c57-b4e6-09f38c7bf0a1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #762)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9146,11 +9146,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e3dfc0e6-53a1-4aeb-9dfb-3869df585b83",
+    "id": "2949c1c5-e33b-4c55-bf29-a5c25e3032bb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #763)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9158,11 +9158,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "63522e7b-db45-4d95-9581-ee8e5b63e6e1",
+    "id": "c5588a57-bcb0-473e-8102-e3b8dd8b185e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #764)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9170,11 +9170,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "47a0118c-35e6-4538-ab17-2aa67c73a004",
+    "id": "759fcad0-673d-4915-acf3-389054314f60",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #765)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9182,11 +9182,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6aca9cdf-b6f5-4140-b2d9-cda1bf5d05c6",
+    "id": "9ac7b09b-eab3-4674-9e5e-b93f2e169fce",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #766)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9194,11 +9194,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "46d2a5cc-4bf3-4f6f-adeb-3782dac72b55",
+    "id": "c965ea12-ed79-478a-93b8-eb81f50e99e8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #767)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9206,11 +9206,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "de676863-104d-42fd-8b4b-ee745578a455",
+    "id": "5fee33dc-c530-41e3-9945-4ad6274486c7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #768)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9218,11 +9218,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "21d50f08-5247-4ce0-a9f9-29a9f67eda37",
+    "id": "40ba32aa-13de-4cb9-b0ae-660077dc8e56",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #769)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9230,11 +9230,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b42c8b36-c8bd-48f4-bbda-2957f5e6140b",
+    "id": "29ad9a41-25a7-4cac-bd46-ca3eae4ce5b9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #770)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9242,11 +9242,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "363911c5-f017-4959-86ce-15f110a9e1d2",
+    "id": "a1b13aae-86ad-4b30-b41a-15e20632d658",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #771)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9254,11 +9254,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ac80a55e-991c-4ea3-af27-8bd3e02cd3c9",
+    "id": "08b4529d-cdb3-4659-89aa-920d2eece83f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #772)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9266,11 +9266,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d64307c6-387e-4d24-bcaf-3c9a7a4c5557",
+    "id": "9cde2499-4f66-4c4e-afdb-be9d8c297f4c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #773)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9278,11 +9278,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "143f5a8d-497d-4f22-98ec-bc4c729f7d76",
+    "id": "df9759ae-7edc-4b7a-8675-0f0c7e179ff9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #774)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9290,11 +9290,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "332e6932-1f45-47f4-9d48-0d7fbcf3cb7f",
+    "id": "05c65bfb-da61-4b30-8e49-1ff9f32c8b68",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #775)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9302,11 +9302,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c7563e76-b63b-499e-8acf-5517b84a012b",
+    "id": "0b955b29-8310-4adb-9e7f-fd12b947c240",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #776)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9314,11 +9314,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b029c659-1c5b-47ab-a35a-547a91f8f016",
+    "id": "0440ec07-59ea-43e8-acc8-0e18504805e9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #777)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9326,11 +9326,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "87062e3f-aba0-43b3-b6db-9c60f0d609e5",
+    "id": "bc175ee6-4eee-416a-943c-5b27acaae3c8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #778)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9338,11 +9338,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0a9cf0b6-cf54-4999-a374-ff76bb82e46e",
+    "id": "2c3fcb26-f9f7-46ed-9a91-fb8506f1ea36",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #779)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9350,11 +9350,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4ab437b6-98c2-44f6-a9ce-9192eefe96c4",
+    "id": "94c6cd88-384a-4191-ba6d-7e1b856dcc7b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #780)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9362,11 +9362,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "be65b621-fd0b-49b0-8fdb-43f48089226a",
+    "id": "ded75cc2-211b-44e7-95fe-c5d2dc8527eb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #781)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9374,11 +9374,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1cf2ee7c-5357-49f3-b965-2006eb146876",
+    "id": "b0496cba-c435-4551-a9e6-8384f55bbb7c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #782)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9386,11 +9386,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "93679a6d-7934-4295-a5bd-a4a7054d255a",
+    "id": "dffe3e00-7675-4ec5-be23-aeb6954d84a9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #783)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9398,11 +9398,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2ce90dd9-d8b6-401d-a3f5-93328ba1f6ca",
+    "id": "a2912569-e874-4ac2-8ffc-b508a87b5420",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #784)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9410,11 +9410,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d8f196b4-3928-4d7d-90c2-ca19fda32872",
+    "id": "de935120-fa4a-43f5-919b-77f4c56e3994",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #785)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9422,11 +9422,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1d87be62-c9d2-4096-9c84-81e57b769045",
+    "id": "83010863-d250-4acc-ae74-e5a40f596c26",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #786)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9434,11 +9434,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d00d7c5e-e1ed-4256-a1bf-080dba5b01b0",
+    "id": "3a0031b0-4f7d-4bd6-aacb-30d896d00d2d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #787)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9446,11 +9446,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "305241be-c376-4f45-baaa-256027233c72",
+    "id": "46c711d7-34ce-46d9-adb5-e90c5747743d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #788)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9458,11 +9458,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7e9ca65f-433b-4a03-96b9-5d28b346214c",
+    "id": "785f11ce-3330-41c0-8e4d-41b0315acf95",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #789)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9470,11 +9470,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4ee97951-0682-4141-82fe-52a117906dae",
+    "id": "44a6e46a-4b85-4c55-bbe6-21f7f0b0b2cc",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #790)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9482,11 +9482,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "decafc1b-9a13-4709-b203-373487ed1232",
+    "id": "62519ea6-dbfd-4241-bd8e-ae14ec36293e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #791)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9494,11 +9494,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bba812fc-3e73-4c4c-8bf2-48628768d92c",
+    "id": "e9d79d37-4359-4314-8f67-f88409529b16",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #792)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9506,11 +9506,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "779cc20a-ea2f-4725-bb79-41902a359fe7",
+    "id": "1bb7f4eb-595b-4bab-b4e6-4654f62a4297",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #793)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9518,11 +9518,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9aa129e2-df11-4258-a340-ac2d7137f47c",
+    "id": "e24f4bf4-227d-49e2-9844-974c00842c27",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #794)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9530,11 +9530,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "85e813e3-2ea5-4912-9116-c6b23ec4d720",
+    "id": "025e4340-3800-4cce-8812-231df3013a2a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #795)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9542,11 +9542,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c2468cfc-bf4d-4930-9e59-75638ad6c16f",
+    "id": "1a415620-2280-418f-a2d9-e50875d983e3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #796)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9554,11 +9554,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6760c0f7-733d-4f5b-9be4-e1d9a40b0aa9",
+    "id": "2f8fa732-62bd-4793-a845-1774c15d138f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #797)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9566,11 +9566,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bf93fe5c-e161-4115-86e8-6182a76f3a31",
+    "id": "17c1a97f-1847-4847-930f-bc3eab00949c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #798)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9578,11 +9578,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "35bd051e-8710-4ee9-af85-93bbf511769f",
+    "id": "dee1d192-fca1-4305-be28-71fafde6ea46",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #799)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9590,11 +9590,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7acf95b8-2b3b-415d-91e4-04b90da3d40b",
+    "id": "67cd57da-9bf5-4aa9-a6f5-48c6a80dc01f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #800)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9602,11 +9602,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "029ca1ae-044a-4f1a-9580-813787908559",
+    "id": "a370dcd3-23a8-4d89-aa77-c68c3e8742fa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #801)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9614,11 +9614,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d8e827b2-c5b5-4e65-8a6a-c774116cb4f5",
+    "id": "213cf133-a130-481d-94c9-6e5b191556cd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #802)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9626,11 +9626,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "88cd7b60-5373-484a-8b64-fb0c13b970ec",
+    "id": "0a31ef98-9164-41db-928f-eebd11724312",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #803)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9638,11 +9638,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c9beacf0-d7b3-4e2e-ac95-2f0da252e5b7",
+    "id": "00aa5896-9fce-4736-a407-8ffab9c45566",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #804)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9650,11 +9650,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ac818e61-e8ae-40c1-8e25-a2612b50191b",
+    "id": "bb7f6505-3db1-481f-9264-c0785f6eea66",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #805)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9662,11 +9662,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c7d34140-145b-4eb4-9420-5653e58fda05",
+    "id": "e0e2ec70-1392-4634-90cd-3b3a5e4ae252",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #806)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9674,11 +9674,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a6291288-705e-45df-a3d4-e19963e491d8",
+    "id": "0b1d704a-0197-42f4-964f-43234e138d37",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #807)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9686,11 +9686,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "99a67325-d1b4-42a9-bd3e-4b235dd6d77d",
+    "id": "ad9a12e8-1d5c-4240-a2a8-fd421b70fe92",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #808)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9698,11 +9698,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "480ebe63-040b-4618-8e22-b6ac3039f12f",
+    "id": "7cd0ecf9-986e-4f77-ab2e-7a058f091210",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #809)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9710,11 +9710,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "523697e5-8b73-495c-9f19-c30c41eb45b5",
+    "id": "07fdb326-5152-4bd5-8b5b-477f63cd077c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #810)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9722,11 +9722,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "da387713-ab45-4dc2-9fa0-af710ea17cf0",
+    "id": "1fe955c1-4075-41aa-a4e6-321b63f3c224",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #811)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9734,11 +9734,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "56867475-bf5a-4cab-9eac-32c99082d623",
+    "id": "296f7edf-328e-435a-9db6-9a4ad6f5789f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #812)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9746,11 +9746,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "affea653-439c-4942-bab9-21b3a83cbcdd",
+    "id": "4c5fb529-455e-45d2-882d-3edf83eb29e3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #813)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9758,11 +9758,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e1962a5b-ad0d-4eb5-8350-a9e8686abfff",
+    "id": "cfbfd32b-5175-4f99-9449-655f369976b5",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #814)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9770,11 +9770,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fe0367bf-fcf7-4ef5-b0bc-90fd6b452bbc",
+    "id": "5a2ee167-3cb5-4a68-8786-d4f141251770",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #815)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9782,11 +9782,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5668732b-46ec-43e0-b793-94f7b92af8e4",
+    "id": "aac993a8-9e2d-45f0-a474-c43a6508f852",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #816)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9794,11 +9794,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "247afdc9-20fa-4655-aebf-5ad8f6dd8655",
+    "id": "6b58186c-99e7-411e-b43c-6d8a790cc87b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #817)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9806,11 +9806,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3094cfc4-c0e9-4bdd-a9d4-505e05f9dbbd",
+    "id": "2b3befe9-890f-4165-9979-b12246704523",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #818)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9818,11 +9818,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d6a2d46d-c226-449a-a5b5-3addcf506586",
+    "id": "02b9b2e1-01a5-48c6-a687-7f68df82c8d9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #819)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9830,11 +9830,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1c7bd93c-7872-4ec8-bb30-cc59a7090829",
+    "id": "8cbba013-7694-4eb2-a1bc-62f52f4ff49d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #820)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9842,11 +9842,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8244c073-683c-4228-baf6-c52c62b84730",
+    "id": "2f60c2fc-ccbf-4687-9be0-beefc7ed11c0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #821)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9854,11 +9854,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "92e01753-2661-4ba8-9c4b-320eb5b3a288",
+    "id": "0433a91d-038e-4283-8537-2a96795a9e37",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #822)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9866,11 +9866,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c24b76ca-d150-40b6-8c81-b7111870086b",
+    "id": "b22a48e9-fce5-4cd4-a80f-29e134b11023",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #823)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9878,11 +9878,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "67cddaff-a053-4cf5-8974-a34d5919f1fa",
+    "id": "abc1056c-bf6e-451b-b7aa-2c725340bf79",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #824)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9890,11 +9890,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6f692ce6-e8dc-4b34-bf27-94d890a0ba3b",
+    "id": "cccf638a-da7b-4fdc-baef-1469208609af",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #825)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9902,11 +9902,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b315f49d-b808-43e5-b18c-5706bbc26262",
+    "id": "afcf1bfb-b40a-444c-abcb-9495c1b36f71",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #826)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9914,11 +9914,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "45e818c3-0f13-4f13-8f85-43d88ac14b63",
+    "id": "e67178a6-db15-488b-806c-e921db1fd97e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #827)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9926,11 +9926,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9c4b5290-8e78-4591-b3f9-6d0b96a52904",
+    "id": "2d1f0b0e-42f4-4c78-8f10-fe3e37172a7e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #828)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9938,11 +9938,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3fbd5b66-ccb5-4469-9fd2-a81b160a2546",
+    "id": "3b4df0f0-b467-4993-b7b5-5ad79a31f3a7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #829)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9950,11 +9950,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "36ad706e-62da-46cd-a767-c4a8cccaee23",
+    "id": "167b6d06-9c78-48c2-ac02-c0161032e086",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #830)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9962,11 +9962,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3d207cc1-2eed-4130-8895-6fc2b91bfb6e",
+    "id": "318d683e-d372-45ea-8c6e-140bb5dfe9d3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #831)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9974,11 +9974,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a113ea31-c475-4d07-b4ab-13fff37557bf",
+    "id": "66b2b68f-4c3f-4da1-9dde-fcfefa879a8d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #832)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9986,11 +9986,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c6832c98-5d25-43a7-a6d6-0def554535ca",
+    "id": "79d5c3e8-fcc8-401b-a3aa-e3b642f29e83",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #833)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9998,11 +9998,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7e23ba5f-186d-4314-ab5e-58169da2bc8f",
+    "id": "6fe066a5-4953-431c-b8ce-957e1f33eca9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #834)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10010,11 +10010,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c3b16c03-092d-4bc1-a857-0c95e5d784c8",
+    "id": "6b102f7c-5e92-402b-a4d8-218ec4aa5cd6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #835)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10022,11 +10022,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4f72a158-2a0d-4f5c-bf96-9c2c4cd98688",
+    "id": "bf60d42e-fff1-4a38-a93f-6ac4805f1638",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #836)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10034,11 +10034,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a6215438-1e1e-416e-b2a8-7d06b5a63133",
+    "id": "f566e4be-2940-401c-b47c-dee511230f8c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #837)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10046,11 +10046,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ac2f57cb-7593-4708-98ee-528d3f9c1a75",
+    "id": "d02b2c5f-980a-4daf-b90f-758d001b47d9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #838)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10058,11 +10058,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "49c622fe-c2f3-4551-b82c-a3e1eebd7de9",
+    "id": "6b5f314a-559d-46d4-8ef2-f32014cf1932",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #839)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10070,11 +10070,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "890509ff-c5bd-4a9b-b5de-55ae2ed4738d",
+    "id": "a77e729b-8a84-4708-a3a8-58fd582aa222",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #840)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10082,11 +10082,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f77013bc-3a37-4e69-a13c-4cfa7df53d9b",
+    "id": "139645ae-4d60-4009-bd8c-2a5aa74a1af6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #841)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10094,11 +10094,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b193daa1-3a3e-47b4-a053-80ddf0b4f57c",
+    "id": "49908200-e0b4-4aeb-8f62-293cb7f4fa3f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #842)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10106,11 +10106,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4293d7f1-a6e9-40f5-ba32-eeeb625e4422",
+    "id": "ad5355cf-1025-4c78-baca-b7fcd15361e1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #843)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10118,11 +10118,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7873bd79-d538-4266-ba2c-e6e0c4433355",
+    "id": "bb213384-de5c-418c-b1c6-9ae8e108263c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #844)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10130,11 +10130,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e4a9cf7b-42a8-4b70-a7f0-1899773d5989",
+    "id": "a70198ab-a5bb-46dd-ac78-93e323f61c90",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #845)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10142,11 +10142,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "51d4837b-6f00-404d-b9e4-02c065d050f5",
+    "id": "425cd1ee-67e6-4f51-bbfc-77ccafff5118",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #846)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10154,11 +10154,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8fcc7025-b651-4194-abd8-0845773bff8b",
+    "id": "79092564-e5db-45fc-b8f9-43e8bde2244b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #847)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10166,11 +10166,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d03e86d7-cf91-4c5c-8482-bc309d8aeff2",
+    "id": "75a46e88-ff19-4770-8e55-d336aafdecfc",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #848)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10178,11 +10178,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1c6c4b6b-36a3-49b6-bbe9-da9b1557adc1",
+    "id": "854a8b7a-a38c-4140-8e47-49385f8870ff",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #849)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10190,11 +10190,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "27c239e4-5889-43e0-9492-e77fe00e99ef",
+    "id": "2da511da-52a6-4494-b79f-f9f232022708",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #850)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10202,11 +10202,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c8d3c2b1-1fef-47bf-8100-e5691aa5386f",
+    "id": "77932c59-0736-4a2c-8b00-32931b1fe7c0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #851)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10214,11 +10214,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cc4821a1-68aa-423f-b234-2bc994173315",
+    "id": "9d2157ab-bedb-4a1b-8b1b-42777703db19",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #852)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10226,11 +10226,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c7db8406-cd64-4e9c-b4d2-63acca0d929b",
+    "id": "c2aee815-46d0-4c6c-9649-610ef8bb142f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #853)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10238,11 +10238,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "74a6acf3-d451-42fa-aed0-ee6f47df5efd",
+    "id": "9c644003-e8af-4de5-9dde-d4d54d176db2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #854)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10250,11 +10250,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8bffbfe4-eb84-48b9-87bd-2a01d057d5bc",
+    "id": "ff97532b-bda4-4831-9213-fa64d4d182e3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #855)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10262,11 +10262,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "48350298-2393-4783-a4e0-4ff394d33750",
+    "id": "9b9385f7-0f8c-474f-961e-0b442ea5cb58",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #856)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10274,11 +10274,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b7896b76-1b36-4b93-8324-032bfb31b92c",
+    "id": "967fa5d9-8d85-45ba-aa99-87aff8bd35f2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #857)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10286,11 +10286,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6d6de9de-ecbc-4498-829b-e828e13140fe",
+    "id": "2da29962-cb81-4c0a-aa57-9935f16edf9b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #858)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10298,11 +10298,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "42f6b271-cb0e-46bd-a7a9-433826e4adb8",
+    "id": "7c7cc1c0-7579-4689-954f-56bc6c99d8fc",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #859)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10310,11 +10310,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2019c7cb-a52f-4c49-8220-5671a2dd2b59",
+    "id": "4152975f-2c67-4103-b6a5-983d73f1a3f4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #860)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10322,11 +10322,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2ff7d7e8-8d14-4116-bf58-17090340f368",
+    "id": "483d620f-82d6-43fb-bc5f-53314cafb373",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #861)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10334,11 +10334,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5dac0dd3-f54f-41e0-9395-3d4270530cfb",
+    "id": "52300e11-49a3-4ef6-a954-b817f24ba3aa",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #862)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10346,11 +10346,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c80107a7-b8b3-4b27-816b-7a01d052e223",
+    "id": "bd7cef08-611b-427d-bc3d-3725d0efdd40",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #863)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10358,11 +10358,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "32098dc8-0bb5-4f34-8f4d-0e739b1e61cb",
+    "id": "a9147174-a720-47cd-b9fe-b119765907dd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #864)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10370,11 +10370,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d19a2f3f-b7d1-4afd-bc96-082d105c0c25",
+    "id": "519882c6-df3e-4e09-b173-204ab91a6e1a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #865)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10382,11 +10382,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "56776cc5-7d10-47ed-86f8-3e01a5747714",
+    "id": "c26f5d00-635d-4a53-9465-3c437e991b7c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #866)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10394,11 +10394,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "017dcc46-441a-4cc6-9d1d-d902aa5eb14e",
+    "id": "fc62d25c-901a-4d7e-9765-1d89430d70bc",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #867)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10406,11 +10406,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "10e6a697-b366-4acf-a474-f6b3c0ef9a2c",
+    "id": "6b4e9f6e-011b-41af-b1f3-3ea1499a0925",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #868)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10418,11 +10418,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "39b86d5a-d5b0-415d-8fd6-01a87c1caae6",
+    "id": "a4c20bb2-e9de-44cd-8770-dc66158da4d6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #869)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10430,11 +10430,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "45a6d9fa-6978-43cc-b193-05752f0a91ca",
+    "id": "02501b90-42f3-47cf-a057-83e81abd0bef",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #870)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10442,11 +10442,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2b4eec86-78a6-484d-a7e0-b000ab0992ca",
+    "id": "a643f1f9-381d-476e-ad0d-1f86f20c869a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #871)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10454,11 +10454,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bba3f579-87d6-4595-8ba2-1ec1c8680feb",
+    "id": "49b0063d-9f63-4d1d-8626-6f05719ee6b4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #872)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10466,11 +10466,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1c23e543-f104-48bb-847e-513cee666030",
+    "id": "81b3b797-caff-4892-8195-a14ca5f5f1b6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #873)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10478,11 +10478,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "aa8b8314-05e9-43d5-aa34-f880750b604b",
+    "id": "cc15ca39-4fa7-440d-a138-de0d57864688",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #874)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10490,11 +10490,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4b3ead23-b460-4f73-8d76-261fd9bf7248",
+    "id": "cf20a040-47ce-4572-aa25-fa63e020c7df",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #875)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10502,11 +10502,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0092bde3-56bf-4118-af38-a4560a4a21a6",
+    "id": "7f2e880b-9a63-4001-8501-9f1c27f0cac5",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #876)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10514,11 +10514,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c97e995d-f99e-4cef-b5cd-1b60623d76ce",
+    "id": "773f6d29-16ea-4d27-bcc4-eec1f7aeef17",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #877)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10526,11 +10526,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4d1dbf77-b315-4bee-a2c0-b0de647d73e9",
+    "id": "91450a96-abb9-4964-8f1d-d25989f88cbf",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #878)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10538,11 +10538,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "84ab38a2-18f7-40c1-a2d0-59dee9ea2ac2",
+    "id": "9d31f63a-0aac-4c3c-b374-93ecb7feb42b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #879)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10550,11 +10550,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "28499134-a4ca-4f20-9fca-202650d3a797",
+    "id": "090853f8-c0a6-4873-b9d4-205beadf60c5",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #880)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10562,11 +10562,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "95176a92-5ea3-4eec-bb53-fdb78618507f",
+    "id": "da6d619b-0687-42cb-9dca-1b2f80ec9595",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #881)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10574,11 +10574,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "619af75e-b04c-40fd-8702-30c509744905",
+    "id": "1afc7156-6909-4cf7-9979-a08d9961f81c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #882)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10586,11 +10586,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6fa51727-bd60-482e-a9e2-417989074c18",
+    "id": "b011caf2-2a1d-4b7e-9a97-4c9b1765ac35",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #883)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10598,11 +10598,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "39b8c9cf-3cf4-4f8d-b50b-4c0fc33d2ca6",
+    "id": "bddfa0d9-0cb2-4490-b251-f7a1744da21e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #884)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10610,11 +10610,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4f7a1b67-0630-415b-980a-9e29d2f64a78",
+    "id": "52a573f8-808e-43ac-aa70-edd4c78d8895",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #885)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10622,11 +10622,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fc706235-44e9-4d7b-b5b6-5aa75dea4512",
+    "id": "5a6c3b84-f397-4c87-8b8c-0c424883ad0b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #886)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10634,11 +10634,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a9d1110c-850e-434f-8499-d4ce1aa44da5",
+    "id": "3221ada2-f849-4535-8c0a-259f7b8be0a0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #887)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10646,11 +10646,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "76a29f80-11f7-489c-b6dc-3cdc1b88abcb",
+    "id": "237a203c-e967-437c-a69a-b26b9c6e0af4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #888)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10658,11 +10658,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c08b1c49-ca90-41c3-af77-2ac602b6b53d",
+    "id": "ce84c7d2-7b0b-4914-a358-8159747c22b0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #889)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10670,11 +10670,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ffe0e681-3b4f-495d-b37b-e05b63b592c0",
+    "id": "dcb9ead0-d77b-4f72-bf37-f69c3df579fb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #890)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10682,11 +10682,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b4f7fb8a-ae9b-4c05-8862-f53c46c7b5bf",
+    "id": "a890477d-755c-4d2c-9012-4c0687bf406c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #891)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10694,11 +10694,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0c30ef5c-a11b-4add-a06c-8fa53c7db914",
+    "id": "787e0622-c637-4cf7-945a-5b0c7b9c13b4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #892)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10706,11 +10706,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b751e139-b3e2-4ece-ba22-7faf0cd04ea9",
+    "id": "dbe04e95-3b00-4acc-88b8-aa08a652ed4f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #893)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10718,11 +10718,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f9015a9b-2899-4a6c-9e03-6bf9b1d9679b",
+    "id": "da35acb5-fba6-4377-a29e-149d4aa24696",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #894)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10730,11 +10730,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c99400f3-f9c4-495b-944b-44e0bead3f23",
+    "id": "d3248053-2b97-469a-b5a3-5d8aca8f1c16",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #895)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10742,11 +10742,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "342f56a9-4d48-4cf0-ac42-d31a9fc15ff2",
+    "id": "b1f61c26-4c38-4dbe-adcd-5da263f732cf",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #896)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10754,11 +10754,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0dd5302e-b624-4614-adc8-c4a04f1cd3d7",
+    "id": "0f7a44fe-cd87-4a62-9128-91135649cdbf",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #897)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10766,11 +10766,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cf782fd4-4238-46d6-b4bb-61225f47bc75",
+    "id": "9e33d34c-c650-4315-a61b-7b2d13368079",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #898)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10778,11 +10778,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b331ddca-8abf-4ff3-a0d2-07be84d3cd90",
+    "id": "b498ba7b-4b34-4573-a16d-1b10c836ec75",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #899)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10790,11 +10790,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "dcbd0af0-fefb-4ee0-abe4-21c4c55aea7b",
+    "id": "ab3263dc-f5c3-4b07-bdaa-b3796708df5c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #900)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10802,11 +10802,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d8cfba0e-1387-407c-b7b8-c8d8bd42e3de",
+    "id": "c987a14c-efd0-4130-9cfa-011354f69974",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #901)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10814,11 +10814,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "500120f1-f5db-43b6-b8d5-530ffbfcf7ae",
+    "id": "203c7044-2ab1-4622-b626-4a6198ff0bc3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #902)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10826,11 +10826,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ed8d6a49-6e6f-44a2-ab62-015d9aa8ccfb",
+    "id": "44e0e02c-1e77-4c88-b920-d88a94489c23",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #903)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10838,11 +10838,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2fb99cf4-cbba-4907-a189-93164f73e16b",
+    "id": "f65f4100-7cd4-4593-8a7a-7a7e4273693c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #904)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10850,11 +10850,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "086d28a8-3786-4c2d-8c5d-ee8dfa9757a2",
+    "id": "cffa905f-607f-40d9-8566-14358a9768a1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #905)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10862,11 +10862,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "11aba232-8638-4aeb-a50e-60a89b0b75c9",
+    "id": "ce643b16-51a8-4560-b4f4-6eb42b92316a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #906)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10874,11 +10874,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b0e56c9d-674f-4b0c-834c-95327d7b6ff7",
+    "id": "24aba235-b1db-4dca-919f-3fcbafd1ed55",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #907)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10886,11 +10886,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "63d1d111-69f8-466e-b784-07ee9712325e",
+    "id": "305313a1-95b5-4cc1-93bd-6f7d2b025ee4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #908)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10898,11 +10898,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "721da3b9-c72c-42b1-a194-4eee82b5dea1",
+    "id": "a4067a6a-6405-4a83-8972-ce90066ab0bf",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #909)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10910,11 +10910,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3c03becf-9833-4aac-ad5e-b5d5159daec6",
+    "id": "c90ce349-84de-4c9a-8f4b-fea1cf7f8f3f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #910)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10922,11 +10922,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8716e5c2-0708-4c0b-8aae-a80798d01e23",
+    "id": "612f9726-fdd9-4f6d-8528-2b9b1073e74e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #911)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10934,11 +10934,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5b3ac6a1-79bd-4d07-a067-137cd99f0da1",
+    "id": "a108cdb9-0122-4234-bba4-250579f5f201",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #912)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10946,11 +10946,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9df4a7d5-d54d-41b5-ba24-702e0f876796",
+    "id": "c1e84109-6f53-47bf-8ba5-3605da8e4be1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #913)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10958,11 +10958,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f8511e5f-cd3a-466c-86df-5d09c3a6ce0e",
+    "id": "abbf221b-9af3-49f0-9231-e63b3fa61e0f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #914)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10970,11 +10970,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3583aaeb-b2fd-45b5-93d1-5d09db6551d1",
+    "id": "66627701-892b-4183-9193-e1c25d3a555c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #915)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10982,11 +10982,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d9e2feeb-1864-4829-b975-35a946d42a33",
+    "id": "28b8c8b4-f387-464d-9e66-897ed953ce75",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #916)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10994,11 +10994,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "84fcf486-f2ec-4479-9ef1-f5e4a71f5477",
+    "id": "bfc0f9bf-21ca-49cc-a05e-68fd7b2f38d6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #917)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11006,11 +11006,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c4206ea1-ff78-4df7-a784-3cbe7a389eb8",
+    "id": "e8124eb7-bcab-4c7f-a32f-d6d6d7eb1857",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #918)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11018,11 +11018,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9cde3e7a-e91f-45ee-845c-42bd4b01b6f8",
+    "id": "659d0e5c-839e-4799-837b-95fd2e8ac01e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #919)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11030,11 +11030,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4b51985f-a44a-4534-9153-336b8c2e90f4",
+    "id": "556afb9e-a1b9-4d11-bb6a-2a7bd2d4ce0a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #920)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11042,11 +11042,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "db24acd4-25aa-4337-a755-7ce102ffa279",
+    "id": "f53b4c84-f3a0-44af-be60-9e137c6f46a6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #921)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11054,11 +11054,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "68eced62-ec1a-49cf-ab75-2ba1981a9279",
+    "id": "5b569669-50c4-4ea8-b340-d854380de6ad",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #922)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11066,11 +11066,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d1060d12-5fd6-453a-b67c-19073614c7d3",
+    "id": "b588fa25-0030-4630-a89b-2fc5fb4b680a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #923)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11078,11 +11078,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ac4a8143-d030-4d22-bcda-54c1532b4ac6",
+    "id": "52f08e05-5081-41f7-8f36-4bfccc75786b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #924)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11090,11 +11090,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "608e523b-e1ba-4d80-add4-44cdd00ac6c5",
+    "id": "c9938a05-e1eb-4b74-8681-db2407c321e4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #925)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11102,11 +11102,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "37985d25-c411-42dd-9f8c-34a4da20520a",
+    "id": "59a16494-18c7-46a6-8241-8358ddfc3768",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #926)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11114,11 +11114,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "213cc1e7-ae52-4983-9196-4102928527c9",
+    "id": "05d41d2e-9324-48ab-b69b-0030b5db73e3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #927)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11126,11 +11126,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "d070d273-2422-48ac-a7c5-5d4cd91530eb",
+    "id": "ff7071ef-9007-4dce-a791-43585bc4b90c",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #928)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11138,11 +11138,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9d4a6c39-2252-471a-bedc-a2527f767daf",
+    "id": "0fba6baf-8e51-47ec-943b-603f9d4f1e85",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #929)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11150,11 +11150,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c1c6ef92-a544-4772-a762-6149ea26db8b",
+    "id": "3e9dfd59-f4a8-4890-a418-1bb73e2d88e1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #930)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11162,11 +11162,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "29201107-e57a-45b5-9e56-9e46b1654f22",
+    "id": "b48916fd-95f2-4e08-b320-d9576a293fdd",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #931)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11174,11 +11174,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "4ad44d23-8855-4eae-a565-e3c78bb47585",
+    "id": "c6a4b8bd-650d-4167-89bc-8d78b273592e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #932)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11186,11 +11186,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b02b7aba-1c49-4adf-9c1a-b30a7436e141",
+    "id": "03c03ad8-5013-4d6c-b7e6-1bec548d22a7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #933)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11198,11 +11198,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a14d17a9-6c14-49a6-8fc4-1a4000078a7d",
+    "id": "64c8c0c4-b4a2-4b49-84ac-1fdbaea3b407",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #934)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11210,11 +11210,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "412e54e2-b70f-4b29-a405-d1dcdfa28bcd",
+    "id": "5fe2eb7b-6157-4471-9cc9-fe7cf786a5b1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #935)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11222,11 +11222,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "2752e96f-e646-432d-ad33-4e7d1535c3cf",
+    "id": "6c603821-a6e2-4d8d-92c3-d0366d6d4742",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #936)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11234,11 +11234,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3e7e1ac9-b06a-48e6-aa1d-eb22013f5ab7",
+    "id": "3361a3c7-ed06-4e1d-9ea5-cd7fef78c152",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #937)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11246,11 +11246,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9c18564c-bf65-4500-94a9-63fa645fc05b",
+    "id": "e7bc8fdd-8d88-455a-a03d-0502ce9d0d28",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #938)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11258,11 +11258,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8fbab8d8-0f5d-439f-b931-08e97fae2360",
+    "id": "03e7cd9d-7aef-4ada-9148-c64106d24515",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #939)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11270,11 +11270,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7583bf2d-aac8-4863-896e-278849a5723a",
+    "id": "56557726-cefe-4d34-a70a-29d009706f31",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #940)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11282,11 +11282,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a71dfdf4-62be-456f-b9a5-025cc632263a",
+    "id": "5474103f-be7d-4df7-8eca-36f6e9494034",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #941)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11294,11 +11294,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fb3c6670-f97b-4d81-b2fd-c2ec0307dc5b",
+    "id": "9ff802ff-91c5-48b0-88fc-3cde7d166ff7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #942)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11306,11 +11306,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cde42391-dbaa-4807-b6e9-ed07ca7097ed",
+    "id": "3fd602fd-d9a7-4a1a-b8ee-756e8f2cca15",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #943)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11318,11 +11318,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5ad43191-70e2-4eaf-98d7-01224ae38f9f",
+    "id": "30165930-ddff-46cf-80b1-7a46cc2e19e4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #944)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11330,11 +11330,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7de6a033-5c94-4544-89b2-b3152bc8833a",
+    "id": "65692725-a56e-4439-b662-9518a8ca5864",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #945)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11342,11 +11342,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a648c48f-cacb-48da-ad2a-2a6207585dd9",
+    "id": "cd513755-6a0a-45f9-8bb2-561961990f8a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #946)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11354,11 +11354,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7496efac-938f-4276-96dc-c9aeaa9d3ead",
+    "id": "7e814ed6-538a-448d-a788-d519eb6070d0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #947)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11366,11 +11366,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "21ed8a99-ea28-4291-a4d0-1664557b65f4",
+    "id": "fad7f0c5-2c9b-4746-ad26-a5997eddb004",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #948)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11378,11 +11378,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0e7ca6a5-0cf3-4b87-95f9-1e33cd0f7e64",
+    "id": "0d5acbb1-acc3-44df-94f7-d1eab2aa16f2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #949)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11390,11 +11390,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "16b6e877-2c09-4a57-b856-470e66ee3619",
+    "id": "c7b628c7-7328-486c-ab98-5eb7500a64e6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #950)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11402,11 +11402,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "10481486-f2bb-4e60-a579-203e8f30df66",
+    "id": "fd67172a-e46c-4434-bfca-adb6a95cd1da",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #951)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11414,11 +11414,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "aa435c76-cd6d-4e11-bfa4-c24cf808f353",
+    "id": "13ff3767-f266-49b4-90f5-0d80efbfe040",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #952)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11426,11 +11426,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "92ef55dd-eaad-428f-8a16-4656280d103f",
+    "id": "830bbf75-0a07-40c9-930a-bdc7afa77f20",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #953)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11438,11 +11438,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7f80e05b-173c-4995-bc91-bbbecc3018ec",
+    "id": "6d7fad3a-b383-457a-8a67-08126c5fa6ab",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #954)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11450,11 +11450,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b4330fac-d95c-4baa-8d9d-2a74bbfe1cf2",
+    "id": "e5f83584-a489-49ea-9ecf-2a7bcf80d1f4",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #955)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11462,11 +11462,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b2bcb250-a0fc-4785-916b-f72988555fd2",
+    "id": "c15f4139-0fa3-4fdf-981d-572584b558f5",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #956)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11474,11 +11474,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "6994514c-3b55-41ac-8350-7d828890ef42",
+    "id": "a1a45bf3-4f31-4825-8b35-0b974d317d89",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #957)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11486,11 +11486,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "0af01f98-c172-4da6-bdb5-cccd260fa053",
+    "id": "7432bb90-dd25-4e3d-affd-ad1d8a06e602",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #958)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11498,11 +11498,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "608683f3-d621-4142-a68e-31da65d9cce8",
+    "id": "ecf4862a-74bd-47d3-be89-0ec44ccceab1",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #959)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11510,11 +11510,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a9629b72-b84c-484c-8a53-26830afe8eb4",
+    "id": "456d1340-fdd3-4513-8874-2cf32c74b172",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #960)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11522,11 +11522,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "bf35d6cc-810a-47e4-ab7b-3d745ac2f549",
+    "id": "77a3459a-36fc-41af-9362-7b3e432b30ce",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #961)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11534,11 +11534,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8e79da94-107f-40d7-84ab-f9e77b75c7bb",
+    "id": "b57d90bf-386d-44af-a9f3-dbb178f7e69b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #962)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11546,11 +11546,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c35dbd9a-5f95-402f-82f9-d42e522f047b",
+    "id": "b7d1db17-3c75-469d-bf59-8ad7cab29b5e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #963)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11558,11 +11558,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "01260de3-6cc9-4922-aeea-d034f0abd1da",
+    "id": "e8713771-4dbc-4513-b25c-1d1b893707cf",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #964)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11570,11 +11570,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "20d240be-677d-414b-9d60-05e5e68771fb",
+    "id": "c233ddb5-3762-403b-a001-10fc29e50a15",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #965)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11582,11 +11582,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8b07f2d5-7fc9-4c18-899e-c8e0b0c1c524",
+    "id": "18cd49d5-722e-4532-b32a-109ead1f4e8b",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #966)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11594,11 +11594,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e078add4-4f95-4fb0-9bbf-4b0dd7342609",
+    "id": "bde31146-eacf-4a6f-8365-7ba98394b2bb",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #967)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11606,11 +11606,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5f7e493c-2e1a-4737-9077-05ba2eef6b29",
+    "id": "7d0c5048-a6c1-4bdf-8ade-75a844c15bc8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #968)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11618,11 +11618,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e5747c1b-a470-4389-a6d6-f27c9e16ee1b",
+    "id": "23e8c832-bbc2-4b87-a14d-34dca8ff0dae",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #969)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11630,11 +11630,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "be16c3ba-3b69-4301-ad3e-956a72a172ae",
+    "id": "9f3f90b6-c89e-4c14-8e0c-79827b47caa3",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #970)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11642,11 +11642,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "9fa82201-5058-4317-b518-d8116a7c7005",
+    "id": "60381c5f-dba6-4cbd-9eef-a6bedc8460ee",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #971)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11654,11 +11654,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5df55e82-93ac-4128-aff0-5b6e0c97aa3b",
+    "id": "e15ae14d-a3e3-4752-b3c5-5acd756ddede",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #972)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11666,11 +11666,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "78b2a01c-eaa3-4d82-ae48-85445b4c797b",
+    "id": "d99814fa-e455-4f6c-bc29-0f81d33a5714",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #973)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11678,11 +11678,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "83c83639-d33e-476a-bc6b-995123fc7a4a",
+    "id": "06b365ad-afaf-43ef-8ecc-2bbd314967f0",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #974)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11690,11 +11690,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "1265143c-5356-4ea2-b512-75f06e0bf569",
+    "id": "59db32fc-6985-4b18-b654-1f7e493fa2f2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #975)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11702,11 +11702,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "fc403bfc-8fb7-47d6-9111-3354c75ecbea",
+    "id": "4dc2f014-eece-4fea-96fe-950d5aaa4150",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #976)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11714,11 +11714,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "e2bee9fb-aae3-4191-8113-b8f5bdf772f1",
+    "id": "ba60319c-1ea4-403f-a597-9b5fb97db62e",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #977)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11726,11 +11726,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "8dbfccae-dfd3-4a35-9c10-98214edc8dc0",
+    "id": "415cccc6-4a43-4991-a89b-0666d320b822",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #978)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11738,11 +11738,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b3eb5a0a-6c43-4448-8577-4c5a970df0d2",
+    "id": "4d85c9af-0182-4e46-91ee-6837f8464a14",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #979)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11750,11 +11750,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "ed31a088-6766-4de0-b7c7-7e42055ce7c4",
+    "id": "e3ba32df-223a-48e2-8fb1-40141bc22ca6",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #980)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11762,11 +11762,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "029b7c6a-ea5e-4404-a17a-0b5c500d6ace",
+    "id": "8a032b20-ade1-47df-a63d-25903525955a",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #981)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11774,11 +11774,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "26132fa9-5476-45d6-b13b-383ad51226a0",
+    "id": "5112be08-9e2b-408c-82cf-82278faa119f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #982)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11786,11 +11786,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a015d8c4-0e56-402c-9f9f-614c6b231313",
+    "id": "e1950c22-0166-49f6-b496-895d302ca7da",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #983)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11798,11 +11798,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "c31a18be-3863-470d-bade-91f7f263be26",
+    "id": "d760b8d2-60a8-463c-89e9-b865cd1262a2",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #984)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11810,11 +11810,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "883c2b0a-8479-42b1-a14c-087080d48b92",
+    "id": "3067caf2-9da2-4911-b7fc-5c1063786b64",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #985)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11822,11 +11822,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7b7aa133-1544-4236-98c7-4611ac5459e1",
+    "id": "952d9781-2b9c-4676-af49-31474201d445",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #986)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11834,11 +11834,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "98e9252b-fad9-4c8d-90b6-1f986ec10056",
+    "id": "1a551243-da6a-465b-aa63-9ddfb6f04e26",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #987)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11846,11 +11846,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "5fa190ea-4854-4250-9747-ca7f616fc952",
+    "id": "902d1e11-508a-42a7-95f4-5d81fd56c337",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #988)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11858,11 +11858,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "3c24b844-96f6-402d-81ad-e0c6553671c2",
+    "id": "df47fd23-b2a7-4701-87bb-3f9e9583bcf8",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #989)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11870,11 +11870,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "834060d4-997a-4c16-808b-6e99795d330d",
+    "id": "92866598-b234-45c9-bc68-03f2537af9ee",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #990)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11882,11 +11882,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cbcdb5d2-2070-4d8b-8f6f-e4ae6678de08",
+    "id": "fe508c05-6cac-49b7-9b02-556577cc8cd9",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #991)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11894,11 +11894,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "450aceb2-9842-439e-8981-84f8f0d05ad2",
+    "id": "3a767219-ffb9-40c2-9558-edb5f7ac303d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü? (Kart: #992)",
+    "front": "Tarımla uğraşan nüfusun tarım alanlarına bölünmesiyle elde edilen ve dağlık alanlarda çok yüksek çıkan nüfus yoğunluğu türü?",
     "back": "Tarımsal Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Tarımsal nüfus yoğunluğu Doğu Karadeniz ve Hakkari gibi tarım arazisi dar olan dağlık yerlerde yüksek çıkar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11906,11 +11906,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "7458acff-48dc-49b8-bbd4-f445ecc96b7a",
+    "id": "ca257442-2ad5-49a6-b1bb-8bb409e0c4f7",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü? (Kart: #993)",
+    "front": "Türkiye'de nüfusun sürekli artması sonucunda her yıl düzenli olarak artış gösteren yoğunluk türü?",
     "back": "Aritmetik Nüfus Yoğunluğu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Aritmetik nüfus yoğunluğu toplam nüfusun yüzölçüme bölünmesiyle bulunur ve ülkemizde her yıl artmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11918,11 +11918,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "08f2104a-6fb2-4e37-bf95-b610a09226f4",
+    "id": "3e815423-c927-4808-8e23-8efaf2463e8d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi? (Kart: #994)",
+    "front": "Doğu ve Güneydoğu Anadolu'da yaygın olan, birkaç ev ve geniş tarım arazisinden oluşan sürekli köyaltı yerleşmesi?",
     "back": "Mezra",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mezra ve Divan sürekli köyaltı yerleşmeleriyken; Yayla ve Oba geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11930,11 +11930,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "a64d6237-f9a4-41f2-a4c0-43d68f18159e",
+    "id": "2f51bcce-c423-4e4b-b93a-576d467c5f35",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi? (Kart: #995)",
+    "front": "Batı Karadeniz'de yaygın olan ve birkaç mahallenin birleşmesiyle oluşan sürekli köyaltı yerleşmesi?",
     "back": "Divan",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Divan yerleşmesi özellikle Batı Karadeniz'de (Sinop, Kastamonu, Bolu) yaygın sürekli bir yerleşimdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11942,11 +11942,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "b0e59263-8f01-401f-9272-21214cd08f76",
+    "id": "395dbda1-b236-4fa0-ae1b-ae7a67cded7f",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi? (Kart: #996)",
+    "front": "Toroslar'da Yörüklerin göçebe çadırlar kurarak oluşturdukları geçici köyaltı yerleşmesi?",
     "back": "Oba",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Obalar göçebe hayvancılık yapan Yörüklerin çadırlı geçici yerleşmeleridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11954,11 +11954,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "cbab9a0a-b403-4d4c-9dd7-baadbb85ef3a",
+    "id": "395b61b2-88ce-4c1d-a5c3-a196bca42f15",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi? (Kart: #997)",
+    "front": "Doğu Anadolu'da hayvancılık amaçlı kurulan geçici köyaltı yerleşmesi?",
     "back": "Kom",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kom yerleşmeleri Doğu Anadolu'da hayvancılık faaliyetleri için kurulan geçici yerleşmelerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11966,11 +11966,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "f14263db-acd5-43b9-aeee-f6b669fd9dfc",
+    "id": "0a47cd57-7152-4696-a491-f08f80eb0075",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi? (Kart: #998)",
+    "front": "Karadeniz kıyı kuşağında gür orman varlığı ve nemli iklime bağlı olarak en yaygın kullanılan geleneksel mesken malzemesi?",
     "back": "Ahşap",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz'deki ahşap konutlar tamamen nemli iklim ve gür orman varlığının (hammadde) sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11978,11 +11978,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "19f574a9-0b1a-49b1-9c8b-08ba10473c24",
+    "id": "3282b4f0-5334-4825-9b90-96a939acba1d",
     "topicId": "nufus-ve-yerlesme",
-    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü? (Kart: #999)",
+    "front": "İç Anadolu ve Güneydoğu Anadolu'da kurak iklim ve orman azlığı nedeniyle çamur ve samanın karıştırılmasıyla yapılan ev türü?",
     "back": "Kerpiç (Toprak)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kerpiç konutlar kurak iklim ve toprak yapısının yaygın olduğu İç Anadolu ve Güneydoğu'da yoğundur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11990,11 +11990,11 @@ export const flashcards_nufusveyerlesme: Flashcard[] = [
     ]
   },
   {
-    "id": "744b0f60-945b-4248-a278-479b521445bb",
+    "id": "a8b265a1-c87f-4f74-915f-a8de47388fda",
     "topicId": "nufus-ve-yerlesme",
-    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi? (Kart: #1000)",
+    "front": "Deniz kıyısında yer alıp bol yağış almasına rağmen engebeli yer şekilleri nedeniyle seyrek nüfuslu olan Ege yöresi?",
     "back": "Menteşe Yöresi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Menteşe Yöresi kıyıda olmasına rağmen engebe yüzünden Ege'nin en seyrek nüfuslu ve sapa yeridir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",

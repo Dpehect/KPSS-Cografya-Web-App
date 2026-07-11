@@ -2,11 +2,11 @@ import type { Flashcard } from "@/types/study";
 
 export const flashcards_sanayiveticaret: Flashcard[] = [
   {
-    "id": "ad901100-ad33-4e15-a598-c9def6900482",
+    "id": "b912d756-cb82-4231-9181-dfd521434472",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #1)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -14,11 +14,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0f4f2ea8-1f84-47b0-9640-e63302c4356d",
+    "id": "ff142815-775d-41e5-94e4-8efc4186cd74",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #2)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -26,11 +26,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "83edabfe-edc5-4a63-a114-96a0a92f5fd2",
+    "id": "6b62a032-5eca-4e1e-a8cc-6c7bab3114af",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #3)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -38,11 +38,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "986df494-69df-485e-ac81-846b26669691",
+    "id": "5d013c8c-83e3-4ef1-8383-240a36621386",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #4)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -50,11 +50,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "af60fe93-e761-4412-b9b2-2a1bc2f81933",
+    "id": "505b6f64-afab-4064-8280-115c742b57ab",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #5)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -62,11 +62,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8d3e8570-4d7e-42d7-8576-c2404de860e7",
+    "id": "e7e3ab97-6191-40af-8e31-51f23de92d2a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #6)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -74,11 +74,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b858c291-de3b-4064-ae9d-238af6327cac",
+    "id": "f57b076d-b72d-4b11-9bf1-9e4a284f9853",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #7)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -86,11 +86,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6b0cc097-843a-4d56-8012-bfe7dc856bdf",
+    "id": "8c15575b-2bdc-47b8-ac52-240b6f6eb566",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #8)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -98,11 +98,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ed123335-4d3c-4c3f-8656-f23a2e122713",
+    "id": "c1880bdb-ef12-4991-8a9a-877427cb7753",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #9)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -110,11 +110,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "234475c3-3dc5-4f39-98b2-f11d960cc970",
+    "id": "636d3684-e02b-4fd8-b0e7-85110b623e89",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #10)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -122,11 +122,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bd62f3e0-240d-41da-937b-080d3bc0807c",
+    "id": "7fc91a65-a325-44ed-88b2-845cf4e19e05",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #11)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -134,11 +134,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "67434035-47cc-4987-8e3e-a98b3da20ff0",
+    "id": "95ff80f6-5c7c-4b90-8712-a4f050d08829",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #12)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -146,11 +146,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "273f8ea0-1e1e-4def-8fb5-2f9f474c5312",
+    "id": "f4a9c2bd-cfc7-4680-9e7a-838a27ecd3c5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #13)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -158,11 +158,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7af31bf8-4d58-4042-848c-4ac939d80c30",
+    "id": "075d2662-9aba-4ac7-b081-6ff539f1c387",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #14)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -170,11 +170,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3a550e39-97e7-408f-bdcc-a56e58f707df",
+    "id": "4c50fd0a-78df-4ac3-a878-dce4eeb6b5a2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #15)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -182,11 +182,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f0509c2c-a8a6-4a9d-903c-e0b8d79166a1",
+    "id": "e7728600-c872-4031-b6cc-614369fa797e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #16)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -194,11 +194,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a22ec67b-297b-4d4d-b601-5aeae4009844",
+    "id": "81f0aec6-1fb1-4ff0-a69c-32bbb628c1c8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #17)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -206,11 +206,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0c7ee61e-1bdd-4b7f-bb76-e0fb224f3e27",
+    "id": "38b8da36-b7f0-407a-826e-6412df90b004",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #18)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -218,11 +218,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "42309d60-dd2b-4d1b-9e7e-e7f68f1af347",
+    "id": "216b75bb-01b4-473c-b270-b6fcd0bc15bc",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #19)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -230,11 +230,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4e4d8df0-5fa5-4aab-896b-be339d8fe048",
+    "id": "1af8c4af-50f1-4e42-9d96-9e7364428e83",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #20)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -242,11 +242,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "87b5a1fc-2f67-48a5-af71-762b3fa33dd9",
+    "id": "f74afa0c-a8ff-41a8-8c54-9a82609dec42",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #21)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -254,11 +254,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "459b2376-5b63-4e1c-ac9d-f44c739bc191",
+    "id": "33d8fc54-6749-4348-9680-efea8537a100",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #22)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -266,11 +266,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "46a5b4af-259d-44cd-a615-6e1349ae344d",
+    "id": "5504ec9d-ea1f-41be-aa17-c27580496a8f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #23)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -278,11 +278,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "86e1862b-2c2d-42bf-a416-e24459ddc5ac",
+    "id": "bb9f1f54-bb20-4fbb-8674-66f12c872f4b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #24)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -290,11 +290,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cd41b8da-4e1c-4a89-b299-5b43ba90b283",
+    "id": "db9eb180-a6ab-4e50-b96a-71929f7fd248",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #25)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -302,11 +302,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fc6ddfdd-3003-4fb2-8a86-8d611bbd919f",
+    "id": "b9151e6c-0f2f-4f02-98cf-2675388534a4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #26)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -314,11 +314,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e3fa504c-9292-4241-973c-adbde8b06cd8",
+    "id": "17be124b-3e94-4dae-9d82-71b95f0649d7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #27)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -326,11 +326,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b36921e9-fa13-4e83-8726-f51835e5c051",
+    "id": "06f27876-654c-4359-9d61-a1635f166bdd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #28)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -338,11 +338,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9998ad8a-6efc-4275-bd40-dea10fb5bd29",
+    "id": "fbec93ca-e616-4c44-9c43-53dd627b46fe",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #29)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -350,11 +350,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9657e2cf-56b2-4edb-ab1b-40f63e87e8ee",
+    "id": "8f35254c-67e4-4db6-b607-2c973e57dad5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #30)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -362,11 +362,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "46149d26-61a8-43e7-ac4c-c94e869524ad",
+    "id": "2cdbdea7-a770-4f96-a2ec-2421e40871b9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #31)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -374,11 +374,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "066dfe0c-b1ac-4fb3-8e40-990f25af52bb",
+    "id": "5071c29e-665c-4cea-a225-74467d92b1e4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #32)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -386,11 +386,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4335f065-2728-4932-a1e1-566955c0b7bb",
+    "id": "8db65ec2-a329-4f22-a45c-e5e91e33a68b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #33)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -398,11 +398,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "010623a4-ac15-4078-b151-f03d25026a88",
+    "id": "dc1b2655-3dc5-4711-b5ac-2dffeab8d128",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #34)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -410,11 +410,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "970f4467-fafe-4771-867c-22018f069ab8",
+    "id": "3ae8cc34-b309-4201-9999-8f8d853bf53d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #35)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -422,11 +422,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d5a8a897-7e90-404c-bd33-54974101f90c",
+    "id": "5b28df7f-1c3b-4440-8755-9124408bcc76",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #36)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -434,11 +434,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0dec6d6f-f703-4684-948c-1768c4070108",
+    "id": "2b655053-9694-4131-ae4f-bfe9b43c9ee4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #37)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -446,11 +446,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fec1a86a-1e13-4581-b421-18f4cd5762a4",
+    "id": "ba24e771-2d42-4c0a-8b7f-5404f6221931",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #38)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -458,11 +458,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2fa67fb7-af68-42b2-b68e-be86377e0073",
+    "id": "44d20f8a-b575-42a5-b870-f3abf3e9d035",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #39)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -470,11 +470,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2340bcf5-cef9-44db-abea-948c31f5a624",
+    "id": "bcf9db4f-2bf3-4b06-8aa1-ff4791a43f5f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #40)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -482,11 +482,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0df5e8de-1495-4b94-93f6-c669183126e1",
+    "id": "6a90af3c-d31c-4a8e-bde4-cab964610ec9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #41)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -494,11 +494,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "134477f0-8be7-43e3-837e-661447d6c6e2",
+    "id": "6b42b495-985f-4e83-bcb6-84431ce6db86",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #42)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -506,11 +506,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1182e20e-148a-4dad-8e8c-a95055ac344c",
+    "id": "dc3af86d-b33b-4399-a33d-0d4ebc688a63",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #43)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -518,11 +518,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "397d9476-0d6b-4011-bdb7-5813f57ad808",
+    "id": "0c2b15e0-21bf-4eeb-be17-e1f103101597",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #44)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -530,11 +530,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8d45a59f-219d-453a-bd23-450018a3edc3",
+    "id": "89d27877-666c-47de-b3d0-394d9caac58c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #45)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -542,11 +542,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8b0ad844-ed69-45a9-bb0d-158064b69f2b",
+    "id": "5a02f10d-86ee-4242-ab53-3839c2264dc3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #46)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -554,11 +554,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d60b1ef5-457c-4cf9-bdfc-e780bf17b406",
+    "id": "ee5af9fd-11e5-4552-bf09-fb4a73c6d6da",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #47)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -566,11 +566,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e58a0ce6-ff42-4f61-87a5-c3ccbd7fad61",
+    "id": "76e00ad4-5125-468a-9d2f-27933437a9c3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #48)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -578,11 +578,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a7005998-b3f1-4027-8646-a1c28fcbcf00",
+    "id": "3dec968c-a2f4-4490-906e-925aee7f4ff8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #49)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -590,11 +590,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cb085ceb-1a0a-45d6-b8dc-a362457204bf",
+    "id": "09fd49f6-07d7-4b2d-b82a-87870a93d256",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #50)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -602,11 +602,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "65666ef1-60cf-45ab-8f60-3502de2c9470",
+    "id": "93f43747-4859-45bc-97cf-8a79e6ffa85a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #51)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -614,11 +614,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dc372e4f-8afd-49a7-9375-fa47c24fa670",
+    "id": "131b862b-804f-4dda-b601-a2930756b394",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #52)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -626,11 +626,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "522c4a3a-3e34-40bb-bf8f-ed5cbb80272e",
+    "id": "d31535a1-a073-4b0b-83c3-9d13d7dbfab6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #53)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -638,11 +638,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2f0dda70-7bc8-4b0c-be65-3d74ff462a79",
+    "id": "b3ff4bf8-9f33-478d-9dd4-6b3e4bb4293d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #54)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -650,11 +650,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6506576f-2a42-4210-9d5e-2ca4913a1467",
+    "id": "e711d4e5-2a3c-461c-b8e5-ebe40dbf7103",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #55)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -662,11 +662,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0e159b54-d134-44d9-ade9-221c9df9867c",
+    "id": "eb04c1a0-dec9-4aa2-9b0b-f341bd4fca14",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #56)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -674,11 +674,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9db928f7-3d22-4180-bde4-890089a5c149",
+    "id": "521e67ff-12a7-4025-be25-8baa43f8cd61",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #57)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -686,11 +686,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6715e455-b3af-47af-816a-1f72733a39a9",
+    "id": "bd6020eb-4b92-4a10-a5fd-f6f5348c4eef",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #58)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -698,11 +698,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dffa6336-6618-4b5c-9738-b8daa843d6ef",
+    "id": "df4cedb2-3685-47c7-971e-b269d2fcd61d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #59)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -710,11 +710,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "afeb4962-27ec-463e-a580-5456e7a2c746",
+    "id": "ec02364a-a82d-478c-b55e-42dbbea49651",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #60)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -722,11 +722,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7ecf3fa3-597e-44b3-a094-c1cdc23e532e",
+    "id": "a6db3360-eff3-45b4-a996-ad3fea711d4c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #61)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -734,11 +734,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "22191b68-aad5-4e86-a7ac-330d2aaf9bc7",
+    "id": "bedc9bb1-d3c3-412b-867c-ea2eabfc7c68",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #62)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -746,11 +746,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1b36c8fe-07b4-4fcc-8ab2-80c4351a6df5",
+    "id": "b84202ac-61db-4bec-be31-0c63a173fb27",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #63)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -758,11 +758,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "139978a5-bf47-4fc2-a015-11e8758f80aa",
+    "id": "82ec81f4-e34e-47bd-b378-1803a5ea0ec9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #64)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -770,11 +770,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2e134f6b-7578-4a3e-aa7d-54e3b1727f5b",
+    "id": "c7ef3fac-937d-482d-ac71-b26151026e87",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #65)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -782,11 +782,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "10556de4-5c38-44c8-8fd7-7d7ee6ab9604",
+    "id": "287667f4-1cc9-416e-aa8c-573a8f449a86",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #66)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -794,11 +794,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bff7e8fb-b8bb-418d-831b-9481054f58c2",
+    "id": "8014e8a6-67ea-410f-b93f-0379196bff9e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #67)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -806,11 +806,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7392396f-c759-4fd5-a25b-cab0653a8452",
+    "id": "8f8e5bb0-8b2d-486e-b0f9-7cfa8830175b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #68)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -818,11 +818,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e85a4646-d770-439b-a1b1-3034dd04b34a",
+    "id": "231711ae-6eb2-4d68-8501-715b8ff5bf4f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #69)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -830,11 +830,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7805505c-0510-45f7-8590-86946a3cc213",
+    "id": "e4d1b0a3-4d2a-4b50-bf78-2644bfa79cba",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #70)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -842,11 +842,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3ec76cf4-8f62-4a02-8caa-db8b83e6790d",
+    "id": "14024acf-af4d-4acd-8b86-4d7668c94208",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #71)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -854,11 +854,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6ec065b6-8648-49c9-b3c4-288612089ede",
+    "id": "bd86b10e-befb-4d5b-8ec9-d0faa7d19372",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #72)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -866,11 +866,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dbf7fd5c-14b5-4822-b32d-30c8e2c9a25e",
+    "id": "3da71930-87b6-4fde-84f1-5880d30c0c67",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #73)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -878,11 +878,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ef01bf3b-9062-4330-829c-08c0e3744216",
+    "id": "d4905963-a965-44fb-99e7-acf0180642d7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #74)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -890,11 +890,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e7fcc897-cbcf-427d-b671-b5468423e58e",
+    "id": "157c9d20-ac74-45ad-8119-5fc7a7908ffb",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #75)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -902,11 +902,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d1eb3848-812d-4902-b9f1-8b7c95892d30",
+    "id": "071569a6-f4a7-47a8-a161-fc42fd8b7f85",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #76)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -914,11 +914,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "72aba44a-6822-4d91-a729-932240069fea",
+    "id": "5a02158c-6a6b-4ba0-81a7-0d5436721dd1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #77)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -926,11 +926,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e340204c-2ffd-44bd-af4a-34dba1b776fb",
+    "id": "18ba1afe-58ff-4b10-b21a-6cbb51024d98",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #78)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -938,11 +938,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6485ba91-2208-4c1c-8f8f-30254515f02c",
+    "id": "8a8bdbb6-89cb-4e58-8691-793d9117ef50",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #79)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -950,11 +950,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "da515b8a-3efa-42c5-aba3-aefe220006a3",
+    "id": "8f6658cd-a88d-44f0-90cd-493ed2fe9176",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #80)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -962,11 +962,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "261983bf-3653-47ef-9a2a-81ea7466140b",
+    "id": "47e6b28c-6e5e-4c47-8036-c4b1844b7e0a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #81)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -974,11 +974,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9429d8d9-010a-4692-b9f1-a1b42861ffd3",
+    "id": "76457f06-d76c-4e4e-a86e-7c61d197243e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #82)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -986,11 +986,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cd1d485e-e9e2-4544-ae0e-c6db1a4a11a6",
+    "id": "b2462625-e9cf-49a7-ac4e-5795dad05030",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #83)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -998,11 +998,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b6b868f2-295f-4a7d-9767-ab9ce7bbd016",
+    "id": "7f196322-63e1-47c6-b525-64ad2a5bb99a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #84)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1010,11 +1010,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3b40d099-d105-4867-8c2f-387263736da5",
+    "id": "18a50611-c657-4fc9-b178-6a2eef776de2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #85)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1022,11 +1022,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a3cdc75a-3cec-42f8-b043-1eeae200524f",
+    "id": "c10b94f9-0a0d-4b71-9ffc-1aa07ff4561f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #86)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1034,11 +1034,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a9afeaf6-f5e4-42fe-822a-fc8be91f71d4",
+    "id": "fe469c2e-cfc2-4a54-852d-c1d67f74726a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #87)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1046,11 +1046,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bd3b45c7-e97b-41d7-a147-ae620aa83bb9",
+    "id": "73ef27ba-6f8f-4de6-b0c2-2a8136d58d59",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #88)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1058,11 +1058,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6d242410-d451-453c-abb0-a0233bd6f252",
+    "id": "80169c2a-86ce-4b2d-b721-d2a2a0cc8b06",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #89)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1070,11 +1070,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9c11cf8d-97da-45ff-ad54-fbb49e1540f7",
+    "id": "fd76bf57-9b32-4124-85ca-8b3b444b3904",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #90)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1082,11 +1082,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "52644ccb-9faa-432a-a012-d9424eda4ea0",
+    "id": "f486553f-3864-44f1-9fa5-717aebcc458e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #91)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1094,11 +1094,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b2522328-0a64-4dc9-a29e-8e75667cd53a",
+    "id": "32a556a8-4cea-4345-8c7a-5e582f1bf29c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #92)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1106,11 +1106,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2abb22ee-2276-4dea-ab4e-36f375e2d68e",
+    "id": "226d005b-fb1d-456e-a2c6-f05482221867",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #93)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1118,11 +1118,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "961e23ff-f774-4a6c-ba3d-14af49679715",
+    "id": "9786aaec-2b59-435a-8e7f-e5e243fe8fd1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #94)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1130,11 +1130,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2857a4ee-498a-44e1-84fc-281d05164ef8",
+    "id": "21ba311f-9c51-4bcb-8237-5b8239d9e483",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #95)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1142,11 +1142,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "02fb18e9-bcaf-4c64-9fce-03345326781f",
+    "id": "447865d0-557f-4fbd-8d50-8ebea7bc6e18",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #96)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1154,11 +1154,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "24a34873-c7d3-494a-bf29-c964b02b31ae",
+    "id": "c9a49b29-7d69-4d2c-87a6-10685dae39ff",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #97)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1166,11 +1166,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4739b897-6692-4f00-aafc-61754a2be232",
+    "id": "c72d38b5-a651-4848-92b5-b55fa798d371",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #98)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1178,11 +1178,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "65134c1d-d42c-4789-b25a-3bd3c79d78a4",
+    "id": "82e3c298-5360-4715-8580-5f1ef9a468eb",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #99)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1190,11 +1190,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "82babda9-16fc-4e87-bd6a-fb3261505538",
+    "id": "191bd59c-c82c-4d27-8264-fa52957f96b4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #100)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1202,11 +1202,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "db7ef348-bcaf-4c28-a505-ff6ac31f9fd4",
+    "id": "fc30d08e-bf1d-41bf-9ed5-de2a8fada13a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #101)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1214,11 +1214,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dfff1e5f-fb63-4d0f-b412-e6944a7e41ae",
+    "id": "684c4966-4f2c-484d-b6d0-8336f4053d69",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #102)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1226,11 +1226,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ac3a912f-2a1d-48b5-b914-7fba9ff597b5",
+    "id": "040ad49d-9df6-438d-96b4-b09c0b3f053f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #103)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1238,11 +1238,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "31cbe2f5-1312-4c05-a68d-78f4e1183788",
+    "id": "044be35f-7084-4b40-81a2-f68321fee02e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #104)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1250,11 +1250,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fefef44a-6187-4636-9aad-856072eb16b3",
+    "id": "bdd70032-bbbb-4f05-ae37-44662fb7ed2b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #105)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1262,11 +1262,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "42535647-6c97-4bc6-843e-a2d7806c3ecf",
+    "id": "d4ff4c3b-f7ff-4dae-be95-4fabbc0460ec",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #106)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1274,11 +1274,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "12219752-639a-4ad8-949a-dca2f3d5c1c6",
+    "id": "0c7e3103-b3ce-4e0b-9034-c26b0b79f365",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #107)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1286,11 +1286,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e23ce5a9-d682-4578-a8df-d71a271ccc99",
+    "id": "724403e0-8e7e-4ad6-bb99-e1337b58d434",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #108)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1298,11 +1298,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a4087f7a-22a6-4242-9ceb-fd24fa98d3ad",
+    "id": "6b7572d5-6350-4845-88be-d480962c43e9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #109)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1310,11 +1310,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ca6f9a87-f850-49df-baf2-7691bad650c5",
+    "id": "795b1be7-9c01-4a33-be26-2f118f114948",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #110)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1322,11 +1322,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "02e321d9-5a24-4e82-8011-af597642eb3b",
+    "id": "47407da9-a90e-4523-9c6e-41a94c572408",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #111)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1334,11 +1334,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5c9ee266-a2df-4fd6-9ea0-6be29b2f28f3",
+    "id": "1d086252-8ed2-4e68-af9d-99cf9d36cdc5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #112)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1346,11 +1346,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b8bc9622-3283-4923-ae3b-a1cff31d1a52",
+    "id": "1e0f1981-655f-4be0-a070-9b2b18ddfa35",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #113)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1358,11 +1358,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d51350a5-4ec0-4d67-9ec9-2346380b6216",
+    "id": "2832901d-60d1-45b1-b84f-9ff4edf1e6f3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #114)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1370,11 +1370,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "92453ae0-99c7-4c12-b4f8-32a6e4a4cfa0",
+    "id": "be01ef41-b374-4dec-9722-f6ecc91bcdaa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #115)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1382,11 +1382,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9d52c9f3-d96a-4524-a61f-be48a8d211d2",
+    "id": "250c914f-9d58-439f-8f01-3290e459cc6a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #116)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1394,11 +1394,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "34833286-ae65-4be7-b59b-97ada7ccbf6a",
+    "id": "c749da28-5293-429c-af0e-15653cc508ba",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #117)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1406,11 +1406,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "31c845de-d1cd-4015-8855-05219d1dbe9e",
+    "id": "b9124fce-5f0a-4151-a732-725da07164b8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #118)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1418,11 +1418,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f3209602-9c7b-43a1-9369-c788f68a95f9",
+    "id": "9bc0c811-3232-49a4-9319-ae2d30aa46b6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #119)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1430,11 +1430,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f6b54234-4df3-43c2-a1a2-7cb7729d9481",
+    "id": "34794f80-d85e-476d-98ae-a885d5f72384",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #120)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1442,11 +1442,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d30b77c0-e1a9-4a96-95eb-281252dc6b6b",
+    "id": "b36aa10f-13da-4783-b87a-3786f0d8a2be",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #121)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1454,11 +1454,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1b8d8ca9-9b7c-43ec-99a3-89c91ae95854",
+    "id": "810667bf-fc17-4e75-afbd-a1fdf3962d18",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #122)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1466,11 +1466,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b5b825be-a1a1-479d-a54c-e18f7edb9737",
+    "id": "1f56e726-e1da-4c01-b926-f5d2f23f6bea",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #123)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1478,11 +1478,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "932979d8-60e5-4135-bf23-cd90c65c1e42",
+    "id": "dae987e4-aeca-4e95-b39b-a2d1a56c0d18",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #124)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1490,11 +1490,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "90f28187-f343-49f9-9f8f-83624f251a55",
+    "id": "70e050bf-fcc5-4a51-8a92-3cff74ca3666",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #125)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1502,11 +1502,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "143df5f7-e466-47c7-960e-608d290bba1b",
+    "id": "abe1a621-b96a-4c02-8de5-084c3b413b28",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #126)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1514,11 +1514,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cf3dac3a-0838-4b2e-9dbd-879daea7621c",
+    "id": "34d61b3e-dc92-44ba-bd6e-ee70ee44ee41",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #127)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1526,11 +1526,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1b7709f7-8e97-44b9-a651-2fc5b93ce064",
+    "id": "6e685c8e-4c55-417a-8270-709b510763dd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #128)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1538,11 +1538,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ec87ebf8-6bf0-42c2-9756-0842c2587863",
+    "id": "63abf4f0-45a2-444e-b46a-f70eeaf61a25",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #129)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1550,11 +1550,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9853ccdb-222b-484a-bf33-a2e9963e91a3",
+    "id": "e1914beb-49b6-4119-90dc-edb95c23161e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #130)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1562,11 +1562,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "aaee7811-3bdb-41fb-a4ad-3a2f6dc00775",
+    "id": "efa9da42-736c-4fd4-883e-2c28f8ba5a87",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #131)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1574,11 +1574,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2971dd30-dbfe-4cd0-b3b2-cda38305d7fe",
+    "id": "bbc1342b-cc80-4f42-8128-134ddd9c9831",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #132)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1586,11 +1586,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5b4719a7-aab0-44d8-89f9-c831095bb831",
+    "id": "3d60117e-1db4-49f9-974d-4977ee4db67c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #133)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1598,11 +1598,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5f89c62e-155a-417f-bc9d-afb83fa7d708",
+    "id": "64264478-ab8a-4f1c-9089-0401df1ee3ea",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #134)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1610,11 +1610,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6d75a5cb-50f7-4788-8aff-2259d0415c94",
+    "id": "688e7fd5-7b5d-4d90-b6a9-4fa80c36c210",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #135)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1622,11 +1622,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "04a8aee4-58f3-47c9-8c0c-dcd40c44152f",
+    "id": "07d1bfc1-3280-4581-accb-69bfc4a1296a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #136)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1634,11 +1634,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e70c21b7-0041-40b7-98d3-7a5ede60c3e1",
+    "id": "2076c2cf-04a9-4199-a98c-908bb6ce3715",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #137)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1646,11 +1646,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "75fbb87a-2999-4387-ac44-5fa10fcd3d8c",
+    "id": "b1dca41c-4dc4-4ce5-a24f-d6ab3170377f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #138)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1658,11 +1658,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "07d51503-5f6a-48b6-a8c8-a9ec31e657cb",
+    "id": "05cb1b21-925c-4d98-bed0-5841d6191476",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #139)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1670,11 +1670,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a98ac4e9-94d0-457e-84fa-bf3810cb0f60",
+    "id": "d64fef18-d46f-4d2f-8324-ae1be8f6bccd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #140)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1682,11 +1682,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "470eb429-bd8e-47da-861d-373811fa07c0",
+    "id": "a46e8613-1d25-48da-b4f7-4281fbeda4b5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #141)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1694,11 +1694,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "805a328c-b78b-4e16-b5e3-43db1e654c01",
+    "id": "62a1924e-0880-44a9-baa2-f686b8a2588f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #142)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1706,11 +1706,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5d2f4e94-1f0e-448c-9102-429831b7417e",
+    "id": "e3ec76dd-c902-4151-aa93-cc43c0caf1e9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #143)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1718,11 +1718,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "799503e3-564b-4c36-9897-0951335b8e71",
+    "id": "5161a3ae-19e8-4d60-bbcc-02d8fe7934ff",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #144)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1730,11 +1730,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "24d7fa54-01ad-47b9-983b-7b3ddd4fdf2d",
+    "id": "c424adb7-92c9-4f5a-a4c1-c96f83dbd158",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #145)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1742,11 +1742,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dea65f31-5cee-4fd7-9005-eba5af4527c1",
+    "id": "21c99f51-f947-46ba-9321-10f6056ce84a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #146)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1754,11 +1754,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8e55b76e-74f8-4f86-b550-9e4575580778",
+    "id": "bd470957-2f05-4bc7-b3fd-44ede6c91849",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #147)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1766,11 +1766,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0a389442-4636-4318-a44d-71221c70c3dd",
+    "id": "936fb62f-b16d-49ac-bf20-d6847b404e2e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #148)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1778,11 +1778,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1a15a9ad-f42c-4d3c-bff4-2f8325be6c40",
+    "id": "7cc85406-e2c7-4390-aeff-3dfb19ca49b4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #149)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1790,11 +1790,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d4b81eb8-efc3-4bee-a081-5a9ecd29b2de",
+    "id": "8c0e7a7d-0b03-4e82-ac07-47b95146361c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #150)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1802,11 +1802,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "762a3a13-904e-4df8-b24a-c6a6aa4ca0c7",
+    "id": "10e35ada-cdc1-447a-ae25-2c6e89c4ca49",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #151)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1814,11 +1814,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2b4015f0-53db-400b-98b3-6941295c1834",
+    "id": "ffcb0cf2-d3c3-4aee-a748-af8c49916162",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #152)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1826,11 +1826,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1dc7ba8f-7c77-4632-8248-eddda1201729",
+    "id": "57f296bf-be4e-4238-ba15-b100dc45b654",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #153)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1838,11 +1838,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8c3a13c6-75d9-41e2-ac8d-dd7abf8e7991",
+    "id": "ec273dc3-2d69-4692-9844-9b60c2b74a8e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #154)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1850,11 +1850,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "07eb6eaa-664b-43c3-aeb8-3d0148b9187b",
+    "id": "88e6e787-26c2-40c0-b5a1-dd9a57ddc035",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #155)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1862,11 +1862,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "36eb30b8-8407-48e2-8702-09ab926b4c9d",
+    "id": "89f68d80-8c9c-43aa-b5f0-8f1a1e8f4114",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #156)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1874,11 +1874,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8968ecdc-9301-42bf-b8a8-bc528b00ed18",
+    "id": "46ca05ba-5564-4d24-b5d8-0c1d134e4da4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #157)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1886,11 +1886,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2625e0bf-0f21-49fd-82ee-8eaa1335651e",
+    "id": "be37894b-1c00-499a-8eba-713242e21ef6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #158)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1898,11 +1898,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "924f5324-8d20-4626-be95-2b422b8381e1",
+    "id": "089140c6-1d99-46e0-a64a-dd3387280589",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #159)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1910,11 +1910,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f3404b4f-c479-482c-88e2-4e7291bd5d11",
+    "id": "89ca89a3-9722-4f5c-b33d-bd301144ce28",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #160)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1922,11 +1922,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "19146ac9-3c70-4e2c-9d5e-5d9e081b9230",
+    "id": "ed7fc2d2-6864-4d19-ade2-376354935973",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #161)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1934,11 +1934,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "05251526-e649-46f2-99dd-74132cf97481",
+    "id": "388d3f36-e929-4a93-b968-2df7cbe46744",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #162)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1946,11 +1946,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2c4013b9-b50f-4001-b031-1a7eaba41754",
+    "id": "81f7c3ae-dd15-4b61-b653-98a88a42a51e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #163)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1958,11 +1958,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6bc4e0c7-5409-4009-96ce-4eff37402e30",
+    "id": "7b48f5f8-5626-412b-921b-e8630758b473",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #164)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1970,11 +1970,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3820bdf5-feea-401f-83c7-8aa9c6a593d5",
+    "id": "871ddaf6-ca73-4e3a-aa61-04cf77f75c58",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #165)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1982,11 +1982,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "48e9e9ac-5c66-4405-b15c-870682e395b7",
+    "id": "07e89782-1f05-4f76-b6c3-bca0deb86f2c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #166)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1994,11 +1994,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8af4fc72-8e7c-4421-9374-c5704e25d6bb",
+    "id": "c0276135-0c10-4b6c-9923-27c2372fabd3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #167)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2006,11 +2006,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "698c2ba2-bc06-4ec0-9e56-5d8093e83dd0",
+    "id": "d40b8e4e-ed33-415e-9efa-93d103feeb31",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #168)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2018,11 +2018,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6834dd9d-9dec-4ceb-a354-91243701b0cc",
+    "id": "9aa136ac-c294-46a2-9c4e-07f1f0b87046",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #169)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2030,11 +2030,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f4bf213e-754e-4543-81a8-24b29ff3ff95",
+    "id": "76aaf1e0-62d0-488b-bd8c-4777756170e3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #170)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2042,11 +2042,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5efa406e-7433-463a-ac6e-2f5bd5bc86a6",
+    "id": "a5981907-572a-44a3-bdfe-93666972b9ed",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #171)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2054,11 +2054,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4dfb7b77-7a81-405e-924b-dd674845b00e",
+    "id": "23bf5671-5382-45a4-bb61-2fc519c45ea8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #172)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2066,11 +2066,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "574fa03e-e00c-4172-90f8-6bfcc08a8577",
+    "id": "1119b6f6-fbd7-432c-8245-153647b02432",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #173)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2078,11 +2078,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "98bae3bd-85c0-4861-8c19-3a65a0354255",
+    "id": "c0656ea6-5a51-4d67-b590-9eec364c68ad",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #174)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2090,11 +2090,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "554acaa3-3ee0-4332-9613-3f9f5890fc99",
+    "id": "21f412f7-4ef4-4838-879c-d30761eabf03",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #175)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2102,11 +2102,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "38ad7b95-8d10-42ba-90a5-1c55df96a3da",
+    "id": "4eb872a5-8194-4441-be23-27f3ec21678a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #176)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2114,11 +2114,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8654f1fc-c12f-49e2-be5b-fb2f9b8d059d",
+    "id": "88549723-35a8-41f2-805d-d2e2f5575d60",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #177)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2126,11 +2126,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "298f7870-074a-4800-8d15-5e2ab94e6bf7",
+    "id": "d532224f-03cd-4a75-bf39-406b088ca855",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #178)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2138,11 +2138,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2595cde2-177f-408a-8771-f809cc9372b5",
+    "id": "60b2df88-5b15-47bd-bf1d-e5b7daa09705",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #179)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2150,11 +2150,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2b2bf558-defd-47ff-8cbc-5b2ed1d1ce6f",
+    "id": "05347070-248c-44a7-819c-19e1cb521ca6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #180)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2162,11 +2162,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4dc0deb7-ce6c-431e-b6a1-49484832e8e6",
+    "id": "0ad42540-e8a5-4811-9852-db9b4857bec8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #181)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2174,11 +2174,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ecf2c2c8-58c2-4679-a93b-07a30a4d1cf8",
+    "id": "b9ddc798-66d8-42c4-a233-f62c9c39a606",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #182)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2186,11 +2186,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "80f0d8b3-a13e-48d4-ab20-d8b6f1dc128b",
+    "id": "93cc605e-df22-4513-90ad-232074adb1d9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #183)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2198,11 +2198,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "112d8f5e-4b5c-48be-aad4-74648b0d65ca",
+    "id": "2f19a0cf-7db4-4f3a-ab6b-670f93d47493",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #184)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2210,11 +2210,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bab183d7-45ed-4a8d-a81b-46bc30665156",
+    "id": "3f5f6c08-f32a-4b2b-aab3-43804f40b4dd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #185)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2222,11 +2222,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "76103190-e648-40bd-a3d2-67d0f754c90d",
+    "id": "a18b341e-b357-4dba-8826-40ab16280804",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #186)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2234,11 +2234,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a64a7fff-2532-45f1-990f-79e07c19f6d5",
+    "id": "b602e84c-9147-47c6-b396-c599085ae27a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #187)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2246,11 +2246,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "048b23b9-b4b0-469d-bc26-b7a92d20d0dd",
+    "id": "4a161d9a-c46f-4daa-8c0a-1a0c092108e3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #188)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2258,11 +2258,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "330ef302-1ae1-4be4-a36e-7851f258cb5b",
+    "id": "59b2576d-a4ff-40b8-a1a3-c09b257c229a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #189)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2270,11 +2270,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dff8799a-f923-4766-a63e-f8c8868e0984",
+    "id": "c91d3c48-938e-4f3a-affc-59af03ea0d77",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #190)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2282,11 +2282,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9c8dc787-d9c2-4df9-a35b-be9e3ce3be83",
+    "id": "fcb9d8be-78da-420a-b788-942c23fbe658",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #191)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2294,11 +2294,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "196186a7-0d35-4288-a481-7f0effa3156e",
+    "id": "5229888d-18f2-4386-81ac-2a67f827c27f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #192)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2306,11 +2306,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ab3d2514-0a39-4ab6-88cd-0700b7bc20a7",
+    "id": "6956f933-5510-4e4d-9a0e-517b72c0af5f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #193)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2318,11 +2318,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dae4e8fb-5b72-4426-8732-2a3878de5918",
+    "id": "fc0e66e3-f809-4094-aac7-27a0c219d3f1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #194)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2330,11 +2330,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "78bf0ec2-c464-4c3b-a118-e30be7b15eff",
+    "id": "d977f9bc-68f2-489b-bb25-641badb70ac0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #195)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2342,11 +2342,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "afbc0c9e-4250-414d-88b8-31561e4b722a",
+    "id": "31fff856-758d-4e39-9912-a158715d823d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #196)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2354,11 +2354,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "daa9af2e-b7b9-41ff-b949-575d47390483",
+    "id": "d5d70e64-30c2-4f3f-bd6f-fa417598a627",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #197)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2366,11 +2366,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7ae40cdd-5ff5-4b89-a998-ab40f81b3d83",
+    "id": "119c194c-1003-4bf2-b30e-8721b5f04db5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #198)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2378,11 +2378,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0a719e13-2d51-49ba-acec-8a97eb89eddf",
+    "id": "944a5e4c-2ad9-4c0f-8fb5-2c7c12ff9fb7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #199)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2390,11 +2390,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9d8aaa2e-414f-4fa3-916b-26e47f828a39",
+    "id": "d4bffb00-b605-4d99-ba00-f1148be85133",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #200)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2402,11 +2402,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7ff4978b-d7ba-4ab7-8365-d93a8611d29a",
+    "id": "d64d3949-36c2-4438-a3b3-3299c4c0e21c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #201)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2414,11 +2414,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e4be2388-054b-40a0-b080-cab90e388345",
+    "id": "7329f84e-3ce5-4804-b9cb-f22b70c03faf",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #202)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2426,11 +2426,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0b85f548-b6ee-4984-b301-527daa70b648",
+    "id": "874fc493-e4d2-42de-a1cd-290430c37e92",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #203)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2438,11 +2438,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b4108a07-e3b8-42d9-ba1d-ee32e8e70b89",
+    "id": "b077894f-05a9-4c4b-a812-d4d96b7f3514",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #204)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2450,11 +2450,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d826f7f2-594b-4932-8f9f-9e73c545da5d",
+    "id": "8ad158a8-e1e2-409a-ad69-6af95055cb31",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #205)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2462,11 +2462,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a0740b32-df3a-4059-915d-177d4422d079",
+    "id": "06ce034b-9848-4f12-961f-acb8443afa82",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #206)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2474,11 +2474,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "968f692e-e3a7-4a58-b913-07de175d163b",
+    "id": "9639bc69-4e10-4a8f-b151-f4fffb2d4158",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #207)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2486,11 +2486,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0d99241c-42ef-48bb-9912-8cc5dce5f0f6",
+    "id": "af1b6918-9271-4e2f-b52b-58fb70d0d41f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #208)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2498,11 +2498,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b2502346-6bb3-4fe0-83a4-c0abf16645b7",
+    "id": "6ca89a9b-318f-458a-8c05-61e4d6a965e5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #209)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2510,11 +2510,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f7c66b8f-5a25-46ce-bbe5-43799f73472f",
+    "id": "be750c77-8144-46e3-8d95-f9c40a52fe2f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #210)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2522,11 +2522,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "73b87250-2669-4abd-9f36-ae7d08899be0",
+    "id": "b1f201ec-9256-4386-a4bc-27c23fb27568",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #211)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2534,11 +2534,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "735be69f-9e3e-416d-9332-ad9d85927256",
+    "id": "cdccf410-fc0d-45e9-8ee6-ad538c0459c9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #212)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2546,11 +2546,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6f5373c5-cc1c-4b25-a10a-dbd6fbbeeb87",
+    "id": "a32c45b8-5ba9-4b79-b7fa-fc6e2b83ae60",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #213)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2558,11 +2558,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "25746652-b31b-457d-9b86-1b52d4172685",
+    "id": "0d2e2546-016a-4abb-8d45-c745f0d9b013",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #214)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2570,11 +2570,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4147c5e1-de30-4b6d-9a1a-0a2aba4e7245",
+    "id": "2054a884-cf2b-4837-aa0a-5ea141ee7ad0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #215)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2582,11 +2582,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "80c8e0a8-52e8-4cb9-9e19-bf0f6235434f",
+    "id": "524964a0-83ba-42bc-a461-a78d1571491c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #216)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2594,11 +2594,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "61a0a6a2-2100-43cf-b3f6-cea5f4171699",
+    "id": "509cfcfc-cd0f-462c-9f4c-e2633dacf255",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #217)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2606,11 +2606,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7ee0e5d4-aa5c-43d3-baef-570e48079c4b",
+    "id": "ca5d874c-2eae-4ddd-b958-3b1ad9aebaa6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #218)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2618,11 +2618,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3705b9da-8b2f-43af-ab1a-af708756c60a",
+    "id": "a1dd4709-b952-4555-8ecb-e923c44cff91",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #219)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2630,11 +2630,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "68ff73c5-c3e0-4dc7-94f5-8b9c088c06cc",
+    "id": "b0720f91-8999-4466-9c33-e26f71d827f2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #220)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2642,11 +2642,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4d85a192-38c8-41a1-b275-f401946c6d0d",
+    "id": "81b7b377-841e-4068-a3a7-e0bea244ecc8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #221)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2654,11 +2654,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3a8c9cd1-564d-4eb8-ac17-1308df7ec017",
+    "id": "8204aea0-4af2-46e4-83fe-77e6309f4206",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #222)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2666,11 +2666,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5169d3ff-9455-49cc-be63-3c056f976d5e",
+    "id": "a8063cfb-cbbe-48ed-a238-174f1cf8c7ff",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #223)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2678,11 +2678,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0e408c8d-0f20-49f8-b38b-1df7d828ae7e",
+    "id": "fecb158a-58ee-43f3-996c-b6529d856a4d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #224)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2690,11 +2690,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b5359614-bc7b-4e6d-a3a7-de7c316d7287",
+    "id": "c50e1124-b894-488e-8237-7ab26486afee",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #225)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2702,11 +2702,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d9cdd018-5a6c-4792-a563-078f83dbd2be",
+    "id": "15c89f56-bbe6-4a8f-b552-55b21e730d47",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #226)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2714,11 +2714,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "59363533-de40-41b2-936f-3dace54f4c74",
+    "id": "2f503aaf-0a42-425c-a65d-d92c191da5a7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #227)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2726,11 +2726,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "aada4895-ddc6-4cd3-b05c-195e90f5da33",
+    "id": "fa99730b-8ba7-499a-a3f9-0759f07dcc3f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #228)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2738,11 +2738,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "501bd3f1-e320-40db-9921-f4dbba334a26",
+    "id": "fcc6ca53-2f07-413f-b44e-9989910eb3f8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #229)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2750,11 +2750,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b08c7f35-e117-4947-b13b-0e1484f2ddb0",
+    "id": "3713cbc3-6a06-4e28-978a-e71764c91142",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #230)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2762,11 +2762,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7a333f74-0ea3-4fab-a73d-448b7cc44691",
+    "id": "f76b8fa5-fdd0-45a4-849b-743ca3c501dd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #231)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2774,11 +2774,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7701021d-de4f-447c-b075-67d364c9bed0",
+    "id": "b50aeeee-9676-43d8-8364-f04e552328cd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #232)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2786,11 +2786,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9101e9bb-5c26-4679-87ce-9764e959cb0d",
+    "id": "40e1be7f-fb9a-47f4-8b3b-87ac5ce919ed",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #233)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2798,11 +2798,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "df6ace02-09fc-41ed-93d4-016c2d38c7e5",
+    "id": "1509f25f-f5e8-41c0-9978-be56e06c9f4e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #234)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2810,11 +2810,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a11794fa-2e90-4ea4-b0b7-9a0ec7800a87",
+    "id": "22ee4ec5-c1de-418b-9197-a29917e823ac",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #235)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2822,11 +2822,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "60ac8816-e076-4ff1-975e-0187d5abe6f1",
+    "id": "08dee9bd-5917-4b06-95a1-f18726369c79",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #236)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2834,11 +2834,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9cabae81-d88d-40c9-83c3-b508a404901a",
+    "id": "72fbb97b-c5d7-48e8-8447-4c0b7f30ce48",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #237)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2846,11 +2846,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e7653225-08c6-4210-a302-d069e06fbf45",
+    "id": "1d842bf0-9217-425b-9230-31da6eab7a13",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #238)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2858,11 +2858,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "619d65b4-df67-4a8a-bd9d-7dcf37799396",
+    "id": "485606d2-1022-435c-8f83-75cab2fc12a1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #239)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2870,11 +2870,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3a5e1293-c280-402d-8cc8-4796a2c1d8a1",
+    "id": "8671b102-38e1-40f6-8ccc-4a39217cbb49",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #240)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2882,11 +2882,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d2df5cdd-90be-4bfb-b67c-6cb9e9d57190",
+    "id": "4dee162c-71bb-4b30-bae2-84020293ec3c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #241)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2894,11 +2894,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b070d87a-f88d-4232-b59a-b59a63e7246f",
+    "id": "7751cce8-661a-40c1-aeb4-084e6afe5278",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #242)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2906,11 +2906,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2fe583d2-dd27-46e9-88f1-837664530bb5",
+    "id": "1a5f4667-c062-4e94-87b7-b388538a7867",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #243)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2918,11 +2918,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7e6e1168-9a35-4a1d-a366-1c1e49a16450",
+    "id": "555e279c-49f0-4f7d-ba91-08a33061b951",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #244)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2930,11 +2930,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "829afc7a-b9c5-403a-946d-3a9f8ba65739",
+    "id": "dce50aa2-5ce5-4cee-b951-6cd7b8010ed4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #245)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2942,11 +2942,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bca88c55-9b28-4acc-a951-f1147ec037ad",
+    "id": "00099cea-00f0-43da-9fac-405893bd26b2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #246)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2954,11 +2954,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "46fb6719-5b4b-4ac5-87ac-7e925ff09a95",
+    "id": "d6704272-3c5c-416a-bccd-118cb6483eb2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #247)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2966,11 +2966,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fcc729f6-c61e-4c7b-af2e-3ebae3df164f",
+    "id": "b183819b-d852-44b2-a132-bd3f40c3d787",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #248)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2978,11 +2978,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c8000f7d-0b78-4e9e-8408-8e24b246af7e",
+    "id": "7ed3c1aa-1999-4dd2-a0ba-77d1663d1ef6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #249)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2990,11 +2990,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0876ff58-a58c-4e45-b232-a4c4d5701369",
+    "id": "59a6b0f0-e7b5-4f3e-bb39-50e91d78eae9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #250)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3002,11 +3002,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "358cba94-fd7f-4669-9eef-a5bf047f12a6",
+    "id": "85c272c5-3f3c-40e5-a0c5-5fceb5f7467e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #251)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3014,11 +3014,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6d0b8f69-4a69-4483-8480-7139958609ce",
+    "id": "13cc0330-a786-4b9f-b36c-4f36fdd3f3ff",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #252)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3026,11 +3026,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5da23bb4-14d9-465e-8521-4abd1382d68b",
+    "id": "76e0e727-cdfb-4afa-bf49-4a778fdc3508",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #253)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3038,11 +3038,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d32eb4b2-4d71-4411-a542-16f64421715f",
+    "id": "ac9cf4e7-98ea-4a75-8f41-2f34055fb1e5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #254)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3050,11 +3050,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8828a819-0269-4441-9fa6-26ac4e3c4305",
+    "id": "c36c3de3-b44b-4c1d-a85f-67dd58274f99",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #255)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3062,11 +3062,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5fc3aa8f-79cc-481a-bde6-e60c54419be0",
+    "id": "6d847951-1f90-43b1-8fdc-cbbdaf9e0e67",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #256)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3074,11 +3074,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a15a7975-7752-4c0f-badf-285fd17adca6",
+    "id": "0614f4bf-2e72-4867-ba8e-7718cb5bed0d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #257)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3086,11 +3086,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "17e73ea9-a613-41de-892a-9ca692e004fa",
+    "id": "9b64868d-1e86-4d7b-b704-e7bc1a1759a3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #258)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3098,11 +3098,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f857acc0-35e0-4f75-a0fe-9b68ef165590",
+    "id": "b3a2b75e-922b-443d-ac96-7faa3314a063",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #259)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3110,11 +3110,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "99b869e5-14a7-4f57-93d1-6b4f61165c32",
+    "id": "de9d0dcc-24f7-4c4c-af83-9ef030f93ca2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #260)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3122,11 +3122,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5e69d4da-8ff1-43af-982e-57838a1077be",
+    "id": "8dea9e10-807a-4242-af55-a1f461b83c21",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #261)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3134,11 +3134,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d3c09ec3-749b-4dcd-b0fa-4a5b374dc51f",
+    "id": "c41af800-dd85-4d48-be4e-b6fd13bfad36",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #262)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3146,11 +3146,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "aa080e5f-1095-4e73-ba33-05a31b5a2ab7",
+    "id": "13a74d94-495f-4441-901c-c994acf857f5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #263)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3158,11 +3158,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a4becc6e-37e3-47bc-a542-e8521e9086eb",
+    "id": "f76fa3ee-f8e9-4282-a6b3-b32f553a50c3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #264)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3170,11 +3170,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "62afd7a2-bc9b-4c72-a554-11b492f1eca0",
+    "id": "cf3d4d78-3ab7-4f79-859b-0f8a2f871404",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #265)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3182,11 +3182,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ccaadadd-82ef-430d-abe0-b6248f00ba8a",
+    "id": "6462e035-e504-44bc-9a3e-9db02e92bed7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #266)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3194,11 +3194,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "40887469-7ead-4f75-9a5e-92b96c6dcfc7",
+    "id": "2eba8274-ca85-45b5-8862-5bd8ad1e4bed",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #267)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3206,11 +3206,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a1472632-c2f3-4437-b539-a56097d27fc3",
+    "id": "5198116f-376e-45cc-91f0-f559087e82d0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #268)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3218,11 +3218,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7419e81b-2297-47bb-8d18-127c0e434d13",
+    "id": "ab3542a0-8979-4a7c-be2e-8a5bff97c873",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #269)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3230,11 +3230,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bb2066fa-2743-4b83-8c37-8ce35d1f39bf",
+    "id": "c40ec152-1b0b-4baf-b14e-b4547fdfc91c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #270)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3242,11 +3242,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ad9f369f-eb9f-4c6a-985f-c500875ccc54",
+    "id": "3e55da87-8e8c-47d0-8b25-da706eb7898f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #271)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3254,11 +3254,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "13503c37-8df0-4afd-a29f-3f884c0e1802",
+    "id": "c3578c3e-e353-4165-a808-9239986d04f1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #272)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3266,11 +3266,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8aca668f-6b08-409e-a4be-e055beb15cf3",
+    "id": "be46f21f-a109-46bb-9c3f-1a17217ee904",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #273)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3278,11 +3278,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "98335baf-b89a-424c-ada8-9913a136db82",
+    "id": "ccf8e08a-1e03-4ec4-abb5-80f723f7e690",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #274)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3290,11 +3290,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3e5e7088-d74f-4cf2-bf30-7c95a03f396d",
+    "id": "58d27f2c-1fd2-46e7-a0d0-28cf08663a74",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #275)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3302,11 +3302,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "671e9644-5295-428b-b985-271e8e030ce8",
+    "id": "3e93de8c-df3a-4b2e-b73d-c776c9714f07",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #276)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3314,11 +3314,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d558d2f2-86f3-4b39-ae7e-4208534a638a",
+    "id": "6da845b0-da03-4f4c-9f88-65a3416230e6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #277)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3326,11 +3326,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d31cdcad-f524-4460-b21c-8fa52a6e347e",
+    "id": "12cf21fa-1044-4d93-a538-a23dde1a08a9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #278)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3338,11 +3338,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9a1597ce-270b-4705-8008-53424daefb28",
+    "id": "ba36557f-eee7-4ea1-9c63-c0c0523c0699",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #279)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3350,11 +3350,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "02c569d3-2289-4566-b625-0df97876dbcf",
+    "id": "36e10258-b22f-4bc5-9de9-e471ca305a36",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #280)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3362,11 +3362,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a3b3be8d-11bf-434d-9b7f-a73f0075e726",
+    "id": "3518a821-4a1b-49a7-9c9a-55b9489802ac",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #281)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3374,11 +3374,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "74fbfead-5a6e-4c67-9a9f-08aed45c9c55",
+    "id": "7071a415-bb75-439a-bb64-0cfcd138a7fc",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #282)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3386,11 +3386,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "88515f0d-0010-46f3-bca2-cbfa092dcfc3",
+    "id": "f6fa5da0-6cc2-459b-b62f-a374accf6e22",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #283)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3398,11 +3398,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dd9bac13-ceda-4a0f-be09-115b55e24405",
+    "id": "d81e41c3-eacc-4884-8398-b23e640bb2ac",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #284)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3410,11 +3410,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4b30ac60-9d47-44ec-9c01-1d65bd8f00d9",
+    "id": "5e04fae2-3e3e-4656-a8c6-68947ece9977",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #285)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3422,11 +3422,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e60dffd9-9913-4918-af17-1139346fb89d",
+    "id": "871c2377-e0c2-4ab4-9e43-b4be8403dc94",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #286)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3434,11 +3434,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "004a3bb9-1ab2-4eab-8513-0881523cfe2f",
+    "id": "df1c2482-c2b9-47ea-9bcf-8ed9c4feeaab",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #287)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3446,11 +3446,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cfffe429-d2f0-4f42-93cd-2f05f55fad96",
+    "id": "2f249aae-a611-4d7b-b877-3f8efa34e7d1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #288)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3458,11 +3458,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b9e3582d-754e-4347-8488-a0abc9506b0b",
+    "id": "603b529f-4520-4e2f-ba9e-f3eb175a56ec",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #289)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3470,11 +3470,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f011a2d5-dd70-4e6c-8f5a-d8d3af2660cc",
+    "id": "860c0b7a-a5bd-4ebb-b09a-ca4e87814bc2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #290)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3482,11 +3482,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ab4307b6-3f2c-4585-bc80-1b6bd9e349bd",
+    "id": "c65ddf07-b1a6-4d0a-baad-7fc16396332e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #291)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3494,11 +3494,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5ba82100-87dd-4f96-b1de-c934232234ec",
+    "id": "cc458405-1767-4308-8ed2-d46b6afef29a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #292)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3506,11 +3506,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d2f8c4d1-f84d-47e7-b52f-ca9525acfe6f",
+    "id": "c16f45c4-be35-4241-bb05-0e8b6eec353b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #293)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3518,11 +3518,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "598e618a-ac60-4423-a898-2614a97fc4fe",
+    "id": "8c4bd404-bf62-4272-8c62-f7eca676367a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #294)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3530,11 +3530,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "edabd884-e968-4c74-98a1-95e5fa80e024",
+    "id": "8cbd05d1-ae23-4b6f-8348-ead2e42abdd8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #295)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3542,11 +3542,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "98d7157b-363d-4f85-a539-50b8172ecee7",
+    "id": "7a7e6783-fe4b-480e-922d-ec5d620b7136",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #296)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3554,11 +3554,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1f4c6dc4-ba42-4daf-aabe-54d9948ac1c8",
+    "id": "a756e407-84b0-4561-ad2f-ee732ecb3a4d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #297)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3566,11 +3566,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "17a5b8fe-2f2d-4d67-8631-8e8c165e80b4",
+    "id": "15750cd8-4039-41e8-a03e-b535389f56e8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #298)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3578,11 +3578,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ea2afce2-0508-4cba-8972-b021739d6ecb",
+    "id": "f53157aa-7542-4fca-8261-d11c909d5053",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #299)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3590,11 +3590,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c8dfef00-97d8-4e5d-890c-dd40f914902e",
+    "id": "7e6b989a-19dd-42c4-9c54-1d12f90d5cff",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #300)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3602,11 +3602,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e764f2ae-9929-48b7-a1a2-d6863b895454",
+    "id": "7bfb3041-e1b9-4363-8036-3e93ec453d91",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #301)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3614,11 +3614,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c6c48654-091d-41d0-9022-5d8622163727",
+    "id": "e846ba0f-9b39-4fb8-bc6d-568da80434aa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #302)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3626,11 +3626,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8c9f5914-ed0c-4f5d-bde4-39404a712dff",
+    "id": "03defd16-2865-4fed-bc88-c53c6942db9d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #303)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3638,11 +3638,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4198f936-f395-474b-8a97-9eab8783e572",
+    "id": "103bc46a-c778-4c27-96d2-5776cfb80837",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #304)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3650,11 +3650,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "499c1cbe-bfa1-4d57-9b49-1cf503b31ac5",
+    "id": "29b59fa3-43e9-482c-a645-15cd2c8b69c8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #305)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3662,11 +3662,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a73d6466-b52f-4cdf-8129-e3ed30ffad78",
+    "id": "919f005f-5f6f-4dc4-b5b5-909f6d17ebc8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #306)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3674,11 +3674,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f0976131-594d-4633-b2ea-8e53823d2bae",
+    "id": "a89ea56e-5832-40ed-a0dc-e8e0e6f83c02",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #307)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3686,11 +3686,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d22d7359-09ef-4938-a2bb-806dbb41221c",
+    "id": "71b34040-2b79-4139-89b6-ecfd57668742",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #308)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3698,11 +3698,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "35b06ee7-453b-4058-9305-d0a6e0e8e137",
+    "id": "08930d74-9d6d-4e12-8133-7aafcd936ddd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #309)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3710,11 +3710,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "857d168b-c8f8-4b57-8c13-8a8338705f88",
+    "id": "df8f4a8a-de2b-490c-ab01-971ad04d387e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #310)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3722,11 +3722,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "61608616-a75d-4657-8188-7bd12b03417f",
+    "id": "a7e3f314-e92b-47a9-8386-450064c56973",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #311)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3734,11 +3734,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c88a5751-d5a9-44f5-9f3c-8da8540241f4",
+    "id": "bb87f5af-6b5c-48ee-ae7b-0f13a9fe7205",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #312)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3746,11 +3746,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "19b92580-0907-467f-912e-86fb1254f84b",
+    "id": "38bc9f73-fd51-4fc2-9243-8cb85041cf36",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #313)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3758,11 +3758,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8905bc37-1203-4899-86a1-9054f9a2649c",
+    "id": "7e34f10f-7b79-48fd-befb-731b656791a0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #314)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3770,11 +3770,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "444e03d2-448b-4100-9f80-53e7fd1d7b3e",
+    "id": "a02b788d-39e6-4e67-8a17-36ab74d405d9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #315)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3782,11 +3782,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2bea7250-8396-4899-9e22-31af4b89bc43",
+    "id": "a2287109-c648-476b-a11a-1d57f4ac419a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #316)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3794,11 +3794,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3629b462-b761-43ba-884b-fa8c422e3911",
+    "id": "1e544172-42c9-4caf-b6a9-545013d687b0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #317)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3806,11 +3806,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7d685eeb-bf69-43bd-a7e9-b97389604ff9",
+    "id": "645c5ee6-cb2e-4ed3-86a8-cbeb7342299e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #318)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3818,11 +3818,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f36d340d-1a39-4a06-8a9a-7583f30efc2d",
+    "id": "995a251e-7670-49b6-990c-9e53a4f7476e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #319)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3830,11 +3830,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "37f5a445-f836-43f8-bae3-0570a22e7c12",
+    "id": "fe7eb1e1-1b48-4e05-84ef-2566d5c47f9c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #320)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3842,11 +3842,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b5d1e5d5-1596-4722-8dcf-d8907d2e8254",
+    "id": "5e33f476-955b-4649-bfb0-0b2882004196",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #321)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3854,11 +3854,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b4a6ed9b-d0ae-48d6-a07c-87e9fab21b72",
+    "id": "3d098c0d-3686-435e-8f59-056d886fe5a6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #322)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3866,11 +3866,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "507e4d30-db1e-4fec-8097-e73a747b88dc",
+    "id": "40b5161c-fb9d-40b7-afc6-bbe6658edd68",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #323)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3878,11 +3878,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8ffbef83-9122-4689-a2c5-c72677997f8f",
+    "id": "09e36284-2381-4dd9-bb31-f7174ad45ad6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #324)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3890,11 +3890,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "36df1c95-6ccc-496c-88a7-1c70f830b7d5",
+    "id": "08d64f0b-c164-4e12-82ea-278142bfca50",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #325)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3902,11 +3902,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "347d2278-771c-4ee7-ad98-85ffe5c2347e",
+    "id": "40d0aed0-72e7-420c-8f39-9a97862af10d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #326)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3914,11 +3914,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "60d0467e-c132-4d83-a92a-7351d1f4623e",
+    "id": "2c3cf366-3d09-4f88-827d-ce0fb670af36",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #327)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3926,11 +3926,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2397a7c3-0378-41c7-9cfa-a99380c1972a",
+    "id": "66472899-2ed2-4df7-98c1-aa3632231844",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #328)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3938,11 +3938,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6b47a5bf-b973-4e98-934a-c32415b44005",
+    "id": "3efd4839-a1ff-4c56-af39-29fab2073e91",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #329)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3950,11 +3950,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f4d0e65f-12be-4c3f-b2dc-7398f72a87ff",
+    "id": "5b0ce507-e591-4bda-aec9-427edd4ac179",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #330)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3962,11 +3962,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8b1811f5-0a29-4b9a-92a4-c11c18e70f5e",
+    "id": "982a9908-282c-46dc-9b92-4b42727b2a11",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #331)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3974,11 +3974,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6c4592a4-23ca-461a-886c-63fa7709bab0",
+    "id": "b00cd6c0-b491-4416-bbf5-fd3289e45285",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #332)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3986,11 +3986,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "de72315a-a89e-40e0-8022-5de4a19d3887",
+    "id": "a91b4664-e83c-43f4-9eeb-c6e5c002b67c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #333)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3998,11 +3998,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ba8ea980-0b41-41ea-b34c-6f476973eceb",
+    "id": "277bc1e4-0ac1-49b4-9153-8b2d785e3fb6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #334)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4010,11 +4010,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f6ac095d-4be4-4aee-a3f0-b8632fbfcc57",
+    "id": "9461a887-ce2f-4e76-97ff-1200cbfb9d29",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #335)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4022,11 +4022,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "15574fbe-31ac-4d7e-993d-2e4c6f7703ff",
+    "id": "08161793-0e08-4c29-8b86-0499ec06287a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #336)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4034,11 +4034,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2c7284a8-8c07-4231-97cd-51c5d12c81e8",
+    "id": "8e48de04-5487-412a-8fd5-9e85decd73c5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #337)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4046,11 +4046,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "513c5629-d86b-4c0a-9a79-1bdcc69c4623",
+    "id": "a8b9cdb3-58c2-4394-921f-94c34abf7132",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #338)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4058,11 +4058,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5a223d4d-f149-4fb2-b198-41c27f29933a",
+    "id": "9587ab36-04d3-4476-8fa7-04a8ea00b389",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #339)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4070,11 +4070,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e9978306-d9d4-413d-afa5-01fb4c43c3be",
+    "id": "cfcd58f1-7faa-4894-af61-71ea83ff706a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #340)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4082,11 +4082,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "55ffde01-a8cd-4b67-8728-3b8a2a48a6eb",
+    "id": "70293cc9-0498-4de9-81e4-523faa8f079b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #341)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4094,11 +4094,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8b03889e-90e5-4288-9ff8-6aa98211bef0",
+    "id": "cbff28fb-c0a8-48e4-9a78-223699848665",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #342)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4106,11 +4106,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "63631395-9c25-4e15-ab16-c3154b1a96cf",
+    "id": "6d868a31-883d-4fbf-93f6-5d9ef9aaff07",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #343)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4118,11 +4118,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0e84d029-5db6-4169-a5cc-38e448a67c20",
+    "id": "9efd3588-46eb-4923-811b-96a76eed1fbe",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #344)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4130,11 +4130,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b3f27e1f-af60-41a7-a806-aec157ca653e",
+    "id": "b0f34187-43e5-48f3-93a7-ab2220ba8257",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #345)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4142,11 +4142,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bcd81ae6-92e6-4dfd-84fd-d2c6eee60aa2",
+    "id": "966a88e3-35e7-49e9-a00d-e2ecb2b78953",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #346)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4154,11 +4154,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "24294dd9-56f8-4aca-8f9e-cf133b9ee4b0",
+    "id": "6a3812a8-fe8c-4d2f-acfb-35078eb72c63",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #347)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4166,11 +4166,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e402e09a-d958-4ea3-a788-48801c361a3e",
+    "id": "e708a4c8-8d2e-4719-84d0-9527a41fbf21",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #348)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4178,11 +4178,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7e6fe6ae-8958-457c-abdd-66382db7d2c4",
+    "id": "04db11bd-f8ba-4d8f-9c97-b928aa6bf359",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #349)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4190,11 +4190,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5c8949a8-adac-4cc5-a3ae-0d3634a5fb66",
+    "id": "994a239f-ef03-4134-919b-8ae845d3480a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #350)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4202,11 +4202,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "52e5a5e8-517c-4c95-95c8-30313b06b919",
+    "id": "dff2cddc-4818-4332-986e-054753643ee0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #351)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4214,11 +4214,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c790e0cd-4094-4b9c-ab5b-8f943cb77912",
+    "id": "36e6fdfc-da59-44f7-8d97-4c953d0e8e44",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #352)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4226,11 +4226,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fc3fcbf5-85c2-4ebb-bf74-c4e2e39b6c7c",
+    "id": "84a8597b-e35e-458b-93c7-e25ea2a3f86a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #353)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4238,11 +4238,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fab254af-c400-4084-b91a-31ef369b0849",
+    "id": "1a0e26c7-e019-498e-8e49-d195cbf5fc29",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #354)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4250,11 +4250,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "775e42d3-c777-486c-b5ef-0e8ebe723f5f",
+    "id": "41a73e4d-7e02-46fd-9e02-271010524cb4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #355)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4262,11 +4262,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b3988bd6-749f-4c85-b053-b04c80683606",
+    "id": "c99a6f44-a098-40e4-9baf-993fcf869c2e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #356)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4274,11 +4274,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8c271a6d-48aa-4c66-abdd-2bf64585a1cd",
+    "id": "91f991a7-39f2-4e93-9b4c-1f67ffb333d3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #357)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4286,11 +4286,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5d9731c7-948f-442b-b5ac-4eac41a7c777",
+    "id": "d522a2a5-a451-4498-83e6-ed54a5e06b61",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #358)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4298,11 +4298,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0a354ec2-a78a-44a5-ae68-6266c327412a",
+    "id": "2589ce36-11b8-44c7-a934-23c3eca39b38",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #359)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4310,11 +4310,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "62ffb395-625f-4db6-9c95-4db24cd956a6",
+    "id": "afede96b-cd19-4b3e-9478-bf6fdb8017a2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #360)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4322,11 +4322,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d5bcae65-fe8a-451c-ab43-e942cf9d5d8e",
+    "id": "5d923105-7e2d-4688-82f7-aafd0ddc8689",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #361)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4334,11 +4334,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ff77d167-d61f-43b9-b2cb-4648594f65f2",
+    "id": "c19946c1-e414-4fd8-b461-d7cc78adae7e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #362)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4346,11 +4346,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d279a13b-db0a-4013-9501-c71e1858b36a",
+    "id": "535ff366-4b77-4f3c-89f6-7ae6d283bd3c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #363)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4358,11 +4358,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e84cf742-e2b5-4259-b923-4a847ce5251f",
+    "id": "97eb4a2d-b8dd-4c70-a9b7-304cce210252",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #364)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4370,11 +4370,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dc54a679-c721-4c75-8f61-8eb18c33fd5b",
+    "id": "7868358c-e47e-45b9-815d-e0235729acf0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #365)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4382,11 +4382,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7061cbab-df5c-4ac1-9cc7-3c608709d588",
+    "id": "f7a0ea07-5507-42de-8f3b-9fa4be5659c6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #366)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4394,11 +4394,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "60b873fe-beab-4c88-841c-0c2d8d80992a",
+    "id": "2e16ed05-9875-4223-80d7-cd35b2803f1c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #367)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4406,11 +4406,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "259cd254-572b-4fb5-a044-d695f6d3a5b4",
+    "id": "8742e58d-81c7-40c3-aa8d-d24653fcbbfa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #368)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4418,11 +4418,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5ec1e62d-b932-49d3-84a8-62139c58fd7c",
+    "id": "d5125c52-bf0c-4a2d-920b-bb0c43549c99",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #369)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4430,11 +4430,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "169e6615-f74c-425f-a386-13681d313d7f",
+    "id": "c40b57c3-2759-47c1-96bd-bad19a15e94d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #370)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4442,11 +4442,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bf9a49ef-e8ce-45c4-ba75-cbdf2ef20c17",
+    "id": "6e070058-8c52-462f-b447-25af3530313a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #371)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4454,11 +4454,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a4dec19e-1581-41c5-b77b-d8f59fccd002",
+    "id": "31ee4121-00bd-4a7a-866a-b940c7f87726",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #372)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4466,11 +4466,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bab48ad4-77f5-4af4-9b9c-d828954cd9ca",
+    "id": "bb5ae790-e796-4a89-80ee-4d18a1e9c5c8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #373)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4478,11 +4478,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0c429ff9-cf34-49fd-8695-7b9f20ceeb6d",
+    "id": "e3e692ab-f044-46f4-8100-87bc401ec20a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #374)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4490,11 +4490,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "514bbdf3-3701-4317-89a7-bdf06a67df9d",
+    "id": "d166309e-4335-4453-ab73-37527621b583",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #375)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4502,11 +4502,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2ccc87d6-d799-4db2-9a2f-527c0e5c151f",
+    "id": "4f7893ec-17e0-4d96-9625-829275a60586",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #376)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4514,11 +4514,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6eaeaf76-050b-4b04-894c-913615ddb210",
+    "id": "de84d4f7-19d3-42de-8708-c8bbff3dc51e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #377)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4526,11 +4526,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0e69c553-96a4-48bc-b6c6-f266d9257d6a",
+    "id": "6c7d943f-1253-4fe6-96d7-dfe6505d5bd1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #378)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4538,11 +4538,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4cf4da4e-500a-41e9-b9c3-129b68b0aa88",
+    "id": "50b57bc0-4f80-467a-a80d-97aa71027328",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #379)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4550,11 +4550,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "689da396-1ad4-42a5-8e1d-180b8fd3d79c",
+    "id": "43a1c464-6b50-40ef-b01f-7652ebbf76be",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #380)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4562,11 +4562,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3606d222-053d-403e-956e-ea0e7643dff1",
+    "id": "6645d958-25a0-45af-8fdb-874cefd4530c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #381)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4574,11 +4574,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3d399ce8-164a-4668-a5a9-c3402618b18e",
+    "id": "7fbfffc9-c27e-48b1-8875-4be01c8cd0af",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #382)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4586,11 +4586,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dfb021f5-2d97-4dc0-b249-be8f42801eac",
+    "id": "32e40d73-ae99-447a-9c7f-179b9fa230f9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #383)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4598,11 +4598,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "218b6599-b634-487a-bd40-1f888ff6d4f2",
+    "id": "f54714eb-8f61-4363-a8de-6881c38c886e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #384)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4610,11 +4610,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "aa547077-d047-4f2e-8f62-e19d712c73a5",
+    "id": "f69e2c7c-9d7b-40e0-94c6-d81337ee0e3c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #385)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4622,11 +4622,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a4c48459-90a5-487c-b080-34ed38542023",
+    "id": "3a27d9f0-7eeb-45bc-99a2-47351c218cb4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #386)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4634,11 +4634,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9b5511f5-5cbc-46e6-a0ca-1764061b5b32",
+    "id": "713b935f-4b75-40c4-ad79-d57def8c5758",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #387)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4646,11 +4646,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "232e45c3-6004-4b2e-864c-3e0fc96c2b0f",
+    "id": "79105a37-9faf-4d62-98db-7cfbbd278a68",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #388)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4658,11 +4658,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a62740b4-26aa-45df-833a-4dcd1d9e7c0e",
+    "id": "ce05b696-3434-4681-ac00-8b8025f030bc",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #389)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4670,11 +4670,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "85745c25-2444-4df7-b21e-a58d81aa91c1",
+    "id": "622bfa3a-6656-4545-ab50-3d846dc5065b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #390)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4682,11 +4682,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d983a56c-8b93-4604-8ec1-66c9705bc1b0",
+    "id": "122247f3-f3ca-4005-a187-1d06bb9645eb",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #391)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4694,11 +4694,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6583af9b-3654-4549-b233-4ed6f76d22cc",
+    "id": "42d73019-cb58-468c-b80c-05c865875b18",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #392)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4706,11 +4706,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f0ba3b15-c5ba-4d34-bcd0-3f091ccaa26c",
+    "id": "25e7593e-b9cf-4ca2-a36f-2b59a81af1ae",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #393)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4718,11 +4718,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e2ef3bd4-569b-4637-b005-2f8cbeb48b88",
+    "id": "49f463a9-f562-4b01-b6b9-7753900f0e42",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #394)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4730,11 +4730,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "04b4a654-936d-44c3-9310-1a57da9d3d0e",
+    "id": "53227b0c-86d4-4a21-9223-13f499cf4b31",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #395)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4742,11 +4742,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7102f903-a5e8-46fe-9629-85015d322d9e",
+    "id": "4efc34e5-1d0a-408a-b96a-238f9a514357",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #396)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4754,11 +4754,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6d06697a-6f3f-44ed-bcbd-3d65c64f0b13",
+    "id": "513faab0-6755-476f-b166-5e4c20faad9b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #397)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4766,11 +4766,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b2391ba6-4d25-4cfd-bba1-a017a2874505",
+    "id": "7cd31112-16ad-4528-b819-79fd71ec1510",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #398)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4778,11 +4778,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "28d5add1-6c98-45b4-b902-63100ef8ef36",
+    "id": "45bbca62-e954-4cd3-9244-69192932d745",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #399)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4790,11 +4790,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "829a2f1e-23c1-4ec7-bdae-1f26068bada8",
+    "id": "52d6d504-4883-49ab-a84b-338f03516d0d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #400)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4802,11 +4802,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "869c4a2b-ccb1-40b5-ac75-b1946fb18902",
+    "id": "861ecf42-8004-46ee-992d-883768f1637e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #401)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4814,11 +4814,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ad29c227-0dd0-4dd0-92f1-59a8cc74ba40",
+    "id": "04feb1e9-545f-4027-8d1e-7e26a84640aa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #402)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4826,11 +4826,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "501293b6-d121-488b-822e-584d462fcd7a",
+    "id": "95540f85-ec5c-4184-a4c0-e00f15f9d98e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #403)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4838,11 +4838,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ec235fc3-9dfb-4105-a3f1-6eb4d041ef29",
+    "id": "d0903f4e-0810-4232-b5fd-38acc902b43a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #404)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4850,11 +4850,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "52f71289-2c7e-4725-9982-8dec2d042db3",
+    "id": "7c91605d-239f-4bfa-9376-35d4780b7f8f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #405)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4862,11 +4862,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bc793db3-cfe4-41fb-a621-396a8f501363",
+    "id": "4b758794-674e-4c2f-94a5-a15b011b543b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #406)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4874,11 +4874,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ef5d0a92-3af9-407b-b9cc-44514a685a5b",
+    "id": "416e18bc-61a8-4738-b8c6-d16f4a2bcb9d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #407)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4886,11 +4886,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8882bd1d-9cff-432d-9bbb-cc62440bf48d",
+    "id": "fa18bf37-3268-40fe-a4e2-1538e07fb61c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #408)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4898,11 +4898,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dc273618-193f-418a-aa22-a2d21be2e7d1",
+    "id": "15aa27a9-48dd-41eb-8ea4-b434e1821390",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #409)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4910,11 +4910,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b63fec61-5d70-442f-be57-2438ae8818fa",
+    "id": "490cdf7c-d714-455d-b5ea-b79dd5b4298c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #410)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4922,11 +4922,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "28649403-c60b-4fda-984a-708d0f85424d",
+    "id": "b6061d89-e0ae-4bfe-af46-e42697772754",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #411)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4934,11 +4934,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0523c6e6-5c29-4d93-9404-c32c08c4c316",
+    "id": "5409d5c7-c071-4dec-8557-5474dfc4db52",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #412)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4946,11 +4946,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a8d60c13-d035-4368-b1fb-600833f41a7a",
+    "id": "5dfd74ff-395e-475e-91c5-0c0451762938",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #413)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4958,11 +4958,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "52cfec47-33be-4ddc-8134-cd6bd805549a",
+    "id": "fc23f2dc-0886-4353-b0e1-860cf5121183",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #414)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4970,11 +4970,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "06269dd6-c22b-4c4c-a95a-c7f978ebc9f6",
+    "id": "28011bb1-bbf7-4903-9032-57daf86c910f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #415)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4982,11 +4982,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "976d6ab6-af5b-4580-999f-f98a72eeb39e",
+    "id": "f7f7eeca-4a9d-4a65-8447-50d30cc856f5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #416)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4994,11 +4994,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f84071b6-6670-4913-85a2-600a304d40c5",
+    "id": "d2fbd07a-e002-45d1-a9b4-e48f32a7461e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #417)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5006,11 +5006,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c21f9bc1-bd63-4579-a767-bc2d5718795b",
+    "id": "bb0ee87c-cc4e-40b4-90f0-80d09a7aec8d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #418)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5018,11 +5018,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "16488e4b-2876-4d0b-ae30-f0320065dc04",
+    "id": "a0a64ae6-af20-4aa5-b0cd-547783c45835",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #419)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5030,11 +5030,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d7427c80-3e17-4655-b978-86f3ecb1d66c",
+    "id": "68f04e6d-c030-4f7c-8a0b-bead9e63cd65",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #420)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5042,11 +5042,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "69c8b0bb-82e9-4680-aded-6a99ba646e0c",
+    "id": "faf81980-7253-4509-a1ad-8949705f89e8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #421)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5054,11 +5054,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7a5fcafe-9969-42c4-8461-5787483faa0c",
+    "id": "27f3da3a-7878-4f94-948d-f4ecddcdf5a6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #422)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5066,11 +5066,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "26ec7d8a-a7c3-4d36-9f80-376fb5a9b9a0",
+    "id": "8c498db1-36f0-4312-9d68-c9a17111dc11",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #423)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5078,11 +5078,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c7bf2623-73d9-45e0-8613-987f2f72c183",
+    "id": "e28bbd7e-0aca-419d-9402-d466ed4959a0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #424)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5090,11 +5090,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cc3e816d-8137-488e-8ce1-cd900df61811",
+    "id": "06cece76-9f7a-4280-8ade-ecf5215e7ec7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #425)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5102,11 +5102,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "abc5bde5-1811-4d90-a971-e69576ed53db",
+    "id": "d012aa5d-0dc8-449f-a1b1-d917c0c92e59",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #426)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5114,11 +5114,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4e3ddaa1-00bd-4eea-a25f-26abe6776b17",
+    "id": "97344812-5552-4335-97fe-f3de14c5452d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #427)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5126,11 +5126,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2548091d-ae74-48fa-957c-6424eb1c545b",
+    "id": "6a9243af-800e-414a-9444-ad49f73050e8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #428)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5138,11 +5138,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5af8104a-216c-403a-9d6d-f380f9e97e54",
+    "id": "fc5e5fc3-41b3-4705-bbe2-9c09a86d7f12",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #429)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5150,11 +5150,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e381bc39-a079-4ff7-b646-ca61e9a7c920",
+    "id": "82baf3e4-cada-491e-a50e-c5a226e8b04a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #430)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5162,11 +5162,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "45edea00-25bb-4b3c-9e2b-a29cb0b5e80c",
+    "id": "d8d1cfff-0e50-4268-adbb-bed2e8fb5cde",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #431)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5174,11 +5174,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fe76f1dd-c5b5-4309-a16c-ae0e076e7074",
+    "id": "6f940410-165f-4efd-a827-c3cd0b299a3d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #432)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5186,11 +5186,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f8b9764b-68eb-4809-b914-c49dc8c99d1c",
+    "id": "e7e5b88a-9508-4134-965d-fab9be578b8f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #433)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5198,11 +5198,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cce11290-dac6-4c94-b066-753444cd415b",
+    "id": "82b74f37-a434-4425-96fe-25fd26840b03",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #434)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5210,11 +5210,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "82658299-6578-4202-8010-794c1cf18bf1",
+    "id": "fc721353-28a5-42be-acc3-2016e755250a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #435)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5222,11 +5222,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "eaf3279f-4b6d-4813-9862-05448a3449d3",
+    "id": "317ff225-756c-43ca-8815-68e5514f617a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #436)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5234,11 +5234,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0ee342d9-f052-47d1-a978-adc6635b2340",
+    "id": "7e3e6d7c-2e71-484b-afec-e6f8008976b5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #437)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5246,11 +5246,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c1d5c7ab-9f93-4afc-a0e1-3177d01f5569",
+    "id": "1e55fc43-d6b1-44b1-bc38-0f44d1675ca3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #438)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5258,11 +5258,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d3219d42-d275-4b77-9efa-13dd6391e328",
+    "id": "35e1a4fe-535c-4a23-b7aa-0fff4d372fd6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #439)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5270,11 +5270,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "59663408-4c7d-47ec-9568-cdbf21b55d8c",
+    "id": "acd53e33-c1ed-45fa-bb27-7850335a5af1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #440)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5282,11 +5282,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "273f85c1-a5c4-4d0f-b389-850ab6d1af6c",
+    "id": "72ae5123-4841-4142-a707-4cf51f0d5ac9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #441)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5294,11 +5294,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f076ce36-241d-4fc0-b341-aeb6f40106c1",
+    "id": "28288c00-7682-40c5-946d-e13a2351c5c1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #442)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5306,11 +5306,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "599cbf39-626e-48ea-8d5c-8da5c1307774",
+    "id": "3e3b2535-8216-4de5-ba9f-3de211b8f933",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #443)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5318,11 +5318,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3d7caede-1a83-4979-be66-340442489fcc",
+    "id": "2b8903d8-87bf-40f6-ad28-83dc1243715d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #444)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5330,11 +5330,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "46cf8ad4-aa8b-448e-9ba5-6eddad597d43",
+    "id": "073bb472-5552-4148-ba54-b0f8a7cd688e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #445)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5342,11 +5342,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5f4b2fe8-b5b5-4099-a0a7-8ccaae898fe0",
+    "id": "b0d2ae68-4ce7-42f7-8377-e5d09e8db269",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #446)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5354,11 +5354,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "209184b5-5305-4dc9-a10e-f277e5b59a68",
+    "id": "1fa9234f-f382-4342-8cbd-cc562f1d2a19",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #447)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5366,11 +5366,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "692bef22-a3a5-48db-9de4-8a302fe3d95d",
+    "id": "479767cb-82d5-4930-b896-d5e9e67ad599",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #448)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5378,11 +5378,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7d2422a8-9eaf-49a1-9d65-547a8ef4f37e",
+    "id": "ec23a035-c514-4592-9d5a-ac988afcfdc5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #449)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5390,11 +5390,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5e678a0e-d44c-4a22-aec7-e06804d7f6ac",
+    "id": "c63e151f-ca2a-4909-b14c-e5f1bc4c1dd9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #450)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5402,11 +5402,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0e9b5280-0bda-45f3-9e71-71f813e71ca3",
+    "id": "012bc0ed-88a6-4353-b0c0-418ba2b2ae42",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #451)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5414,11 +5414,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "036c526d-9d5e-43c5-9c53-262b6d03ec46",
+    "id": "3e3b6831-4573-44fc-ba69-2d29acce03f6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #452)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5426,11 +5426,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9a6b16b5-d381-4d97-b17c-44fb3d6aba5f",
+    "id": "63726d9f-64dc-4648-a395-3e86a760b96d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #453)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5438,11 +5438,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c7f7ce87-18bb-4ba1-a4c8-2038250da4e6",
+    "id": "e4c3aebc-2129-42c7-beec-49dc2b38836d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #454)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5450,11 +5450,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0745b241-1df6-4671-b30f-1e916aa121bc",
+    "id": "63a220a9-fdc1-4aa5-803e-d8948c9045c2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #455)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5462,11 +5462,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "292de273-5545-476f-b7d8-37a9e47ab1d7",
+    "id": "62339d34-27bb-4d0e-a226-b824a29c575e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #456)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5474,11 +5474,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "445aab74-4fcf-46e4-8219-d80b9abcc1bb",
+    "id": "577794f5-450a-48d5-9631-22aca0df965b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #457)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5486,11 +5486,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a1700d2d-3649-497b-a191-ca268707dcae",
+    "id": "042ca880-b709-4a8e-be93-b3a842175fdd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #458)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5498,11 +5498,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3d4ee373-6e36-4ead-b8ae-b8906b02f9fd",
+    "id": "a40d1029-cc04-455d-b7a2-4f0f88221f0e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #459)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5510,11 +5510,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "38ea4dc5-729e-48b6-ae79-a89b95dd237a",
+    "id": "9bdc62a5-2ca0-4300-82b9-ec0f39807104",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #460)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5522,11 +5522,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ab41a4ac-0b1e-425d-8123-f4ce13079e21",
+    "id": "5dffca00-ca7e-4c75-8b13-45db99fc1537",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #461)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5534,11 +5534,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "92a423b8-5778-4352-b735-0d852799d51f",
+    "id": "fad0c36f-fa72-4051-9f93-b0c1d37b418c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #462)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5546,11 +5546,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "86a1218c-a431-4564-8021-6eb1b40b8346",
+    "id": "3f8f82fb-f8a3-4878-8b34-4cf8ce79c03d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #463)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5558,11 +5558,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "279289e5-eabb-43b9-8cf8-2638dde7e81c",
+    "id": "65871885-1694-4009-b8c5-fc8808aa1974",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #464)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5570,11 +5570,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cd14b5e2-8890-41eb-8dec-25074575514a",
+    "id": "baeefc7e-cc7e-4e07-9353-31c32ce86281",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #465)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5582,11 +5582,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "830d141a-f360-4cc3-a8ca-0f4ab9edbe6a",
+    "id": "616e29fd-07d3-4cbe-ac97-5a30d4a0906a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #466)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5594,11 +5594,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b9c17c4e-ad59-4caa-b736-45c9b1edec23",
+    "id": "73129cfb-0188-49e4-be69-d966af805562",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #467)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5606,11 +5606,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5ca02628-1ab4-41a3-8b4a-09b96bb64532",
+    "id": "24a0759d-00d7-424c-9732-0a088523a3b2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #468)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5618,11 +5618,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1dd6932e-ac60-4cb8-bfd1-323b7295432f",
+    "id": "e6043bd4-229a-4101-9884-143d9758ddf1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #469)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5630,11 +5630,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7e6ca980-f81a-48a7-8d8f-1ddc27a3bb52",
+    "id": "b49c1e56-c8f4-45ca-8677-be6c0beee646",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #470)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5642,11 +5642,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "84cbc026-50bb-4ac4-9667-e9201f6b929f",
+    "id": "25a9200e-e6c4-46ce-8946-2731528b27a2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #471)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5654,11 +5654,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4e898ec2-986d-4b62-bc9d-f4e01d47abc6",
+    "id": "1ec67c9d-f2ed-49f2-ba32-b3bbeeb310c6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #472)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5666,11 +5666,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bb445600-acbc-4077-87c5-46904ec65a75",
+    "id": "d1e5578f-0a9c-46a9-a39e-0728050f1b3d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #473)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5678,11 +5678,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b3ef1852-a102-4f7b-accf-035b5fc855ad",
+    "id": "c14d5113-d9d0-47d1-b515-90978d1564ea",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #474)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5690,11 +5690,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "281c24c2-cdd3-4523-9200-554d55ff3d46",
+    "id": "bba1768c-bf6b-4a98-9eac-579df494a016",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #475)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5702,11 +5702,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "26df6e1c-f36d-4c29-b785-f6b0eb7b4552",
+    "id": "7bc7021d-2fca-4cad-98c3-db913d4ae6c2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #476)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5714,11 +5714,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ff324bda-fb42-4cd9-bebb-3e4a98ac9467",
+    "id": "0d6603ca-9bdf-493b-95b3-58ffdec6b2ef",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #477)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5726,11 +5726,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d477fa96-c812-4020-a0e4-9bce51f02db7",
+    "id": "882733af-93ce-423d-8f61-23a6ccf58a53",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #478)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5738,11 +5738,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "81b24d40-6687-4e8d-8ae7-1b9a9e8aef22",
+    "id": "6f1fe7af-f720-4153-85ef-70762e549605",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #479)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5750,11 +5750,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d43b5bb4-d4fc-49ac-9d52-c580b7407b27",
+    "id": "5f21c0dd-4072-4dd1-8598-42222561a513",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #480)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5762,11 +5762,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2a57011e-532d-45de-8f15-dc59cc5eb255",
+    "id": "9fe0f28e-43c7-4193-87b0-dc5d847a95fa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #481)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5774,11 +5774,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "991e5268-f0e4-4e64-8a0b-2e7bbe28030d",
+    "id": "5c068aad-274d-4bb5-ac9b-58e1f4904f1f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #482)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5786,11 +5786,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9ed5076c-4a50-4700-bd0d-4c79364c884a",
+    "id": "a995ca2c-eb75-4e34-82ad-65de60765044",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #483)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5798,11 +5798,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c3d13d4a-1aeb-4386-af23-5bcb8215e3d8",
+    "id": "0b4cde94-71a1-46e7-a37d-6af4bede2f51",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #484)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5810,11 +5810,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "90e3fdc2-7026-41bb-9325-581dc23874c1",
+    "id": "1829c9d8-f6ac-40ae-b5a2-fe7540de3f45",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #485)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5822,11 +5822,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ae4b5701-6b7a-46fe-9bd9-7f72285f049a",
+    "id": "66115b37-1ef8-43f7-a1d2-830633eec349",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #486)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5834,11 +5834,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f327434a-fcaa-45f3-966d-92150ec9a8db",
+    "id": "c0ed2c9e-abd1-455f-ac1f-738e672ad44b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #487)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5846,11 +5846,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "488a7d78-9c1b-4cad-9605-ca193533230c",
+    "id": "b0dd5606-73aa-4ad5-ab31-0cdb5b2dc04c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #488)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5858,11 +5858,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c54ab9b9-19ee-4bb1-82ff-691887442ee3",
+    "id": "fe8ac395-361f-42e2-8743-c8c1bff800c0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #489)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5870,11 +5870,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d304c05c-8876-4bf8-9897-bf8c2f1420e9",
+    "id": "b14238d6-6565-4a3b-a59c-7e585390b22d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #490)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5882,11 +5882,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8d79109b-dbf5-448b-9942-864f9ece4f10",
+    "id": "bd3b0f57-9c9e-4c50-ac84-edd562a8f37f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #491)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5894,11 +5894,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6a8eb7a0-da1b-4832-a65a-e96ca012f178",
+    "id": "55d54dbc-ef97-4fcd-a54d-23a212f0a6ee",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #492)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5906,11 +5906,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fbac8938-30d7-4eec-b702-56302eaf85c0",
+    "id": "c54c7e54-cb00-49d0-98f0-c84bceab9b0b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #493)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5918,11 +5918,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "496ffd0c-60a8-4c7e-92fe-d9dbca961dc5",
+    "id": "13f39561-7dad-489c-9ff4-f97a08828cee",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #494)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5930,11 +5930,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cd3d341e-1379-47e4-a730-d039878e6b03",
+    "id": "ea02923a-64d1-4691-9dbe-f8e8a42bb768",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #495)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5942,11 +5942,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "05febe01-21ec-4ec6-8133-0b3733063858",
+    "id": "669d2289-bbb1-4f29-940c-34536102055e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #496)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5954,11 +5954,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6e82ff36-2eb0-4e62-8190-628d6ee521c1",
+    "id": "2603c3c3-b21b-415c-8399-07a8391cd4f1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #497)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5966,11 +5966,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "83734fd0-a8b9-433d-a140-3d2227022b3a",
+    "id": "c91b54a7-ecaa-4ce9-9ac6-0440b6da3f23",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #498)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5978,11 +5978,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a7b0172f-3bd6-4912-8be1-903cc21fd9dc",
+    "id": "7ce23bca-1fc9-4e51-a5ce-277c8c3825a8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #499)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5990,11 +5990,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3480585c-c87f-4300-984f-c08ce2b629c8",
+    "id": "d9c4192e-5be9-4ac5-adf5-3e1ea51372ac",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #500)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6002,11 +6002,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0f7ecf5a-8a39-47f1-a655-18a0c417eb61",
+    "id": "0d82b83d-c298-4672-b2b3-5380500779ae",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #501)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6014,11 +6014,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d362c51d-1ca0-4af7-987f-74ded897f33b",
+    "id": "3c7dcc95-97c1-4e46-a2d4-87bbfd58169d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #502)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6026,11 +6026,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "244df6e1-5a2f-46a3-914f-ea5e31ff3789",
+    "id": "4e25bb79-4df8-4891-a33a-36397a24e48c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #503)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6038,11 +6038,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5cc71e16-55ea-49db-96de-d2d87dc8c168",
+    "id": "92fc2ce9-0e7f-4ae5-aa84-6da3eb147571",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #504)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6050,11 +6050,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8942b78f-9627-4338-8a98-a089750a828d",
+    "id": "df47b585-4d86-489d-98da-1f010eef5a8b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #505)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6062,11 +6062,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ddc28b27-8d9a-4558-9a76-72c83634345a",
+    "id": "294cefd1-ab64-402e-9a1c-0e10e49cbc3f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #506)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6074,11 +6074,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8959fc12-c397-4194-b042-ae263612a0ec",
+    "id": "a258338f-95d7-4850-96e4-b19a43adf4ff",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #507)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6086,11 +6086,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e3dcb8a5-3069-4cf1-8a91-6421055c63ef",
+    "id": "190710b8-49c0-4bc2-b79c-228f132913a1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #508)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6098,11 +6098,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "46ed0463-0881-4fe3-a467-350ef56d019e",
+    "id": "9f9e54b6-30a1-4805-9b50-c85d8860761f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #509)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6110,11 +6110,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8b51f3f4-273a-424a-b4d2-096ec7e64392",
+    "id": "e76793d5-c209-46b9-8753-3ed8b399af8c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #510)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6122,11 +6122,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c77d500c-8545-4831-8b7e-76d933c0ab95",
+    "id": "5b7b4028-62b0-4dc7-ae67-7b11b34c61ae",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #511)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6134,11 +6134,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8ceb563f-62dd-4421-a2dc-2765fbd298cb",
+    "id": "aa4b96c0-442f-4063-9b51-c4dc328929fb",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #512)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6146,11 +6146,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b4aa036f-13e3-4fb8-9a70-b2a9bec5dc5a",
+    "id": "5aad8761-1e5c-4902-b80b-9cb165bfcd10",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #513)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6158,11 +6158,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d9925233-64cf-4a78-bc40-0b99038c7235",
+    "id": "e457d297-1018-4f68-b944-15dc71c51946",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #514)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6170,11 +6170,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cf8dd5ba-4279-4090-953d-dae2e10eab78",
+    "id": "46dc416a-639e-4150-897d-fdbdc7691b3a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #515)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6182,11 +6182,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "30d6f5e2-5db3-471e-b2a5-3bd2b5d2e794",
+    "id": "4ac42bbb-b98e-4ca5-8fdd-6d57945940aa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #516)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6194,11 +6194,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "68e40732-0c27-43be-a7d1-b468b2c566d4",
+    "id": "da4ee373-e81b-4e0d-831c-1e2fd2292f79",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #517)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6206,11 +6206,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "65961b7d-bfc1-4b32-81d7-c975264d423f",
+    "id": "b67fb27a-2929-4b5f-871a-db06b4f712ec",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #518)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6218,11 +6218,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "88a7e35d-01c0-4efe-9a12-f1adf93261e1",
+    "id": "eaded843-1089-4b20-b031-2f3d4ee00a5a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #519)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6230,11 +6230,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "58c2de7c-07a1-4797-a164-59b6e19e3743",
+    "id": "216444ed-3612-4235-8e33-539ef05c7014",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #520)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6242,11 +6242,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e0d49a03-a751-4a52-b8f9-481e168ff802",
+    "id": "2860c714-a80a-45ec-b865-77f241f548d7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #521)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6254,11 +6254,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f7b3c338-8b0a-4cf5-bf3c-9bff8cc655ba",
+    "id": "671975b5-0e9d-47df-9f0d-daf36ed5dcba",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #522)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6266,11 +6266,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a5cf690a-b0dc-422a-a220-03a84aecc4e5",
+    "id": "34871796-351c-4956-bd06-c167d473cf32",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #523)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6278,11 +6278,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "15a24723-c547-4b39-94f5-d62e8171feb3",
+    "id": "a6f57dde-997b-454a-bacf-9aadaeadd8b6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #524)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6290,11 +6290,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c85a498b-dfb6-46d1-8a6e-f84b750421ed",
+    "id": "b7795c74-564b-45d9-8765-7317b61bcf85",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #525)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6302,11 +6302,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d11bb832-c988-4468-99f7-8d289f053064",
+    "id": "1d51821f-5de2-4dfb-85ca-8810e91d2d79",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #526)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6314,11 +6314,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "eba3b378-54ea-43b7-90cc-7a4ce093f5c0",
+    "id": "d56d8fd1-e10e-4f9e-8b3c-09f122ae7c77",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #527)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6326,11 +6326,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b693756a-1643-4545-ab39-a81bcd7e4b0c",
+    "id": "ffd24f1d-8010-410d-96b5-ad589274b479",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #528)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6338,11 +6338,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "388b9ea5-c92c-4c55-ba9d-d72304f13362",
+    "id": "3017d2ec-0c75-489d-9a81-3787424945d9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #529)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6350,11 +6350,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c8ecc85f-e930-4644-b3a4-1169a7fcab51",
+    "id": "c6658da2-af57-4c16-a84a-ce9a5298b8bd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #530)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6362,11 +6362,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f7cf97a7-6497-4fe4-b3ae-a3a61a0fc206",
+    "id": "fc4a09b3-8193-4bf8-a4ac-085738272f6b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #531)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6374,11 +6374,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b3092877-58b6-4f7e-98e1-871cf22d0a25",
+    "id": "b1215eea-a194-4797-b3bf-074a94c25dbb",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #532)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6386,11 +6386,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bda57be2-4a82-4ac5-ba96-0bae7a78c7ec",
+    "id": "e8bacb2e-3a07-414f-beec-063f96ee9465",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #533)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6398,11 +6398,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c6dc5dc9-df24-4020-af46-2e5111481b83",
+    "id": "528c2746-99b4-4745-bd60-36307936faa2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #534)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6410,11 +6410,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cc33bf7c-63c8-4ae6-a700-520541525d9d",
+    "id": "6fc81506-9468-4647-96a0-53fe331a857a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #535)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6422,11 +6422,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a22d16fa-68e7-4696-bec2-a450820c5dc2",
+    "id": "66db0d60-84bf-4018-ab8f-55259b0a957e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #536)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6434,11 +6434,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "428b3164-0cc7-413a-a79d-6400f789222f",
+    "id": "c79a3f37-caa8-421a-981a-910857beba10",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #537)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6446,11 +6446,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8769be21-6df6-4ce0-adcd-d43720033c9e",
+    "id": "2266cf92-7c2f-4398-9634-dc26a32df345",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #538)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6458,11 +6458,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c713dc23-fea2-40b4-9c7d-03fd00d9ff06",
+    "id": "00b2f29f-2ca7-4245-b84a-cbe5dcc40b78",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #539)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6470,11 +6470,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ff5add56-faab-464d-a8bd-669a817a7c11",
+    "id": "7492324b-4d09-4ee9-a6c9-019f0b7d7451",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #540)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6482,11 +6482,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "42e44b84-2501-4d25-8180-c955dcbd87bf",
+    "id": "694b4167-d32c-407d-bd2e-6d63b21ab5ab",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #541)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6494,11 +6494,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d371e3f3-7d4e-4724-8b25-58831c70696e",
+    "id": "fda52110-6cb0-49ed-b6ef-10101af101e7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #542)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6506,11 +6506,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d37d087e-1b3d-4ab1-8826-2008cba90596",
+    "id": "57fae253-778f-4e6d-b97c-70a87c38f503",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #543)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6518,11 +6518,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "46953047-47ea-4478-8b63-81ddec738779",
+    "id": "8282b8ac-04de-487e-966d-59c7e494f473",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #544)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6530,11 +6530,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cc504b66-056a-4476-9a41-87c37ed4f678",
+    "id": "d54d4023-3b80-4d20-b960-27a219a6a860",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #545)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6542,11 +6542,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8e07c72e-ed5c-41d4-a52f-615532dbf777",
+    "id": "a5f199ea-bdba-429f-b878-6f1f5a5db984",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #546)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6554,11 +6554,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5692c8a5-c51d-4691-ad87-dd79a901ad16",
+    "id": "e70df9ca-9988-46d7-a13d-4568c284e734",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #547)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6566,11 +6566,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7a910812-904f-436b-85f3-0ef9aedf7d49",
+    "id": "49d9e98d-6da3-475f-9b88-fd0f4fe06508",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #548)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6578,11 +6578,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1235b6f3-4d8c-42f1-9b2d-2719803d588b",
+    "id": "065f4804-8418-469f-ae83-c9bd0852308d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #549)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6590,11 +6590,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c48a4c87-1e65-4560-88f8-4d219183954f",
+    "id": "8825e91c-9110-4911-bb20-494ead1c0025",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #550)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6602,11 +6602,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "80dfbeb6-7acb-4235-8d1f-c54b0b156768",
+    "id": "944b7686-2b33-4745-90c5-bff41e0908cd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #551)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6614,11 +6614,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "348efb10-4038-463a-9aab-34c194653b39",
+    "id": "5fd44e84-b567-4f36-9aea-fa69e826c2a8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #552)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6626,11 +6626,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a06b8971-8107-40bd-8256-bc213c60fee8",
+    "id": "0d62cb22-eeb9-4c29-9ba1-a667237c9376",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #553)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6638,11 +6638,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f13cccef-b7d9-4d6d-82ef-d41254410c34",
+    "id": "8ed8f365-5b94-4109-923d-aaa25fed540d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #554)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6650,11 +6650,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fe0d7387-ed40-4cea-bea9-65da72d0ce13",
+    "id": "068f034c-31d4-4357-9b17-394520d8afad",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #555)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6662,11 +6662,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d219f79e-a70a-45e1-8163-04c9109e3c24",
+    "id": "df820e5c-23f7-47c9-9e01-edc83f60da87",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #556)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6674,11 +6674,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "feab55ff-30b5-4fd8-adae-84b8dd36e464",
+    "id": "bac188dd-4f76-455d-a3a0-a5732f57b4e7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #557)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6686,11 +6686,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "88854188-f911-4f27-9122-fc6c822e0728",
+    "id": "d9ae902e-4c85-4fc4-812d-3ababeafae45",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #558)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6698,11 +6698,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5020f137-007a-46da-8deb-ee76cd591731",
+    "id": "49221f1a-8626-4aff-80b2-0a41a321f3aa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #559)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6710,11 +6710,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6e2c21c2-2128-4695-9aa6-41adab39cfa0",
+    "id": "2cd5ea1b-e766-405f-b26b-cb60794c2bd3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #560)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6722,11 +6722,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "68179159-a5bd-497e-91fe-30d0b7b77cb6",
+    "id": "0190c7cc-02aa-4617-9f01-effc3ad2effe",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #561)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6734,11 +6734,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0a169b91-70f9-45bd-90a4-a5c1e5dc72c0",
+    "id": "286d79b3-4038-4e2b-9d51-4adb653ab3fa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #562)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6746,11 +6746,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5633ff46-4864-4f3d-a64e-2bf21163419b",
+    "id": "eef3883e-0673-4a56-95b4-7e71e75c7afd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #563)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6758,11 +6758,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "88a7ec19-0753-4bd6-b2ef-de5158aff929",
+    "id": "51a7d2d1-a672-4433-bb59-40d2c82a4f3b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #564)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6770,11 +6770,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "14590176-f075-4997-8d3f-b6737830b09f",
+    "id": "2c2662a9-b58e-4238-8ab6-fe28e62d90f6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #565)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6782,11 +6782,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dcf430b5-f8f3-44ed-a45d-63bb2ce6c19a",
+    "id": "5ad3ca3f-de0e-491e-843b-a224607a98a5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #566)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6794,11 +6794,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fc155424-9292-4da4-866d-e907b37d1110",
+    "id": "f508f643-ffd9-487b-ad05-1e68a443f5b1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #567)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6806,11 +6806,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a1aeefe1-046d-49a7-8d8d-ce972318e4a5",
+    "id": "b7b3930a-a11e-4ef5-8b3c-3e5735eb3b4f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #568)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6818,11 +6818,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c02de295-1d1d-44d1-b054-98c9f0df5494",
+    "id": "bcd03f91-e825-42e7-93c3-fb083f920ebc",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #569)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6830,11 +6830,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4873ee53-0652-4c89-87e6-8685c6c711c4",
+    "id": "1693b7cb-7b94-4f1f-af5f-9e62b2bee8ed",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #570)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6842,11 +6842,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "20bc0917-97d1-4bf3-b7aa-10bbb5c2fdbb",
+    "id": "b290f9f8-3922-4e1a-a806-7fab06985d08",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #571)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6854,11 +6854,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4dbd248e-bb92-4727-9fe1-4596a8a489a1",
+    "id": "5d41e37c-9f2e-4e9c-b24b-88b3407a578b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #572)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6866,11 +6866,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6bff9755-1d0b-490f-b9cc-f6830c8e271f",
+    "id": "5337cdc3-cc07-4c1f-b453-5d1579b17447",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #573)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6878,11 +6878,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "574da0a8-40c9-4848-98c4-7768fe21e7a7",
+    "id": "50db0e43-81eb-4a4a-9f2d-adb573087e25",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #574)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6890,11 +6890,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7aad95a8-07aa-4ec1-a086-4e8620f5344e",
+    "id": "72f8a5ce-1512-4a4d-bfd0-22349ff480d4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #575)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6902,11 +6902,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3c19ab5a-f7e5-4f5a-93ad-f6b6924c68e1",
+    "id": "90f0171e-b747-4cf7-a1ba-4e0efd0318d0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #576)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6914,11 +6914,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cba1fa83-5cb6-44b5-93d2-ba746a141ac0",
+    "id": "20231e45-c67e-4bf1-9a2b-cb4d63b16a5a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #577)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6926,11 +6926,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6a098ff4-57cf-4d91-ad51-d66340c86c1b",
+    "id": "bc01a7bf-9fa4-4fc5-b0ee-97d3eee6d958",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #578)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6938,11 +6938,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bedf1d51-656e-4786-ba49-40f6f7e2eeb7",
+    "id": "b0b0f045-04a6-4446-a8c3-66990949805c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #579)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6950,11 +6950,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "61504092-f65c-450a-9a46-33506f0162f1",
+    "id": "acb15346-fc44-4873-a91a-80fe26ee72c5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #580)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6962,11 +6962,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a9894e26-5967-4558-8b97-6538f6b5d47b",
+    "id": "6b6cdd52-c0cc-4dd3-aa87-9b02cb6458df",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #581)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6974,11 +6974,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8ee40487-3380-4da5-abf9-9a6ff17d89af",
+    "id": "b427406e-14b2-4df1-8407-f84424a13902",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #582)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6986,11 +6986,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b6e3abba-39a1-4003-b3c4-cbe034b5c37f",
+    "id": "abad16bd-bda3-47ec-8eb7-f42f7dcc7c1d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #583)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6998,11 +6998,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "173e4122-5f8d-40b7-81d2-db8f8f08a088",
+    "id": "2f9c0a1f-6281-4edd-873c-d938cad22e3e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #584)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7010,11 +7010,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f308d2b4-f07d-4827-b996-3506a5d85f5d",
+    "id": "1c2b0a20-54b0-43ee-935e-19e6bc43dff8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #585)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7022,11 +7022,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6936a4ce-a8bb-440e-b974-771a3650fbd2",
+    "id": "d6e5dd3b-a6de-4502-bf09-69188f3e1607",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #586)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7034,11 +7034,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7fbdb4f7-86a9-4239-ac1d-127659faa8a9",
+    "id": "2950877b-54b1-4b65-94f3-979f7adbcce7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #587)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7046,11 +7046,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "eabf8a34-b7e3-4968-87c4-ad3ec225d2fb",
+    "id": "316bee20-f272-4724-8fec-71f9f4590529",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #588)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7058,11 +7058,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "36a5ed03-4d55-475e-886d-447f7eac8ce0",
+    "id": "87d724f9-e995-493e-ad17-bd07744adc7a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #589)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7070,11 +7070,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7137062b-7232-4784-9361-26e024c2ab5a",
+    "id": "f33c4742-e1fe-43e0-b07f-dd5ed5ee4e69",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #590)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7082,11 +7082,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "aa6751e7-0d5a-4427-bf46-a32e7d5c2c51",
+    "id": "c1045acb-d80f-49b6-a9aa-d952ae41659f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #591)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7094,11 +7094,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5c6fbb85-b999-4135-8d9c-cb549383c2aa",
+    "id": "db4140fe-91d4-4d4c-934a-49f78789954b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #592)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7106,11 +7106,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "600adc22-9960-4391-a5a2-5253c7fb04e6",
+    "id": "766a28ec-3d49-458a-ae50-e10d252494d7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #593)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7118,11 +7118,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "21371344-1727-4b94-89d9-5450e4ad0b30",
+    "id": "66eacaa8-50c4-46a0-b707-45aa0972a795",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #594)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7130,11 +7130,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2e908467-6f5c-477b-b80d-c1c575d3ffe4",
+    "id": "386a5135-3a7b-4584-818f-0e7e634336d0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #595)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7142,11 +7142,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7ecf1f09-7171-409c-a3a0-0072ba883ea4",
+    "id": "d86e9a38-7975-4e05-981f-2357b6a8a5b7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #596)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7154,11 +7154,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b0925e9b-710f-425d-a899-05b52bbc24e9",
+    "id": "481fc034-45e9-44d5-8dcf-58dba4b14f31",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #597)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7166,11 +7166,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a9a5f5a5-7e67-4ed6-b559-3acce893152d",
+    "id": "2dad6672-44e4-4e6b-ab03-302625d5e9d0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #598)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7178,11 +7178,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a221e3fc-137c-4671-ad23-f76074a329aa",
+    "id": "fb18ff42-02f3-4b62-922d-19013873f817",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #599)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7190,11 +7190,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "de52081e-b0ae-496a-854d-c37bd678931d",
+    "id": "2c684407-f753-495f-9c92-9fbc7c150aad",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #600)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7202,11 +7202,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "28f0256f-82f4-4dee-8f63-89bb292aa199",
+    "id": "7554fe30-c550-447b-bb3a-c5499b2d03b2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #601)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7214,11 +7214,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "95b5f92f-4ab8-43d8-8a73-6e2292f2058b",
+    "id": "892d1a15-1c7a-4fd7-a72f-a6c188c28225",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #602)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7226,11 +7226,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "88df7057-ecb5-4f7e-9ad5-7c09c7ef81c5",
+    "id": "04069b3c-d5dc-475c-929f-8ce581fd148d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #603)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7238,11 +7238,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cfcd864d-a59a-4072-9289-a2954df544ef",
+    "id": "deb1cb63-b262-4d04-a393-a6e14f224476",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #604)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7250,11 +7250,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d96382a2-21a5-4389-801e-72aa473fc998",
+    "id": "9e2e0833-6666-48f2-8f74-80ab2db3c424",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #605)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7262,11 +7262,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6493ae77-fa47-4b75-8553-7fe40f2befed",
+    "id": "dc77574a-7f54-4d87-9b27-f6ab1e5dcfd4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #606)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7274,11 +7274,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6740415b-dc47-458c-906f-508a1f1f5bdf",
+    "id": "8421a826-d755-46ff-970e-5dc8a404432f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #607)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7286,11 +7286,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2518d0da-7f76-4086-be88-c03d03d9d504",
+    "id": "4f41cd25-bf2b-4194-b743-00281741d377",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #608)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7298,11 +7298,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2b92de5f-175a-43a7-b72d-021ea07c93f6",
+    "id": "c04d11e1-88ad-432d-8248-30992395a724",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #609)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7310,11 +7310,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "db0ae7f8-8acb-48d8-962f-3080344c0462",
+    "id": "ac559337-5229-484c-b0fc-7c5ef7392228",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #610)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7322,11 +7322,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c4a17305-1339-405c-908c-778d78844346",
+    "id": "2b87d624-daef-4514-a616-91288ff1321f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #611)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7334,11 +7334,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "560d336b-9d3e-4e53-ba40-a970d809110c",
+    "id": "be68a5de-f43e-470a-bd31-b329eca9ffef",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #612)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7346,11 +7346,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "94eca8f6-35ce-4f21-8d87-07905afb0d2c",
+    "id": "8e8ae282-342a-49aa-ba94-68d3219c6d4b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #613)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7358,11 +7358,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f572c648-28d4-4387-933a-c76508aef1af",
+    "id": "272ac529-aa97-41af-a10a-71d1ee6e561c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #614)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7370,11 +7370,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "36575a13-d28d-40bd-86f4-d5489cb88f06",
+    "id": "9aa8bf49-cc3e-4e27-b214-c8387e1a0ac2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #615)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7382,11 +7382,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5a716c8d-feb3-4dd0-8887-3c3b9d8855e7",
+    "id": "f49244b9-3365-4af8-8877-95688d8364fd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #616)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7394,11 +7394,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cc619e52-088e-415a-8358-d8d9b2bc437f",
+    "id": "38f50340-cd65-45c2-a99e-f18baba5d72e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #617)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7406,11 +7406,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3c397337-6571-40f3-9aaf-0c63f80fdfcf",
+    "id": "18ded07f-bbf1-4536-b142-0fcafcba3eb6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #618)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7418,11 +7418,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6da462f2-e5eb-491d-94c2-d4a708dde30c",
+    "id": "dab32aff-db8d-4e61-aaf6-40160c135080",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #619)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7430,11 +7430,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3e5de447-7e24-47e0-8406-04e8db02dcc3",
+    "id": "ff2c34e4-c8d4-449e-8209-455435e27e03",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #620)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7442,11 +7442,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "559cf954-de16-4570-b5df-fc5cab547148",
+    "id": "6269affd-f052-45e0-8637-85e07c3089a3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #621)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7454,11 +7454,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c5afe839-22b7-4416-abe8-91c0b2b6ab8d",
+    "id": "fe6924ca-4bd9-4b7b-903f-d5f2853e59ff",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #622)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7466,11 +7466,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "34639179-5dc1-4591-98df-e07b8980f39b",
+    "id": "b14af312-341a-4113-a846-95753e377aed",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #623)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7478,11 +7478,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3448f085-cfc3-45a3-b90a-5402cfbfa03e",
+    "id": "57c3ef93-31c6-4b6c-addc-be1f476d54ba",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #624)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7490,11 +7490,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "eb777ada-e88a-45a4-b929-3aa6f29f0c3c",
+    "id": "7ec2df22-c499-43a7-b782-43955f8b75b4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #625)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7502,11 +7502,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "50881a30-2eee-47d3-a661-dfeff5917798",
+    "id": "013800fd-a6bd-48ab-a8bc-77b32879531a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #626)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7514,11 +7514,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "806c1146-223b-4cbf-b93f-899feacd4f82",
+    "id": "b9101d90-d391-4a79-9bb1-43767df62f8f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #627)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7526,11 +7526,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5d5d727a-411b-40f8-a8ae-1e6dbb5de826",
+    "id": "86570f99-3944-4325-a86d-f204a5d12cd3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #628)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7538,11 +7538,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "47042f4a-706b-4efb-84f1-e9141a2b9e39",
+    "id": "1086587b-fd57-4313-be4d-f2280eca1d16",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #629)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7550,11 +7550,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0bf83419-54b5-4866-8de3-0c92d55f1cd1",
+    "id": "7816c0db-666a-4eb8-923d-e6e387551df3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #630)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7562,11 +7562,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "57ebe0e1-ecb8-481f-8932-ab9e380a1411",
+    "id": "32994f00-05ac-4f54-827d-7320e7576ce7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #631)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7574,11 +7574,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "91edf69f-3720-4485-b423-86fb0756baca",
+    "id": "5e68bbed-4f10-4b0a-9b0f-30c38f1c1a31",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #632)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7586,11 +7586,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b620c409-21a1-4d2a-b90f-e640ea78db76",
+    "id": "9262ee1e-eb55-4753-865c-2270edc3096c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #633)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7598,11 +7598,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "733734e0-e99c-437e-b800-f539705ff477",
+    "id": "655363b1-2c9d-495a-a1fd-7852f1281d91",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #634)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7610,11 +7610,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ca7d4096-226a-4cfd-8967-6675bb09ee90",
+    "id": "b8b036fb-0898-4513-9a6a-6a1f912ea387",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #635)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7622,11 +7622,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d65e1706-37f0-4056-a7a8-29231927c8d2",
+    "id": "ae966622-6199-4f9b-942d-46d9c9b6f81b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #636)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7634,11 +7634,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "330db166-b9e7-4244-95cd-b6d0d157c359",
+    "id": "ec80aeb2-169a-4b4c-81b2-b690ebcd2cf8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #637)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7646,11 +7646,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cafd3459-68af-4dfa-9e81-a7372a6e29e3",
+    "id": "cffc5232-445c-4cc6-ae00-78a3909e1c2f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #638)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7658,11 +7658,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5f6cff27-cfc7-4536-a67d-965123e63243",
+    "id": "b4a084d6-33bd-408b-92ba-3d83db31240d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #639)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7670,11 +7670,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c40e95f6-0c2a-43e1-9be1-97750c2e7309",
+    "id": "a21d30ac-8612-4ea9-9457-ec3a8488fb3a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #640)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7682,11 +7682,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ad0b05e9-23f8-4ac8-8372-a0d705ba8708",
+    "id": "ca9fe446-e3cc-4b69-b748-8a5ea81065ff",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #641)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7694,11 +7694,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "840e12fa-ceab-4e52-9f85-97c056974d0b",
+    "id": "80c73649-53cc-4205-8acf-195f29b61587",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #642)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7706,11 +7706,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "716a97e5-8c1c-4b98-a0cd-a65e7391cee6",
+    "id": "a9365e7a-76e4-436b-a37c-72e8102f815c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #643)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7718,11 +7718,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "715d780e-bcf4-4168-9659-73513f5eb896",
+    "id": "8654d334-2ddc-49a5-9c5f-c714934ef627",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #644)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7730,11 +7730,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c04a8258-1246-4e8c-8e0f-d89666834613",
+    "id": "9b36c8ea-27ff-468a-88a1-65a3706bd459",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #645)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7742,11 +7742,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6413d9a2-c881-4380-8cde-4df1be1b438a",
+    "id": "f377cb12-86d0-40e4-b5f4-eff93129d010",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #646)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7754,11 +7754,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1be91135-0493-4484-b8b4-f219f1da3063",
+    "id": "f84fbfc7-4ba4-4b51-8e52-21a9144fb5a4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #647)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7766,11 +7766,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5069365b-69ff-414a-8fdb-1d3bbb0a075a",
+    "id": "a3c12329-cc24-49cb-89ec-152657ce8158",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #648)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7778,11 +7778,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f09d86be-35e6-4b70-9ea9-1bb3642475f7",
+    "id": "771a4f72-3022-49ed-86b1-9d67d62ee9ed",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #649)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7790,11 +7790,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a9786dbd-2372-426d-ae65-a265e0395b45",
+    "id": "b44f6c93-4f72-4334-ae7c-dcf88fbd028f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #650)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7802,11 +7802,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dee2d7f0-a7bb-4339-aef2-b9ec39330ccb",
+    "id": "49400a49-622b-40f8-8791-cd7d9af12d4a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #651)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7814,11 +7814,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "19717b54-a604-4870-ace3-e8401478c4c9",
+    "id": "46034c86-78c8-401f-8373-c27356a717aa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #652)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7826,11 +7826,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b412a76e-9184-4b6f-838e-294c91eaaabc",
+    "id": "7e11353e-2b8b-46d3-8953-a3796e05c4f6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #653)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7838,11 +7838,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3aac755d-5d4e-4f31-96ed-50fe4962d9a0",
+    "id": "a5496305-f46a-46ec-8b71-8883d819bd57",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #654)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7850,11 +7850,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2a722afd-1fac-4337-a43b-50f819dbde75",
+    "id": "a80af31b-5a9c-49da-8931-7bb04f62c08f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #655)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7862,11 +7862,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cc906d61-5842-445c-9570-e7c6e363094f",
+    "id": "393ca38d-c01c-4c8b-a610-eb4f58ff164e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #656)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7874,11 +7874,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "08bf8d72-e3a1-46a4-aa94-9af4bc8032a5",
+    "id": "9a9aaf1a-5ceb-4d67-b9f0-dfe010c8840f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #657)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7886,11 +7886,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e100b72a-c02e-40da-930d-d2704032a70e",
+    "id": "276b0755-852e-4d08-8acf-5c503e2ed022",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #658)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7898,11 +7898,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "35f8b15f-2207-465e-ac15-a057e41fc65b",
+    "id": "6b391598-a157-4c78-8aa1-7720506adb35",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #659)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7910,11 +7910,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4570b496-13a3-4de8-88d9-c984ccf86ad5",
+    "id": "ff01d67f-a0ba-4609-974f-8d751f0451ed",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #660)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7922,11 +7922,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8e79043d-eafb-4638-ad0c-406c7ed541ec",
+    "id": "ca02ac81-58d9-40af-a171-ac41d2f0e41b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #661)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7934,11 +7934,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9bc9ed3c-3630-4f8b-b332-983171a21516",
+    "id": "dd29801b-1fc6-4646-b24c-e6fbd22673f1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #662)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7946,11 +7946,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5af6d146-9149-4b78-bf75-117ddc4f253e",
+    "id": "cce798f5-e395-4302-b6bf-d37f632c833b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #663)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7958,11 +7958,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b4a96a2d-294e-4c51-979a-a782cf7aa9d5",
+    "id": "674eca1d-989f-4cb2-b6c6-9d66b9dbea3e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #664)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7970,11 +7970,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "926b8d7c-0d80-4214-acee-40db7f833e06",
+    "id": "598d938e-9a4c-449d-bd23-345c2e74b83f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #665)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7982,11 +7982,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "49a3d733-e8c4-44ea-acea-87564d01e3cb",
+    "id": "15b31986-5f5e-4b60-a024-96ab08edb8ae",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #666)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7994,11 +7994,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cb7e4164-8270-4326-8eeb-dedec1c55b10",
+    "id": "49da8b0f-0a39-4ced-81d1-1919a31a01f5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #667)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8006,11 +8006,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0caeeffe-82e6-492f-a3dc-ecc19153a03b",
+    "id": "a6bbf211-ea65-45fe-9142-37d98641c108",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #668)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8018,11 +8018,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2f871bd1-945e-49ec-979b-44e82de16f19",
+    "id": "ec131f91-f823-4953-9284-46e083b85f9c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #669)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8030,11 +8030,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2cf2a847-c330-4577-aea2-29913a8e70a6",
+    "id": "2c13c6bb-5f47-4204-9499-fa51f92d9ad3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #670)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8042,11 +8042,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2077d6ee-b995-4585-9530-d96caad555c7",
+    "id": "2487aed2-96d9-44ec-b9e2-41ccaf73131f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #671)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8054,11 +8054,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a036d2a9-920c-4136-bda6-a1b737cfb693",
+    "id": "dfaacc73-80c7-40cb-a31d-a60993471f6c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #672)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8066,11 +8066,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "30fa0286-9c36-4996-bd99-4c8e434d4339",
+    "id": "b5c48206-9a02-48d6-a43f-b226034734b7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #673)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8078,11 +8078,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "380ffb9d-fd0c-40c2-8747-3b392045dfb1",
+    "id": "14615f0f-5912-4397-b9c5-131e76f841fa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #674)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8090,11 +8090,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ddc50a5f-a7d1-4522-8765-5a9d5b2ce4c3",
+    "id": "59ce9a8c-05bb-49ba-9868-743fc713b998",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #675)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8102,11 +8102,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ec6b1856-d657-477b-bd8b-c478268ed03b",
+    "id": "2510f2fe-cf0f-4df6-9442-871984185d2f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #676)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8114,11 +8114,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a35f2e07-ee51-4f9b-b7ab-cee6b19f14d7",
+    "id": "8b3e9034-453b-41cd-935c-02e200abd290",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #677)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8126,11 +8126,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "08b7e1fb-e6a6-4fc1-91ed-26284e2fa5f5",
+    "id": "82f5d6d2-b96c-4dde-93fb-797b1b39ce31",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #678)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8138,11 +8138,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4e95d1c1-3b27-4a90-bc63-297f6016c44c",
+    "id": "7f38d583-8c26-4cfd-892b-351f73713f74",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #679)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8150,11 +8150,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c55a11db-28bb-4159-9a86-8a8f79eb7053",
+    "id": "b6afb13e-5869-445c-9f12-9462826d43ce",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #680)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8162,11 +8162,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2cd4146e-9221-47cb-bce4-06a28d76ecde",
+    "id": "846d2f40-c233-42aa-b610-90eb59b24184",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #681)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8174,11 +8174,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "55d68add-1eae-4f4f-bfb4-b981ed470dac",
+    "id": "188f2019-9c1b-4c5a-bca5-e1994c703e68",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #682)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8186,11 +8186,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "89d4e451-7645-46b8-977d-ecd0befe7a32",
+    "id": "a08f2cfb-c051-4786-9edd-e027f2ed7834",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #683)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8198,11 +8198,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "beb6c264-bf4b-4ab0-bb73-cad99bbda0db",
+    "id": "83023993-c5eb-47aa-9611-e03e24f6129f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #684)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8210,11 +8210,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8fcf3788-feec-4117-ad3a-41434bf1f980",
+    "id": "586ad947-dc10-4e89-aac1-6a5db89ab682",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #685)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8222,11 +8222,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e32f017e-0c70-4fa8-a08d-8da4d80648a5",
+    "id": "1f877504-92c1-4475-b79f-bc7d0f5a0112",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #686)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8234,11 +8234,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7809cf8a-44fd-40c2-a96a-9b2756c278f2",
+    "id": "325ac285-09eb-4373-91fe-2ffbbcc52934",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #687)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8246,11 +8246,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bbb63a67-f628-432f-817b-b3ec3fcdc01d",
+    "id": "abeac426-405d-45da-92c8-50441fdf63f3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #688)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8258,11 +8258,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a05ebf93-742d-4225-a540-97689d561621",
+    "id": "f6551b47-c547-4653-ab5b-d3859aaac269",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #689)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8270,11 +8270,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0f6979c7-852c-4b28-adb8-97748c000687",
+    "id": "da391e1c-74f4-43dd-a995-85e5efeb5466",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #690)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8282,11 +8282,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "39eb72c9-1eeb-4047-8320-83b3e94aa4c6",
+    "id": "d4a061b3-0cb7-4cb6-b262-dfb2488fcfe0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #691)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8294,11 +8294,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "947c0433-ac54-49ab-9c7b-9b59fd1dcbc9",
+    "id": "8eaaf516-5619-489a-8008-20d34491f02e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #692)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8306,11 +8306,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d2939433-a788-4ea4-8713-a4f2f1cf9772",
+    "id": "ca145688-8cca-4ff0-8924-4397a70a9dd6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #693)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8318,11 +8318,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "586c8ab1-fa62-4e07-85b1-1f503d906cfa",
+    "id": "3422b990-8b7f-4b65-ad05-23f8a818ab82",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #694)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8330,11 +8330,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e2b0d909-e97d-4fd6-b7a5-9ecf587e05d7",
+    "id": "fe2e17cd-6445-41c8-b56c-270d6fd1ae41",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #695)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8342,11 +8342,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0f9b1bb1-e1c7-442d-99b8-134b96550161",
+    "id": "a55f5c30-5af8-43ee-a133-8b7a21de9c46",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #696)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8354,11 +8354,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cf3a0514-7162-4d2e-9be9-c2bc4b99fb74",
+    "id": "52177825-3376-4054-8c5f-8ebcb6fa221e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #697)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8366,11 +8366,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3d57d53f-ca55-4bea-991f-24a1b9f11595",
+    "id": "efb16bc5-cb9f-44c8-a61a-6c1643e21031",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #698)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8378,11 +8378,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3c37cf09-5c6e-4cfd-b947-fa256c56c746",
+    "id": "4241e3f3-1d25-4162-a957-992df7a1a7ce",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #699)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8390,11 +8390,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f56a369a-f79f-49bb-9081-572d18558eed",
+    "id": "e65a2e4f-881b-418a-a04b-8835340c0951",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #700)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8402,11 +8402,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a74a701b-3ff6-49d6-a0af-d7aa82ecc2ef",
+    "id": "81d120fa-3865-4efe-9b4c-7fa4cc8000b7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #701)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8414,11 +8414,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7c9fa28d-d7bb-4e38-9449-f8346d088cb5",
+    "id": "d9a88fbe-35e7-4ada-93eb-88e54fdc0fd6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #702)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8426,11 +8426,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4ceb5914-78f3-4002-9174-90f3aab4fa81",
+    "id": "13d50718-704d-4872-92c4-2d298477f24a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #703)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8438,11 +8438,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "94692894-8768-4d39-9a32-b45156808384",
+    "id": "ad19e3e9-63f1-47b7-b528-1147e5853515",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #704)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8450,11 +8450,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6a290bae-6fb8-4856-8ca9-1729c540aa5a",
+    "id": "d2683195-a0dc-4a66-96d2-25c486fe298e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #705)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8462,11 +8462,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "98333a6d-49fa-4300-9d5d-6ee2abcb7266",
+    "id": "317cc3a8-6963-4b74-a13f-bcc6bafd445d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #706)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8474,11 +8474,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e236d271-8184-4a35-8f88-e1494e7a849b",
+    "id": "05ba9f90-16fd-4232-b94d-dbdc1265d10b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #707)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8486,11 +8486,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ce19980b-f540-4f1c-adfe-94aea102b24d",
+    "id": "f03d5cb3-5723-4e72-ab66-916f44842601",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #708)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8498,11 +8498,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d4cf5b5c-ddc6-47d1-ba43-f8c560448845",
+    "id": "31d7dcab-922f-41d3-8740-1595df12060d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #709)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8510,11 +8510,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fe5599b4-aa33-4925-9245-71af30675111",
+    "id": "97c60a2b-3834-422c-9aef-adbcd4a3efaa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #710)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8522,11 +8522,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a282fa9f-2300-4f34-b2b3-bccb27fd77d8",
+    "id": "c982b2c3-8e72-4504-aced-2c2383e88d9b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #711)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8534,11 +8534,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3c5eb818-009d-4c32-b32e-50638987164b",
+    "id": "e95229c0-1c8d-4dfc-9cd8-cc7241e2b685",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #712)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8546,11 +8546,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cbc28ae7-54f9-484a-8eba-7e24d35b47a2",
+    "id": "b01e4103-34a4-494f-b9f5-da6be06d3a1f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #713)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8558,11 +8558,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9fdc6b20-5a1b-4989-9e79-4066e529dc3d",
+    "id": "aa6f07fb-b9db-4178-a0f2-08fb3fafe872",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #714)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8570,11 +8570,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b9f8cf87-b75c-4d1f-9229-1a7bf4ff5541",
+    "id": "1252cd9e-8e1a-47ba-8b83-3898f938c6bf",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #715)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8582,11 +8582,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "addfd9f3-604f-4d27-80fa-7f1fec91eadc",
+    "id": "c1113798-8b58-4b91-b81d-89d0c34ac366",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #716)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8594,11 +8594,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e65b6185-3238-4d53-b581-3378ec6a9922",
+    "id": "8116552e-793a-440b-8481-0d99623c1510",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #717)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8606,11 +8606,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c2136e93-dd8a-4371-904d-c7c0265fe908",
+    "id": "b158984b-75ed-43c8-aa56-99365c14ddc2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #718)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8618,11 +8618,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6872f875-6eca-4790-a122-88127ef8f59f",
+    "id": "1cf99f38-6ea6-4da8-ae85-fea2c94ec51c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #719)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8630,11 +8630,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2a3dbb8e-7fe4-4fdf-bca8-161f86c10a10",
+    "id": "60e8c4f0-8ca7-409d-ab11-bef7d7c3ce62",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #720)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8642,11 +8642,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b4530a1c-e1c7-4d17-9010-741cb89cb039",
+    "id": "255e15c3-ea17-4d7e-88b9-78e39e9eb680",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #721)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8654,11 +8654,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2dec7d71-4428-4fab-b66d-7e20eb0789f1",
+    "id": "908577dc-f662-4f39-9051-54e50535a7ab",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #722)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8666,11 +8666,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b0a60e94-b9e9-41a5-b7cc-ebe2486ef3cb",
+    "id": "8abf8d42-62c6-4d6b-ac80-6bdf17590296",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #723)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8678,11 +8678,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9f116c60-f90b-48d1-91b0-c37720970e67",
+    "id": "1019a495-b304-49c2-9a56-4ef8bc5ee851",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #724)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8690,11 +8690,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5954880f-cfdd-485d-ba44-ead4443fe979",
+    "id": "7e096dc2-8d05-4fc2-ace2-6d0d8d5e3d2f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #725)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8702,11 +8702,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c8ba5bba-6773-4f0f-a653-e04944087699",
+    "id": "1f14962b-e4c2-4823-84e4-4680bc0dd7e9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #726)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8714,11 +8714,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "007f2467-27d2-4c4c-8687-24d22a5596b4",
+    "id": "f8e10f6e-d281-47eb-8585-ca606f8a0d71",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #727)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8726,11 +8726,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5e3b4e82-c9d7-4891-afe4-baac865808be",
+    "id": "43cad9f9-a3e5-4d39-908c-d6c324b1cc57",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #728)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8738,11 +8738,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c2806aec-222e-4570-9fbb-c6fe92d201f0",
+    "id": "8f2caebd-1d3a-4e14-8a9a-c6173427b36f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #729)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8750,11 +8750,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e955596e-9d45-4275-8211-ada365e94647",
+    "id": "73cfaa68-6e72-4293-9f2e-fbdf1eef338d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #730)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8762,11 +8762,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8353d95b-3155-4835-9fc4-b7cf85ab8e22",
+    "id": "1f3cf8fc-5675-4b33-9cf5-acde5baca557",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #731)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8774,11 +8774,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fb9d25c8-2b8e-4ab0-806c-069d2ae73fcb",
+    "id": "cb9134d8-9045-4a76-86b3-03d4134d0ff7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #732)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8786,11 +8786,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bb51bd88-76a7-417c-b26b-8187ccb8043a",
+    "id": "f695aa94-28a9-449f-a2af-f536137594db",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #733)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8798,11 +8798,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f2bdda24-1a3e-472e-97b2-d92ba4e5f703",
+    "id": "787a2fdc-f88b-4c9b-9f46-865058b7ab7b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #734)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8810,11 +8810,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "009bfa50-8d74-47b9-9d8e-5c244561c04a",
+    "id": "5bb1e4cf-c2d6-4e16-a596-e27aa1af3316",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #735)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8822,11 +8822,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8d7fa91e-35ac-45f3-a69d-815c5a9957e6",
+    "id": "84059ce7-83e4-472e-9b69-b73a26f60157",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #736)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8834,11 +8834,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5850dc94-cea9-47e3-8e69-629619240ea0",
+    "id": "201c6a2f-352f-41a5-8086-a9e36cc5c9da",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #737)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8846,11 +8846,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0a67fa26-71df-4f09-bd14-584f1d8e2c0b",
+    "id": "2f89bbee-8e48-4921-8db1-dca1add0f665",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #738)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8858,11 +8858,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "49f183e1-0c32-4994-b99c-a427d18820a5",
+    "id": "5677980d-4101-4313-bc73-2b736f4c6f0d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #739)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8870,11 +8870,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "56d3f7a6-98fc-4382-9ff3-8f62f9e20655",
+    "id": "730c7944-c511-4faa-ace6-7fe8b23c1644",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #740)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8882,11 +8882,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "976a1840-208f-4efc-b958-98d47c39220a",
+    "id": "ae68c0ff-5225-4ee9-87a3-6f8ce95c53ce",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #741)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8894,11 +8894,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ea2ca5cc-442b-4744-b2af-050dd6f27fb6",
+    "id": "498af620-ac77-4ec8-a96f-c2ee39aad742",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #742)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8906,11 +8906,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7f4be804-d9c0-476b-ac5e-95160d9dc8c2",
+    "id": "41eebbc0-19db-4aef-b7fa-28ec5af8f3c0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #743)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8918,11 +8918,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bcb2408e-b03a-492a-b87f-4e3a6b6aac12",
+    "id": "01037bc0-3d20-4270-8988-1275c0a2982b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #744)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8930,11 +8930,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "00b3d21c-a7a0-4ad5-86a0-c7fe1db2695b",
+    "id": "39d4e28b-84ab-4828-93a1-a50b5e3aa66b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #745)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8942,11 +8942,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1cd773dd-0664-4c7d-8978-ad98a691414b",
+    "id": "24b34b57-1cf5-4d47-8e99-abc3a6a61ac4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #746)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8954,11 +8954,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c764687e-c027-46aa-8dc3-51f400e52a65",
+    "id": "7be6b807-8df8-4a5b-8b08-ee5c2f08a495",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #747)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8966,11 +8966,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e0ec5840-5fc4-41f2-b74b-fa2e0fa5de6b",
+    "id": "0f2fd4cb-5843-4ff1-ab5d-98ca9d4f43a5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #748)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8978,11 +8978,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dd45726b-4a03-4801-9491-0afab69e4589",
+    "id": "c3dc361a-1a63-4adc-8d0e-0bfb0372cdcd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #749)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8990,11 +8990,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "861d977e-0573-4532-9db8-16b1ac7184ad",
+    "id": "99134ef7-0930-4728-813b-3d155dbc5558",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #750)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9002,11 +9002,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2422e50e-e1c8-4043-a8cd-212446e9994d",
+    "id": "babdecb8-6e11-4bc9-bffc-aa2082c58022",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #751)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9014,11 +9014,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "06b7746e-abd4-47db-95b0-c4ba551817ba",
+    "id": "1f061cb8-d0b5-4f5c-8b35-4281d6e67b2e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #752)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9026,11 +9026,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "574f1b42-1f00-407d-a843-81a67bbca983",
+    "id": "49fa85fd-82d3-4aa0-a893-c065b289040e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #753)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9038,11 +9038,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "938e40c8-7fa0-42b7-a3e9-15b5add2b01a",
+    "id": "4a86a885-5a4a-4793-9c23-97709cc6e985",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #754)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9050,11 +9050,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "85888bef-a044-4fe9-8e88-bb41da17f98e",
+    "id": "09b8eab4-0f2a-4718-8249-30d3490e9207",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #755)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9062,11 +9062,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "99e19604-1c08-4b1d-8723-bb12f446a69e",
+    "id": "96ab9212-1db5-492a-9598-e4f6d7e8ced0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #756)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9074,11 +9074,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e63782f3-4114-4531-900c-d8f03528f3f3",
+    "id": "f1114a04-0b70-4b2a-a410-9da357951000",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #757)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9086,11 +9086,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "853ec5ab-d26a-4829-9cd0-f714a253d644",
+    "id": "38e46a06-bd41-4bec-b9bc-1b7e095db47c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #758)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9098,11 +9098,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "38834460-2afa-4b0b-bbaf-7b72fb347960",
+    "id": "fc9ee05b-e418-4c56-a6a6-e997d7d1a91d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #759)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9110,11 +9110,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "814386f6-6c00-4cdd-967f-57ed7d4e2316",
+    "id": "f980b6ae-fcce-463c-8d42-f7b556facf27",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #760)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9122,11 +9122,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5a1b38ef-ccca-4542-b6e6-e4b4a068f9df",
+    "id": "2cb5c284-f292-4f73-91c4-9888db952464",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #761)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9134,11 +9134,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7e446cbc-fc5a-4f01-9a29-74d239f2cd3c",
+    "id": "d63056d7-4e49-4380-8c96-cf7c45bedaa0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #762)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9146,11 +9146,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9e23985a-d2b1-42fe-ac47-c7c53242e9ff",
+    "id": "4eade4ba-a410-4455-83e3-76b95fb0050b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #763)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9158,11 +9158,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "89273e5f-4b34-431c-8452-bd408609f29e",
+    "id": "e57a4da7-ee44-4a95-b2b3-3f3fe7b0ebf2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #764)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9170,11 +9170,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d90a6b2b-bc28-40e5-8ff3-fbc60fb252cb",
+    "id": "2ba72f5e-9241-4f00-b9e6-889934b7290b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #765)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9182,11 +9182,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d82dc6ec-7062-4d3b-89e1-4631edc882b0",
+    "id": "7432048c-83ec-496d-8e01-9d7e1b08d874",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #766)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9194,11 +9194,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e0078325-f39e-47dd-84b0-68d234793e6f",
+    "id": "85af4958-c45d-4d67-8047-7d1febb6136c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #767)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9206,11 +9206,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ffd61622-4e21-474a-bde9-c349b0631985",
+    "id": "7e71f287-05ef-4584-a9fb-bb01e4626baa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #768)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9218,11 +9218,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c57c16f8-b83c-4b19-9e46-15333413d56c",
+    "id": "9a21b75f-0c82-4bba-954b-e37f648045b8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #769)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9230,11 +9230,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0475d97d-907d-4ef4-a4f5-ca5b5406a506",
+    "id": "5553c077-f744-4ce1-98b3-8c1d2e6bcb43",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #770)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9242,11 +9242,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6c5e4a46-2ee8-4303-bcd6-e53a0462a393",
+    "id": "b87a24c5-145c-4bdc-8e5f-7f40d5bbb8f6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #771)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9254,11 +9254,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ab61ba2d-254f-473a-b51a-f5a9eba66853",
+    "id": "42b0c3de-bb85-47e8-bd8b-dae3fc597011",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #772)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9266,11 +9266,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f02e10cc-45cd-4052-8daa-8925ce101b58",
+    "id": "bbdce1e2-4af8-4dd2-8021-d781a6db37a6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #773)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9278,11 +9278,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "88532ec7-6e2b-4eb8-a86f-a09ec4887c5c",
+    "id": "e7a876ae-5376-420c-b8cd-c51454c09383",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #774)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9290,11 +9290,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1b0138ba-8df3-4f59-873a-6d65170510df",
+    "id": "38407bbf-3ac8-4516-ae5d-bdad9438856f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #775)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9302,11 +9302,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "54ae0fd8-f416-4831-b7c8-0db002f4f294",
+    "id": "8599f626-32d1-4374-9ff9-49f8e9eb9bc3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #776)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9314,11 +9314,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "734b16cf-a940-44bb-b75f-b17c24497f38",
+    "id": "080b8de7-96b6-4243-bead-8a99d88851a0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #777)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9326,11 +9326,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4d13e892-1608-4879-af2c-813ec780f7a3",
+    "id": "543aa166-bb73-41be-a6b0-5343044d099f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #778)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9338,11 +9338,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f41fd577-2581-4f67-b2af-3c8cde0a9f7a",
+    "id": "f6ab0919-02f4-4eee-b3a3-0684d6d5f521",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #779)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9350,11 +9350,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6dfa4463-5b82-4290-874e-2506cbd29a4f",
+    "id": "0016569e-2b1a-4e5d-a4aa-2d32ff86cd55",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #780)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9362,11 +9362,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7b24d0e8-4b56-4781-8f36-cd69c77afea4",
+    "id": "0b4b9cd0-da85-48ef-874f-1b313158e70e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #781)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9374,11 +9374,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "26ec3c88-4c6d-4ae4-aeec-d87f21690d8a",
+    "id": "fef32bc7-3602-4bac-92a6-f6524309ae73",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #782)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9386,11 +9386,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "af53e860-45ee-4399-ac61-9557a8c7853a",
+    "id": "f16396b6-0591-4f5b-a6dd-1aa11fe055b6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #783)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9398,11 +9398,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "48be4b1a-a4cb-4aa6-a6f0-32a60ce401c8",
+    "id": "d5067e2c-7332-4f8e-9341-999d6ab4e914",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #784)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9410,11 +9410,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "998a017c-e1c3-4674-9107-bc6f92be75ee",
+    "id": "8190ad17-84c8-4a58-a3f8-6c9053e50efb",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #785)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9422,11 +9422,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d59a8f5e-ff90-4428-ba8c-6fc6d9ede26e",
+    "id": "9afe257a-8b4a-486d-9c41-81510ee5e0ce",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #786)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9434,11 +9434,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b78ee25a-bb23-46ba-9fdd-f89a932862e8",
+    "id": "9a55d685-84d1-4201-b3b3-e00777378593",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #787)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9446,11 +9446,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8dbb80e8-c72b-40e7-9461-b50131964016",
+    "id": "0f44c5db-2704-4450-83cd-bd9f123bb7f7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #788)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9458,11 +9458,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3864b831-eedc-4ce2-b911-091602ea75f3",
+    "id": "5ed3b899-aa54-4ba7-a26b-2d1cfb1c5d40",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #789)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9470,11 +9470,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c6ed5c69-d6cc-472a-81a7-1c26a5fde7f7",
+    "id": "3ac4d225-ddb3-4183-a87f-841923c2c674",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #790)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9482,11 +9482,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "64e1ba44-1e92-47d3-a6c0-452c5484cfc4",
+    "id": "b3b750b8-543e-48c6-a0f8-670ce51812e6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #791)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9494,11 +9494,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3bb90556-a60b-41ba-8383-cc1df4495ee9",
+    "id": "6b65bbb2-4a8e-43df-9735-e90de5534389",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #792)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9506,11 +9506,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "907c1be7-4f79-4a42-9b34-10e698ae67a3",
+    "id": "67c1c4ff-49fc-4f62-8e65-568e221584be",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #793)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9518,11 +9518,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "58fae71e-bace-4138-8e3d-206eb4655d04",
+    "id": "dc4a52b9-2f44-4bef-91c8-e77ce85df243",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #794)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9530,11 +9530,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "38d12e60-c951-4ba4-b0bc-7d9e6bdfd348",
+    "id": "bca50967-5a88-48e3-822b-04463e1ad414",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #795)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9542,11 +9542,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4c0dbc07-4dfc-457c-bc4d-1936bd6b37bb",
+    "id": "de5a4e33-bb35-45e0-a4f5-8621f3006d64",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #796)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9554,11 +9554,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5547a481-d928-4261-9d0d-235173af71f1",
+    "id": "59b12d0f-7120-4210-8a5d-09c040005613",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #797)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9566,11 +9566,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bfff7a25-6b0d-4144-8b6a-f2b4a232dbaa",
+    "id": "d9b7e0b1-be6a-47e6-a5c7-ccd27b399798",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #798)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9578,11 +9578,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d7886a1d-6116-4f4f-9879-4b95be879992",
+    "id": "d389020d-e1de-4562-879a-5308fdb07c5a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #799)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9590,11 +9590,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7a0a406a-3615-4084-9fae-c55357a7d455",
+    "id": "79b9ea3b-1b49-4995-99f1-3df477ae53cc",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #800)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9602,11 +9602,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c7be6459-a73f-4ca2-9727-56f39c764d1f",
+    "id": "c32afc2d-cd8f-48ac-b935-af705d5ee1a0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #801)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9614,11 +9614,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "53a4db9f-e728-4859-8d09-b8ff4f67316b",
+    "id": "c6544a3c-3d74-43c5-a4fe-9fa38140d4bc",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #802)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9626,11 +9626,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d60f0343-968a-4316-a1c0-d3b8fbef16ba",
+    "id": "1055b17f-acc8-4d8a-9dc9-00308c119fae",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #803)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9638,11 +9638,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9f1d90df-0176-4bb2-ac7c-575bff3f3878",
+    "id": "5ff75ff1-dd36-4f60-babe-c346c78505b7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #804)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9650,11 +9650,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0a613181-08ad-409d-87ed-e2de1d48786f",
+    "id": "08689c06-3f0c-4efc-b6ec-0e40ee12ff6c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #805)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9662,11 +9662,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "780cdd6b-c8e5-4a8f-9839-eee4e07e3452",
+    "id": "09c082eb-8de4-4a02-845a-24298745162a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #806)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9674,11 +9674,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f0fa8719-b30f-43c0-96f6-ec66c10d79af",
+    "id": "588d42a0-7b48-4eaa-b27c-f4a7c9a1a7d6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #807)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9686,11 +9686,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c1e9ae68-166c-4d41-b426-7930dfd8dea4",
+    "id": "fb8c2760-ca8c-438d-8cab-ee4db58dce89",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #808)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9698,11 +9698,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "921d60c3-7785-4360-a242-f1dc459c996f",
+    "id": "59c9aa22-506b-4b9e-8a02-8b4d76482b8c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #809)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9710,11 +9710,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "54dd5a08-2411-452c-aa5e-814bf9aab889",
+    "id": "e56a7aec-0d18-4d73-9ffc-9e0658d93ff7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #810)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9722,11 +9722,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8e876da0-66b8-44ef-94af-f34fc0238b6d",
+    "id": "296252cd-3178-493b-9c13-d2fb9354c7eb",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #811)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9734,11 +9734,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a20ccbc0-2cb5-4633-b201-9d9842ecfe30",
+    "id": "7330d895-bd4e-43e1-9e72-e193da527601",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #812)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9746,11 +9746,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "edd63f4d-59a0-4075-a3a4-7f87eb3c0ce5",
+    "id": "70086df0-a768-4ccd-b498-7d12f5da0d18",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #813)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9758,11 +9758,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d3525fc9-3e98-4872-aa1d-208a0a6e4daf",
+    "id": "e0033883-347d-4942-8917-d20ac8b68548",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #814)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9770,11 +9770,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "953e6358-7075-4cdd-ba42-8eac7b6a47b3",
+    "id": "ba40d9ce-9a90-4258-978a-6b2614b3ad95",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #815)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9782,11 +9782,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "37eb48f0-426d-4b64-82f8-4600c9a7fae6",
+    "id": "ee4cf4ae-609f-4f79-9924-50706dbf9c4f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #816)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9794,11 +9794,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "075911ca-b00e-4fab-90b0-83b11755e8e7",
+    "id": "976369bf-6fc8-4244-aabe-f50f4d05ffa3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #817)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9806,11 +9806,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b228d559-3c2d-4e07-8070-0cbca31ffbec",
+    "id": "918cc07e-f8a1-4255-9272-cf5c35599d1c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #818)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9818,11 +9818,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "64beb3e0-8e9b-447d-9c2c-ed984ac3afcc",
+    "id": "f62554c8-5652-4535-bc6b-ab036260e061",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #819)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9830,11 +9830,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f19febcd-749d-433c-bb2a-a52479c09b2a",
+    "id": "6f20190c-25a4-46b2-8cba-1ed2e8928f47",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #820)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9842,11 +9842,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ea1c50de-dea0-4a81-9a53-dfc69ddafb35",
+    "id": "22369433-3210-404a-90b6-5704ddf496aa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #821)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9854,11 +9854,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e184d56c-7c38-4122-867b-e362586735cb",
+    "id": "4d6603d8-c3c7-45ea-bdc9-802832cd4eeb",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #822)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9866,11 +9866,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6878f45b-cc94-4061-8e8a-791a95531828",
+    "id": "cda990b0-362b-494a-b2ad-ffd5ebde00ec",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #823)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9878,11 +9878,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b6f4ad88-9e76-4ca9-a7f9-545b36c667eb",
+    "id": "ea96e782-86fe-4590-9b91-b2744bef8968",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #824)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9890,11 +9890,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "60c6bd21-d794-4c0e-8cdf-732eb6a20a63",
+    "id": "21ef8911-7904-46cc-8695-6ab50c02eb83",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #825)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9902,11 +9902,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8b83b096-243f-498d-b5f7-bb15700b46a2",
+    "id": "3143c063-9153-4245-82b5-138e8141c4f4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #826)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9914,11 +9914,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b3891eb5-2b96-45ee-a4bd-f59b4db3ff84",
+    "id": "b0fef341-b7a1-4f86-b685-da4b8ff9cccb",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #827)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9926,11 +9926,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "24030f93-d61f-48c2-8fe1-e42f322f40a8",
+    "id": "a0130a0e-ebeb-4c63-91ae-2875e936af2b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #828)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9938,11 +9938,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6e850c1b-ad7f-4430-bfd5-d80e356d499a",
+    "id": "b191f28c-efc1-464b-a42b-fd8508256961",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #829)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9950,11 +9950,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "438cb64e-395e-4cfe-b8f0-79490600ea75",
+    "id": "5a3bb646-06cb-4722-b44e-a45153ea7650",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #830)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9962,11 +9962,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "06bf7072-0df0-48e2-bb2f-1aa192eb0979",
+    "id": "dc761dae-9bae-45b5-b9f0-0d3506e892aa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #831)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9974,11 +9974,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "745b8606-dd59-4f79-a729-d82b5a944c03",
+    "id": "703ccf58-1c6d-4e93-a14d-3acb5e5834e9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #832)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9986,11 +9986,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6aceb6da-85a5-43f9-9fbe-68ab49a13059",
+    "id": "228bafb9-300c-4642-8909-05ccf2050969",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #833)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9998,11 +9998,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "13065ec2-572b-423f-8861-ce9f26a98232",
+    "id": "663d1daf-5391-4d97-9577-37c508490ea7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #834)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10010,11 +10010,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6d8a6bf1-1568-4fe2-8974-2554b3b4cac7",
+    "id": "5085c60b-3e1e-482e-9e89-25c306ad69a3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #835)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10022,11 +10022,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "326f2d2a-0673-4269-9573-de06690b4777",
+    "id": "d0252022-f63b-438a-9a71-93b60284bf24",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #836)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10034,11 +10034,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d136d54f-e5c7-4e3c-85a8-4b65129fe078",
+    "id": "492a571a-166b-4858-af72-2b7e93340449",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #837)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10046,11 +10046,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "176892da-7dd4-4892-96ad-2694e694e95e",
+    "id": "ce664ad0-b6a4-4928-a4df-d1b7e168cfc7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #838)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10058,11 +10058,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "94320464-9ffb-4655-b599-12a5fca8b42f",
+    "id": "0254c9f4-e60b-4512-96f7-0f3b9fde9631",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #839)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10070,11 +10070,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "aa53f0e9-4252-448f-80eb-837fb009873a",
+    "id": "0f809410-7c55-42df-9586-eab2e96d29aa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #840)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10082,11 +10082,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e573f24f-6abc-4f95-a5b2-5d2a4cf5a3d9",
+    "id": "d53c8e14-1817-4b2a-9bb1-32f661dbabda",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #841)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10094,11 +10094,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1a9aad05-77a7-41b3-b280-fadf7ead4bf4",
+    "id": "ccb31ad4-2126-4da1-bb7f-e47cfd11269d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #842)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10106,11 +10106,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "aebaec1d-712b-48f0-811e-d31cd19d8712",
+    "id": "e6152477-da8e-4b80-b5cc-7c0ce118ed08",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #843)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10118,11 +10118,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1509dd6c-b173-480e-ae85-60cc327d7b81",
+    "id": "f80f6e3e-0059-43f4-a2ea-a40f28eac982",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #844)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10130,11 +10130,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2cb4528d-be9f-40f8-8b4a-ef3a38e14259",
+    "id": "b3c16d91-e440-4781-af1f-58d5e53a8fff",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #845)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10142,11 +10142,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6b3f135d-d05c-4173-9927-c079833b266e",
+    "id": "bc8752ea-f8f5-4129-bda6-6425a1638dfa",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #846)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10154,11 +10154,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bebb2741-f14e-4687-8c68-332cf2fcc4fc",
+    "id": "3203e319-2982-4fff-a331-5db6a8f79a8b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #847)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10166,11 +10166,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6d748be0-58fa-4875-80eb-51ac6fbd413f",
+    "id": "38c3bebd-f9ab-4b15-8560-5b3287b3bdcc",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #848)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10178,11 +10178,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "928386d8-0bb6-4d3e-9234-ead805171a58",
+    "id": "1952d030-639e-468d-b265-a4e9b92c1043",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #849)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10190,11 +10190,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "38f65b49-8ae3-4b0b-a137-90af411ee1c4",
+    "id": "77d10e82-6339-4f4b-a5b1-d108264ffc85",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #850)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10202,11 +10202,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4a25de59-deeb-45da-b46e-08ddec4b7253",
+    "id": "bf81baed-6250-4a75-8938-97f0aa6259c9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #851)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10214,11 +10214,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "437dbf51-455d-41d8-bb5c-0ca0f11d354e",
+    "id": "26eca478-0939-45b4-87d8-1b21fba71201",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #852)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10226,11 +10226,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "79890636-667f-451c-abfa-b271850466c6",
+    "id": "000aba43-d60b-4607-b6c8-051e7f83bba0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #853)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10238,11 +10238,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "128c1dbb-f60f-4e9b-bb4b-99bd9080efad",
+    "id": "a8c90968-83e6-4142-a085-ee49dfa1cd81",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #854)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10250,11 +10250,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e5ee1996-22f3-430b-b877-173de6ca4276",
+    "id": "d769a537-7dca-4bab-a13e-6483bfe4d25f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #855)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10262,11 +10262,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e5924ae3-20b8-4ac7-bbec-ec9931f14c67",
+    "id": "332d6f76-cf71-4dae-864a-0576a09a43f1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #856)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10274,11 +10274,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "26984d59-0d66-4afe-a74c-e26dc1f8f161",
+    "id": "326648eb-4ef9-41fc-bc69-7fdaa8123ef4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #857)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10286,11 +10286,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cc238276-d4b0-4868-b39a-7538a73f001c",
+    "id": "f55dff11-cf59-4136-aac7-53c9791758d0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #858)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10298,11 +10298,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fcbbd604-f907-444e-b32c-4c51652a8da0",
+    "id": "ca0878c2-132e-415d-b927-0631b6f7d96c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #859)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10310,11 +10310,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "940e2ba5-74d1-4a47-8e0f-d74066fda2c2",
+    "id": "b484dda6-a784-415c-9067-b55a841dc360",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #860)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10322,11 +10322,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1e195168-f7e3-4f95-a0b2-4633de96c7f2",
+    "id": "4d935182-d768-4816-8650-cf9ed4b1543b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #861)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10334,11 +10334,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6074684c-0c09-45e5-8ad5-c967ae746cfb",
+    "id": "2e542ad7-8c9c-4f87-9bca-96afcff66713",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #862)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10346,11 +10346,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5786094e-6f6b-47c2-9cf3-d562ed9a72f2",
+    "id": "f7ec39c0-4d33-4dd3-b1b8-69b7642266cf",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #863)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10358,11 +10358,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d1196306-1cd3-44fa-84f0-638cec2d3fbc",
+    "id": "e42e6b02-00c8-42ba-9fe9-e144fd18c5d9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #864)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10370,11 +10370,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c41c431e-e7da-400f-93b8-a1bd1cf668a7",
+    "id": "ad329467-72da-4042-b93b-5718f24f0ee6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #865)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10382,11 +10382,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9c4bc185-0ce2-4e23-b443-97d3dd6fc321",
+    "id": "7921c492-c50e-465f-b911-34f4623e10da",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #866)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10394,11 +10394,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5d466091-789a-464d-9d67-fb5704a6211e",
+    "id": "88d36ced-2ff8-47a0-85eb-967327de218e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #867)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10406,11 +10406,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "04af4007-5d03-43c3-871b-8526692b7fea",
+    "id": "e780104e-7cef-4bc0-9b8e-9a4b931638f6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #868)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10418,11 +10418,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5baf4bcc-db38-4480-a1c0-b47fef2ddb46",
+    "id": "6b60a89b-3b6c-4729-8389-40bca8bd8c31",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #869)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10430,11 +10430,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8005f29e-76d1-4e3f-b8f0-e7dea410b838",
+    "id": "122b39bf-2169-4a90-94ac-a5c307d98732",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #870)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10442,11 +10442,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e5880ad7-3e2f-4857-8449-b309a6bb7377",
+    "id": "cbf3d2c4-e688-4b77-8c18-d63db1695ed7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #871)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10454,11 +10454,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4c0c40be-411d-4f68-9d8c-d72d523417e6",
+    "id": "12f3a59f-1902-4be4-9442-692f60aebdb6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #872)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10466,11 +10466,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "05eac052-f41e-448a-9a4b-d23c65a4bb09",
+    "id": "2909821a-f664-474a-aa23-336fbcfbeda8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #873)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10478,11 +10478,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "2676d8fe-fa2d-4ec2-93e7-1c17c10b73bf",
+    "id": "13f0f4bb-02f9-4a92-b606-a526a33c4d45",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #874)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10490,11 +10490,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3afd6685-32c3-4cad-8a8d-d6a16288ab64",
+    "id": "8b97ffba-e1ca-4872-a529-7084a5f2f324",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #875)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10502,11 +10502,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4384ae58-6071-4bfe-b0af-0fae698faac8",
+    "id": "193ee7a0-603a-47b6-982b-d11f65c4caf5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #876)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10514,11 +10514,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ecb333d3-48d6-48d0-ab6e-5675b0e9030d",
+    "id": "09b0170f-d4b6-4d06-95ac-e5d1868a8f0f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #877)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10526,11 +10526,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "732a4ef2-72f8-41e9-875d-0b5975dfe5e1",
+    "id": "5f031620-8459-42e1-9721-0d4fc010410e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #878)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10538,11 +10538,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0429fe2b-89ae-42d7-950a-c907f1a17064",
+    "id": "c6a1bdff-63fd-4a6a-9add-2138a78be6b3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #879)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10550,11 +10550,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9bd14cc7-5ca3-473d-b37c-591834de51ac",
+    "id": "ab7bf4b3-5811-4a82-b954-13a9e21be1f4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #880)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10562,11 +10562,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8bd51099-6408-4f92-9784-7a0d575ab914",
+    "id": "7ab04521-b426-4a82-a5e6-793795f20092",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #881)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10574,11 +10574,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6d8104dc-b8dd-4150-843c-2bb5e4d6b05a",
+    "id": "289a7739-7fc5-4679-a9bf-9f0f910d61df",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #882)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10586,11 +10586,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7a61317d-0471-4af8-9489-dc3f03e99b18",
+    "id": "5c729aaf-c0ce-4d79-b37a-b80be34ebd22",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #883)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10598,11 +10598,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0c2f887b-7f0c-4154-ba0f-f257ade5335d",
+    "id": "3cb09bff-4820-414c-bfd0-ecaf708f9e14",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #884)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10610,11 +10610,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7a06a17f-d014-4194-a45b-ffee8ed75b34",
+    "id": "8c8e7546-d229-4624-810c-849491ddcbb4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #885)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10622,11 +10622,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3fb98013-3ec5-44fc-b9cf-03d8215735a8",
+    "id": "2da8c948-392f-4e3b-984d-11e977f1e116",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #886)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10634,11 +10634,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "46ca1391-7dca-4753-86fe-80b206d118cc",
+    "id": "3e8643e6-1cb7-464e-a094-a614cb530079",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #887)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10646,11 +10646,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "aecf14d2-350b-4cd5-a5ec-f7f9e619cbe5",
+    "id": "1b452767-aa34-4be3-83e2-7e8703be6ef1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #888)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10658,11 +10658,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "37524f7b-4898-4d8a-8ce1-7f99ca20237e",
+    "id": "797797a5-4874-4377-9ef1-0a03e06bf5c4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #889)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10670,11 +10670,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "d184e9b2-d0d0-49a3-849a-f72871a2c4c8",
+    "id": "a608bcb5-f455-40c0-9ccd-7a384397b194",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #890)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10682,11 +10682,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "44614ca8-fa00-4cf4-8b51-acffd3991557",
+    "id": "c69709bc-7252-4342-aa7a-84209e25bdd9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #891)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10694,11 +10694,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4272b8d0-b715-4be8-ab30-3b9b34267c29",
+    "id": "e62a562f-f082-4221-9a48-8bf675e5e434",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #892)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10706,11 +10706,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "250d4dbd-3de5-489e-93d0-7111295f74f4",
+    "id": "c37f1800-eff1-4350-9b78-0b696c785d20",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #893)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10718,11 +10718,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3cc759d0-e86f-4642-919d-7046d854511e",
+    "id": "09b96db7-300d-4b21-8f6c-d9c579a37b89",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #894)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10730,11 +10730,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3de7fd8c-5aba-4ee4-bbda-6423f1c64959",
+    "id": "a85292f7-26c6-4fef-b5b1-2f0200c32607",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #895)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10742,11 +10742,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fc2de0d8-0856-42a1-8a50-e89212af6fd0",
+    "id": "f11892a8-3d8c-4f17-8156-0ab79fba5f9f",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #896)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10754,11 +10754,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bad505cf-4f9a-4a54-817b-587ae11a8a5a",
+    "id": "642a390e-84a3-477e-b4c1-09554202158b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #897)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10766,11 +10766,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cbbc13eb-36bd-43f9-b245-91940207b121",
+    "id": "0eea972c-4bd7-4f42-8b5a-266b67939bd6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #898)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10778,11 +10778,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "678285eb-9e32-4a39-95c5-bda704b86fbc",
+    "id": "301baac6-203e-4c2a-b13f-ba356e2890dc",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #899)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10790,11 +10790,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cd8f97ce-f63f-4295-be25-47bd877c03ae",
+    "id": "c45400f9-5d06-40a6-a925-a5691a07db14",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #900)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10802,11 +10802,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "83cd7a4e-3654-46b5-893c-f527a2a86f12",
+    "id": "bb186739-6c30-4123-ba03-e3e06589db3e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #901)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10814,11 +10814,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "366c2b92-c471-4975-b55e-a93c50b415f1",
+    "id": "623b4ff7-190f-40fc-84e4-0fc690629e30",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #902)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10826,11 +10826,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "43623546-fd54-4f52-870c-8edcac5177d6",
+    "id": "8a6456f2-bb2c-4fb1-a3da-ba2d3a3ad1fb",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #903)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10838,11 +10838,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7e1eb6e8-7d08-4ff1-bb0d-dda11911348d",
+    "id": "6174ed45-59df-4edf-8b34-fac93c5da706",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #904)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10850,11 +10850,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cf820b9d-26d4-4cdf-b26a-867bfc3cf4fe",
+    "id": "a1dfcd58-6b59-4ad8-be0b-0e32729c50e8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #905)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10862,11 +10862,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fbbe0e83-db19-403e-b883-b7f59884cf1d",
+    "id": "2bfa06cd-314b-4e2b-9379-87f4d5c48832",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #906)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10874,11 +10874,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1397ee61-778a-43ed-be8a-5775cf9047d8",
+    "id": "0162b80f-bd08-4c2d-8dd0-680622ea10c5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #907)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10886,11 +10886,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "db4a6b42-ccf8-4785-9f37-9354ca1f748a",
+    "id": "32423af6-fc3f-47ba-84b6-f217683f6b36",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #908)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10898,11 +10898,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "878fa9cd-5c10-4036-8f11-c72061621a33",
+    "id": "f9f85f23-918f-4591-9324-08746302b576",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #909)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10910,11 +10910,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "61b168e9-7803-4271-834a-be036801a1cd",
+    "id": "b929c665-d621-4229-a7e3-47cdba34ba92",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #910)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10922,11 +10922,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "853147ef-4133-4d39-8f67-a384eba33578",
+    "id": "ad3a4b30-3a8a-4ae8-b58e-9a872b6692de",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #911)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10934,11 +10934,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "76bd3051-1d63-4eef-8d1b-543a8d2adae9",
+    "id": "a5a33f29-da98-4610-85c1-2d8e8ab84218",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #912)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10946,11 +10946,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "16ef0e26-b693-414d-bd9f-90bb64bdf932",
+    "id": "d6946e6f-c8bc-4fe0-8718-ee95e8de4ef3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #913)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10958,11 +10958,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "896df388-d2e3-4bc5-840f-6128c0fbf3e1",
+    "id": "56c16355-4231-4d55-9fcc-f9889ba5f5d1",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #914)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10970,11 +10970,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6cf218d7-1cd2-47c6-81b3-11f2c869a9fd",
+    "id": "e1baa13c-4cbd-40c7-b7d2-c1ab03c86e26",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #915)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10982,11 +10982,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3e593ff6-c3bf-4780-8001-5671e7e74642",
+    "id": "dd6a7b13-75c7-4598-8064-4ea620a38aac",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #916)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10994,11 +10994,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "afefe850-64f2-49de-994d-57918d19df91",
+    "id": "3f8e181a-a173-4f2f-8a38-4a7b3df65548",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #917)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11006,11 +11006,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "63239565-a729-4057-b5ff-35eee78c27dd",
+    "id": "014587fe-02f6-4c70-a0f7-d953e5f885dc",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #918)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11018,11 +11018,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "71c31556-5950-432b-a5b8-b3323cc4e866",
+    "id": "6dfb1a30-680f-42b0-8d2b-42997e45efd2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #919)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11030,11 +11030,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "89cb084d-a884-4fa2-b1fe-f78a1e43a180",
+    "id": "cc4108b9-68c2-414f-968b-59de8ad6982b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #920)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11042,11 +11042,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "188d6222-8c01-4169-9938-ad62fbb7d4a7",
+    "id": "e908f6ab-b593-4c3e-ae0a-ddaec0edd561",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #921)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11054,11 +11054,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "daa7c755-2f91-4d25-9007-74a4c86cab45",
+    "id": "6348ae47-bb3c-48c6-8c5c-c7ed9f4f8c16",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #922)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11066,11 +11066,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "252c9607-ad59-4b5f-998e-7de547a49375",
+    "id": "c9d5b4f2-ea55-4b9b-8b66-fa72e5566e41",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #923)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11078,11 +11078,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "f8959191-4fe8-4338-a738-7430e14ee16d",
+    "id": "91f61f92-3445-434e-9b98-6e533d20f050",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #924)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11090,11 +11090,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3be69574-3fcc-4423-9bfa-a23d283242e0",
+    "id": "a92dfab8-0cce-4bf3-b7c9-ce25c38a14ca",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #925)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11102,11 +11102,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b2366ba3-7cd2-4738-b194-64a52fca04ea",
+    "id": "d76223a8-c6e7-4b4d-931a-fe6aa4d68291",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #926)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11114,11 +11114,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a036f13c-11d9-45c0-bfa9-27b8cfe65270",
+    "id": "a95ed4ac-d120-409c-9c73-17eabba16f80",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #927)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11126,11 +11126,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c3bf6164-eadc-4d12-8df9-5a37cf3e9efa",
+    "id": "6cab1cde-c34f-4b0d-8f24-60508f600e03",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #928)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11138,11 +11138,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9a66cb55-d0e7-4c24-a291-1de2bddef949",
+    "id": "57e435ba-7702-4861-8a35-7326ca395429",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #929)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11150,11 +11150,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "201e63d1-0c6d-4951-98f0-263e2add1645",
+    "id": "f2c74d1e-bc10-4642-aea5-045ba7076804",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #930)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11162,11 +11162,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "908dca07-a02a-4d30-9008-02e6204dd54c",
+    "id": "0f0a02e1-e1e7-4d02-b5cb-4af1cfeaf602",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #931)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11174,11 +11174,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "32ec60d4-0cf0-45b9-8ffd-4b18b26207de",
+    "id": "ac428a7d-2d12-4926-abb8-a1b9949a6521",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #932)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11186,11 +11186,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a71abdc4-e5ed-40ee-b21c-ec18d184a5cb",
+    "id": "ed2818fa-ee54-4920-a1db-0370f08be311",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #933)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11198,11 +11198,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9a2a4de2-5dac-4e6f-b208-7eb65b9aab04",
+    "id": "77f1f663-1481-45f5-bfcd-f41cf63683c3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #934)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11210,11 +11210,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "034db023-bb47-4bf1-a0cc-6311a265898e",
+    "id": "81a2c721-4591-4e46-8f50-fc4af429bad7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #935)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11222,11 +11222,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8bd4001c-de54-4084-90e4-62a8f50a17a8",
+    "id": "edd2f874-ad51-44e2-a303-49f654f56fb3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #936)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11234,11 +11234,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "72bb87f6-40a9-4c37-be87-7c84b2df4442",
+    "id": "716dd57a-8055-41eb-a82b-fa2a047e1826",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #937)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11246,11 +11246,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3c41e4b3-af7f-40f3-bf24-f436a6a41433",
+    "id": "98c4c142-28e6-4ff0-b4cd-d7b49fc4ac0b",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #938)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11258,11 +11258,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "304bb8bc-6c1d-441a-a9bc-f0114e4da8ac",
+    "id": "ddad69ed-3155-4539-9cfc-e9d817fd4ca5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #939)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11270,11 +11270,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1b303811-695c-46d8-882c-df3b40c339c6",
+    "id": "c13be468-a5c5-4f08-a52d-84114148b2ad",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #940)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11282,11 +11282,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1d34e539-526a-4ecf-828d-0124232b0a83",
+    "id": "bd50602e-7fdb-47d8-bd08-6a7b0ab7cd7e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #941)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11294,11 +11294,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "9e513925-6de9-4166-9f62-758bf7c5cda6",
+    "id": "5c01a7dd-edfb-41a7-86b1-e2778769fa97",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #942)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11306,11 +11306,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4fdcdab9-95e4-4067-96bc-224e269548b9",
+    "id": "de79ddfb-acb7-40ff-9fd1-20a9a4ee8607",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #943)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11318,11 +11318,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1479e63f-064b-4a5a-b081-cd96a9f59cef",
+    "id": "1510f3b8-2c8e-4aa8-85b7-e5c077700f11",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #944)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11330,11 +11330,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c2c14d86-f599-4ea4-96ac-ce521b9b32d4",
+    "id": "c57d2b96-f1c3-4517-ac2b-209f509f0ee8",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #945)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11342,11 +11342,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b336c0c0-ccfa-4a12-aea7-92c82925833c",
+    "id": "db181d10-003a-4aca-92a1-300b42b54efd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #946)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11354,11 +11354,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "8a60006a-c0a3-4ed0-a98c-181be21e8422",
+    "id": "ce20e01e-463e-4522-9770-465773991672",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #947)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11366,11 +11366,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "07d73121-0de7-4c4d-93d4-86fb0528c06d",
+    "id": "986dd17e-8366-4fad-9f75-1f7183ef5a2a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #948)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11378,11 +11378,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7ad1d475-5c40-421f-bbe0-33b15e0bb0c5",
+    "id": "d6906985-e308-4800-9526-66b6afda2b8a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #949)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11390,11 +11390,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b440582e-029b-4888-bdab-725d5ab577f3",
+    "id": "036dfd1b-c043-4b74-bedc-36763440f8bd",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #950)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11402,11 +11402,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b13489ef-29ac-4fda-a4e1-97acd55c8b36",
+    "id": "1eb51330-4b89-4fea-9a78-81c7cac3f666",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #951)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11414,11 +11414,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "62c56e97-001f-40bb-a198-66d20feaebfd",
+    "id": "8604e3e3-3f27-4ee2-8eef-928a18378a0d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #952)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11426,11 +11426,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "dc2453dc-abed-480f-8f84-8f13357d75a3",
+    "id": "2a37f797-8af6-4f3a-911a-782a770da788",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #953)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11438,11 +11438,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "bbe45c6c-37f8-4a35-9ec1-2b360e99362e",
+    "id": "13981760-d1b9-4d3f-b418-3820589b28d2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #954)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11450,11 +11450,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a69958b4-5e2d-407e-aabb-04455f4a61cc",
+    "id": "e3445d0e-2296-4477-aabb-0543e1dcc2cf",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #955)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11462,11 +11462,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "e9cf7600-dc6b-4dc4-ad2b-0ecf88f8e0cd",
+    "id": "f1ebe38a-95e3-425a-b859-20ba5f05d44a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #956)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11474,11 +11474,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cabbab76-49f0-4264-aad6-21620b7bbc5c",
+    "id": "d406e828-7b61-4b42-b0ab-b883f5be2ec7",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #957)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11486,11 +11486,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c9cc35c1-eff8-47f4-87ff-8a0316187a88",
+    "id": "deda26ed-0724-4d54-b993-7ce3167f4081",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #958)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11498,11 +11498,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "38a4807a-87bf-44a5-b99d-8faaa3ac6ff0",
+    "id": "d58e7a68-5a05-404b-9a5d-05a76c7becfb",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #959)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11510,11 +11510,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0b6ce296-9b1c-48f1-a0ae-8bec236eeedf",
+    "id": "1269dc79-866b-4ec2-baed-3cdad7269e86",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #960)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11522,11 +11522,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cc26b40d-b1f8-453d-a034-4ff5e93734b9",
+    "id": "957b1862-5517-4387-bdde-970f8b38c41d",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #961)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11534,11 +11534,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b4e31ab4-949d-48fb-9e71-e79daba7c10c",
+    "id": "3a451f08-37f0-4b7b-9aa6-098c0248e904",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #962)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11546,11 +11546,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ec764616-c9e5-45d7-af6b-430883beef5a",
+    "id": "3fb66f56-4cb2-4910-b0bf-bb4787999548",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #963)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11558,11 +11558,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4697487a-0e2f-4b0e-aae1-0f3ca0261993",
+    "id": "dc09b9fc-d225-4509-8af5-be24dcbe7027",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #964)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11570,11 +11570,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "99ad176b-bd93-45ec-87e4-5e52c266eb1f",
+    "id": "9dcaa1e3-e623-483e-bc93-b409668a4975",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #965)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11582,11 +11582,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5b1a8292-eb5f-495f-b0f0-5ee071d95a6e",
+    "id": "87f31261-dba1-4275-986e-4bbccd10e672",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #966)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11594,11 +11594,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "53bcde42-7d79-41a5-ba6a-b49e7bd258f8",
+    "id": "3e166c6c-b023-477c-8883-ef4b2c8a3615",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #967)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11606,11 +11606,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a753fd95-b8cd-4677-b93d-4fc27a1b3119",
+    "id": "31e1be85-6450-4633-ad27-2f9c289f5081",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #968)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11618,11 +11618,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4ce9ef50-18c6-4805-80f9-a9e73878a8c4",
+    "id": "490e5abc-49ca-4a06-a0e9-fb19458ce444",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #969)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11630,11 +11630,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6a99aa8f-f83d-4c5e-a008-9bf62fcce805",
+    "id": "95230e54-b1bb-45e6-992c-f5ee8456c4a5",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #970)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11642,11 +11642,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5380e893-6681-4c41-84b9-a6e32a82a77b",
+    "id": "841ca55a-e08e-4369-8a82-678225f6b263",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #971)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11654,11 +11654,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c817f962-7ec0-42b9-8103-e9ab0a669d7d",
+    "id": "ef4b164e-152c-45e3-be74-cd29ca6e8de4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #972)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11666,11 +11666,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c66e8cec-d5d8-42aa-a9ea-385c5c2bb7e5",
+    "id": "6f48a937-132f-4270-a41b-f63bc7b9e1b0",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #973)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11678,11 +11678,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c4e38717-9348-4f82-a3de-c71443c81a0b",
+    "id": "bb89fc87-0dfd-46e6-8044-e15ae7323ae4",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #974)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11690,11 +11690,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "c312da4e-ca93-4fc6-b64b-1d49e4d3540c",
+    "id": "30370dd3-8df0-4c1f-bccd-2092d9623967",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #975)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11702,11 +11702,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "cc8ed3d5-90cb-47c5-84a0-4c01e3f8505b",
+    "id": "66e8f6ec-62c4-49df-bd27-7daa9983cfe9",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #976)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11714,11 +11714,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7e8f0ccc-539d-4e5d-9c1f-ebdcf72112ae",
+    "id": "6dccb220-5976-4efc-b701-b034c8d33006",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #977)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11726,11 +11726,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "ce4faf5d-0f99-48f4-b835-f803584d08fb",
+    "id": "0169e2d1-64b1-4231-a23a-1f1f2fd71f32",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #978)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11738,11 +11738,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a95b67cc-21e2-4ddc-8ad4-cc3f8f01d888",
+    "id": "f7197292-0b51-4017-bff2-71c78a8d257a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #979)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11750,11 +11750,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "5be3b8a0-e8b2-4bf3-8958-21625c92d1e3",
+    "id": "a3e5945d-b157-41de-9f7f-886bf9a52ffc",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #980)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11762,11 +11762,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b33b2db9-a634-4b6b-af97-7b8b248879dd",
+    "id": "ef1c7258-b830-49fc-bdc8-563f1aae0e07",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #981)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11774,11 +11774,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "6d9937d0-b0b0-41d3-ac1f-4f576196b167",
+    "id": "4f01f7b9-0867-4dea-89f3-f3983b25be6c",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #982)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11786,11 +11786,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "4de05f71-d59f-4344-b199-da282aa5621d",
+    "id": "8cb00f3a-f71c-45de-8878-bd1bc2de9019",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #983)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11798,11 +11798,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7b3186b8-85a1-4fd8-bb54-abefe4dbc8c3",
+    "id": "440ba1b6-02e4-4560-a434-a3dfec8656ed",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #984)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11810,11 +11810,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "1e7f1a87-6f4a-464b-9105-57c99c700b19",
+    "id": "4f44706b-bcf9-4001-8382-6230c31922a6",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #985)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11822,11 +11822,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "be58b977-cb7e-4519-8c23-2922f815957f",
+    "id": "e017cd8b-a730-42db-9502-b1b9c6cab137",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #986)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11834,11 +11834,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "a61a4207-740f-469b-883b-8071da47419d",
+    "id": "4f599a8a-977a-4782-86fc-05fae2f01a79",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #987)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11846,11 +11846,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "fe31b562-12b6-4411-a0b8-ad68c027ac02",
+    "id": "c99548cb-29b4-4336-ba06-68dda64d1555",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #988)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11858,11 +11858,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "077010cb-7827-4a21-80d1-218af8009604",
+    "id": "d19e27ce-f72f-476f-abbf-bb3e4d0e128a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #989)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11870,11 +11870,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "137df5af-975d-482a-af42-2d7cb9e222fd",
+    "id": "2395fc33-5bc1-4129-8cd2-36efc23bc276",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #990)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11882,11 +11882,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "520312b0-3214-41b8-b78f-364ec849874d",
+    "id": "606f26b0-2753-4293-8dc7-1ad7e39f3dac",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #991)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11894,11 +11894,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "719c73df-b2fe-47cb-ab92-8f2e41b59bfd",
+    "id": "1d2ae818-fec2-4f69-b524-cefca84f1280",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #992)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11906,11 +11906,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3c813b07-a34c-4620-8526-a63e3fd6da73",
+    "id": "3d7646a4-94b7-4e75-a84a-935df854d97e",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #993)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11918,11 +11918,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "52a5390b-8332-4997-b52c-74a1e4e083e2",
+    "id": "e5fcfdfd-ae72-453a-bd45-107fdc724bd3",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #994)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11930,11 +11930,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "b4e79ef2-f7c1-4a38-b3b2-7e95abd800a9",
+    "id": "159be957-66a7-44a5-8f66-d90521c167fe",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #995)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11942,11 +11942,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "eb6963c0-05eb-4395-a496-9b3657efd9b0",
+    "id": "437fa70a-32fc-48db-994c-29cc677c6804",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #996)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11954,11 +11954,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "0629dcc6-ea61-4cb6-a543-e84a82c634e4",
+    "id": "2880ebe3-600a-4f84-80c1-b5b06563ce60",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni? (Kart: #997)",
+    "front": "Karabük ve Ereğli'de demir-çelik fabrikalarının kurulmasının temel nedeni?",
     "back": "Enerji kaynağına (taş kömürü) yakınlık",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karabük ve Ereğli tesislerinin kurulmasında demir yatakları değil, taş kömürü (enerji kaynağı) etkili olmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11966,11 +11966,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "3e71e3f4-b345-441c-b3ba-32b9930b4b2f",
+    "id": "c12850dc-79bf-4c18-bd4d-9cd058305b4a",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni? (Kart: #998)",
+    "front": "Samsun'da bakır madeni çıkarılmamasına rağmen burada büyük bir bakır işleme tesisinin kurulmasının nedeni?",
     "back": "Ulaşım ve liman imkanları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Samsun'da bakır işletmesinin olması tamamen hinterlandı geniş liman ve demiryolu ulaşımıyla ilgilidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11978,11 +11978,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "7182173c-c9d6-40d1-8e98-afc76fcaf4fb",
+    "id": "4a8fd90e-f29c-4e5b-9f1a-97a94957eacc",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü? (Kart: #999)",
+    "front": "Türkiye'nin ihracatında (dış satım) yıllardır değer olarak ilk sırada yer alan sanayi sektörü?",
     "back": "Motorlu Kara Taşıtları (Otomotiv)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Otomotiv sektörü Türkiye'nin yıllık ihracat gelirlerinde uzun yıllardır birinci sıradadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11990,11 +11990,11 @@ export const flashcards_sanayiveticaret: Flashcard[] = [
     ]
   },
   {
-    "id": "beb9348d-e292-40db-a29e-0b642dd687bd",
+    "id": "2fc0056d-976f-4dca-9cdb-e6592bc592f2",
     "topicId": "sanayi-ve-ticaret",
-    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi? (Kart: #1000)",
+    "front": "Türkiye'nin dış ticaret açığı vermesindeki en büyük ithalat kalemi?",
     "back": "Mineral yakıtlar (Petrol, doğalgaz)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mineral yakıtlar (petrol ve doğalgaz) ithalat faturamızın en büyük kısmını ve cari açığı oluşturur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",

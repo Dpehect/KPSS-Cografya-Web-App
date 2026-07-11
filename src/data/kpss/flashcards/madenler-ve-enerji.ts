@@ -2,11 +2,11 @@ import type { Flashcard } from "@/types/study";
 
 export const flashcards_madenlerveenerji: Flashcard[] = [
   {
-    "id": "b6f783eb-f97c-421c-ab07-726a451667c3",
+    "id": "4f62918c-a056-4db1-a138-2994a4a68be2",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #1)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -14,11 +14,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fc58200e-483c-4aa9-b5bc-8697050b938e",
+    "id": "fa025b9b-9cff-4552-a551-37529f89e9e8",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #2)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -26,11 +26,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d50a2688-d49b-46ed-b23b-6ca48c77e5a2",
+    "id": "6f50f2de-cc6b-475c-893f-fb70ef619aca",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #3)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -38,11 +38,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e8a78755-986c-4e9d-b52d-10578ec4f59f",
+    "id": "5bb92781-3aee-40d7-a3dd-11e475ae322c",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #4)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -50,11 +50,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f7767fa9-a496-4bc7-bfc6-30408148f88b",
+    "id": "775cc714-a875-4fc1-84ca-0628bd79be6a",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #5)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -62,11 +62,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a830f284-ef96-41dc-9fb0-ff2da8294404",
+    "id": "db6b1159-0c01-4f20-8506-ae2b17ea7876",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #6)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -74,11 +74,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cdee0d59-aae6-4ea5-9919-f853e2c598db",
+    "id": "966a7b68-3c2f-4469-bd5c-657d4e3ef49d",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #7)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -86,11 +86,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3a1f0f55-c3e6-4405-a0ae-995de35fcf36",
+    "id": "301aec6b-30b3-4af3-9384-ef511d8af22f",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #8)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -98,11 +98,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "81f6d804-f9f0-4ec3-88bd-bebbbc58276d",
+    "id": "ebf198de-425f-493f-91e3-125d1f559538",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #9)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -110,11 +110,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "676f5a92-fc90-481d-89a3-a4fd3f56686d",
+    "id": "026b9802-361d-4b14-a32f-b0c4083d99fd",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #10)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -122,11 +122,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a7753f01-0616-4e45-89c5-ba98e51322f4",
+    "id": "2126281b-d3b3-417d-b541-66e5278fb102",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #11)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -134,11 +134,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e13fb01c-3977-489d-a771-678d34813dc4",
+    "id": "0dfaa78c-e6ad-453d-961e-12674ea0720f",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #12)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -146,11 +146,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3e4ef484-649a-435e-924b-e78680206974",
+    "id": "a12803f0-ad3a-437b-b63e-ae11ba81d57c",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #13)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -158,11 +158,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f523ac77-3086-4213-95cc-9b7b24ab7112",
+    "id": "b5339bc3-e602-4b60-8215-05e05d6853ec",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #14)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -170,11 +170,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6d017ccc-f87d-45b1-8405-fa58883bc54c",
+    "id": "f408df97-8f14-4751-97a1-d819753c59c0",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #15)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -182,11 +182,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3e248464-b7db-4287-9dd2-90d87ea04105",
+    "id": "6356e70f-c699-438e-8822-ee049d6c5f4f",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #16)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -194,11 +194,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "898df40e-6ba0-4b22-9843-7dad361bf21d",
+    "id": "805cd634-2628-465f-9542-135863939d5d",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #17)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -206,11 +206,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1acfeb6d-e9ef-47a4-94c3-a88b8bde34d3",
+    "id": "ce040df4-c243-47e9-88f1-5329b7e372b7",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #18)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -218,11 +218,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2793d9ac-74e4-4fc4-b138-efed7abd4014",
+    "id": "d6833efe-ce1f-4413-9b8f-117f87070dab",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #19)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -230,11 +230,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "16e7e7df-5a27-4113-a702-a9e4661a0a08",
+    "id": "94ac0be8-f312-42f4-9ee0-5b52f19ba10e",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #20)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -242,11 +242,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b0d689e0-302e-425d-b217-edf150598a16",
+    "id": "03c7001b-3bf9-4cd2-8eea-22b9f9dd7c23",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #21)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -254,11 +254,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "87ea81c1-6d1f-4142-95ec-69a0ecd2311e",
+    "id": "eb140d9d-5808-4b57-b8b0-4cb0d439533a",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #22)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -266,11 +266,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "292d7aca-f0b1-4a78-904a-929a94dd59c0",
+    "id": "466d8526-4c9c-4bcb-94d9-46730bca9a21",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #23)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -278,11 +278,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ccddf6f5-7f07-48af-bbae-9ce376858d0a",
+    "id": "a011cbf1-40ea-4072-9e51-9d243c6412a4",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #24)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -290,11 +290,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f8baa667-922b-4b68-acf4-f312d790a505",
+    "id": "cb5a247c-3bf7-42e7-bf1c-51e2a02f0984",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #25)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -302,11 +302,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8292615e-cc22-47aa-8157-ba9dac8a8286",
+    "id": "33c363b6-a3f4-4c8e-a5c2-c59ad7ee2da7",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #26)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -314,11 +314,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5a392abb-d205-498a-924c-25d7516c26f8",
+    "id": "50c152eb-eaf4-4846-963c-3b4e6d781c50",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #27)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -326,11 +326,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d037bb0c-6cab-4d52-8a6a-ffb23491ff5b",
+    "id": "92d81876-e7c2-4d19-b9c4-10e0b003301d",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #28)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -338,11 +338,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7ab6ae52-2b1d-49d1-a42d-6f8b20b1878e",
+    "id": "07740531-00dd-4b1c-9ed2-0145af1962ca",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #29)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -350,11 +350,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f4d16986-2874-43dc-8c7f-5506c115d3f0",
+    "id": "825426f8-31fe-488c-aa3e-ab56a832f77c",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #30)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -362,11 +362,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cd5ad8b5-008a-4659-8e58-83052ba33ead",
+    "id": "a273712f-ed54-49da-8e4a-d211784a5767",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #31)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -374,11 +374,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "352469b1-acd6-4108-ae42-c46c3fc784ae",
+    "id": "8c96aa70-614f-44d8-808f-d6290b5826e1",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #32)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -386,11 +386,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ab89daef-b1f6-48ca-b148-2ca96e18598d",
+    "id": "8175a591-3e4b-4bb8-ac16-cc4a1a3b559c",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #33)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -398,11 +398,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "43d21f29-bb57-4406-81c7-e864ba1b7416",
+    "id": "87d5c2ce-176d-46a4-8f6e-df343968aabe",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #34)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -410,11 +410,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d98fe985-df35-4cf7-afd4-8c2f0cf5e5f7",
+    "id": "c45b06b7-4adf-4ba7-87af-95d3f874d375",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #35)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -422,11 +422,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d1ad380b-ff84-4a4e-a1c0-a37e0ab0c4bf",
+    "id": "d6221fb2-8dbe-445c-a43b-fdd709ceca2c",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #36)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -434,11 +434,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6f8f247d-dd16-4407-8299-e6556f929aec",
+    "id": "55356449-1003-4219-a079-02450a81d8d4",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #37)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -446,11 +446,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e2ce2e29-b448-4cb2-860b-71c63c2e86f8",
+    "id": "f2dca02c-9eba-4b5c-aef2-66de9bdbda8f",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #38)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -458,11 +458,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ac15ca48-2762-444a-b65f-2997df8fbbb3",
+    "id": "7372d8a9-7638-4924-94bc-62acefc19fbd",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #39)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -470,11 +470,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8e91502c-ed51-400b-a7b5-061f07ed5700",
+    "id": "1c4f4c3b-03aa-4da5-bce4-2e8558bfee52",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #40)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -482,11 +482,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8a365530-c645-4379-bd04-281f97606db7",
+    "id": "c32c849b-f852-47e8-b9e6-d969ff099da9",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #41)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -494,11 +494,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e2652fc1-eb48-494f-b734-d8d9324b072b",
+    "id": "df8b63ed-9bc8-479d-bbe2-28b8a957ad97",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #42)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -506,11 +506,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5351fac3-8fc9-4267-bae3-4fa38fae585f",
+    "id": "75e1ec53-32fa-4196-bd07-3b8c0eb1d3a2",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #43)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -518,11 +518,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8f2171c4-2ce2-4f80-a9b3-c7cfb6f0d85c",
+    "id": "871c7a07-1aaf-44fa-9bef-81326de07c66",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #44)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -530,11 +530,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6b68e856-867e-4fab-8cde-ca5be052ccd3",
+    "id": "339b155a-46f1-44c7-86b7-eda2e4c9f628",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #45)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -542,11 +542,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4e72e5e7-820d-4cf1-a632-46b7e24b8d77",
+    "id": "8e4be923-4447-4843-8b1e-7026427ec2d4",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #46)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -554,11 +554,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "af5f457d-94c5-49a3-aed5-9ac4c93d75d0",
+    "id": "84cb125a-0ec0-4a76-82aa-956a5ba5abe5",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #47)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -566,11 +566,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8cfdca31-f0c1-4ea1-a82f-bfbbf19271aa",
+    "id": "fccf8f0f-bb13-4cc8-b3ed-b5082f7aa074",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #48)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -578,11 +578,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "991e7175-4f1a-487a-aa08-ec42f1ee1a15",
+    "id": "cbb5df68-1663-4d39-a1f8-4025981cdead",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #49)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -590,11 +590,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3492c79f-857d-4b7d-bcf3-0a5de5f59e73",
+    "id": "e2f38e3a-ad87-48ac-b975-c4f9743bfb27",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #50)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -602,11 +602,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "57549cbc-6d41-45fb-80b3-0f3ba569453b",
+    "id": "2cfa1c0f-ca80-482b-a6b5-937d9078afea",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #51)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -614,11 +614,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f98364b4-940a-4b85-8064-ff05ff6be0a3",
+    "id": "cfeea796-42a8-46e0-899d-a45c22e13f1d",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #52)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -626,11 +626,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ee26530e-baea-499a-8c29-7e8176183a03",
+    "id": "1419e926-e973-46bd-a613-8479b5c7b0ac",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #53)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -638,11 +638,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c23a038a-d47a-4953-b200-8f7676991972",
+    "id": "8f5af14b-a2e6-4846-b2ba-b0d7911d8eb8",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #54)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -650,11 +650,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c08e49eb-590c-459f-8e62-9be131bf2759",
+    "id": "ec99079f-b039-448d-95a8-e927accd77d7",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #55)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -662,11 +662,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e14be0ba-7df6-4848-b4a1-c4e0380f73d0",
+    "id": "4f66856e-49e7-4c19-b04f-904f6265fdb1",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #56)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -674,11 +674,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "873819a3-0eb8-46a0-83cc-5d3caf122270",
+    "id": "8f567349-63f1-4658-b3d1-0842c536373a",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #57)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -686,11 +686,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "31bdda0b-6258-4d66-9122-040f9a2df2ae",
+    "id": "8240bb39-c03e-4725-9710-534786f81acd",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #58)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -698,11 +698,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "621baf53-ad3c-4732-a00e-d98d1ae5bec7",
+    "id": "5e17ee32-98f9-4316-adbd-60e9aaf630b5",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #59)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -710,11 +710,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5219c16a-acd5-4fe0-a9d2-a21c36212366",
+    "id": "a721b669-c933-4cee-83be-61667194b804",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #60)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -722,11 +722,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "64bf147f-eb80-44de-9a1d-ee6be286dfd0",
+    "id": "27f1e5a4-abf6-42f8-a0b0-6705eb0c559c",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #61)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -734,11 +734,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "18af463a-ff7e-4190-b31e-09a4d882f4aa",
+    "id": "989fefaf-2423-449b-a0c5-f0020a61f495",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #62)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -746,11 +746,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "10b25f75-60f0-4d5d-9888-faf0e96af6ef",
+    "id": "79ac1f82-4033-45a8-b227-7d678c41e6ec",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #63)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -758,11 +758,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7e85bb85-820a-430b-91e0-b4ca52226de2",
+    "id": "4f2422e3-bbf6-415a-a14a-4c81b921f116",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #64)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -770,11 +770,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6733e771-b071-4d44-b605-9a622d50e7bd",
+    "id": "1baf6aaf-ef55-4faa-9dfa-8467731f1950",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #65)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -782,11 +782,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e6f0b6ec-c1d0-4104-9422-6171317ff99d",
+    "id": "55a0881f-5afe-45e9-8dc4-a26b73d2a44e",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #66)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -794,11 +794,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b3d15f98-ec9b-4b3e-a506-4f5123b788b4",
+    "id": "f01ec6e0-a577-4569-8946-3d76522c46d1",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #67)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -806,11 +806,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "07fef419-c870-4e82-a9f1-937269507645",
+    "id": "1bd8578d-bdb2-4ab5-9057-9bc446ddec48",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #68)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -818,11 +818,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "70f9d426-5730-446f-9cec-dc9adf5147d5",
+    "id": "a69cb3a3-b878-4983-b897-b47c1223abd8",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #69)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -830,11 +830,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2348393a-e0dc-412c-82fe-6395aa7fc482",
+    "id": "42375095-0b3e-4080-8512-e81da9f3b008",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #70)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -842,11 +842,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a4e0a818-4766-4e2b-9b9f-e0cdf990cd36",
+    "id": "e23e54d3-ad1a-4738-9dd4-c46d4167456e",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #71)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -854,11 +854,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "10fe1d0d-41b5-4a97-ad04-ff7b7ca2c825",
+    "id": "ab8e0081-4f77-4f61-8f7a-4cfced0367a0",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #72)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -866,11 +866,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5c224879-baff-4041-b1c5-aa84e4145fd8",
+    "id": "e7cab5d2-ff87-45c5-9430-7f4accf358b3",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #73)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -878,11 +878,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ec36b191-7278-44b0-8021-50ad20f138e4",
+    "id": "bb1e82db-6611-486a-941b-4c7dc42fd4b6",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #74)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -890,11 +890,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6a430a0b-f3cb-4bb0-81d2-e45aeb2ba23c",
+    "id": "a13ef4ba-fb38-4703-9715-47d5e32586a6",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #75)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -902,11 +902,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9ea3641b-eefb-4973-8fd5-92a7b904ed5f",
+    "id": "c5754f13-549c-4055-9e60-cd524a5827c3",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #76)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -914,11 +914,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "17d10e19-5f36-4308-9954-5df4a3708082",
+    "id": "2715af2c-abb8-400e-b416-3b5c9c1cd0db",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #77)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -926,11 +926,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3d166e5e-c56d-45c3-9381-7eb57d38da47",
+    "id": "61e84b10-2f7f-479f-9975-043f9722586a",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #78)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -938,11 +938,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b86ddc63-25a6-4c60-a1af-3ba0ab88640a",
+    "id": "6bd594e5-6bbd-4b7a-84ce-b462b305e08c",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #79)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -950,11 +950,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5b503f76-1137-4bf6-8657-a588d67093ee",
+    "id": "2228654d-0675-40ea-b194-30a1738666ed",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #80)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -962,11 +962,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4345d95e-1656-41eb-81cd-8c95e5cf54f0",
+    "id": "8b191a6c-fe45-4c47-b466-7a9f880ad1fc",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #81)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -974,11 +974,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "697ab109-97bc-4ec2-accb-2516f6af81b1",
+    "id": "2e0e127c-8aa4-485a-8979-2b2fbec81f5f",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #82)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -986,11 +986,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9186bdc3-8cdc-454b-b070-4462b30b2972",
+    "id": "4ae00f3f-e7d0-4e95-a3cb-4fe6cfa3c80e",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #83)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -998,11 +998,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4c65348a-261a-40c5-918d-b46b78643a85",
+    "id": "1d7195fb-d678-44c9-9d1d-c93211efbeae",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #84)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1010,11 +1010,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4a10d544-5b6d-4634-ab96-fcacc24d49f9",
+    "id": "2733f7c8-1909-44d8-8f3e-53a73cfa17c0",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #85)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1022,11 +1022,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4e96acae-1332-4fac-9579-818961765c2c",
+    "id": "973f547f-ff9d-450b-8cda-cc678d674f31",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #86)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1034,11 +1034,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "126ad639-842f-46d6-b927-40514e3031f9",
+    "id": "961a35c8-dda9-4d98-90e5-c4a2e21fa906",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #87)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1046,11 +1046,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "86bdddeb-e513-4c28-8ce1-5b4e8696c1eb",
+    "id": "900a7d27-3d12-405c-ab9a-a2fda391ad98",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #88)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1058,11 +1058,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fa8207e4-9a81-442a-8e19-3a657513da4c",
+    "id": "0cb15e5f-785a-4664-b9b4-fdc24c1c2c1e",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #89)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1070,11 +1070,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "66b71bf5-b0a2-4868-bd6d-fd5b34403794",
+    "id": "21c20259-1fa2-40c4-9a86-d0cc6d23c6d6",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #90)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1082,11 +1082,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ad167b92-ef4c-4a23-9380-96455c68a678",
+    "id": "8f42b4df-a0e1-4486-9550-f7ad844b845c",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #91)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1094,11 +1094,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a2b16ff0-3278-4156-b5e8-d8f5eb5bedca",
+    "id": "43900eb6-7f3d-4851-81cb-fe83895faa1b",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #92)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1106,11 +1106,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f5381d11-d107-443e-98b7-2495bdcc6260",
+    "id": "cab2eb9e-bdbb-4fc6-97a5-5fbf2af4c51c",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #93)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1118,11 +1118,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2f2e3a66-1573-4d3b-81c6-7d55dc91a737",
+    "id": "7545348a-40b8-4bec-8edd-b6d659a88a33",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #94)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1130,11 +1130,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3bb00b21-e34a-4152-91a6-4bfc3f9ade3d",
+    "id": "e8dfee18-a30b-4faa-901b-e64011db8ee2",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #95)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1142,11 +1142,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "83c0430d-204b-4acf-869f-eef66fff23e3",
+    "id": "bbad1311-0e59-4eeb-8648-ea0e12460aa2",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #96)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1154,11 +1154,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c35dd2b1-03a6-405a-840f-06eab18b488d",
+    "id": "6dab6e89-8131-4836-99f5-a4e9214d13a8",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #97)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1166,11 +1166,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d83eb6cd-14d9-47dd-85e9-266d2f1da28c",
+    "id": "36ad9939-3c54-4761-8265-de053cab12aa",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #98)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1178,11 +1178,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "78861a3a-80ca-4e43-b3fe-800c8579914c",
+    "id": "0d718409-c4e6-4f63-9c7a-14326ea9b432",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #99)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1190,11 +1190,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7d476b07-fe20-4ed5-8f05-80521a71adc3",
+    "id": "23e211e0-a6c8-403e-a8ce-cc0166f80fe8",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #100)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1202,11 +1202,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "36f8850a-220e-482d-b982-3827ceda8bcc",
+    "id": "009420cf-33da-4bcf-a168-e087e6925e2f",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #101)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1214,11 +1214,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1796c888-e777-4559-81f8-cb2b7849f8f5",
+    "id": "2f77d060-bb00-4532-9de5-6131bbd0e43a",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #102)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1226,11 +1226,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6d9e40b0-0a32-47e9-b220-ae3352e4eb00",
+    "id": "5b8d9008-d784-45d9-80f8-848f71e6a40f",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #103)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1238,11 +1238,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "66769ab1-264f-4fd9-999d-945c3caa4b63",
+    "id": "07c42f27-bce4-4166-8d64-8ee1764fc6f8",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #104)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1250,11 +1250,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c1825a92-2307-40b1-a23e-47870336edc8",
+    "id": "fde6c8f7-3678-4111-8d16-57d8c188af84",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #105)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1262,11 +1262,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fea47b81-77d8-462f-848e-7f0276a0b14a",
+    "id": "6e7e4a58-f130-4368-b148-977904584440",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #106)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1274,11 +1274,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b3de7115-6be2-4dab-b516-a4112ec33aab",
+    "id": "aa6e3cc3-521e-44e3-9931-0391a33b20e2",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #107)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1286,11 +1286,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f5540bf7-4ac6-4771-82d4-a293a9342459",
+    "id": "6d5642e8-3f26-406f-bd08-4608f52d4d0a",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #108)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1298,11 +1298,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1c8dd58e-c317-423c-80cc-54df4a2c7139",
+    "id": "58df5321-4c2c-490c-9366-645309adc297",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #109)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1310,11 +1310,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e95a6641-18f3-4e8e-975e-2278e0c9d1ec",
+    "id": "5d4ed6f0-74ac-419a-b286-7f7a8e7214e4",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #110)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1322,11 +1322,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "75832a39-e28f-4709-b045-5a05ebd94828",
+    "id": "aa0b9028-0cf8-4930-ad30-194f7ecc4544",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #111)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1334,11 +1334,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f5eb51a8-eb0a-4123-9c4a-8f74a1c30cb5",
+    "id": "280536f2-92db-4a69-8a1a-79f3c8f385da",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #112)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1346,11 +1346,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "05642d9f-caac-4662-b0fa-f59ef1ea15aa",
+    "id": "0953c637-ea0d-4d32-b02c-b931fdc1afd4",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #113)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1358,11 +1358,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "66fcc6a2-9e3d-496b-91f4-3c3b549c13e3",
+    "id": "decf89b1-e039-4192-ba45-d423b30e5522",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #114)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1370,11 +1370,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "34c2761f-8e36-47a9-9368-8eedacca4e85",
+    "id": "0211681a-847d-46df-ad2d-c57f2081aede",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #115)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1382,11 +1382,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f3e87d8d-5119-4f3a-bd67-e614474354a1",
+    "id": "5d5d23d1-3b90-42f6-94f0-6954ee767c2e",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #116)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1394,11 +1394,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4eb12c08-3503-4b4f-b4b6-b1e6bb1d90fd",
+    "id": "792c649f-91a3-4686-aa49-b1fe44d9fb16",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #117)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1406,11 +1406,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "222aa35c-707c-499c-9609-abab96871166",
+    "id": "f31c419e-8631-40d9-8cd4-7996c19e1f3a",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #118)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1418,11 +1418,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cb7aeb99-95df-4c2d-88ef-8d1048e7ba9c",
+    "id": "32e1317a-e246-48bf-8b49-b097d1a0c222",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #119)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1430,11 +1430,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8bff332e-2528-4ab3-a6e7-aad15c620724",
+    "id": "3ff0170c-60bb-4208-9ec0-b8098ec6003c",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #120)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1442,11 +1442,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "951ab1e2-0126-4ecf-ac17-18242dceb62e",
+    "id": "ad7effe7-6cfd-49ea-9d39-f10de9957d33",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #121)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1454,11 +1454,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8e91aa5c-170b-4e35-912f-86c955019ec6",
+    "id": "b6f001fa-03f5-4bb9-a8d9-9085d5bd719e",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #122)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1466,11 +1466,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "79a37398-57a2-481f-b922-3b95486f9282",
+    "id": "542491d2-5b1f-48f2-bbaa-bf4e0caf458b",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #123)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1478,11 +1478,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b01637fe-f3aa-454f-93d6-44781ba5b22b",
+    "id": "5fe0badc-15e7-4161-bf49-700e304703d3",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #124)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1490,11 +1490,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "464578cc-21f2-4480-96db-4d30113525ba",
+    "id": "a00575f8-3815-407c-8211-da298f4750af",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #125)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1502,11 +1502,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8f53e630-8c5e-48c6-8cbb-efb0c0e2af1b",
+    "id": "146116ad-afcd-404e-9555-65ab1ccaff1f",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #126)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1514,11 +1514,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "49ca469e-5e3e-40d9-889a-dc0e8610058a",
+    "id": "68cb2505-6132-4d5e-bdb5-9d836b38eec6",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #127)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1526,11 +1526,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b4c08831-4a91-46ba-8159-95887c5c7956",
+    "id": "9f35676c-afc4-4d74-89d7-58d732eed52d",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #128)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1538,11 +1538,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6fa75c3b-c955-49f1-b1b8-76ca5cbb420c",
+    "id": "74bef4b3-926d-4a7f-99f5-80dbe6979225",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #129)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1550,11 +1550,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "90efb62d-84ba-4c6c-96b6-7e67b377d1fa",
+    "id": "f2edf029-4a7c-4523-8caa-ccac79b23ec3",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #130)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1562,11 +1562,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e28261e9-dc09-4910-87fe-fd6535d69b0c",
+    "id": "766a31c1-ca37-452f-a2f7-29bcabf54003",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #131)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1574,11 +1574,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3771fd59-974d-4643-8ab6-25e4468aa309",
+    "id": "129001bd-dd48-467a-b34d-de9d125ccb0f",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #132)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1586,11 +1586,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d907f8dd-4bc3-4fc1-ad68-5a5de5c5a0db",
+    "id": "5b1e4119-4363-44df-8f3b-70b4887289f1",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #133)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1598,11 +1598,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ffda066a-4897-4611-ac6c-6f70b1617933",
+    "id": "142d2d1e-1b5b-4b5b-afd0-5cd3a1e4468e",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #134)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1610,11 +1610,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "169ac8a1-177e-496f-ae1d-75fe474dc6ab",
+    "id": "182e3f8c-f859-4ed7-bddd-c6998c68f208",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #135)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1622,11 +1622,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "24a95263-346a-4a97-9c58-f542449cfa8b",
+    "id": "b54a55ed-336c-4e92-ad46-b9817c8d4bfc",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #136)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1634,11 +1634,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "629ce7de-221c-4382-a048-da8197d3faed",
+    "id": "94517cfa-8e59-4d2d-9cec-23120fef85b0",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #137)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1646,11 +1646,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fb4880ed-8c34-4a00-a7f7-5af50a4e7aa0",
+    "id": "30296ffd-4c8c-4a32-bf06-da87c430a833",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #138)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1658,11 +1658,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5dc785e1-c644-4747-b90d-aa38495283f2",
+    "id": "6e6c4191-4571-4cd6-854f-16f1fb7805b1",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #139)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1670,11 +1670,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c68f701a-d7b4-49d9-9c08-d0cf701cf3d1",
+    "id": "a76d4015-d449-4bb7-9c89-59a67fe13b37",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #140)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1682,11 +1682,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2a46c0d5-3908-49cf-87cd-cb2c987be5ec",
+    "id": "62901d8e-22d1-45a4-af5a-d06425ae52ef",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #141)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1694,11 +1694,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7fbca185-e19d-4d08-868a-f3cf7a2573b0",
+    "id": "d9e41059-6cda-4a61-9826-bc7ee18e252f",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #142)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1706,11 +1706,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "09a97f39-7e03-4d57-9bc9-0b7e8c151568",
+    "id": "1000e296-f7a8-4957-8911-9492aa44cd5b",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #143)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1718,11 +1718,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4c0283c3-6f79-4eee-9cd3-b36dc576ac35",
+    "id": "f39bab61-6dd9-4b5c-a0c1-f5e36ba712a0",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #144)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1730,11 +1730,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "00ea68b5-8191-4537-a6cb-b1ae1c6b7329",
+    "id": "0a2a0590-4d1b-486a-acf7-42da24d8626d",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #145)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1742,11 +1742,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bad8cd44-15a4-48bc-8c7f-a22d46cb163a",
+    "id": "bafded83-eb61-4b99-a43f-b90150cf758d",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #146)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1754,11 +1754,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bcfab158-7717-4f56-b86f-41b165b3e738",
+    "id": "4e956485-325f-4e2a-99ee-fc61a1662e7c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #147)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1766,11 +1766,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1464d56d-bb02-418a-a674-28fb2e74983c",
+    "id": "45e44ea1-e851-43ce-aa03-94f774a359f3",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #148)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1778,11 +1778,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b5f1748d-3c8b-4308-9d59-89ed76e689c6",
+    "id": "976b7be4-558c-4408-b383-19ccc4f98cc7",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #149)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1790,11 +1790,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "294ade6a-6fdd-4032-a8d6-9528c76b0dcb",
+    "id": "9092d61d-45e6-4b75-8610-fb592fa222da",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #150)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1802,11 +1802,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8062424a-64b1-495b-b2bb-22df9e4a2146",
+    "id": "8b3d899d-4391-4c6d-8f92-2af681fed0d1",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #151)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1814,11 +1814,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "85bdf48c-43b4-4e64-b077-0bd0224df1e7",
+    "id": "e21c807d-7252-4022-bfd9-81f6fcb34d4e",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #152)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1826,11 +1826,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "afc5d49f-d0fe-420e-9c1e-00c8b8e23902",
+    "id": "75393305-1612-4457-a7f5-5f02888f68b0",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #153)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1838,11 +1838,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "71cf83d4-9d22-446a-afd1-0a436a14a0a2",
+    "id": "5e5e0c9f-4ea9-4de6-8e17-3e1552b47936",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #154)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1850,11 +1850,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "989c4b82-90b5-40ea-b4a7-41e6d93673bf",
+    "id": "526b7ac7-2524-4942-b33c-6010e7a670e1",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #155)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1862,11 +1862,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2b03de62-93d1-453c-a6e5-bfa3a920e4ce",
+    "id": "1240bd1b-4294-40f2-b225-f1c914a2f12e",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #156)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1874,11 +1874,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1fc140ce-9c95-46ad-9feb-41676fe53b6c",
+    "id": "d6692a09-1e6d-44af-8340-8bdbf1dc2fd6",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #157)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1886,11 +1886,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2215f59e-161c-4152-a1bb-f5a568b69c10",
+    "id": "b519bf60-282f-4859-afb3-de767f53f520",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #158)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1898,11 +1898,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2906ebe7-b14b-401f-9d82-2c319c9d965e",
+    "id": "31b370c1-d757-4118-8a6d-16752950ed38",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #159)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1910,11 +1910,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9cf41426-7d02-4700-aa4d-e31fe533feba",
+    "id": "649f0980-a85b-4c64-837a-befef85d1298",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #160)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1922,11 +1922,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c9edbb2f-26ee-4aae-be9e-e9fc8d3fc2af",
+    "id": "52f7a985-8594-4936-bfa2-32ce92e1812f",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #161)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1934,11 +1934,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fad81ea0-7565-4177-9f1b-a5b029649237",
+    "id": "134beb66-48e6-4efe-89b3-6c20d630485d",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #162)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1946,11 +1946,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "dfa3a19b-6aa4-43be-b3ed-e3755b6e9437",
+    "id": "0030597c-0b92-4701-9b67-35556b7ef0cb",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #163)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1958,11 +1958,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "131ed285-b543-4781-8b31-dffdc1a2d21a",
+    "id": "876f72c8-d9da-4142-8a22-b04a307eb9b1",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #164)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1970,11 +1970,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "00525b8a-3505-466a-9c91-fab4f36ef2ae",
+    "id": "cc486c3f-fd60-443f-9702-fc9713eefd23",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #165)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1982,11 +1982,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f3acb3b4-38e2-4c4e-aabd-ce7d822a9b77",
+    "id": "551413ee-3283-4b07-85d8-4e9efb7f40ac",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #166)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1994,11 +1994,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7ecb3f8c-b64c-4dae-89bc-f7ed7079ffbe",
+    "id": "ff0ef46a-0fe6-4f3f-bcaf-4c1a7236672c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #167)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2006,11 +2006,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e15d58c3-ed91-4c95-8bf3-1729890e1d8e",
+    "id": "6c03b351-3209-4067-b495-30489f254124",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #168)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2018,11 +2018,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d2d3c2a4-284c-4548-9537-38ede6673452",
+    "id": "c6ea8e6d-52ec-4088-8e80-6e50c63994fb",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #169)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2030,11 +2030,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4adfae9e-e9cd-41e7-a783-c98043c60dcc",
+    "id": "fa12a9c1-02d1-413c-8747-9705170d469b",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #170)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2042,11 +2042,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a84a2dee-8330-4c6d-8257-14352543b515",
+    "id": "7df2cf52-007b-4af5-bae3-71b3bee5ce67",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #171)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2054,11 +2054,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f74853fa-a41f-4745-8a6d-ce85be7eb45c",
+    "id": "38acad2e-8aea-479f-9eca-5a59376e50eb",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #172)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2066,11 +2066,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f46bcc80-b4f0-4ecb-947d-f3476b9ce6b9",
+    "id": "ce310272-e821-4239-b4a1-5e01a8b035b0",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #173)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2078,11 +2078,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "da1d70f9-d9be-4ff4-bd6c-06e2f7d72f3a",
+    "id": "d7cf80cf-47d1-4bb4-96b5-0e09e000b265",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #174)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2090,11 +2090,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "453470ab-3225-4624-a121-e147c10276be",
+    "id": "bf2d3465-2b56-476e-92a7-75edabc56e42",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #175)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2102,11 +2102,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8d653d55-8475-494b-8ba1-0869167144e0",
+    "id": "f72c0083-af5d-4dfe-99ee-98f96af1df11",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #176)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2114,11 +2114,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "df5a3b06-6879-4faa-a856-956caece5951",
+    "id": "c1cd349c-6b41-4d96-8c84-a9b4bfe3030c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #177)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2126,11 +2126,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "efe0d04f-3f81-4dce-8d3d-b765273b28e5",
+    "id": "f072329a-db93-4360-9ccb-e8107e0c65d0",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #178)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2138,11 +2138,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "37efc1e5-e30a-44c4-b098-7cda7a0d952c",
+    "id": "8ae8fa98-f153-40a0-84be-c8b5f8138c58",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #179)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2150,11 +2150,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5c094640-f1b0-4b8b-b2a5-cd13be7a4e24",
+    "id": "ea9a73fa-8ef3-4cb4-926e-cc3596c6b775",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #180)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2162,11 +2162,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1f643a30-ab48-449a-a9ae-376a5ad68269",
+    "id": "8f789b2f-dc0d-4df8-8718-d9b8c7cbc6fd",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #181)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2174,11 +2174,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c539b054-f5ab-4544-82a9-8966d0184667",
+    "id": "7fed46fc-8d67-4689-a811-290d759ff986",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #182)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2186,11 +2186,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e663e303-d6a5-485e-b292-aaee4a6e99f1",
+    "id": "87279f5a-3c79-46ca-b5f8-58830ffe3b96",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #183)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2198,11 +2198,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b97ed45b-ce8d-4a77-b8d9-9669e9998f31",
+    "id": "9e91debb-5f4a-428a-9c04-c0eba7532d2c",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #184)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2210,11 +2210,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7d93f879-77b3-416e-b763-d0d8d880aab7",
+    "id": "4ebe7634-aa4a-4dbc-b33f-6f75799120ea",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #185)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2222,11 +2222,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "55236fa3-3d10-46d1-97fa-3718f97e5a1e",
+    "id": "f2ca5a06-f395-4766-b8b6-088a32808f40",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #186)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2234,11 +2234,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "84dadbae-892c-4343-9ac8-1d11d381c829",
+    "id": "25809dfd-85ce-4fdf-bdc4-bcb7efdd3984",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #187)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2246,11 +2246,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "73a464a8-84c1-4e74-9a92-ab10c254ed14",
+    "id": "15605308-a667-4a48-9cb5-3bf64b1f41cc",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #188)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2258,11 +2258,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "48f9fae6-815e-407c-ade5-b6cb5b56dc42",
+    "id": "b5227cb5-c4a4-4cff-b26a-2f5273992bf7",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #189)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2270,11 +2270,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5eca806f-5a11-447e-a10d-27a65c5e7fd7",
+    "id": "510ed507-f837-4e40-8c70-0c65524cb702",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #190)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2282,11 +2282,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4671deae-fc24-4671-abe1-93ec56f29868",
+    "id": "2d746548-e449-4a75-892f-ee0fde70e5ff",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #191)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2294,11 +2294,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c05f7bfa-87ff-47d6-8380-004a9aeb05b4",
+    "id": "a95ec8a5-a14b-4dd4-bd72-2aad88b779e2",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #192)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2306,11 +2306,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ebd32ed7-be05-40c1-acab-b4b498620a39",
+    "id": "a25f00dc-ec14-4450-8eac-8c731782af9d",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #193)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2318,11 +2318,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5b7a05f6-2aec-4db1-beac-0b79f6ab5333",
+    "id": "c1ed01ac-d3bb-473e-89fa-77accb64aff2",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #194)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2330,11 +2330,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fee281ee-9af8-4ddb-b167-9d9a7e73c71e",
+    "id": "603fa795-3c47-4e68-8e20-2b80960fe619",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #195)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2342,11 +2342,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1e134956-571f-4c02-ba07-513bc1b6efb1",
+    "id": "67c34609-3642-41e0-9106-8e74a43cd8e7",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #196)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2354,11 +2354,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "76a4ed1b-0ccd-451a-ba1d-e7a959b3eec5",
+    "id": "0ceaddef-68aa-4de2-ba0f-a2eed91f8b8e",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #197)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2366,11 +2366,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ea7868e1-90b5-4668-8182-611c3051ba9c",
+    "id": "a7b8124c-e2d1-4159-a093-574307de801a",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #198)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2378,11 +2378,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5675cd96-8da7-41d3-bbfe-01a3cd6259f2",
+    "id": "c26b8b1e-35c5-42c5-a159-2093cc8ac2cf",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #199)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2390,11 +2390,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "334f0908-9225-4ae7-9b59-971c2f84a524",
+    "id": "7ffa3973-a2cf-420f-bbb3-9a5df0590cd4",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #200)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2402,11 +2402,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f10c0f1a-a648-4f6f-b4d6-32f3c5eda194",
+    "id": "b9acafb9-84f0-4a22-bf4f-59752638c3e9",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #201)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2414,11 +2414,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "55be954b-848c-4d3e-aabf-bbb81bb8e2b6",
+    "id": "e7198dfd-3dca-401c-b43a-b5e8c1a72536",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #202)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2426,11 +2426,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ba42c5b8-7de6-4619-81b6-98083044c707",
+    "id": "bf5efe35-b0b6-4e06-bac7-5b26c19357fe",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #203)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2438,11 +2438,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3d268da6-9221-4ecb-8daa-d8e5c0e8d070",
+    "id": "617c662f-e428-4f60-a78d-c56523419b70",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #204)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2450,11 +2450,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2d4c4eb6-95de-4e84-8518-38d086cc123d",
+    "id": "0da7fe8e-1765-492b-a597-6962d1677d5a",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #205)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2462,11 +2462,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a244869f-f88b-428e-9283-edd57ca9111f",
+    "id": "399c5fd4-5c02-4f5a-9702-8c4406764557",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #206)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2474,11 +2474,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d8e39cfe-e49f-4ba9-bc4e-42924c0b726d",
+    "id": "1fd00cc2-e5fa-404c-8b02-827a297cf48c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #207)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2486,11 +2486,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "787e9537-402f-4d9e-9dec-fc90e179736a",
+    "id": "d2ce0b90-3b0d-47d9-ba8a-df8843ad2715",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #208)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2498,11 +2498,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "829552e2-7b88-403d-812f-4fd3195d20ff",
+    "id": "01ddb812-e119-499a-9465-9e9dc6a4b153",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #209)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2510,11 +2510,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9968dacf-6ef1-4746-b0e2-6ca3e56ad279",
+    "id": "225fb60f-bbd5-4946-9ee4-af8b93f7df59",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #210)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2522,11 +2522,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8926b6b0-a1b5-4d19-ae7d-e49aecdcd78e",
+    "id": "b8dab75b-ba79-48b4-be53-6b1ac3edf8bb",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #211)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2534,11 +2534,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "47143738-3827-45c5-80c6-c3f3e244c878",
+    "id": "805167a4-0aa2-4e90-b1a7-93b8945d4a6e",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #212)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2546,11 +2546,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5f98bb26-2f2d-4d68-af06-00669000f44e",
+    "id": "a9e45aac-187a-4494-bd75-1d23596a0155",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #213)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2558,11 +2558,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f69e8ddf-7f2e-4c58-8937-fa82a813f5d6",
+    "id": "93d3b92b-c571-43ad-8883-ec3b66f2be60",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #214)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2570,11 +2570,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4e2dd717-19aa-487d-bc91-e8c7e6877e62",
+    "id": "750c2354-ed32-4efa-8212-63b7f3a988bc",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #215)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2582,11 +2582,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0014dd45-c5d2-40a5-8e5e-c02a7cf6ef84",
+    "id": "6b61a5a3-5f07-40d9-b8f9-e7dfb2c732b3",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #216)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2594,11 +2594,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "45674088-b0a3-4257-807f-fc46e8983140",
+    "id": "e7df98d4-3639-47d0-b3de-7143b7a51f54",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #217)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2606,11 +2606,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4d4c108b-3609-4aeb-ad30-b7f6164aafad",
+    "id": "46162fb9-5231-47a1-8bc2-86429d3cc1d0",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #218)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2618,11 +2618,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "435bafb6-1d32-4be7-8120-fbf5cb5cc0eb",
+    "id": "0da06d65-a340-4339-aac2-74de2f3ee9b4",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #219)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2630,11 +2630,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "acd32a92-e9c9-4964-8a52-7eaf25153395",
+    "id": "aed7db4a-fe94-4224-8baf-47803607929b",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #220)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2642,11 +2642,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ecfe6dd1-308b-4b3e-860c-c78ed6a09627",
+    "id": "7b75c69b-4b92-4b98-9ef9-a1c7be7f6a42",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #221)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2654,11 +2654,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8e5c87ad-3294-470b-809a-d4de57660b1d",
+    "id": "0c813197-d73b-4c45-873b-f34b5f5e73f2",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #222)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2666,11 +2666,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "74f5325a-a019-41ae-abf5-860895112ab9",
+    "id": "780f9f38-fc35-402e-bdca-061ab38d1be3",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #223)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2678,11 +2678,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bf3920a3-ba25-4eb3-a39a-39101b87b33a",
+    "id": "4fb2fd8b-cd84-46a5-941d-e7976b1b7723",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #224)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2690,11 +2690,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e8b46c75-c930-4fd4-9b45-1a0623a3d00a",
+    "id": "f1f0d943-5bff-4921-a651-c31dab5ed2bc",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #225)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2702,11 +2702,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c7429cc1-ce5e-44ea-9516-119d15571093",
+    "id": "1806f162-464c-448f-a9c4-6a544d9233ae",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #226)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2714,11 +2714,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0f3de44d-497d-4d4d-a7f0-e937efe8bc4c",
+    "id": "bfe1e04b-23b9-4045-81ac-23a6c511ec49",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #227)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2726,11 +2726,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4ff8203e-cb5e-4380-97e1-a1d2f18ec15d",
+    "id": "f55757e3-1d03-4d12-95a5-269847c848cd",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #228)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2738,11 +2738,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d9f8c492-a687-42fd-8fcd-cc6c2f92afb0",
+    "id": "61551f8b-5918-44fd-ac2a-c88e27246212",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #229)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2750,11 +2750,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2f46bfa3-91bc-407f-b35d-45e43d8a47cd",
+    "id": "71bee2fb-8daa-457f-a4b8-83ccc171b152",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #230)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2762,11 +2762,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "febd00e5-d595-40d2-87e9-a848f83c35a6",
+    "id": "34f591a4-b9c8-453b-a895-64d7931d5f88",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #231)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2774,11 +2774,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "39affa8f-b97e-42b5-bec6-f840f55d9524",
+    "id": "273d1867-138a-4cfb-ba27-394fb8151874",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #232)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2786,11 +2786,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "01169b2c-afde-41cb-bea8-1bc9a124b794",
+    "id": "bf35d36f-ac1f-4775-9758-63efbe5026cc",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #233)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2798,11 +2798,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0ba6fdc5-8db8-4c4d-b590-9d8941dcd1c5",
+    "id": "4947617c-3390-4334-9fee-1b9ce7a704a2",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #234)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2810,11 +2810,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3b7135fd-9bb1-440f-a789-e57fd46d4f68",
+    "id": "adae15c7-ca97-4075-a3bd-34dde007b2af",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #235)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2822,11 +2822,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7b649237-0c4f-43cb-86c8-b463a8edf8d6",
+    "id": "19c922ec-70e1-49ce-9815-b37cb905b9f9",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #236)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2834,11 +2834,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c98747fe-248a-4d86-9c95-c9a729bdad9e",
+    "id": "33016208-f0ad-440a-839a-01940c948872",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #237)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2846,11 +2846,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "98c3faa6-d202-4fa9-88c9-7f538854b2f7",
+    "id": "f4330289-b578-41fe-ab82-262c10f0c729",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #238)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2858,11 +2858,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6e224817-6abd-4aa7-b754-99f2474e3806",
+    "id": "509a4fa2-3f5c-4439-bd53-f54ada05931d",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #239)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2870,11 +2870,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b147d22b-5900-4b01-8bd8-4d7931e950a0",
+    "id": "4df61b76-1546-4227-9d35-efa7b68da06f",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #240)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2882,11 +2882,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "723c6905-2bf8-475c-be68-a835285568f1",
+    "id": "dc62369c-bf68-4be3-8dc7-df02d1ad446d",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #241)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2894,11 +2894,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cd4f3e38-40c5-4f2c-add3-ae19f7ee4ce8",
+    "id": "39b509b0-8862-4a9a-bed4-51f6685dc378",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #242)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2906,11 +2906,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "844975af-ee1d-4409-b254-5c46a37424a0",
+    "id": "892754b3-1b87-4d44-81da-da502ff4d9cc",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #243)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2918,11 +2918,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "705676a4-dd5a-4b93-9c97-5bf1305c8913",
+    "id": "c1f9650f-b3e5-4d4c-a42c-e8a4f38650e4",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #244)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2930,11 +2930,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b6661e7e-b25a-45a1-b896-6a502f4d0d28",
+    "id": "bd35b154-d34d-4c84-a4ed-729f6f61dd70",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #245)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2942,11 +2942,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bf7c519f-cc8e-4807-a798-706de0c2cb90",
+    "id": "2229137e-7b50-4e9d-9adf-d323b024a7f8",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #246)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2954,11 +2954,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3090c402-9002-4d74-b452-c643ba75826e",
+    "id": "e29f071b-891d-4082-80b8-424e35c05445",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #247)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2966,11 +2966,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8f31c453-e091-4aac-9b60-a43a3f442e83",
+    "id": "545814b6-815d-4f81-be7c-9375a07fb16c",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #248)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2978,11 +2978,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "60fc0f91-e774-4738-8d33-a89945800bf9",
+    "id": "d797fd25-3b06-4879-9c49-0dcaac3499fe",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #249)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2990,11 +2990,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2284fb67-d4b6-4cef-a5b3-04fe6b2daebd",
+    "id": "640a7198-26ee-406f-b1b3-e4901175769d",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #250)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3002,11 +3002,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a051f7d8-8cdb-472d-bda7-230f99476d6d",
+    "id": "73df669d-3e61-4b62-92bf-10608e7b71ef",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #251)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3014,11 +3014,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "10b1ab73-d65a-4544-89f9-94510a96b444",
+    "id": "f8e35285-ccbc-40fa-9e48-048947be8cb7",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #252)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3026,11 +3026,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "27d06803-4e0e-4b6f-8c82-dc2ac93782ba",
+    "id": "c55a0484-d959-4c00-9dea-012b029f90fa",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #253)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3038,11 +3038,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d1cfda91-945d-4123-ae73-a4f13e8865de",
+    "id": "9d70639f-4c4a-41e9-9251-1afba642fe9c",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #254)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3050,11 +3050,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ba31ba74-2c28-489a-acca-e2f344cc9815",
+    "id": "6c229f31-85ab-473c-9733-b1a469e584b4",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #255)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3062,11 +3062,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d6fbbf54-ed2b-4c3f-b02a-91cb2365e0e2",
+    "id": "763efdd3-ac7f-433d-b662-70d7892cb6ec",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #256)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3074,11 +3074,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0bea4d6d-9eff-4c00-ab7d-1cf14a48c64b",
+    "id": "826f175a-f338-4d05-b166-385f1d35ac2e",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #257)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3086,11 +3086,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b120fe5e-8bd4-4ce8-84bb-c47b62875349",
+    "id": "14e364ca-db53-4185-b1e3-e5f51c6ccbc2",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #258)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3098,11 +3098,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b2cebb8c-4d86-4f04-a8ca-a1c377637bdf",
+    "id": "1ac49b22-682f-4b6b-9c38-92d914b2c04a",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #259)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3110,11 +3110,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a8abaaea-ef8e-42d4-bc3c-36a306f6933a",
+    "id": "f0cef7b7-c3e4-4e9c-8ee4-f0bf7db85389",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #260)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3122,11 +3122,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a3c23fdd-40e5-4f4a-9915-8aee4a6761f3",
+    "id": "d5c94e72-8256-4e6e-8029-7568df5dbc56",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #261)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3134,11 +3134,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9220ecf6-333d-4471-a3b0-1b2ad173ae7c",
+    "id": "4931aee4-a35f-4550-84b2-009a4e22d3b5",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #262)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3146,11 +3146,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f338a5a6-f4c9-487d-9c11-fb557ec3ad1a",
+    "id": "c0657931-d0ce-4203-b179-9aa8b8fb09b3",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #263)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3158,11 +3158,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0be58d1b-349f-494d-9e95-7c2004cdd4d5",
+    "id": "e051fa56-cad5-42b9-b696-e16ac13b8cfa",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #264)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3170,11 +3170,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "823cd48b-fbbc-4e6c-84cd-a31555970169",
+    "id": "4b2dabc1-f038-4b71-929b-ffd98a18cfe8",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #265)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3182,11 +3182,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9380f3b8-a406-4fd4-9fc9-1c68fb950438",
+    "id": "2b3b84e3-6228-4ae8-91e0-f3c15ebcd69b",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #266)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3194,11 +3194,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0a7ea6fa-3b69-4841-9ba4-0769b418bffb",
+    "id": "480531b4-2274-41ac-a20e-1a41de1e18d7",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #267)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3206,11 +3206,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "16a658ef-385b-4b34-b270-963621b1ff9e",
+    "id": "355083f1-0ac1-4c2d-8e6a-930d562e44b4",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #268)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3218,11 +3218,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d97c8307-17ef-43a4-b274-3974d081c773",
+    "id": "cfbb3084-6a0c-4364-917f-09d1922d44ab",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #269)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3230,11 +3230,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7486f512-ef4e-4849-9d57-4acd972dc531",
+    "id": "66d7a16f-6e75-456b-a7e7-e3541af1f3de",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #270)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3242,11 +3242,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "946641f4-7c7f-439a-9163-d88a00c9d71d",
+    "id": "426b2add-b323-48a7-83ad-9abea008c1f5",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #271)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3254,11 +3254,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4de9ea16-1bcc-4802-8a97-2cc7db81d3e0",
+    "id": "7ccc8274-6edf-4e21-8dcd-234f6f9af9d0",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #272)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3266,11 +3266,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "08cb1af3-fc3e-45ba-9bc6-48d709a6dd53",
+    "id": "6252579b-2f8e-4829-b143-38b6b52bc8bd",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #273)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3278,11 +3278,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b994bf86-6821-478c-a231-64fffba77d6d",
+    "id": "108d285e-871d-40b4-b08f-ee41895f7b6e",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #274)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3290,11 +3290,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5fcc8f7e-c576-4c1b-a255-20720aa1d467",
+    "id": "9ca26407-2da6-4c4e-9ebe-0e5ad4958b33",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #275)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3302,11 +3302,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2cd09812-1b9f-4f84-8c5b-13b14fcc074c",
+    "id": "8a2c367b-1022-46e8-970f-0a18f6c93966",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #276)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3314,11 +3314,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "aa1e724d-d287-4145-9b81-c69a92ce958d",
+    "id": "1f5939d6-6601-4f47-991b-76b0adcfd3ee",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #277)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3326,11 +3326,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "77bd86ac-b988-433e-8aa2-c17642fe63f7",
+    "id": "655ad229-2b4a-4c39-afa0-e885ac49b054",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #278)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3338,11 +3338,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "006ebdd5-c88e-492b-9a2e-67d6f9eb1522",
+    "id": "e364e041-a035-497b-b134-2d254be26837",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #279)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3350,11 +3350,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f9cdc002-61a2-4e93-8368-6a9ca2243d1b",
+    "id": "8cca22da-6fd0-4c35-831a-7dce6ebf3126",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #280)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3362,11 +3362,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1a9d8898-849e-4eb4-8861-a40ce934e511",
+    "id": "60ad4732-7fde-46e1-811e-0a5ab39d8537",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #281)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3374,11 +3374,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ce1e9252-9014-45b5-a20d-6a01e08dfd25",
+    "id": "73138af2-e4e7-4025-bd22-57999b06e3fc",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #282)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3386,11 +3386,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f986ff7d-e9f6-481d-a53f-1b2120fe69f6",
+    "id": "0c403e14-04e7-4242-a7ff-d7f2e6c2f33e",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #283)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3398,11 +3398,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e592c9b0-c39c-4c89-aa10-d2c92589b806",
+    "id": "681c36bf-60bc-48f8-b5ae-1e9c92662ec3",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #284)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3410,11 +3410,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cca39a01-f795-4624-97de-953dff790e2f",
+    "id": "e1f0c14b-a577-49c1-9403-a8521d3039fa",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #285)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3422,11 +3422,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1eecca18-1b5d-4550-809d-c79877df29ab",
+    "id": "f6330983-dd0a-4343-827e-8409f1b26807",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #286)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3434,11 +3434,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3a635e92-392f-4754-b800-1c8ad66324ce",
+    "id": "1e5b5093-c6f3-4561-a93b-9d3d14c978b9",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #287)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3446,11 +3446,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "10cbce42-6e4e-4b89-8e0b-0f57c2527b1f",
+    "id": "c6c14782-3303-4b2a-98f5-3c19af1e39c8",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #288)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3458,11 +3458,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cc703293-dac0-4deb-b059-643ba98644ae",
+    "id": "daf940e0-5026-435f-b336-3d1f617d7cf5",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #289)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3470,11 +3470,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a14e196e-7f60-4a54-b52c-d4d930d87d39",
+    "id": "25d875b1-dcd8-490b-9906-f4cc00254c1d",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #290)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3482,11 +3482,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "195f5f94-c2ba-41e8-b41d-46bb6f4c5191",
+    "id": "308588f1-cf35-4797-84e6-4ed55d05b02f",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #291)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3494,11 +3494,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e7696351-5b6c-4908-9b3c-1e91436e2659",
+    "id": "94f3cb39-29cd-4e03-b14e-af3a51c70665",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #292)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3506,11 +3506,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8ae76b86-d58f-4532-bc91-12af0607c976",
+    "id": "2b96e88a-b022-455a-9a69-82664c30a39b",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #293)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3518,11 +3518,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2da2b46f-91db-4fd2-8b64-d4039c1f7d56",
+    "id": "26a16603-3406-4c7c-bd15-129b46ce5492",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #294)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3530,11 +3530,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a3ae8311-2f33-4284-876d-178c354567a8",
+    "id": "96042cf3-84c3-4222-a1a9-9be2ae9bc405",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #295)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3542,11 +3542,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a16ac36e-a269-4ff7-9c90-634796800582",
+    "id": "4f33385f-5683-4648-832e-2679dbdba856",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #296)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3554,11 +3554,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "21ac8069-d0d6-4ae0-92d4-935a4be9a705",
+    "id": "9c4c5989-b2ba-4358-bf6f-162bc222df92",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #297)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3566,11 +3566,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e8c0938c-ab97-4634-ae4b-ec4253ce4560",
+    "id": "b70c93bc-6981-4038-9d32-7e1f3d47e838",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #298)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3578,11 +3578,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "512e4cfd-5999-4e9c-a961-585aeaaddfe9",
+    "id": "a25563ba-3602-44b5-a982-4d8ac96782a1",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #299)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3590,11 +3590,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cc1c5d07-b15f-440a-8987-f4a33c1d2b05",
+    "id": "a4969d78-6c26-4551-8273-a5cf63b29a22",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #300)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3602,11 +3602,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "37b182cf-15b6-44e1-ac9c-0088183aad33",
+    "id": "ef63e693-be3f-4f8f-b52a-52436aa1f26c",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #301)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3614,11 +3614,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e6fba08c-144e-4f41-ae15-6dcdc4f1ab7d",
+    "id": "10ff360c-d6cd-4833-9e0e-f7f0fe78c5ef",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #302)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3626,11 +3626,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f3333f09-5e3f-41af-97a4-9ca9fc1da97f",
+    "id": "7d18fad2-56e3-44bb-843d-383b2daf0ee5",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #303)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3638,11 +3638,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a9a9a93a-79b1-4777-a244-49a4ce167fb9",
+    "id": "7cc994f5-b668-4b3b-8ca7-b05087f8abcc",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #304)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3650,11 +3650,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b132dbfe-ae41-4658-945d-205aed6ca93d",
+    "id": "89a851a6-b159-4aeb-a0e1-ef5b02c5bd4a",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #305)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3662,11 +3662,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ea231e2a-0217-4c2d-9278-2759facfaacf",
+    "id": "85b2080c-a0d2-46bf-883f-5997447ad03f",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #306)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3674,11 +3674,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "590adcac-1409-4458-9cf6-5e86f94121e7",
+    "id": "d82b8d18-1e7c-466c-95c7-8610623adaaf",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #307)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3686,11 +3686,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0b7d937d-6114-4b1d-b6dd-8aa71024af79",
+    "id": "21036828-0b7b-4782-9fda-70dec3d82c7f",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #308)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3698,11 +3698,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ca5844dd-32c9-45be-973f-eabf3fb54958",
+    "id": "2246de3e-459f-4867-b0c7-038fe8efee49",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #309)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3710,11 +3710,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "41e70bbe-6c1e-40b8-8a27-079a3179e59c",
+    "id": "b35198b1-8fd5-4c55-bb67-d0338d8029c5",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #310)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3722,11 +3722,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a14c9d94-d1f9-4d66-a511-c4b18853ddc7",
+    "id": "8b2d2e93-c154-4785-8773-cc508be2fdb1",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #311)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3734,11 +3734,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "27ecd107-71bd-42b4-a89c-567ae350123c",
+    "id": "4767721b-364a-4b2c-9dc2-5462daccb17e",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #312)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3746,11 +3746,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9916dc36-4a62-4561-9e06-e6892e7bece2",
+    "id": "3fb0ef87-d122-4d4a-8d90-4c9d02985838",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #313)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3758,11 +3758,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "25349c59-1415-47e9-8a84-0f248f2678d7",
+    "id": "9769175e-6eae-45c1-862c-baf41a379847",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #314)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3770,11 +3770,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "675b8de5-641a-46ec-8709-a818ccc91154",
+    "id": "1d80c17a-56b1-4441-8b3b-43fb9d38f6cc",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #315)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3782,11 +3782,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9c5c2203-3d86-476b-bde3-2c44c9992474",
+    "id": "ddf98879-83c3-4374-afa2-4cddb112f5cc",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #316)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3794,11 +3794,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4dedd28a-a0d6-476c-b85a-b96edd3e3a7f",
+    "id": "3c3e271c-9678-44f8-ad34-6e9cc2225311",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #317)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3806,11 +3806,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "66df33e3-10c1-427d-8796-125eda16543e",
+    "id": "043cd056-39e0-4c82-af6f-2c0a68d58489",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #318)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3818,11 +3818,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "410acf51-91c3-42cb-aeab-47ad3d9decfb",
+    "id": "ec3e1f13-b83d-41d8-8313-e2f68550a504",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #319)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3830,11 +3830,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "37f8d894-018b-4aee-982e-eac8f757fb13",
+    "id": "834318c3-c19b-4e06-b807-257a6bbee940",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #320)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3842,11 +3842,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "79b259a5-74ee-4371-97f7-2a3b4442c054",
+    "id": "3e60aca6-1a33-4283-b252-8b37fbc1a2f4",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #321)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3854,11 +3854,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f7e7ed25-9b7c-49a9-8b96-4c8d0f61c493",
+    "id": "38e65f05-f7cb-491d-90eb-57476c9d3736",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #322)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3866,11 +3866,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c56debba-95b1-45ec-bc99-c22c229140e4",
+    "id": "5c8ee493-ba80-4aa1-998e-b339f00fc802",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #323)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3878,11 +3878,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6029ee13-a4da-4781-9b54-91c1ce2ec355",
+    "id": "8e89ed94-2702-4ad8-8778-2ef460249060",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #324)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3890,11 +3890,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8d8e94d8-2513-40fe-8718-ac7dced348ed",
+    "id": "6c16e23a-87eb-48ae-aabe-2500054ec4da",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #325)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3902,11 +3902,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "dd4b31a5-c059-4505-9b6f-e461c7075e2c",
+    "id": "4ff98157-a9d0-42be-aa95-35f2638fbfbb",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #326)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3914,11 +3914,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cce869e4-e90c-4773-9cf8-abecae9df0c7",
+    "id": "61b7b50d-ab2a-4808-b748-121d909cd3e3",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #327)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3926,11 +3926,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "904a5d51-c986-4907-af7a-dcd2e4185076",
+    "id": "5daf5f9b-c98d-4621-829a-2582b5a4bb38",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #328)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3938,11 +3938,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "70fd48e0-12d1-421f-b475-1d8a5b6cbf53",
+    "id": "782b4757-a010-423d-b5a7-68c784033409",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #329)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3950,11 +3950,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0b78f43a-cf8f-40b0-8b98-541d7dff4aa1",
+    "id": "e733a7d7-7933-401c-b602-37596c3f665b",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #330)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3962,11 +3962,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "90a784e3-648d-45c0-b1ab-9979964db7ef",
+    "id": "1f0b58df-abfb-4e16-890d-274da9999714",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #331)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3974,11 +3974,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "606aa775-5e22-4fc7-8998-a005abc6dec2",
+    "id": "27ecf7cb-b570-4d16-88dd-a87cb76cb099",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #332)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3986,11 +3986,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9ee004bc-d346-44c1-b279-71dc881bd5c6",
+    "id": "7964a66a-bda7-43ac-aef8-49fac5e7b5f9",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #333)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3998,11 +3998,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d92a6878-53f1-4e65-a526-385303f668e2",
+    "id": "a289b0a9-c509-4559-af76-b287bd31edc6",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #334)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4010,11 +4010,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c66ef81c-9427-4246-911c-874e9c9b050c",
+    "id": "d4f9072a-f6ab-4965-8fc9-5870f18a9ebb",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #335)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4022,11 +4022,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "de63c812-b651-4496-af10-1c7ac8b95cac",
+    "id": "0591c64d-c465-43d5-a2db-8ccf599d819d",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #336)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4034,11 +4034,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "60224dfc-f2fd-4ca4-bfad-3f4d66b122bc",
+    "id": "eb8e440e-553f-4c83-81ea-d95f462cf1e1",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #337)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4046,11 +4046,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "abf4184f-d6a8-4b43-9ada-0b56d18dcaf3",
+    "id": "d418fa72-f5f4-4cfd-bb97-026130fd6f4a",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #338)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4058,11 +4058,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4ff56cb6-805c-42b0-842c-d53ec40e080a",
+    "id": "62d0422e-a7a9-4e22-a991-17e02f5d6f83",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #339)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4070,11 +4070,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "80ff8544-a9ae-412f-8ee1-42cb096d05ee",
+    "id": "7c76068f-5e7e-4433-b0d5-3ffa00c13d6b",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #340)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4082,11 +4082,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2a52e2b7-2fb0-483e-8e11-24ba8f5ce04a",
+    "id": "94bc7742-eb57-45ad-95b9-5694370496d7",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #341)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4094,11 +4094,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "53b7b650-5ed1-4f79-b16c-586f4a90249a",
+    "id": "e9f44037-32c6-4d8d-9fd2-2455fde795c3",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #342)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4106,11 +4106,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "09def982-296e-4b7c-be6c-65efd363610f",
+    "id": "de036195-73d7-46eb-8946-056269136a0b",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #343)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4118,11 +4118,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1f10c797-db13-45a6-9459-38b5ab56581e",
+    "id": "b4e58f81-5d3b-4604-bf8d-27eea9d0eea2",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #344)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4130,11 +4130,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1bb38927-168a-4dfa-b24f-aa9b190b2de4",
+    "id": "ce6ed049-9572-40ad-acca-eb341da23bd1",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #345)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4142,11 +4142,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c1c6f98b-ee6a-483e-b7ca-99785f67f8b9",
+    "id": "5bae0f7f-24f7-466e-b167-49da045ffbd2",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #346)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4154,11 +4154,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ce7d6ad0-fdae-4990-a195-b4423c143d8d",
+    "id": "446c86a0-491e-44a3-b380-9d175c6620c7",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #347)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4166,11 +4166,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5ffaeaba-c287-4de0-96dc-9eb42162d4a0",
+    "id": "7acdbac0-dfad-4a19-a249-60c138d0c8a5",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #348)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4178,11 +4178,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b58d27ca-862d-46e8-a1fd-d1c13d0128bc",
+    "id": "e09872f4-168d-4b47-ae35-665cf8c90c38",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #349)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4190,11 +4190,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9f50de95-6e47-4172-a66e-3daee76f2602",
+    "id": "c83a549a-13a3-4368-8fe5-77ebe7b8909e",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #350)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4202,11 +4202,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ccac43da-43ed-4893-9449-6785d588867b",
+    "id": "ccac007c-c98c-45c7-ae82-22b600c19ce7",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #351)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4214,11 +4214,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "df42abc2-ee59-43cf-917a-aec8f166ceac",
+    "id": "3e4ffe30-fe4f-476e-824b-eaa45a522227",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #352)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4226,11 +4226,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7a1e29e3-207b-49be-9355-794b825976d1",
+    "id": "402fcaa3-8f16-4a0b-9f88-931121fe9abf",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #353)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4238,11 +4238,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b85c3b37-d558-47bb-8515-05fb5dfcdcc9",
+    "id": "d53125ff-873f-435e-8c2f-90e8b6603307",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #354)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4250,11 +4250,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0cc70499-6503-4e69-9c15-234f1c05289b",
+    "id": "a805fc21-4d43-4bd2-b42a-7c29f622b540",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #355)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4262,11 +4262,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7b51ca9d-b328-4ebb-902c-15d6df9fd09f",
+    "id": "e3d014e7-2fed-410c-86a6-cdddcdc88c00",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #356)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4274,11 +4274,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b67dd86d-78f8-47a5-83dd-355c27bea104",
+    "id": "2c69bb3a-1046-42ae-ae78-de95ae933576",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #357)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4286,11 +4286,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6f892279-5c59-4891-8738-e84d103ca786",
+    "id": "0325659d-e911-4496-b2d5-4ade0e0c81df",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #358)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4298,11 +4298,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "65cc6522-d4df-4826-be04-98a7ac5861ab",
+    "id": "b5f0a569-ae6c-4fed-8090-85f102dc30bb",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #359)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4310,11 +4310,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7943a54e-2702-45a2-9b9b-85f9e16d0cc5",
+    "id": "3443c2d5-a6b1-4599-8407-9559fc388479",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #360)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4322,11 +4322,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "286f3af0-28f5-4306-a8f0-4eaa8e5fca32",
+    "id": "ce5ede22-016c-4649-84a8-e024a0b2d945",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #361)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4334,11 +4334,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2d70b278-6a5b-4915-9bfa-726e974345ad",
+    "id": "277053b2-6d9b-4a81-9e80-3fd0640309dc",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #362)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4346,11 +4346,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5fad2844-b45b-468a-bac9-c2add12f1710",
+    "id": "10ee45a5-74ca-411c-84a2-3c25ab96fa0c",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #363)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4358,11 +4358,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1397e11d-5771-47cd-a070-37598401aaf4",
+    "id": "1a0b983c-6593-4b5a-9078-8dc6d713d7ea",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #364)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4370,11 +4370,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ec9bc265-a55a-4b37-8e77-fea7734b2c1d",
+    "id": "fcdd765f-f492-4d66-badd-8e98e7279688",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #365)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4382,11 +4382,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9f0db931-5754-4dfc-b97b-3c1a30f79fdb",
+    "id": "93c3b446-f6ae-4b48-9023-5a589d61a8d1",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #366)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4394,11 +4394,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7b62695c-e026-4024-b3a9-86cb0c2e76e0",
+    "id": "bd9f9985-5d9f-4200-857c-39bcb4604910",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #367)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4406,11 +4406,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6f16552a-574d-440e-ab97-2ab5412b3cc5",
+    "id": "e9f69c38-449a-4dd1-806c-a03bcc0ed86b",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #368)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4418,11 +4418,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0f0871d6-5aaa-433e-868f-c84598d63fd3",
+    "id": "da3449b2-db3b-4502-9776-16410f5d0137",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #369)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4430,11 +4430,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f4e0ea85-58a0-4eb1-b088-df33a203a664",
+    "id": "7f302175-422c-4c28-8103-2296fb0116b0",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #370)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4442,11 +4442,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8eafc70f-1bdf-49d5-93cc-bc1043048fe6",
+    "id": "8ce8c907-fdf6-4319-842b-3a7bd49fbbf8",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #371)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4454,11 +4454,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "942bcd45-a95f-4f32-8234-2c1982736d99",
+    "id": "3c614b24-7828-4f05-8b68-583de7c751f5",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #372)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4466,11 +4466,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5999b990-5ddb-4be4-ae65-1525ba1b75f4",
+    "id": "c33623c6-c82e-4889-bfcc-5a9a19682b1e",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #373)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4478,11 +4478,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0a5ab9eb-060e-476b-b1c1-4f7f4af799e9",
+    "id": "e7cbb55e-3654-4ac5-8e66-2a9e60d45dbe",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #374)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4490,11 +4490,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bce8ccd5-c4dd-4499-b7f3-e3db5f691b7c",
+    "id": "953838bb-065e-4db0-9033-c124093cabf5",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #375)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4502,11 +4502,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6ad8185a-e64c-4f23-a65f-9f60bbae46f6",
+    "id": "8f9898ac-0cee-4a18-915b-fd0980653fe6",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #376)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4514,11 +4514,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "26627600-f8bc-4ebd-a1ac-5cbfeec02f90",
+    "id": "e3b06a97-c52c-4084-866f-bd2dc33df589",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #377)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4526,11 +4526,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6e39bfed-f87a-4424-aacf-151bf06df0de",
+    "id": "07ea8dd2-ad7c-4600-8ae0-83eedd7e30ec",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #378)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4538,11 +4538,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "138e0bb7-8993-4af1-82ae-3c81f8fa815a",
+    "id": "9e290e37-e0e5-4f0d-a858-52003cfb37e6",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #379)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4550,11 +4550,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4fb1699a-5bc3-4ffd-8ded-c26d3904e0b5",
+    "id": "76d64a7e-7f92-46e0-990a-befe45dd720f",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #380)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4562,11 +4562,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a8f73013-05f8-47a2-8699-1cb50ae4176d",
+    "id": "8e383b31-04f1-4dc4-b2c3-129ce5461bb8",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #381)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4574,11 +4574,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "51236b07-3052-4f3d-8858-89c9c95f6b87",
+    "id": "7a6d8bcf-cfe8-477b-8a53-d806b442db80",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #382)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4586,11 +4586,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fc3e2956-580c-4ca8-91a0-e059c54233ef",
+    "id": "69d486a0-d513-479b-929f-3f591e4f8ea6",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #383)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4598,11 +4598,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1e6fe7b8-a27e-4035-9a3a-5f0fd7fffcca",
+    "id": "a1586f01-4b24-4829-b313-cb47c3b5d1cb",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #384)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4610,11 +4610,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d74f30d3-07eb-443d-b879-f4e1e8606d91",
+    "id": "12d16277-f216-416b-8591-d20dce86c56d",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #385)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4622,11 +4622,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b70aff69-67dc-4612-a545-f398d47b1e18",
+    "id": "7c7ff7af-c924-4fdc-a166-45807ab1a137",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #386)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4634,11 +4634,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c5bebda9-8396-43cc-ad31-8b087a4e3f3d",
+    "id": "c17e64dc-7884-44b6-978a-131d89ab7bef",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #387)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4646,11 +4646,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3b1bed9c-cf8a-44d5-ad99-423c73f636f4",
+    "id": "b7b35c79-172f-4722-9b15-018d4e8d1cf6",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #388)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4658,11 +4658,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "67232099-8bf0-4f8d-b56f-45a9fbf8a495",
+    "id": "f7890ccf-d1fa-4a9a-b0d2-b1e40c469a08",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #389)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4670,11 +4670,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d4071f31-513f-4f0c-ac92-41943a0d5d2c",
+    "id": "b0a76a71-dc67-49a2-8609-61085fe8f458",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #390)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4682,11 +4682,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c27a97ff-3adc-405e-8a75-057a7aa23e97",
+    "id": "56851d84-4dd6-4c2b-8790-6829573aa07f",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #391)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4694,11 +4694,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e65f7d9b-ac12-4952-80c5-0ebd1d8d9404",
+    "id": "1401d6c8-41e8-4249-a315-ab024f9351e4",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #392)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4706,11 +4706,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "aa821f0c-cf56-4643-abf8-f1aee40187eb",
+    "id": "41fa1098-eb23-403f-a193-0f9d32f81b4d",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #393)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4718,11 +4718,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0e5938eb-daa8-4355-b1e5-a6f865ef1fc4",
+    "id": "ad9ab915-86d5-42b9-8fb9-93e36dad2c8a",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #394)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4730,11 +4730,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f52aaf57-09a5-4ed9-a955-ddfeadf6a0cf",
+    "id": "70afcb0c-c194-45a4-86c5-90241215495e",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #395)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4742,11 +4742,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5d965e2f-2388-408d-840e-105ac10e52a9",
+    "id": "9b129afe-3027-4c2c-8337-3940485153c0",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #396)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4754,11 +4754,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "af8c5079-f3a1-4050-9005-c20553e6a6e1",
+    "id": "299e94fe-9f4b-4d70-8dfc-24731dc278c5",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #397)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4766,11 +4766,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b2bd0b3d-3ce7-48b2-93e8-a896c6c1e07d",
+    "id": "bf486c1a-6a65-4d61-8fe9-6b579ac9f086",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #398)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4778,11 +4778,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "315a60ee-131e-42a1-bee8-bed5cbeffa5d",
+    "id": "b00027a4-311d-4997-a9c8-bf6aaded62d0",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #399)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4790,11 +4790,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "daf448ee-d601-4e41-88ee-ae96988ac48a",
+    "id": "bb4b4c0f-4fd6-404d-9693-4d66513abd50",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #400)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4802,11 +4802,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e805ca8d-2518-4ceb-865d-a1d5cb215dcd",
+    "id": "8ddf98ff-70e8-43f2-99de-d53b9cf104fc",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #401)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4814,11 +4814,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fbcc5f0b-f177-4c10-957e-6c13d0dd6417",
+    "id": "79980dea-b1b5-4243-a184-1565ee368261",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #402)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4826,11 +4826,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bbfe41cb-496e-4b57-89ef-2d80e54f5869",
+    "id": "ff8f4483-5516-49be-95ff-6f2fb726de3f",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #403)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4838,11 +4838,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "96b6aa3f-2abd-4b77-87a1-9a3ca7aa7967",
+    "id": "3b7f202a-50e1-4570-b46d-d4edc4568de3",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #404)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4850,11 +4850,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f25015e0-188f-490b-b1c0-09b4265ade99",
+    "id": "9c79f7f8-a9dd-470e-b36d-c9a173f3f672",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #405)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4862,11 +4862,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "38ab3f24-4da6-4fc8-b6a2-5f691b9184e7",
+    "id": "1cf4c653-2d6c-4215-aa7d-33363bcb025a",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #406)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4874,11 +4874,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b3f11bd4-d916-416c-afbb-cd2e806524a1",
+    "id": "96799d3a-393c-44fc-8941-459a54e4311d",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #407)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4886,11 +4886,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f8fddd1a-819a-4e06-845f-72830fe9a256",
+    "id": "89c1e2c5-815a-40b3-8945-b5d295faee61",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #408)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4898,11 +4898,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d8c9b829-2667-487d-9b14-8fa2ae125905",
+    "id": "3cdd0e56-744e-4a2b-bfe0-aaf868c1c390",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #409)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4910,11 +4910,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "03c5a2a0-8628-4f9a-b7a5-90560224e6df",
+    "id": "d113e97a-2d87-443a-8c3b-5b45238e620b",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #410)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4922,11 +4922,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b2b2fbb8-80ab-467c-93b1-169e3a787fa9",
+    "id": "b3d039fd-f425-40d5-8a2d-1cc9ad576d89",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #411)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4934,11 +4934,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9e956fd4-a61d-4a59-bb29-388e044c4775",
+    "id": "391ae1a9-50c6-4cd1-9222-91d31d2ae5dd",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #412)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4946,11 +4946,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4dd03574-45f5-4aef-891f-7dd122b8d9d2",
+    "id": "def07271-bac8-4ced-9d8b-63623105c653",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #413)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4958,11 +4958,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6d97dd0c-0335-437a-aa24-bb84f1090487",
+    "id": "1eaec3b0-9710-4aa7-8269-c620c07a12c7",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #414)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4970,11 +4970,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5bbabdb4-52d4-4bef-af44-5793ca8313bd",
+    "id": "c2f7dc11-cd49-4609-b947-97ac727e3e62",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #415)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4982,11 +4982,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fa2b9ab6-ae42-4a45-afaf-832fb10e8bb0",
+    "id": "a5fd9f2d-6689-41c9-b466-2a931d493276",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #416)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4994,11 +4994,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "024748e4-b941-4451-a86f-d28d2de6be4c",
+    "id": "b8bc6f3c-fbb7-4b93-924e-59d00742c5d3",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #417)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5006,11 +5006,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c189c43a-c219-40c6-bd37-58e7ba14978e",
+    "id": "12bfaf96-17b7-455a-8315-b7c561cf7b71",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #418)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5018,11 +5018,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "57267790-2a3c-4021-a412-77e671a1c540",
+    "id": "7a1d9ab8-54da-4fc4-8058-7ee1bd7590a2",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #419)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5030,11 +5030,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "eb7f56e9-2f6d-4693-b6a8-4ffc35f669e9",
+    "id": "b0bb36a5-6332-4083-9a30-d827818b7a85",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #420)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5042,11 +5042,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5f78080b-63ff-4a04-912b-f4be40619ac6",
+    "id": "d0157af6-874d-48a0-b9d2-32d302956492",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #421)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5054,11 +5054,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fc09d0b2-4e43-4a6d-b0cf-2da6ccd0df6a",
+    "id": "47dd2e5a-288d-468a-83ee-10da766dbca3",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #422)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5066,11 +5066,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "57917784-fc98-469d-b0d1-7700bbfaf0e1",
+    "id": "759b4055-09ec-4b42-8365-09c1abd4b0dd",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #423)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5078,11 +5078,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "054b7728-d136-49c9-808d-51cf36aee776",
+    "id": "3513d18e-57a0-4365-9123-92305bfe7fa5",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #424)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5090,11 +5090,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3803f1cd-b56c-43f6-85cc-54944d25c7d7",
+    "id": "19fbceb5-06cf-46c4-bddb-377f21fd8097",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #425)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5102,11 +5102,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ff529b4b-8b41-40c5-8f05-70029d185332",
+    "id": "b465ec5e-854e-4d3a-a4f4-a11850dcb221",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #426)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5114,11 +5114,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "17186db0-422a-4756-9942-e6b7e3bb7fc8",
+    "id": "7b50a3c2-a63a-4841-8c4b-d2031626cc6f",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #427)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5126,11 +5126,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8920ea68-e905-46e8-962c-9ee99e72dfa9",
+    "id": "92e4d6a2-6320-4312-9937-695ff77331c4",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #428)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5138,11 +5138,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1e9a8777-376c-480f-8ba4-9216f9334c60",
+    "id": "a479f947-9ce5-4098-944b-08716bf97bf6",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #429)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5150,11 +5150,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e559d161-7eed-4c84-b633-aade51210f9e",
+    "id": "07c3fcb9-66ea-4cf5-9f60-9da6a7978453",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #430)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5162,11 +5162,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d60ffe15-54da-4434-a886-608091852a00",
+    "id": "5f940338-27a9-4c70-8e9a-3c0a51f41c90",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #431)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5174,11 +5174,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f7a8beec-3886-406b-8c25-3c3601d93e33",
+    "id": "ac383442-d911-460b-9ec5-81652f2c1602",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #432)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5186,11 +5186,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a18c545c-f538-4a3c-ab8a-07de995852b8",
+    "id": "80f3734d-b705-448a-a9bd-0a858f068630",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #433)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5198,11 +5198,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "39da2981-0c18-4713-8387-e4782d5ad813",
+    "id": "40ed6a8e-5815-4652-b275-cbf258cd9093",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #434)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5210,11 +5210,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5adfcc14-7408-4f16-9aa4-baa2f8aed56d",
+    "id": "7a8bfa93-2cf1-4cb7-a3d5-b661d191d5c0",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #435)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5222,11 +5222,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d5e87984-ff30-4349-b955-492c324533fb",
+    "id": "b82af00f-6c4e-4dc9-a538-5ce91b9c5552",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #436)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5234,11 +5234,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c8b317e4-c99d-49e6-a523-e755ae055ef2",
+    "id": "e36ef79c-b73b-4a10-b815-2619217b3906",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #437)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5246,11 +5246,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "418f549f-3cde-455d-b1a2-c171c0b88730",
+    "id": "4fcd4d31-f6c2-4dca-821c-12651ab1ae2f",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #438)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5258,11 +5258,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7f00b520-8f86-4620-a469-8b6f4ae3552f",
+    "id": "164e4faa-6dd2-460f-a482-d856056c9729",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #439)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5270,11 +5270,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "da882156-0b2b-4eda-b03c-274e3c4bf684",
+    "id": "890eb30a-f5c6-41e0-8cf1-4126aec47301",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #440)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5282,11 +5282,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "095e933d-6ddb-4f0e-95ff-16596fd62d8c",
+    "id": "dc0e9623-5ac2-43c7-a4c6-eb1b57b8a0bb",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #441)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5294,11 +5294,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6aa30b3b-eb53-45f6-821d-519434936175",
+    "id": "ca72e7db-c665-42d8-9ac5-2ee5b71f2266",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #442)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5306,11 +5306,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "47f03fb9-7d3a-4148-9114-d4bd93014ac9",
+    "id": "0e5914d5-5e4f-429d-b2a6-592d350629ec",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #443)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5318,11 +5318,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "32098b25-3304-4352-8896-2c08a62cf4b9",
+    "id": "7d650691-ac54-42a9-b814-90430f98f1f5",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #444)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5330,11 +5330,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e17096bf-6e8a-4a57-9a9d-44f3af0cfe0f",
+    "id": "ac61b51c-e48a-4199-92f6-4f897e719130",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #445)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5342,11 +5342,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "528979c1-c5af-4478-a147-8b0cc7341e1e",
+    "id": "d0656158-5052-4fe8-accd-2c32e6a3b6ec",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #446)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5354,11 +5354,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1f3d52bf-087a-4ef4-b714-5fd87f0fc9c9",
+    "id": "59e1fddc-75f1-4998-b5ec-8ac355ae1fa2",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #447)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5366,11 +5366,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "dce3ef0c-f77a-479a-a4fc-b6101a9eb0bf",
+    "id": "5db76e0c-631c-4727-913d-219d260c9cd7",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #448)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5378,11 +5378,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "336c8a4c-67a0-40af-8bbc-98476d68031d",
+    "id": "a2b7a8e5-141c-4689-8c72-3378f7548a3c",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #449)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5390,11 +5390,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "15c0688a-730b-4b4e-b276-b1c9e10140c6",
+    "id": "10c10cb4-b7c8-4576-ac38-59be200d8806",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #450)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5402,11 +5402,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8eb9c47f-7307-42e8-8b8d-0bfd8ac55338",
+    "id": "45ae7cf4-0f9f-4e34-93d5-85676dedcf79",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #451)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5414,11 +5414,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "745c27da-1b85-4dde-ac33-b0f60b17b02c",
+    "id": "232a613b-2177-499c-a2fa-1f7667208037",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #452)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5426,11 +5426,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f9752d8d-5a35-4871-b5b2-91f257e5e20d",
+    "id": "ea34124c-9306-4c0e-a2b6-89d591ace96b",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #453)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5438,11 +5438,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0e8e44e9-3f6e-45f7-bffe-b9538d915507",
+    "id": "04c27fd6-327e-404b-b144-303440276e42",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #454)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5450,11 +5450,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "af100d27-0a5c-472a-8bc5-776fca76fe45",
+    "id": "721524bc-721f-4ed9-a36c-1fa4750ed2da",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #455)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5462,11 +5462,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d5723358-3079-46a0-80fd-fac5c269847c",
+    "id": "b412ecd5-719a-44cd-b94d-87b1d30f683e",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #456)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5474,11 +5474,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "15303ebb-4498-4277-94c7-53a74a11e5a1",
+    "id": "f08df89b-d4bf-4934-91fe-e6d0b4bd640c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #457)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5486,11 +5486,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "31cc0c1e-9ca3-46af-a028-d84cf0863ee1",
+    "id": "2a73d754-29d3-4e90-9d0a-40665c45b1bf",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #458)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5498,11 +5498,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "50a2a080-7b2f-4371-bd26-7ce21d83c4f4",
+    "id": "922147ef-ed9c-4fae-95d7-4fe5453e6be9",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #459)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5510,11 +5510,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7715af0b-f825-4160-96a7-61f63099fccf",
+    "id": "e2e080bf-b56b-4747-8dfe-9348f4392d7a",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #460)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5522,11 +5522,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f64ec331-ba4a-45c9-8701-c29fa27c27de",
+    "id": "e5667264-4886-4ad6-bfd1-5c8834c59285",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #461)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5534,11 +5534,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7f57a376-932f-4126-8f18-b65546387b26",
+    "id": "b3565a6a-1c6b-4020-bd3c-11dfb77d4c47",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #462)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5546,11 +5546,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "12a0137c-b8b6-499c-8ce9-e4996e024606",
+    "id": "2d7945f2-6c6c-414f-b57c-7b1780b3cf44",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #463)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5558,11 +5558,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5f437b6c-3015-4c40-bb2d-0fea276f5af8",
+    "id": "a79064e4-1689-4f0b-b498-5350a89011bb",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #464)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5570,11 +5570,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1cdb301b-0fe4-4947-b4d3-7cb8b00a7d73",
+    "id": "aa988fef-72c4-45ba-b0a0-ba275c254bb2",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #465)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5582,11 +5582,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cb854aa9-9ac2-4c2b-9b74-7146cf47d4ce",
+    "id": "78a870a0-bab7-4f95-bec9-7b648dced93f",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #466)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5594,11 +5594,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "47e6f0c3-b863-497d-9a8c-2020d0bce6f2",
+    "id": "1950595a-3512-4f39-92dc-adb45e0e46f9",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #467)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5606,11 +5606,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0adc26df-6c73-4ec0-99ae-ba0520a7785d",
+    "id": "d6c50108-f244-4278-9892-d13b083bea99",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #468)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5618,11 +5618,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "19426ba3-3fac-4185-9734-2cfaf54b4fa3",
+    "id": "313ac28c-b2f6-421c-aa40-3104c490ecc9",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #469)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5630,11 +5630,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d07a5e5b-a450-402f-9c63-e31260772d8e",
+    "id": "760f2287-f5b9-4441-bb8e-0998e3c4c590",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #470)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5642,11 +5642,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a0b5f0a9-7cb8-4f75-b4dc-2f7bccccc784",
+    "id": "94e52295-4eb6-48db-a77f-3077fee487c9",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #471)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5654,11 +5654,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0dba6f12-f009-47a2-83e3-0bc1027b7e3e",
+    "id": "c2a4e1e4-ad5e-48fd-b342-d3d6177aecf7",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #472)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5666,11 +5666,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "02015b9e-3ac6-4167-b40d-9d289926cbb4",
+    "id": "f198bb69-bab2-464a-a264-af0b8fa32035",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #473)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5678,11 +5678,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "11f74f8f-9963-40f6-903c-2da07aebc2fc",
+    "id": "759038b3-5852-4f14-bc08-9049b57434e2",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #474)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5690,11 +5690,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ce759ec9-5084-464a-b762-9428bf547bc4",
+    "id": "05d078ea-1fa3-4ba5-adeb-a174b4f214c6",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #475)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5702,11 +5702,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9b54d687-a564-4be5-adf7-4ef692d45f31",
+    "id": "7ba9e1cb-b8c3-46f1-833d-e179a05622e5",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #476)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5714,11 +5714,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "687a04c8-c640-4527-a8a3-cb991bd2bb14",
+    "id": "b0f38182-e813-4e3f-bf10-e37c56457b05",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #477)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5726,11 +5726,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2d3adcf6-8ab2-41dd-9887-c25475fc8473",
+    "id": "b39566d6-4860-45f0-ac73-64a8dc5d2c8f",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #478)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5738,11 +5738,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0a112709-c6b0-4489-8c03-7945e42a0101",
+    "id": "562d2027-fed3-4830-b4d7-29162ed55967",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #479)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5750,11 +5750,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2eb4bf6e-3e0e-431a-8626-223e7b7fe121",
+    "id": "1a907afe-c51e-430f-b3e5-0c57d3a85bfc",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #480)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5762,11 +5762,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "54c07d0b-6126-40b6-b0c5-3f78e60700df",
+    "id": "edbbc85f-c8cb-4aeb-9e19-c880bd998740",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #481)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5774,11 +5774,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b586d2ad-824e-4f77-92e5-db45b65f2b9f",
+    "id": "65a615d5-81fe-4361-8e9e-5c9c5ecfcf34",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #482)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5786,11 +5786,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a84fe72f-1cdd-4141-81b8-a064ab3a4e5f",
+    "id": "df1c86e6-2ccb-4619-aed1-e517118e917e",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #483)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5798,11 +5798,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a04c1fea-3a12-4e55-afc1-eae820022979",
+    "id": "a02c3af0-cf68-407b-9c54-a796efce7ebe",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #484)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5810,11 +5810,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "04e030c5-90ac-45c7-abc0-8e99c3bdcba2",
+    "id": "b0a4f571-9ace-430b-a22e-45e2b53386c8",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #485)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5822,11 +5822,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1443e1eb-7429-429a-a16f-b6bd844888fa",
+    "id": "324a63c2-bfcf-44ef-a04d-e6327588060c",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #486)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5834,11 +5834,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d441055a-cd75-4e60-b977-a1f90d429602",
+    "id": "4f04592d-3329-4c70-b676-4fbb1767da12",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #487)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5846,11 +5846,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "825d3cf4-ad38-4b51-b183-66db3a7bc9a0",
+    "id": "85beaf3c-969b-43fa-b582-3519b1ff5f49",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #488)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5858,11 +5858,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "da9d4656-bf7c-4868-99cf-7977271ac0f2",
+    "id": "9538838c-8c36-4df4-adad-b6b93687ff22",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #489)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5870,11 +5870,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bb1839b9-619f-4040-8ce4-4e9754d4d767",
+    "id": "78f34b40-9dcb-4614-9464-562f97297332",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #490)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5882,11 +5882,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c7568fa2-2589-4486-ac79-e215bd122747",
+    "id": "676d5ff2-1ad5-4307-99ee-aa85145393f7",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #491)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5894,11 +5894,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e56a2367-d459-415f-bc1f-1a02c99f4e4b",
+    "id": "4207b37e-47a3-42da-8c64-17202596ec9c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #492)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5906,11 +5906,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3c71566b-7ec9-49a1-a238-080fc6f9a16a",
+    "id": "c328b8f0-a379-4a8c-884b-b18cae183731",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #493)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5918,11 +5918,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8c0d1cb3-c645-4812-b7ee-b5a0ca532bba",
+    "id": "979c6224-ad92-4da1-af1d-ce51aec08b77",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #494)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5930,11 +5930,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5a4cd252-abfd-496f-a759-3c6afdfa6272",
+    "id": "69211218-928c-4fa8-aca6-8855c876f35f",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #495)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5942,11 +5942,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "54747300-53d3-4267-8858-b066b31789d4",
+    "id": "4fbe1f8b-cea2-4f23-8fa5-eeb03238cd71",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #496)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5954,11 +5954,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5e9fcecf-bd3e-4210-bf8a-237d16f5a6d2",
+    "id": "3936b066-ad46-4285-97b3-5127802ec4c6",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #497)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5966,11 +5966,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fffea28e-e02e-4a2e-9407-f63ff9706a6b",
+    "id": "eea7a1f9-4f52-4657-999d-b8f7ba309168",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #498)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5978,11 +5978,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ff9221c3-70b4-443d-8569-dccf93133adf",
+    "id": "1b405b2d-9d33-4c95-aad2-817eebcbde9d",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #499)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5990,11 +5990,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fe005a80-12ea-47e6-a734-087d9dec7aaa",
+    "id": "3ef999df-e95d-440a-bd54-6039962fbf40",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #500)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6002,11 +6002,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "11f67b9d-69a4-4efb-9030-7467f0e6bc7e",
+    "id": "6f46ade1-3597-4fc8-ac35-078b2bd60caf",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #501)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6014,11 +6014,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "079c6107-b30c-4ae4-933b-b57b81afb75d",
+    "id": "cc7feba2-ba15-4b3f-9402-17937bd71ebd",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #502)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6026,11 +6026,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c7e8898d-d9d6-4ec2-85ad-256bee03c336",
+    "id": "5d5e30e4-dfe2-480e-ac46-5a72eab42436",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #503)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6038,11 +6038,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2bef9609-7ee1-4bca-be59-97a16974476d",
+    "id": "65f44220-67bb-4821-8642-2d150d08b219",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #504)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6050,11 +6050,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0b1f48f5-cfaf-4a14-baeb-edadf06c4765",
+    "id": "921456d4-0607-4782-b571-b78e4542f62b",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #505)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6062,11 +6062,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1b968f25-7475-46a9-a336-3b65066e0bdf",
+    "id": "559cb975-3f46-4641-bab5-eef48b65874b",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #506)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6074,11 +6074,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8a2a5cea-37a8-4b80-b6d9-6d5ac7085974",
+    "id": "e53880d9-4499-491d-888c-0094ae15b443",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #507)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6086,11 +6086,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5006a561-6f24-48a3-acc8-00fcfc81d128",
+    "id": "b09f0691-8211-496b-a7b6-ed0948859831",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #508)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6098,11 +6098,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f52a0b9b-4f1d-465f-b70d-7418194356a6",
+    "id": "547a2eb1-6f94-4ada-930a-bd79c3e9c518",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #509)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6110,11 +6110,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f4f58d2a-3131-487d-a04c-7252f3a978ae",
+    "id": "fedfa1be-bd8c-4e4e-9ce0-63a39e8960e1",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #510)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6122,11 +6122,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7b1c2cc0-81e6-437a-be02-422768ed14c7",
+    "id": "ab55d277-9a3a-4982-8df8-d8f690dd73ba",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #511)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6134,11 +6134,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3e8d3537-5681-4234-84f7-042027776544",
+    "id": "1a1c1a49-63c8-4a1e-a78f-c2686ac43659",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #512)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6146,11 +6146,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3f150385-3054-41a3-b799-7c6072eebf47",
+    "id": "63a15e06-9792-410f-bc07-b3e5ad9a0d79",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #513)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6158,11 +6158,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1705f319-a68f-41c5-b79f-ec3681eec3e8",
+    "id": "a99871c9-7f65-4a0c-a86f-3af44636587e",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #514)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6170,11 +6170,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "73c3281b-55e7-47bd-b50a-9fe6b5f699b4",
+    "id": "fb7cb8c3-e48b-4dbf-bce3-68035f21c7ad",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #515)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6182,11 +6182,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "21412769-74cc-4a97-b72e-acdfd0c9ee7c",
+    "id": "1703a757-1a4e-45ed-9c31-dece2253fdb7",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #516)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6194,11 +6194,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "86186088-5894-492f-91a4-47ca812b8c90",
+    "id": "0970facb-4ae3-4525-ad86-76a6f1c767e5",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #517)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6206,11 +6206,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "85538cad-6992-4f13-bf09-fd88638ac558",
+    "id": "fe5936c7-7295-4a0e-98e2-e14850e9c08d",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #518)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6218,11 +6218,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0c24c500-6fe3-437e-90ba-32d39c183b8a",
+    "id": "ac4e46b3-7559-4594-8534-c96f22c70faf",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #519)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6230,11 +6230,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2c4960c3-e181-4f75-9c23-abf438a1059c",
+    "id": "ed57794e-c9c5-48d9-a1dd-38c11921db33",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #520)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6242,11 +6242,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "709a0e98-9afd-456b-8f7d-2b9847666969",
+    "id": "fa50a68a-249a-4ca6-8bd8-77c8e25d3029",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #521)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6254,11 +6254,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3972db4c-6f18-4683-8e46-934dc8b87d4c",
+    "id": "34bd9efd-0bf2-4e73-9afe-2965673ef844",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #522)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6266,11 +6266,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6e449b3c-d366-465f-8573-0fa77c683814",
+    "id": "55201c84-0182-4e58-b4dd-ced799211e40",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #523)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6278,11 +6278,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e9372cf0-1d2b-472f-b30b-e074f874e254",
+    "id": "47a0cbdd-9a5d-4a11-8de6-7b621f20cc24",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #524)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6290,11 +6290,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "aee966a8-d991-478a-91aa-3c902914e30a",
+    "id": "fb363fce-b0dd-45d3-909c-55b8603b76b7",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #525)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6302,11 +6302,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b22eb0b7-59f0-4f59-baf4-e51231774ea3",
+    "id": "e1cfcc09-a975-4f59-9d73-56d49e8f743a",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #526)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6314,11 +6314,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f7bab606-7692-4b2d-8286-e5150d7d85d6",
+    "id": "1e5d3f9f-964a-459c-8c7e-87c054912184",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #527)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6326,11 +6326,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3288f30b-d094-45ca-8a99-fdefad062d0c",
+    "id": "76652428-224a-4b68-96ff-2e4b773fe054",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #528)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6338,11 +6338,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d15bb5a5-0ae7-4295-b59d-8a5f59eb8bfa",
+    "id": "0c61f518-e38a-4ddf-95e0-ef82a620649a",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #529)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6350,11 +6350,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bf05f29c-7618-49f6-bce2-2fec99b21953",
+    "id": "dde1ffb3-abd6-418f-8b9b-f7837a89e06f",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #530)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6362,11 +6362,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0c3cb3a5-512d-442a-afaf-dd04ea3a4bc3",
+    "id": "e43a57d6-7176-41ec-90f2-20cb57b4ef6a",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #531)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6374,11 +6374,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4b78ed94-5027-4533-9573-979a63cf9e12",
+    "id": "c8ad9439-52bb-4c47-ac96-d8bcd56e8dff",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #532)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6386,11 +6386,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "156df7e1-12e9-4549-971e-4ca03a68a242",
+    "id": "b8bb51e1-e1f5-4fac-88a1-ab77798dedc1",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #533)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6398,11 +6398,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cfc6f902-bf57-455a-8bbc-178207b9610a",
+    "id": "593dbf50-ca2f-4733-a695-45ade5a9dffd",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #534)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6410,11 +6410,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8ab986df-c103-4cd3-b633-fe7b08cff9b2",
+    "id": "d5ed2ff0-c1a1-451a-8634-81a6ae4c20a5",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #535)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6422,11 +6422,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7c0ab8e9-33c4-4182-8bdf-9fa0f7fcedc5",
+    "id": "eb71f829-94da-4ab6-8ee0-ef8c1b6534d7",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #536)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6434,11 +6434,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ed51ca91-89bd-408c-a2b7-8aa045cea084",
+    "id": "58179eb8-520e-4c52-9322-f763c406600a",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #537)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6446,11 +6446,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "929fec39-04ea-4613-bc09-cfe1c9aa1dc4",
+    "id": "c1cbd3a4-6549-41df-b5de-f6f27deeb012",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #538)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6458,11 +6458,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "989d70b0-586c-4d63-9f8c-caec9cad5169",
+    "id": "e7b0b0b7-7b83-44ba-a3f9-60340b229971",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #539)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6470,11 +6470,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4d3baab4-a430-427a-a520-02c7e81964ef",
+    "id": "c20563db-92cb-4b96-ac83-1ca15b8138bb",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #540)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6482,11 +6482,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a378d1f1-9563-4d5c-b744-132fc8c5ca79",
+    "id": "33b0195e-6a3a-4c3e-94fe-7822f1488f27",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #541)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6494,11 +6494,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "71848616-4a84-4080-ac31-83781629ce15",
+    "id": "e15c6b41-3f09-4e31-9a8e-adaa37298091",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #542)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6506,11 +6506,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0516e27f-75ce-461e-b6df-2b16bcdcf0ac",
+    "id": "1f7de0c1-c9fc-49b6-83b5-fe8b07b42f2a",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #543)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6518,11 +6518,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e6e81058-df6d-433f-a51e-49f4bd3be2e1",
+    "id": "9c23b880-2b3e-419a-83da-ab8379d2bdf9",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #544)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6530,11 +6530,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "163fa7ec-9a2d-4aa1-812c-9b8b2cd96b14",
+    "id": "6239fc6f-ea1b-40e8-86c0-4a6b75000971",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #545)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6542,11 +6542,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0ef82944-7eef-455a-9f0d-054caf36d5b9",
+    "id": "b8648434-ddaa-442e-a858-20505e164c30",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #546)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6554,11 +6554,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bf714ab0-b714-440d-9428-032eb9509ed6",
+    "id": "7b6915bd-6f48-4e9e-8a33-9d68a8f6ccf9",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #547)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6566,11 +6566,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5774d337-7dc2-40e8-abcf-1e59ff434b93",
+    "id": "4458ed68-03d6-4420-96a5-195f465c6530",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #548)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6578,11 +6578,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8c23280d-61f6-41b3-86f2-70499ce09680",
+    "id": "328fd91e-8699-4727-a91f-61220156b02a",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #549)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6590,11 +6590,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "dba18e9d-8d0f-4d4e-9e95-d7b6bdf8dade",
+    "id": "9f50a0ef-91af-4b20-84ca-4904648153be",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #550)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6602,11 +6602,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f2c6c491-8d97-42bb-a294-1f40141a05ce",
+    "id": "88deedb1-d413-45de-8486-fa4f2c1d4109",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #551)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6614,11 +6614,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e7013aa9-b636-4544-82d5-7a3816381aa6",
+    "id": "c4e4a93c-4523-49fd-a7c7-2eec2dd3299d",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #552)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6626,11 +6626,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "73a1b1cc-d7eb-4254-bca9-c3830fbcfcd3",
+    "id": "86c22e08-df30-4677-a74a-55a9bb067dab",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #553)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6638,11 +6638,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d9b802a6-5a73-4e08-93c6-7bea18cc3f08",
+    "id": "79e97f06-ff6e-4689-878b-6a55c9b73aa3",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #554)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6650,11 +6650,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6cd3d426-fc30-411d-ae9b-5ee5e12fd691",
+    "id": "7023d286-889e-40a5-bebd-1f69f337054c",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #555)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6662,11 +6662,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8e73954d-4b9a-4d98-a9d7-4b7cff08e402",
+    "id": "bd0019db-e133-4c85-8587-9e3aedf8681a",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #556)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6674,11 +6674,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "76e66e6a-bf34-41bc-b984-c82d4010d203",
+    "id": "b554aa25-be4e-4edd-ad7f-c74b9c95849c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #557)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6686,11 +6686,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0622b65d-5fa9-4f37-861c-0e59326f5b60",
+    "id": "a075055e-832a-4405-98ee-f4351fc90756",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #558)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6698,11 +6698,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "42202992-1643-4eca-94fc-a156e184acbc",
+    "id": "7e1eca8c-d426-4923-b8b0-e5bd6d32f371",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #559)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6710,11 +6710,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "56f68f5c-4dd4-4b10-9b32-b28fc919ecff",
+    "id": "4124b724-20d3-417b-8d75-6c2bb6c30013",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #560)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6722,11 +6722,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "40e6a8e7-80aa-4dc5-98a6-84be92d34a1c",
+    "id": "8a1193cd-9812-43ed-af1a-d67c53f3a6e2",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #561)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6734,11 +6734,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bfcbfdb4-d0ff-4ddd-98dd-b744de820471",
+    "id": "694ca489-cf86-47d5-b4c6-bb5057e53b51",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #562)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6746,11 +6746,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "16ca51c5-b6b2-467c-ab0e-7d5ada1edc2e",
+    "id": "52bc63c8-ba48-4568-b95d-531db9ac6a6b",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #563)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6758,11 +6758,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7c98ed6f-116a-4d3f-9b45-4cda5080190b",
+    "id": "a2036608-7513-412f-8457-ff47f53c7f10",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #564)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6770,11 +6770,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "03ad90ab-5481-42ff-829a-a0ab369d144c",
+    "id": "3d7c35f6-7e99-40b8-a139-405405f53398",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #565)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6782,11 +6782,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ddef1125-3832-4811-83e0-bf19ae554dd9",
+    "id": "b71d28f9-f2ce-429e-acdc-1000baba4101",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #566)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6794,11 +6794,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ee0a49fa-1bc5-45d1-9044-3ef4a9427075",
+    "id": "92aada81-1534-4934-88c6-fa6ea39a8dae",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #567)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6806,11 +6806,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "16241854-cc5a-4c22-84c1-afeb60e23f43",
+    "id": "0affc811-aa33-4b18-a329-db5744082d63",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #568)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6818,11 +6818,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4e1e0654-7d1c-4e57-9006-e516e5245bf8",
+    "id": "327cd318-8c1c-4067-9671-c48f2a5eeba5",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #569)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6830,11 +6830,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9d852cb5-4dff-421d-88f0-53674d4270ac",
+    "id": "9caaf907-6650-4639-ac3c-909ae625eba7",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #570)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6842,11 +6842,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fe6aa64c-81cc-49b0-bb40-b40d3fb018f1",
+    "id": "8a352150-e439-42af-ae33-169730b607a1",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #571)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6854,11 +6854,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "170ee41c-67ef-488e-8967-373117a099c7",
+    "id": "b3b6e018-8e5c-4308-a086-527d87631075",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #572)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6866,11 +6866,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "51735935-58ca-48d1-81cd-c752f383af04",
+    "id": "7cda860b-a0cb-459a-9ddd-fe93d651cc4e",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #573)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6878,11 +6878,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2358ca31-f968-48d2-928f-7ea781a4d587",
+    "id": "2feb90e5-31f2-4fe3-b099-3ccc643251a9",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #574)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6890,11 +6890,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9ac8d99a-cc49-41d4-8a91-7c5163ca2960",
+    "id": "6ab05d3a-2a2d-40ae-b326-617673a9920b",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #575)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6902,11 +6902,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3208d5d4-3d44-458d-b1a2-de23fec928f5",
+    "id": "f6f9cb82-ac78-4741-bb87-d7a7530aab46",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #576)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6914,11 +6914,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d3d1ad65-5f12-44a4-9890-96fb552a78c1",
+    "id": "b96f6fab-6b79-487b-a483-997dccd93a4b",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #577)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6926,11 +6926,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "41a63d1d-d91c-4058-a466-c83d92f6fea7",
+    "id": "c1a7d060-10c8-4c98-991a-b2db109d0b52",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #578)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6938,11 +6938,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f56f338a-f0fb-4373-a7af-05f96430132c",
+    "id": "91cd64f1-3d47-469a-9504-79536c39c27e",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #579)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6950,11 +6950,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9f36d442-eef4-404e-be42-bdf5fdd12449",
+    "id": "add3879e-32a4-4875-9baf-f2d60a617778",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #580)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6962,11 +6962,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "eb93fa39-65c2-4c2b-b49c-0103c439105f",
+    "id": "1087f3f1-bacc-4cf2-aee9-b6cc4476819e",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #581)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6974,11 +6974,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "949e4fa7-19a4-42a3-8b19-5018f2fb6f6e",
+    "id": "b50ca769-b553-45ab-9006-ae1dddff9299",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #582)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6986,11 +6986,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3bc24c9b-bf39-421e-9a7f-6ddd57ca2412",
+    "id": "59e389e9-51e6-4017-b405-ddeb1faf7e90",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #583)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6998,11 +6998,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a1bd4fc6-cdf6-4265-8243-34bad941dede",
+    "id": "6cabe45d-316d-46cb-b17c-e0974edd86e6",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #584)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7010,11 +7010,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "292987e0-0d53-4196-a43e-1993c478fe2c",
+    "id": "c6b126cc-6b41-4aca-b043-6281c845a049",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #585)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7022,11 +7022,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e3083322-8013-4c4b-bda1-670b29f626f6",
+    "id": "cc11e4f0-019d-4a8e-a6d0-8a284fab38af",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #586)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7034,11 +7034,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "765cc95b-1586-4ee9-815f-9ee5891435f3",
+    "id": "7652f79e-9aa7-432b-a7a3-e94b1aa34ac3",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #587)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7046,11 +7046,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c247446e-06f4-4917-a850-0fa6df1d2285",
+    "id": "e09b0afa-5184-40fe-8404-2707f0f11084",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #588)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7058,11 +7058,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fc5918e4-fd75-4d39-9681-e6795a07bd58",
+    "id": "ea9520ef-ff7f-43ab-80aa-42f51374372a",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #589)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7070,11 +7070,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d1e728ef-fa49-40e8-8b3b-27177dca90fa",
+    "id": "8fffafa2-bd63-467e-a356-263c83274d37",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #590)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7082,11 +7082,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "77ec5896-e029-4061-bbd7-bb1275e94208",
+    "id": "1e5dad07-6c8e-442d-909e-6242f5e70ff6",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #591)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7094,11 +7094,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "85c543e0-4145-41ea-8b5c-183b8a9de2a6",
+    "id": "92820be7-62ae-4b25-b3d5-0c5d3c0fb56d",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #592)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7106,11 +7106,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c58b2b2d-5284-49c5-99b0-a1dfe63f7f2f",
+    "id": "d0308679-c2b9-4c44-82c1-6f56a7c9bec1",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #593)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7118,11 +7118,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "393adf0e-94f4-406b-a97c-37d01dd4e99f",
+    "id": "a251607b-1a02-4795-9a11-0108da238ca8",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #594)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7130,11 +7130,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8cca94d0-164a-47b3-9c16-fb47a0559500",
+    "id": "19b6f115-316e-49e7-b92e-91a0a9e0f922",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #595)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7142,11 +7142,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6f171f16-527a-404e-901a-94e83c05274b",
+    "id": "21f07f83-a035-421d-834a-c03de48b0b6d",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #596)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7154,11 +7154,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ac8eb9fd-4f0d-4fbf-a36a-923b0f085e9f",
+    "id": "7e6a2569-c925-461c-9024-56fc61828af5",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #597)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7166,11 +7166,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5d877b14-3a6d-414d-b927-13613cbe2f2c",
+    "id": "1c428229-78e5-491e-b6e9-7af638599f71",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #598)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7178,11 +7178,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4e8b3b82-6431-4dc9-95ab-4d70dedcc48c",
+    "id": "fc00248a-3906-4d8d-baa9-a2436a79b4e9",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #599)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7190,11 +7190,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f7091356-ebda-430b-b5f6-ce6b05877c5b",
+    "id": "4bbe758c-8539-4a26-af49-c4a526b1afb5",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #600)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7202,11 +7202,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "249a9392-66d9-48d2-9a65-988b564446f8",
+    "id": "4940bf4b-7156-4e09-ba6f-a31caad21ce1",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #601)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7214,11 +7214,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c0f38b9f-aca7-4587-9d42-a695c6192fc7",
+    "id": "4cc76d0a-42fa-4606-bb4d-3a5b318466f8",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #602)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7226,11 +7226,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "14339aef-85b7-42ff-b684-ef58b601168f",
+    "id": "88ac93a0-e133-4167-986c-ddd074fd953f",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #603)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7238,11 +7238,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9c5500c3-2cc3-4668-9d39-1936e03fac76",
+    "id": "5526f55d-0dd4-4720-8843-32b6ee05eca3",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #604)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7250,11 +7250,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d5006b34-319a-4cb0-9869-f5fe1042238a",
+    "id": "32eaaed4-c049-4131-b6d9-7781db1924b5",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #605)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7262,11 +7262,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4711cefb-7f15-4821-af70-3d2f273e556b",
+    "id": "3a5cf147-1116-4caf-8f81-40bef8158988",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #606)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7274,11 +7274,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e200220e-4938-4296-a2a5-e84d83ca700f",
+    "id": "e98588a6-7a6b-4588-acd1-c538ccd9238c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #607)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7286,11 +7286,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9e39da99-db76-492d-91df-39cc6b3f341f",
+    "id": "4c35f462-909e-44eb-8bd3-65823e15ee7f",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #608)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7298,11 +7298,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "42778da8-692d-4abf-9773-cfbf1517896d",
+    "id": "dafbbab2-fbaf-4cb5-8d20-fe230b11db88",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #609)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7310,11 +7310,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4944abfe-fbbc-48d7-84e6-b629152aafcb",
+    "id": "ead93adb-5c44-43be-8da7-c8e1d335c669",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #610)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7322,11 +7322,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a3ad3687-d964-4b0e-89fc-8d25afcfa057",
+    "id": "13bd4b18-6836-4fcc-ba56-82149b5f2519",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #611)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7334,11 +7334,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "71151404-2626-4094-a9fc-c9a4a5453d0e",
+    "id": "01e9deb2-e881-4a07-9ad4-33a700cd4416",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #612)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7346,11 +7346,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "062f074f-9db8-494f-b039-77f2a02d0d1d",
+    "id": "30372699-1a29-4740-ac5a-2413ee9d226b",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #613)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7358,11 +7358,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c4c2d7d2-4c05-4043-bca9-ca03c3c4ed0e",
+    "id": "8c760d67-30ff-45c3-b944-b4bbdee38afd",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #614)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7370,11 +7370,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5831eeeb-8dc3-484b-a41e-e3aa4d4000cc",
+    "id": "e7d3c4a0-191a-46d0-92df-eaa89e40af62",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #615)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7382,11 +7382,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fbdb6660-dde3-4cae-bd40-71a57bc7fe27",
+    "id": "0c89afed-0627-4cee-81ff-53febaf61256",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #616)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7394,11 +7394,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d29b18e3-b2ed-4b77-8982-38a5c6d071f2",
+    "id": "3aa1f5a0-b50e-4f14-b62e-e90cabd40ce9",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #617)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7406,11 +7406,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2ad2ecd6-3821-4402-a023-a803c1e366b8",
+    "id": "d5103360-6e5d-42dd-ab3b-3c7772956686",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #618)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7418,11 +7418,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1fcef06d-2c63-44ee-9b9c-8d6908f65144",
+    "id": "a1b40b63-569f-43a9-82b6-f44dbf8c1b9e",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #619)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7430,11 +7430,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "056000ac-f83f-4f65-9397-69fff01c0809",
+    "id": "b3592bf4-1f6e-4d56-a8c6-c161bc2fb73a",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #620)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7442,11 +7442,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b369a542-6d32-45b6-8c77-cecddeb06fcb",
+    "id": "c0823b36-6e28-471e-81a0-a539fbd0f069",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #621)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7454,11 +7454,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "11de0432-3322-46e2-b7b3-0f7fc73e7fc0",
+    "id": "cfc2ce6e-3c8e-462b-9239-07564efb4256",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #622)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7466,11 +7466,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d0eebd02-5c7a-4f44-84e1-d45ade833661",
+    "id": "d0477c5d-34fc-4135-9299-e1cf1b97f89f",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #623)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7478,11 +7478,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4b41fb09-a9fb-469e-93c8-5ddd413fba27",
+    "id": "5d2970a4-d7a5-40ea-a054-efb904289f99",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #624)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7490,11 +7490,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cd1652e3-d502-44f8-8647-65112db9fc5e",
+    "id": "6bab3218-1689-4393-980f-1d798ab7fed5",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #625)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7502,11 +7502,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "71c844a9-2191-4a5d-b6f5-a558fc41ea2b",
+    "id": "d77b244c-315c-43cc-851a-3f1c734b0233",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #626)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7514,11 +7514,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d1756f23-9728-4f98-9659-50f0a08842e9",
+    "id": "922a81a0-6f1c-4419-9bb1-226c1726195f",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #627)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7526,11 +7526,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2cbfaf8d-01a1-48fb-83c0-42ab8f97cd7b",
+    "id": "f2b76150-d5ba-4286-aa9f-352779ee6965",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #628)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7538,11 +7538,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5fc78af6-6e7d-416b-adf6-78eb6fbc9300",
+    "id": "098b5007-c70b-449b-aaaf-3680f2061799",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #629)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7550,11 +7550,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2f5882c4-efd4-4435-8a0c-7f5a8e90a3be",
+    "id": "872859c1-460b-4933-9a44-1dbe5f4acddf",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #630)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7562,11 +7562,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "35fb2efe-4b12-4edf-8c90-40afa50ab136",
+    "id": "3171335b-15c6-4c16-a28c-6eea9ecf4677",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #631)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7574,11 +7574,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f0c3f6cc-a71d-4d2d-ab06-8a3bb3bc8c14",
+    "id": "c264c22f-1985-46cc-a389-88b59064cb61",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #632)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7586,11 +7586,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d1bcdb79-00c4-4039-b3ac-55ebce3c18e2",
+    "id": "69c9411a-565b-4549-b87d-9ce82a2a9c47",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #633)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7598,11 +7598,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fe3f83db-e69e-4516-a9f8-f1b0964d4a97",
+    "id": "a506ed7a-ac54-44f4-9cf2-5ab87f846111",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #634)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7610,11 +7610,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d4848f55-5e40-4cb5-939d-be4824cbe670",
+    "id": "c011768e-6d0f-46a7-bb4b-dd7744c4d9ec",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #635)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7622,11 +7622,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "afedc5a5-d07e-413c-9252-03927b9dca40",
+    "id": "cb46789c-ea66-45f9-990b-8f35556c3a65",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #636)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7634,11 +7634,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b7886310-cef1-4a9f-b9b8-61c048bea6f7",
+    "id": "cfebbad4-1185-4d80-93f6-c6c5d06aba2a",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #637)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7646,11 +7646,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a2b23fc2-12d3-48d6-bc50-870d40a2e51c",
+    "id": "46a5d795-f886-4404-944e-4bb7cc6b8760",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #638)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7658,11 +7658,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "829de226-dff1-4f8e-9785-5d6a66a96ba9",
+    "id": "c5d87473-e4e9-4a0a-9718-a360053d0df7",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #639)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7670,11 +7670,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3bdb243e-9b9a-4012-bbd8-f5f9efe01afe",
+    "id": "35ef22bf-f860-487a-90c1-6a62a943471a",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #640)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7682,11 +7682,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fdb24e14-db3f-4c49-9aae-35745ac17c4e",
+    "id": "85d15b67-5b31-4955-be89-c4ee6a7d82e8",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #641)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7694,11 +7694,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e51996d0-e449-4612-938d-6ae619c05c4a",
+    "id": "a25310f1-82d5-40e6-8b78-79c91af66e7c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #642)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7706,11 +7706,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5e2ada4d-f62a-4ac4-8bc3-fabc7fc9cd17",
+    "id": "64c43f96-0429-458f-9688-e184a1514fa3",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #643)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7718,11 +7718,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8049d620-7676-4aa5-a896-cb440255505a",
+    "id": "a2f513d9-037f-4d63-beeb-4fe2eaea9eb0",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #644)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7730,11 +7730,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9e149ba0-16db-46a4-99d3-30673a7b1aa7",
+    "id": "e23edaf9-2705-4ccb-bc33-ed2655cf00b7",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #645)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7742,11 +7742,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4bb4ff0d-5ce3-4c81-93de-b414c56719b3",
+    "id": "c18171d3-9f35-4f78-ad46-c1e90017bd84",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #646)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7754,11 +7754,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "aaf7723d-428a-4998-8bc0-a66607ba4635",
+    "id": "bdd7095b-9362-45bc-b26f-c95a94668d1a",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #647)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7766,11 +7766,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "85179c59-8a64-4bfe-9558-1f559aee8efd",
+    "id": "3fb735e8-6c1d-497f-9522-64108d6be0ec",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #648)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7778,11 +7778,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fedd062e-09fd-477b-9422-30cef953e065",
+    "id": "0f6845cf-c408-4674-a216-d7dc77dde22e",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #649)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7790,11 +7790,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5a9a9991-b926-44e1-9e45-f959bd706e07",
+    "id": "1c7722d0-84b0-4795-85c8-f2ba576c8c05",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #650)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7802,11 +7802,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8063bb3a-bdff-4404-a7eb-d8f926a5f7f0",
+    "id": "4ca1a282-af1a-4367-b031-8416bb0c4729",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #651)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7814,11 +7814,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4820b261-82ab-456f-b6b4-32eadd4029ae",
+    "id": "905158c5-2ae5-4010-87b9-6cad14c5d6be",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #652)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7826,11 +7826,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3fa86298-3b77-4c25-b2ee-9d83cb29e32a",
+    "id": "598a7c5c-c365-4de4-8abb-951d87e39d8e",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #653)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7838,11 +7838,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "234fde92-0af3-4790-8ec1-002066ef62f2",
+    "id": "a797cc38-0331-4601-99c9-92ed726c714a",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #654)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7850,11 +7850,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d4254160-1fd2-465d-83b4-54080e453be7",
+    "id": "385e24a3-ee34-4a15-93f1-d8731fc50d3b",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #655)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7862,11 +7862,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a206bcfb-65b5-4e5a-bb24-4a92e5376ffe",
+    "id": "a57814fe-96d4-4a70-adcb-70b071a04b3d",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #656)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7874,11 +7874,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e91f27a0-32af-40c8-97be-1b8a5f451ed2",
+    "id": "1abe7ccb-d53c-44c0-b4bd-e1d7300e13a0",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #657)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7886,11 +7886,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "19049b96-5450-4156-a33a-986dd02e3f7a",
+    "id": "c9b869b0-5423-4c1b-a5aa-5165ee93e95c",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #658)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7898,11 +7898,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "52ee2b22-d12d-4be6-9946-2a3ca1d7233d",
+    "id": "17f60462-5795-4e55-b243-7c730b2a2cb8",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #659)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7910,11 +7910,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "495e7be4-7b4e-4615-a09e-02d19e5844ef",
+    "id": "7525b85b-07ad-4849-9b88-bf0be807a53d",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #660)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7922,11 +7922,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "46e4a830-52d5-4aef-beee-88e3a69f95b3",
+    "id": "de6b7910-b7ab-4051-ac2a-48108fcaae29",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #661)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7934,11 +7934,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6c291006-55e3-4d6c-b539-6adb90fbe585",
+    "id": "7eefac2d-f52b-4ca4-b02c-4cfd4ad8f2f3",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #662)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7946,11 +7946,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "27bdffc4-4876-460e-9cf6-fe62fac283c1",
+    "id": "3d80b766-fc84-4710-90c0-326829c164ae",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #663)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7958,11 +7958,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "78291262-cf48-46c3-902b-617497e4a9c9",
+    "id": "d3adeece-1b49-418c-bfa8-2622deda6c73",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #664)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7970,11 +7970,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "318cbb8e-3504-4d36-9930-0ab804f1e60b",
+    "id": "72badc84-4f7e-4a56-8558-b8a44c7a9615",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #665)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7982,11 +7982,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "23c6a2f9-846f-456e-9051-abd7a2bd4024",
+    "id": "d09025d8-b1b3-46e5-bd46-f1174ed5c96f",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #666)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7994,11 +7994,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d9f91cbb-1b83-4b81-9591-68abf768b3d3",
+    "id": "9c692398-4b0e-4507-97cd-9b09bad453c7",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #667)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8006,11 +8006,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5961bbb4-9240-4c9c-b231-fc6dbd69923e",
+    "id": "e4c50815-f55d-4b0b-8481-b0fcca050fa1",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #668)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8018,11 +8018,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d21a4393-f2c1-41e1-a8e5-db50ed4a18bc",
+    "id": "285d88a6-0dba-472c-b61e-09cc3dc0de8f",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #669)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8030,11 +8030,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b66e1cad-18db-44e8-a7ed-c37e88f086ed",
+    "id": "fb4d3e7f-4359-4937-aa8b-1c31d6e44313",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #670)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8042,11 +8042,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a6a624a6-ae7e-4991-9a64-30ca25bef630",
+    "id": "9d68b1d4-8f20-41da-8330-438c6ac495df",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #671)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8054,11 +8054,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c2472f56-8e55-44dd-a54f-0ddb352e78d0",
+    "id": "f27bfe1d-d200-484c-8d4b-5c469a18c9fe",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #672)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8066,11 +8066,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ae662044-b104-438a-b70e-8295777cbe33",
+    "id": "6dead4fd-59ca-4334-aa1c-290360b6f1bf",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #673)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8078,11 +8078,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f5aacee4-c122-4182-844a-3ce1d8131baf",
+    "id": "eb1a2d3d-6e5b-4e94-974d-999a7da14f4c",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #674)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8090,11 +8090,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6e162b9a-0236-40db-8a7f-96531226cf1b",
+    "id": "1208e362-0a68-49a8-ba0e-ddaf97e292c4",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #675)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8102,11 +8102,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "88538aca-461d-450f-afd3-17de7727171f",
+    "id": "e7c40747-595f-46b8-b8c3-2e200d2230a0",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #676)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8114,11 +8114,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4a156eca-ef56-4a7b-bc58-24354652907a",
+    "id": "590aab79-796a-43b8-af8d-7ea13c7e4b9f",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #677)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8126,11 +8126,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ac4b9548-eb94-4b6a-ae1d-3760d535732b",
+    "id": "28b802d0-ab31-48fb-8ddc-3a43d970fbb8",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #678)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8138,11 +8138,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c251f71e-7e36-4365-aa13-25fafb92dea6",
+    "id": "d7c03d47-c11f-4cc8-a433-d23a3e799104",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #679)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8150,11 +8150,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1a346d26-8140-45cb-8de7-149b82fac0dd",
+    "id": "860c18da-38bd-4175-a9b2-523f47b07ffd",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #680)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8162,11 +8162,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3548ea5e-afe9-4736-b623-778d8376a603",
+    "id": "edcd0919-2ef1-4b37-976a-0009978deade",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #681)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8174,11 +8174,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ccd314cb-69dc-40dc-95de-00937be753c7",
+    "id": "f9d907bc-f3eb-4735-a95f-96346aecbb5a",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #682)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8186,11 +8186,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fd327e57-f30e-4108-a612-55044c52afed",
+    "id": "7c5b56ca-4314-4ce0-937d-078bf17d0749",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #683)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8198,11 +8198,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3d913e58-3a1d-4ce2-9f05-10257b24e03a",
+    "id": "1de5684e-c507-40b0-b318-937b8719c05a",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #684)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8210,11 +8210,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fea3c3a3-4eef-45b2-bbc8-b081513db593",
+    "id": "3662846b-70c0-4e68-96bd-5a2058c1f8b3",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #685)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8222,11 +8222,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e599ca45-6a72-4e57-9025-07a57c15d0a1",
+    "id": "56244094-5179-4a69-849c-374dca495728",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #686)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8234,11 +8234,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d4da90c8-b94d-47e8-a122-9d25a795b066",
+    "id": "45859369-ee53-48b2-9a24-feaccdb9dc52",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #687)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8246,11 +8246,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "08481f74-7187-42fb-98a7-cfc96b6c0070",
+    "id": "6ddabd45-6ece-45dc-8196-e092ff3e5ed1",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #688)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8258,11 +8258,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7886cee2-3f95-4816-bd4a-183eb04b505c",
+    "id": "1a7b46b5-84c1-46a1-aa50-8237752d4d46",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #689)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8270,11 +8270,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2a65bd3b-02cf-4fe9-ac3b-765ea0cea7aa",
+    "id": "0049f0d1-0104-488d-814b-cd08498fa8ed",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #690)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8282,11 +8282,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6d3b0bb3-c6e0-496c-86c7-c22b7604bedd",
+    "id": "96bf4a62-8555-4e52-96df-a0f45cd96533",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #691)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8294,11 +8294,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "025bbf02-e66f-42f7-8f63-57fc3b4c34a0",
+    "id": "5453a298-9d51-4b0d-8ea2-8bd76a2d8f4e",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #692)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8306,11 +8306,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "25140a8a-6d24-4381-bc5b-20b957197aaf",
+    "id": "fc25829d-35fa-494b-8842-528a20003b45",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #693)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8318,11 +8318,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "12c46e2b-fdaa-4ec2-87ac-da77b76713c5",
+    "id": "0031c6cf-bdd0-412c-af7d-2568852512dc",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #694)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8330,11 +8330,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2556a96d-2ffd-4b89-86d2-c7e556a79195",
+    "id": "df79720f-6717-4905-acb4-1bda86c7813f",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #695)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8342,11 +8342,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9797aef3-19b4-4ad1-9984-118eead72573",
+    "id": "2b18e5f5-4fb7-4225-9321-64eec29895ad",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #696)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8354,11 +8354,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e926dfa6-7275-443e-960d-881676b45b87",
+    "id": "8568f36e-a7eb-4ba5-be80-81688ee4d13f",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #697)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8366,11 +8366,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f07aff7b-4ec1-4f48-ad5d-dcc960a314ae",
+    "id": "45a2dda1-13a4-46d9-9bed-505afebe862a",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #698)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8378,11 +8378,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "712616c7-3381-49ed-8ae1-e43feb01957f",
+    "id": "20be549a-ab65-4b07-bb35-f8dc604d1f5a",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #699)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8390,11 +8390,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "28e34105-e2b1-4609-ac72-73748c6111d7",
+    "id": "a425278a-c5ab-45c7-b267-534838df1f94",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #700)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8402,11 +8402,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "31af59f7-e460-4107-be60-b0bade6f2afd",
+    "id": "b97d4879-71e7-4c52-8030-e2d1e14efbb0",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #701)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8414,11 +8414,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "77de3800-f82b-472d-b464-c8ec8b4a9527",
+    "id": "f1af21eb-1c99-4923-8b54-c1177a774d3b",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #702)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8426,11 +8426,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a897aa4a-1853-4379-bfb7-d30dbfaaea72",
+    "id": "0c4c6587-c2fd-4862-8bd6-be76265153b1",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #703)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8438,11 +8438,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1e044797-1b6d-462d-aa1f-cba004f52179",
+    "id": "029f5ba0-b0fd-4552-acfb-87e25a616df1",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #704)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8450,11 +8450,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d27c6272-9b46-4991-bc78-ac49c00adbfe",
+    "id": "0766d70a-1f05-4850-a1f8-4aca13be8609",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #705)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8462,11 +8462,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0225c2b6-e3e4-4fb5-8028-797a0c54822c",
+    "id": "21ebf805-fa9d-4d3b-a724-7064d6373a8a",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #706)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8474,11 +8474,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c21d8757-dcc6-40ae-b68d-c45bdd9a2a8e",
+    "id": "e5630b89-69d4-46fc-a57b-d66436eb9c34",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #707)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8486,11 +8486,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c970ccdb-c45f-40d8-9a38-b4975d0da47c",
+    "id": "8bc843bb-9779-4b2b-aea0-ef5f63c20745",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #708)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8498,11 +8498,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "56c4832b-9eef-479a-b633-47d84e7f79b2",
+    "id": "830c5dda-211c-438f-abfd-2d6916b90169",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #709)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8510,11 +8510,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bf52906d-3711-4ce0-ac79-ad65073422af",
+    "id": "4c272109-4071-410e-90d5-0031c567d460",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #710)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8522,11 +8522,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3015af6a-9f3e-4cff-a3ef-5e0cf84e4d00",
+    "id": "f9bb0edf-f247-4f16-a44e-ff5c5dc73aef",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #711)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8534,11 +8534,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "11e8b8da-a6d2-491c-a6b7-f51b5bf4c11a",
+    "id": "71e50cc5-57c5-4022-ac4d-5c35b2429af0",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #712)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8546,11 +8546,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "33b01132-120f-4be3-8872-6d9e6e86b7c0",
+    "id": "1a250d4a-66f3-4801-ab01-06c7af0a922a",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #713)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8558,11 +8558,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "486d9d27-c412-492a-8d02-1749521172e6",
+    "id": "2d734a47-4e37-4a05-b63d-00aea8c59104",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #714)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8570,11 +8570,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c2263282-7670-4a57-bf08-27f3c503954e",
+    "id": "5dea5e7c-f4b8-4d6d-846b-2373454b1410",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #715)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8582,11 +8582,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2a625759-a831-4135-8947-e10586c1a84e",
+    "id": "2f73b391-7cd1-4399-8226-7fc8a3b113f4",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #716)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8594,11 +8594,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "55c27a05-2a58-4f3f-b2ac-b8f88f990c71",
+    "id": "d9620bf9-c321-4dfb-9a3e-7f6b4c854f61",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #717)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8606,11 +8606,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9dc5c322-fd44-4d90-a248-2b2b8ddfe00c",
+    "id": "66f9a980-f49a-4043-b78b-e66ae9961b4d",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #718)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8618,11 +8618,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c42ec782-c50c-46f8-9c5e-3e69e90557aa",
+    "id": "91186f70-38cd-4237-abb4-8c31a422939b",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #719)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8630,11 +8630,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "022f55bb-3316-45c6-8ed6-52db66dbc2b8",
+    "id": "f26e9666-5c8d-4c32-822b-9ed0de3cc3b9",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #720)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8642,11 +8642,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f007342e-fada-4d4b-97e0-4903ae12d767",
+    "id": "2e289886-7f66-4785-b99c-0df9e2835eba",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #721)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8654,11 +8654,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "495403db-a873-4558-b81b-5b6ece88b0bb",
+    "id": "877188ff-6d65-40c3-b21e-cc143098f186",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #722)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8666,11 +8666,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3f3243db-5ad9-4545-8d07-0e72df8427aa",
+    "id": "f089e436-54ed-45aa-9682-c0377749f526",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #723)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8678,11 +8678,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9f3092c7-5d6f-4f7e-b96c-6712b4e5ae6a",
+    "id": "7d74f0bc-4153-49a0-b5a0-70bcb2f0483e",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #724)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8690,11 +8690,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "eb135dd0-61f1-4fac-ba12-d0475385901d",
+    "id": "0ca86534-4034-491d-a686-fb078b23e7f9",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #725)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8702,11 +8702,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1bc5c0e3-1c9f-4f0f-832e-5abed4a109f3",
+    "id": "49a0edca-5a78-414b-9dff-33874564ad08",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #726)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8714,11 +8714,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "53f74dd7-7c3b-46ce-98e3-8caa5ae4970e",
+    "id": "f1b3a5a3-63eb-457f-9e41-40762104f992",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #727)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8726,11 +8726,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "69b7ee3e-a540-4061-834a-84b2fc483af2",
+    "id": "58c35123-c9ca-4bdd-ada0-4dfd4a39223d",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #728)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8738,11 +8738,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1ac5d97c-0597-4619-a3a1-170d190ffd69",
+    "id": "76aa4417-f749-4570-9049-a07cbf9db77a",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #729)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8750,11 +8750,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e9a503dd-1faf-431c-91d2-7ed0620e3fcf",
+    "id": "5f353305-3bf3-4a74-b20e-b664e041f63f",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #730)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8762,11 +8762,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "520afdd8-2387-4c26-81e1-24abe136873a",
+    "id": "f034b81d-6248-435e-9bf3-03536feebaf4",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #731)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8774,11 +8774,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "96798609-d7d7-4b24-9f10-16a004b86e80",
+    "id": "e9fe0792-8e7d-40a1-aedb-537be4b3c40a",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #732)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8786,11 +8786,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5c9ed27a-bdeb-48fc-a769-a24b4a5a21a0",
+    "id": "fe178c91-8c71-498b-ab05-9b1326993fb4",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #733)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8798,11 +8798,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "81e924a7-acb0-413a-b254-6713cdaa4319",
+    "id": "6806de11-3dde-4fcd-8746-2e9ffa2ae4ec",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #734)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8810,11 +8810,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5b38e858-e6bc-4b66-95b4-86fae642b8e9",
+    "id": "032fa007-f61d-4df7-bf1e-c82290be9748",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #735)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8822,11 +8822,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "28a0a3d8-5331-4a22-afd7-55292e7c4e64",
+    "id": "1a3e01f4-187c-47e6-89da-c137c55c0649",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #736)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8834,11 +8834,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "584d1ee6-c4d4-47c3-a0e3-4a45fc166660",
+    "id": "95bf6d50-6f65-48d2-8b00-a96d0587374f",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #737)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8846,11 +8846,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "98e6e0c5-b403-44ff-88c8-9e4f3a4cd8a1",
+    "id": "09fa6bc0-37f5-4c11-bafa-a45a41eb0ab7",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #738)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8858,11 +8858,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2393dd1a-053d-4089-ac7b-e22e374d574e",
+    "id": "3aae550a-64fb-4d96-887a-30c2c1fe4b66",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #739)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8870,11 +8870,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1752cdba-2bb6-4b1b-93d5-e94c68845c26",
+    "id": "30df7b0e-d437-4282-994d-98b4a0cd1d23",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #740)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8882,11 +8882,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6a3d07c1-17b0-4330-802a-b3b33fc6671c",
+    "id": "5e4e21cc-1441-4cd8-8c8e-125054562558",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #741)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8894,11 +8894,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4fc83339-a284-4e45-b5f7-6d409e0f0eb2",
+    "id": "c50c224c-3e5e-4c73-b123-1de994e6baf4",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #742)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8906,11 +8906,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3fd5cc24-dc64-46e8-adae-9667bf96066d",
+    "id": "a29aa73d-97d0-4f58-8453-b27c87a8055a",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #743)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8918,11 +8918,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0de928be-fab7-4399-971c-787492a8835e",
+    "id": "5c7e551d-3f76-4fa3-85f1-e61c52d4d22f",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #744)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8930,11 +8930,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b40405cc-f4f3-49d8-9ad0-4d307e2902f7",
+    "id": "8cc74d45-e02e-40ea-a544-102ed4718255",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #745)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8942,11 +8942,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "537f0c81-6cef-4c3b-a934-ddc235c42ed8",
+    "id": "55fd7150-73d5-4c17-a07a-f3628cb36fc3",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #746)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8954,11 +8954,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e5aeabd2-7957-47b2-bd0e-84d572ab49ac",
+    "id": "e69158fe-7593-4ac1-befb-d9a5ea0c5bec",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #747)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8966,11 +8966,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "baae0c3f-a675-4186-a93f-1c0772f7e724",
+    "id": "0ddbe5b4-969f-4956-9b3e-07a6dc43ef38",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #748)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8978,11 +8978,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1cd900bd-4eaa-4eb2-bf80-b26f6a60fa4e",
+    "id": "3f7dd5b6-8646-423b-bcc8-345ba448214f",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #749)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8990,11 +8990,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "60f5a143-d861-42fe-b9ef-1505b5fde9d7",
+    "id": "172aafd3-7c9c-4790-bbe9-9a72b0d86bb7",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #750)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9002,11 +9002,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "688a6b6a-704f-419b-9341-ff14b6fe3f25",
+    "id": "4cff9741-ef68-47b1-b79d-ee78212dbb87",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #751)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9014,11 +9014,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b6504403-688f-4823-9656-2da21e2b58d5",
+    "id": "ee529527-6dfe-4235-812f-c13c5fe09346",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #752)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9026,11 +9026,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "989342b8-9241-4e99-a5a8-bd6c7a1cfd6e",
+    "id": "1a7a5981-fcde-456f-816c-abae48702f09",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #753)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9038,11 +9038,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "19b2e34c-1360-4b0a-9ae1-0963c2b7e04f",
+    "id": "0b4cdc30-860a-4be8-8ef1-47bb96c1040a",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #754)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9050,11 +9050,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a78d26f9-8054-4344-a6a9-565e7a279f9e",
+    "id": "080b569b-a5bf-429a-9bcd-bde7f08a9f8f",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #755)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9062,11 +9062,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d3f39d49-6a46-493b-a64f-2de632e80ce7",
+    "id": "536ee6a4-4d30-4b59-af1c-a420d7c9604d",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #756)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9074,11 +9074,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d2f652df-b1c3-4d9b-a952-c23028cd213e",
+    "id": "4b881b8c-cb72-4dc0-a0d7-fd3554b105d5",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #757)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9086,11 +9086,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "83f00780-55a0-4150-b54d-22b45a6292e4",
+    "id": "b372384a-4e4b-4859-8f10-7ef8e4c6e10e",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #758)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9098,11 +9098,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f6cad5aa-beae-42f5-93be-938b627d1673",
+    "id": "c458234e-985a-45e7-bb84-26af9d131b19",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #759)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9110,11 +9110,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "fce17bb2-094b-48cd-b981-3a4cccf08a65",
+    "id": "534d0165-4cc3-4460-b5d3-b29f44e9765a",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #760)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9122,11 +9122,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4f76f761-f4ab-4080-85ab-ee34a105174f",
+    "id": "1285af55-e906-4b55-9879-7c3b2ed6e976",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #761)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9134,11 +9134,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "767d4772-f0a6-4451-aa2a-5172927050c2",
+    "id": "56dbb380-1e78-44de-a0b1-c24df7c0a296",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #762)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9146,11 +9146,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3b660202-e9db-4c57-a2ca-72577683910e",
+    "id": "f12b8539-27cf-4ff7-b038-48dd01207919",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #763)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9158,11 +9158,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3b32ed76-4285-47c9-b89f-734255227e73",
+    "id": "c99181e3-d7a8-4da3-a3f6-7ac8f267f4f1",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #764)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9170,11 +9170,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d899b028-164c-4763-b6a1-d5f5a59b8ee5",
+    "id": "0a2ef7c7-e495-465f-ac57-1e241ce9ed67",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #765)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9182,11 +9182,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d73ec70a-6d6f-4ae1-b0ae-29779610c3de",
+    "id": "933d889d-36a9-415b-93aa-911f41d2c822",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #766)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9194,11 +9194,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "756e1bd0-880b-44e1-81bf-866da137f5c7",
+    "id": "e8368a13-249a-417f-ae2a-7a680fc4aa0c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #767)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9206,11 +9206,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a56729ac-1329-4fe6-9244-7b77b2fcc181",
+    "id": "484d2f44-4fbc-40b0-b3a2-e33aaaba9abb",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #768)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9218,11 +9218,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bbaf5868-3fbf-479b-892e-ca23c49456ee",
+    "id": "60a46834-4a90-4c34-ade8-8f7fe0aa18b0",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #769)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9230,11 +9230,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4733f75d-f280-4dec-a35b-fb8ac24a5c8f",
+    "id": "d7d789bd-a2e2-499b-a8bb-9691e7e065e7",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #770)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9242,11 +9242,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "16191220-9b0a-4a55-be1f-8abe5d67d106",
+    "id": "c83b52b3-982f-49af-85f5-07115049c82c",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #771)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9254,11 +9254,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7dee0b49-e3ab-4380-92c2-94002e7a0283",
+    "id": "8ab8c2ee-eedb-4390-b6b5-87379b73578c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #772)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9266,11 +9266,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cbf17091-bcad-434a-bfba-883c9c7f5989",
+    "id": "a1e14a14-59c2-48d5-9f2e-8bc4183e89d7",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #773)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9278,11 +9278,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7263c2eb-2bc7-488a-b965-057e2f48ac00",
+    "id": "6f89a7ec-ff71-4501-ad51-19820707a988",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #774)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9290,11 +9290,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "113f6ced-1d7c-4c3e-947f-f1a03811ebf9",
+    "id": "2996f8a2-cd55-462f-a151-ee2409cf639b",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #775)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9302,11 +9302,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5be942cc-a1b9-446c-aa0f-895539619e93",
+    "id": "1d2da9ab-7df6-4b2c-a618-745d0a280ddf",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #776)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9314,11 +9314,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e7949c61-d398-446d-b4ae-1a843c57f68b",
+    "id": "6a90a5f9-6773-4f9c-907d-0f5e6583b9d4",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #777)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9326,11 +9326,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "31fd095b-6a5d-4733-9a03-44010313e441",
+    "id": "51c1e94e-3af6-47a4-a07e-639ee1f94edf",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #778)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9338,11 +9338,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "248d40b6-413a-4ac9-ac29-326cfe10e56e",
+    "id": "64ab5e60-4b7a-4987-a741-548b850b4796",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #779)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9350,11 +9350,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "87865500-853f-423d-97fe-08776d99d61c",
+    "id": "e88a3684-cf59-4f50-9962-24735a404210",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #780)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9362,11 +9362,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0076e176-8655-4c14-8b7d-bbc8c66d8fb6",
+    "id": "596359f5-c4b9-499c-a466-05a3c5865039",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #781)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9374,11 +9374,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0b50c22f-86e4-40f1-9a6b-82ff4874550f",
+    "id": "acdbbe80-7026-4084-ba29-ecc16c28c31c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #782)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9386,11 +9386,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "07b4dd6f-3a3f-4052-b2d3-77efe4ae4021",
+    "id": "a03a34aa-a523-4ac9-9795-62cd9c259591",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #783)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9398,11 +9398,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5d64cac6-400b-487f-8bdb-d7839fd65830",
+    "id": "19c40b41-9d82-4305-bcee-bd2b4ef101d3",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #784)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9410,11 +9410,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2bdbc304-eff0-4ed8-8486-4f2d60de6b0e",
+    "id": "111a1b8f-bfec-4324-aeb1-57c5a8449233",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #785)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9422,11 +9422,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d522334d-02e2-434f-bf50-d7d9d592480c",
+    "id": "0b3d2995-8329-4d3a-a5b3-74a932f8023a",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #786)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9434,11 +9434,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a18ce40f-3785-4aaf-b3ba-c6b226c6a407",
+    "id": "f69b8a91-f15f-4e10-9c2b-c60ae315b261",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #787)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9446,11 +9446,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e99d8cd9-5432-4015-96e2-d55b9d8c0db7",
+    "id": "573feb6a-0fd3-4474-9ee8-6bfc443b9f37",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #788)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9458,11 +9458,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "598aaa46-d72c-474b-bd0f-10ecb73c5a53",
+    "id": "28524a3f-49a6-41fb-984d-d48f5534ffc4",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #789)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9470,11 +9470,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c3e8064b-269f-4c28-b0b5-b125e6b654e5",
+    "id": "682b5ad0-78bb-4ca7-99ce-e34eb508aef5",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #790)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9482,11 +9482,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "eebcec62-946c-4344-9fc7-ab50b4ad824d",
+    "id": "86799e8c-8e26-4b7f-b515-4e4f288d5e5f",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #791)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9494,11 +9494,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "af8e27a0-1a82-40f6-be12-7bd60dec0fac",
+    "id": "30c9809d-4dcf-4dca-a3a7-3e1225def710",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #792)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9506,11 +9506,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8d0c1707-92f9-4019-8485-f7b7c4f0128f",
+    "id": "432c445f-1cbf-4f69-9685-53ab9f2d1e90",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #793)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9518,11 +9518,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "006fe490-23df-4852-860a-8d9bd720e23e",
+    "id": "1cd92e1e-6948-4cc9-ab7e-a9d83b66c553",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #794)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9530,11 +9530,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6fa4582d-684e-4c5f-a09c-8de529f20a21",
+    "id": "3c921431-af65-4ac3-bd70-5af5af82c58b",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #795)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9542,11 +9542,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "935a8be2-4c78-4cf5-a8f7-5ce874103032",
+    "id": "c0f82f9f-2363-4797-94ea-5638de832abf",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #796)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9554,11 +9554,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a190807e-e2c1-40ff-8139-6b64de80c450",
+    "id": "1784ea2d-b1b1-475c-90d1-1bb9020f9e2c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #797)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9566,11 +9566,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6ae4425a-4fff-47fb-be21-b350f15e675c",
+    "id": "79e959bb-749e-4feb-af3e-bccd997d6e88",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #798)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9578,11 +9578,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c66805a0-7e79-40cc-bb2b-dcfa7cb62363",
+    "id": "01a2a550-1c73-4d79-a245-83f5cb89a96b",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #799)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9590,11 +9590,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3a3cb8ac-15b3-4660-afb8-cbed18556d6e",
+    "id": "3fd0a3b4-343e-486b-8ac8-9c20b5b0984e",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #800)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9602,11 +9602,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8a9ff1b1-7bc1-43d6-b440-dad635aea8e9",
+    "id": "95cb72d2-263a-447f-aabf-5026eeb0031f",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #801)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9614,11 +9614,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c853e2ed-73ea-4983-918a-88e3420b2c15",
+    "id": "7d6b14b3-8575-4098-8782-90f08c970205",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #802)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9626,11 +9626,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "aef418ba-d8ef-457a-8465-7f581c6b8c38",
+    "id": "789cacc0-4aa8-4506-bdba-0b37a1531c7d",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #803)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9638,11 +9638,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "63f50000-a753-40a1-a128-bbbefb6fb6ca",
+    "id": "73d53320-802d-4a76-93bc-54f4b9bb4b5a",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #804)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9650,11 +9650,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "996632ab-e7f7-454d-9be7-e4b2f349057a",
+    "id": "cc1e1da4-38a7-4d0d-a3fd-5eb1d69bfe86",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #805)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9662,11 +9662,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0dc08b97-767f-4283-ade5-9add8c32243f",
+    "id": "dbaf1436-bcb6-4317-9ace-e0d89b0dc4bd",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #806)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9674,11 +9674,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2222c5c2-5522-44b7-98a0-c92b1fa9350c",
+    "id": "e8e08439-9f0c-4e11-b126-de7497054f13",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #807)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9686,11 +9686,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0deca930-a828-4a63-a2e5-5464c539ec9f",
+    "id": "b3edaeef-1f6a-4695-9ca3-d05df42e1fea",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #808)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9698,11 +9698,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3e837cb0-0a96-4e56-97a2-c5b592e97442",
+    "id": "ca8e3a31-d17c-40fa-a217-78414fd6d49f",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #809)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9710,11 +9710,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b8f60cc9-34b6-4495-95f8-6fe06d623776",
+    "id": "d8441aa1-1d0a-49b4-af56-9a6475b17eb6",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #810)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9722,11 +9722,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "02d7358d-8bbb-4dad-ba32-0f13c4c8bb78",
+    "id": "007a8a0e-ca73-409b-8257-cdf8136a3282",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #811)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9734,11 +9734,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ed01af79-7827-4e76-a237-e56c1a03493b",
+    "id": "29804b38-abfc-4a08-9b07-98d0d2cc0caf",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #812)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9746,11 +9746,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "01bdf630-c430-4bf8-99ea-9248773f642a",
+    "id": "ebe76687-33b8-46c0-b970-c4289a3efcbc",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #813)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9758,11 +9758,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0fd3b99d-ea04-4943-ba4c-7b3dc7413813",
+    "id": "000854b0-c4b9-4418-b287-ca8f275202b2",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #814)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9770,11 +9770,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8023a71e-5bb5-43c1-8cf0-5ee50b15b65f",
+    "id": "c1d8eab6-ea2e-4cb3-993c-0a502b6b14d6",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #815)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9782,11 +9782,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "868ffac6-794b-4c2c-8a34-dc9404b99692",
+    "id": "5eb8b901-4ae8-4d74-928a-9e5a21b20ef3",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #816)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9794,11 +9794,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "beaab080-7004-4fa7-a69d-4fc9de8e37ed",
+    "id": "b4b76a9a-3e80-4b26-b10a-a41b44decd22",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #817)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9806,11 +9806,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "803a428c-761a-4168-8d42-41a26e55ad70",
+    "id": "3b00f0b2-db1d-427a-a1f9-b3f98ff13c9e",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #818)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9818,11 +9818,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c0e495fe-c587-417e-95b0-031f08b899bf",
+    "id": "7572ee11-f4fa-4f10-8b2e-7a163b0b937d",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #819)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9830,11 +9830,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8390234b-6365-4ca4-9eef-96b0ee12afd0",
+    "id": "645576b1-04fe-4ca6-96c7-0a012b2bfd59",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #820)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9842,11 +9842,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a6869a79-94e9-45fa-b990-4a5d7224974d",
+    "id": "0c27aba6-823f-4158-8317-550c6eb199cc",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #821)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9854,11 +9854,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2afc9422-18fc-415f-b4ec-914a21130772",
+    "id": "cd2005a2-7fec-4af5-a759-0a19a750884b",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #822)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9866,11 +9866,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5c7fe346-21e0-47a4-a39e-8b9b37bc9483",
+    "id": "0d0687dd-8e12-44ec-ad24-90ddbdbe12ff",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #823)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9878,11 +9878,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "11380e37-7568-41ec-bb22-cacfb9075edb",
+    "id": "185539d0-becf-4198-a9f6-080e70365937",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #824)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9890,11 +9890,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "16834cb6-a2f6-453c-882e-2467970733c4",
+    "id": "b9accefc-82ff-4470-b8e4-5becaa6aff4a",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #825)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9902,11 +9902,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "92a17b87-d372-4583-a48a-ca8563a75f73",
+    "id": "4b3af0dd-589d-419e-84fb-57d84b6a377b",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #826)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9914,11 +9914,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "21b1eb41-6485-44e8-87fc-b516db0a398a",
+    "id": "20fd1496-29f2-4b31-9438-42a3af6c837a",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #827)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9926,11 +9926,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1bd27ad6-69ad-4d63-aee0-37c987f074c4",
+    "id": "acc030a4-4d92-4d34-b66e-ee69a55f3a23",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #828)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9938,11 +9938,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cbbb62d8-bbb9-4968-90f5-ffe58601c15a",
+    "id": "0fa475b3-95a3-44fa-b734-d6f973d4112c",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #829)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9950,11 +9950,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "db77b8b2-0694-4877-83da-dd18a825d986",
+    "id": "2dbb816a-381d-4ad6-b14f-ecddfabd90d3",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #830)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9962,11 +9962,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "19df4c0a-8441-4e78-b530-103e0453c165",
+    "id": "6e1755de-3cf5-468f-a713-aa059bf90b11",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #831)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9974,11 +9974,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f0d8cac2-13cc-49ee-84a8-fd9ee38408f9",
+    "id": "2e0ca8da-22a3-406c-8f44-a42174795763",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #832)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9986,11 +9986,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "29d58736-102f-4bdf-aac7-a83a7866c2e7",
+    "id": "fffccdb3-575b-41aa-bd86-969f3806497c",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #833)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9998,11 +9998,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "39b9d303-155e-49d8-89e9-3ab992127cb7",
+    "id": "f4f02ede-0a53-473c-b3e6-9bee160121bf",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #834)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10010,11 +10010,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b3d375cc-e5f7-4c2f-8b99-dea9dffc7738",
+    "id": "f7ce65a1-a3a1-4327-8484-4ebe8cc1c2c3",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #835)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10022,11 +10022,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6f76a100-c0b2-4436-915f-3f92321d1c4c",
+    "id": "c665d11b-2a45-404b-94cc-bebc934ce3ac",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #836)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10034,11 +10034,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "668cc6e4-be32-4918-b201-b80a84f0c52c",
+    "id": "82071116-63bc-4bbe-abb7-50d74f723442",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #837)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10046,11 +10046,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "20017129-a31d-4a05-baa5-0c67ce19f302",
+    "id": "583c6c52-185b-4efe-b162-40b844f2a742",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #838)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10058,11 +10058,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bf782c8b-759e-4bad-8d00-6f6340148fcd",
+    "id": "3f2f4017-89d9-4791-94cc-1559a30e5874",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #839)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10070,11 +10070,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "85902ea6-b7b4-4cce-9f3a-0e0490e408b9",
+    "id": "04f5508f-9cef-4aad-b4b2-2edf04073356",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #840)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10082,11 +10082,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "516dfbef-990a-431b-bd6f-0e7acad133e2",
+    "id": "9e3a0618-1fe0-429a-84ab-ab6204589f56",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #841)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10094,11 +10094,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b22e1391-70aa-42a9-b61c-318cd786df52",
+    "id": "c92b7721-d581-421b-9272-84c0f01ee03e",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #842)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10106,11 +10106,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1196d2c2-70ef-47a5-b668-79704ee2016a",
+    "id": "2cf791f0-7362-4b96-9019-2b0f11a3b7df",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #843)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10118,11 +10118,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2b09e75f-bb2d-44a0-be06-901e913dcb08",
+    "id": "30968c4a-e82d-41fd-b62f-3066c9142f17",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #844)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10130,11 +10130,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9d1e88f0-a311-46a9-9007-98cfb409da85",
+    "id": "7a84bfcc-41e6-4699-a11b-6ced38b7705f",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #845)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10142,11 +10142,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e53c559c-1231-4d0f-a649-de84b0f4d5c4",
+    "id": "d548ce83-089a-4a2c-865a-b4052cdc88d0",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #846)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10154,11 +10154,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "40412da9-85ef-4f73-ac1e-0906279d42e4",
+    "id": "40684de4-b18a-49c4-bf46-36b127a3f5e1",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #847)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10166,11 +10166,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e6b330f7-11d5-4d8a-abfc-ac37b23a0f35",
+    "id": "37e7ec68-7fa9-4823-adcd-cd80715d6167",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #848)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10178,11 +10178,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "afdb3f1d-9321-48f5-b34c-76a1f77d1759",
+    "id": "5c0ccfa6-f6bc-44ab-a360-5de1df3161c4",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #849)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10190,11 +10190,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "96010ab3-d081-4afd-8f51-caca571d8283",
+    "id": "bedc812a-70d5-40e7-adc5-02888d4aa6ef",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #850)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10202,11 +10202,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d0508fa2-b989-4752-89aa-c8a0e6a37fcb",
+    "id": "966e9f17-223f-4141-8026-2d4c7948e338",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #851)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10214,11 +10214,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1c6a65c3-82cb-4492-a553-0c13e09a1b5a",
+    "id": "0b0b29b6-1a65-49c9-a910-efde42cd70c1",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #852)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10226,11 +10226,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "34b25dcb-411a-434f-a8fb-076209001202",
+    "id": "a18d4cb6-6e14-4ad2-84be-46a9a620372b",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #853)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10238,11 +10238,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b527591b-7e2b-4c4d-a56d-1c0fb376633a",
+    "id": "d19eb5ab-e7a2-4d46-b0b8-1b8050edad0c",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #854)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10250,11 +10250,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "09a7ba9a-066d-491d-afe3-2d9b95c2af97",
+    "id": "5f2b9c65-f3bf-42a4-b4d1-f2067f889420",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #855)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10262,11 +10262,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "895bc13f-8297-496d-95df-6462e79bca3b",
+    "id": "bd494b61-5d57-47a0-b320-fb1442bd823f",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #856)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10274,11 +10274,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "264c3f5b-c2ee-4eee-bf16-f1ad1d772ce9",
+    "id": "899223f9-911f-450f-8ad3-dc9fc1ff16b6",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #857)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10286,11 +10286,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a4e8e91c-46c5-4b67-89cc-7e4c0ea74762",
+    "id": "c49601d2-edce-4e5e-99f8-4c668151d111",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #858)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10298,11 +10298,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7ecfb3a1-be82-436a-b49f-a9dddb19b029",
+    "id": "78ca9e0e-30e7-4883-8cbb-c3366be942f1",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #859)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10310,11 +10310,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bd66dc83-abcb-4f75-bfa9-09322319f6f3",
+    "id": "deb33cb5-7c4e-46fc-8046-7a739af2627c",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #860)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10322,11 +10322,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "17207024-45b6-48cb-b32a-988e42a133e3",
+    "id": "b2f582f2-1621-4757-9365-cb3a0ab530ce",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #861)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10334,11 +10334,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ac53873a-f17c-4c2b-8bca-50aad1b57a69",
+    "id": "2f43f51c-dc08-4461-bdaa-97afc11fcf54",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #862)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10346,11 +10346,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "15138b76-896a-48cb-848b-3ece7d39cd15",
+    "id": "cbda2787-0286-470a-befb-3ebb55ca2a8e",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #863)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10358,11 +10358,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "41e52b6e-038e-4c7f-8cdd-b839f00b905d",
+    "id": "f8a9ca41-f61f-4845-bf22-eb6c28e25ce4",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #864)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10370,11 +10370,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "77b7822e-99cf-439d-9295-0f702abe7b5e",
+    "id": "41695241-1e59-4990-bc87-d6219d967e34",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #865)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10382,11 +10382,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7819c5c0-9725-49fc-a3f3-35903703af15",
+    "id": "b13e432d-9243-4144-8352-6388d4f53c4b",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #866)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10394,11 +10394,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9c5d417a-885a-4cb8-a860-9e45ffd3e334",
+    "id": "2731c3fa-90df-48d1-afb2-43881fc24057",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #867)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10406,11 +10406,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f3a72e8f-ad69-4a91-bb8e-be3868b5f15b",
+    "id": "e1653a4a-abe8-4fb4-ac05-dc0b203564db",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #868)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10418,11 +10418,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3263b56a-1fdb-4eef-a281-ba76b4ee4a4e",
+    "id": "05ef93b7-7f6a-4b34-945b-f233a688f800",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #869)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10430,11 +10430,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5caab059-ac8e-4331-94b7-620a91bd7a87",
+    "id": "d01bcd4b-f65d-46be-9009-1310493ac1d3",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #870)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10442,11 +10442,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9cad8008-896a-466b-88d8-3c736972edd2",
+    "id": "33e00b25-6983-406d-8e70-b54344820450",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #871)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10454,11 +10454,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bf18170c-8cb7-4a6e-aa90-aaa8b7f5f50a",
+    "id": "7ae5a8b4-3034-4610-a184-74ca62d66b4f",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #872)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10466,11 +10466,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "78d32ad5-db45-40ae-8801-64d240ea09ff",
+    "id": "4e11c9bc-b80d-4b5f-a87d-1a5b98b806f7",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #873)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10478,11 +10478,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6734f33c-9644-4fc1-ab30-2781dc57a82b",
+    "id": "67ae6396-15f2-4854-982f-37e9093614d8",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #874)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10490,11 +10490,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "630980df-623f-462d-86c8-758a99ac48ab",
+    "id": "e140ace5-a3ea-4b3f-bff8-e9da63e9a0c0",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #875)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10502,11 +10502,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8263eccc-4802-4ea5-95c3-40ea9bccf75b",
+    "id": "b4d64de7-fb50-4727-8f9e-e4e819ecacef",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #876)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10514,11 +10514,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9a997994-0145-44a7-9402-7756f9aa4191",
+    "id": "adea5db2-dd58-446c-a35d-fbdb41852519",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #877)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10526,11 +10526,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "175fe430-3e9e-41b6-a53f-d4ff6d0d24e0",
+    "id": "4d2ec1a5-f9e8-43c2-ba85-bf7c1cdc77f2",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #878)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10538,11 +10538,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ea1435b9-35ad-4124-95e6-b10510cf7431",
+    "id": "8da1e4c6-96e0-44fa-8810-7da8f133240e",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #879)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10550,11 +10550,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f65a1a0e-6e16-4fe2-b9ca-c55c4d59c104",
+    "id": "b0797168-7782-4784-8d12-ee264a4e362d",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #880)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10562,11 +10562,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d9f431bf-4f3f-4080-806d-97de0caf9796",
+    "id": "e0b0082b-e8c0-479a-bc13-4c09cb0c1542",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #881)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10574,11 +10574,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e27a54ae-3a39-4920-a813-175045e8e485",
+    "id": "dbdaa0f9-951c-45c9-a7d6-9c1ac355a0f0",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #882)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10586,11 +10586,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3c7ea052-ffa7-4931-8fac-ce04d23f034f",
+    "id": "8ef2afe1-d55e-4053-a5ec-09a91efb82ec",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #883)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10598,11 +10598,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6a9d50ca-401b-4352-878f-113cf55e766e",
+    "id": "d6cb0db9-62aa-4ebb-9a04-99c8123db41c",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #884)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10610,11 +10610,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a2eb8af5-c21c-4215-9443-de111e616a3a",
+    "id": "e91d7491-3f8e-486b-905d-54f9dfe3130c",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #885)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10622,11 +10622,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f4536706-8c00-45d2-963c-0d01605ee463",
+    "id": "46bf59c0-4117-4c62-bd2f-0e7eeb315cc3",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #886)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10634,11 +10634,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "01b078e3-bb7d-42b4-af4c-783b767d9a52",
+    "id": "9f74a3eb-8d56-4cae-aa6a-dc5992b85d3e",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #887)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10646,11 +10646,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3f2b7b86-0c5d-4bcb-b432-a0710d303072",
+    "id": "c14ff897-ffe5-496a-8076-bca450c86fab",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #888)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10658,11 +10658,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7f27cb22-2069-4568-bea2-a4caa4c241b2",
+    "id": "34e38a55-c83e-4b02-a1e4-adab3916e412",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #889)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10670,11 +10670,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e7b5cb1d-a762-4b62-b768-2f1bb5c60389",
+    "id": "ae2b7f30-5776-4253-ae71-628546ae6035",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #890)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10682,11 +10682,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "44804560-fd91-4b7e-9023-f138f552e2f3",
+    "id": "dad0f15c-8874-4b1d-8e34-c7b09f42b129",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #891)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10694,11 +10694,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3895c3be-3ef4-4a2b-9c21-e741116bf826",
+    "id": "461c5089-a9b4-4ee6-927a-f2ced0a97658",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #892)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10706,11 +10706,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "27796a14-5f79-4800-ad4c-fbdf3ba72cdd",
+    "id": "4340b64e-e085-4f85-bf58-0ebd73030224",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #893)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10718,11 +10718,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ba5b0f66-c83f-49db-89e8-2ba802a165b8",
+    "id": "490f46b9-adca-4270-9ddb-20d4280fbfa8",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #894)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10730,11 +10730,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b211359d-4462-41df-b56b-5d8cb5aa80d2",
+    "id": "d86a8922-175d-48b1-8efb-b8442b2cd2f1",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #895)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10742,11 +10742,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ef9d05df-6195-49f1-9f6b-8d590430d8e3",
+    "id": "06713411-0637-40e7-981f-9dfa4bfdc726",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #896)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10754,11 +10754,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "889fc677-18eb-4a93-99b2-979911cee48b",
+    "id": "51599764-7967-4bc7-86f7-dffa96dd3b2c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #897)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10766,11 +10766,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "81a8b7fe-71d7-4183-aa00-0c61049641c5",
+    "id": "0098bd95-d9aa-4a0e-85b5-98f534357b15",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #898)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10778,11 +10778,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c94bd4a9-cdb3-4f81-91ff-fe751884da1f",
+    "id": "6bf9dea7-accb-4a50-9186-5bb62544ded3",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #899)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10790,11 +10790,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "76fea792-bf64-4fad-af70-c8b7ff518359",
+    "id": "90f21e8a-751d-451c-bca4-64ff3feb51a4",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #900)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10802,11 +10802,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d9a57575-934d-41c3-b2ca-cb481e697dc8",
+    "id": "539b64cf-aedc-418f-ac4c-8ece795ac931",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #901)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10814,11 +10814,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "eed3e041-5eeb-4aa8-a5a5-d5c66adbad35",
+    "id": "ae597fc6-9a6d-4bb3-95ad-d5dac4577ea9",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #902)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10826,11 +10826,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cabf545c-c9d6-41e7-92f7-98249bb26fa4",
+    "id": "4af4a7ae-ca94-48f8-81e6-0726ef4bb378",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #903)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10838,11 +10838,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1ab3a109-9189-4df5-bb98-306f7fa27b8c",
+    "id": "27445331-8c9d-4d0d-98a3-855e835322aa",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #904)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10850,11 +10850,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "7d9c1dd6-ba9f-4c7e-bd9a-c8ffb4237d59",
+    "id": "062c0de7-ef5d-4308-934f-64a3a003a67b",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #905)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10862,11 +10862,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "01487afc-a8ab-4788-a426-256a2bbf40d0",
+    "id": "67794deb-f9bd-4fd2-bfd4-f06b5d08df79",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #906)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10874,11 +10874,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e1c9a452-b281-4d44-b723-ce564c1b064e",
+    "id": "1a8b4370-8c44-486a-9e0c-77320739e26a",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #907)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10886,11 +10886,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3ae47789-3103-4c41-9a46-b7481ab4091a",
+    "id": "28c5fca8-bb26-4915-9d76-a73c8409d8d4",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #908)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10898,11 +10898,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a2181427-8241-463a-a9af-d71fde9e3aaf",
+    "id": "411449cc-5950-4d95-9f2e-6f9aa5950f02",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #909)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10910,11 +10910,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "27b4cd38-e679-46f8-b031-7d9f77848ed0",
+    "id": "a9a43a89-b97a-40e8-958f-3b9d4fc1aefc",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #910)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10922,11 +10922,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f59752c3-bfa6-45a4-aba2-f66199995161",
+    "id": "32792334-b165-4401-ba46-cfd970a1dd23",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #911)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10934,11 +10934,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b09230a9-1acd-4cbc-9b5f-945315c25176",
+    "id": "daaa84a5-68f3-405d-a8d8-59489c5d8556",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #912)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10946,11 +10946,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6c9849d7-e3bd-402b-9def-3070359c35a2",
+    "id": "fa674bbc-724f-4099-947e-7275dce1e1ed",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #913)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10958,11 +10958,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f8044d04-da49-40f4-91ea-484320a9eaa0",
+    "id": "2a278f50-8c34-49bf-a252-a7406485767b",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #914)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10970,11 +10970,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e550ce4c-edee-4627-8a94-93c12efbc66c",
+    "id": "b16516bd-8db3-4348-9f0b-dd58f4e8655c",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #915)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10982,11 +10982,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6ac49a70-6d68-4927-b32d-756d78c0558a",
+    "id": "695d416d-8fdd-4a8a-909e-49b4bb81ddec",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #916)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10994,11 +10994,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a5694381-a45f-4fdc-8019-42b52f466fac",
+    "id": "3004a260-9aa4-4130-8521-bb50ed13b11f",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #917)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11006,11 +11006,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3accce24-31dc-4027-b458-43df724cf15b",
+    "id": "87fea32c-2cae-4583-8caa-57c51221ffe8",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #918)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11018,11 +11018,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "63a19e73-87aa-4da5-a9f8-8338cc523bb8",
+    "id": "3ead92db-28bb-463a-8f36-42da7d57d83f",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #919)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11030,11 +11030,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "529a4f53-8468-450c-a338-a33c51a2a588",
+    "id": "d8cf40e3-75f2-4375-ad0f-e9c0c0552f22",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #920)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11042,11 +11042,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4957a6fa-6570-4479-bd7c-17c93dddc839",
+    "id": "c912c134-6c44-4411-9132-53e9ca98068a",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #921)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11054,11 +11054,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "35fef6df-f216-488c-8ba1-2b543dc90740",
+    "id": "08630497-aeec-4261-a244-04bd23085cb8",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #922)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11066,11 +11066,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c8f3db45-6082-41c1-9c32-b7bf841763fa",
+    "id": "8cc2b436-ac33-471f-9845-2b87b4363844",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #923)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11078,11 +11078,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ddfc0cab-1e53-463e-b049-c96a64ac665d",
+    "id": "45ba36de-c62c-400e-bf8b-c2fe74c4b9cd",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #924)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11090,11 +11090,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3f6f6d6b-aa75-4cde-a35d-44ead646450c",
+    "id": "6942add0-b313-438a-9e32-cd26c8d34a34",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #925)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11102,11 +11102,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "8a0f96b4-c14a-4cf1-b580-78ae02815b9b",
+    "id": "df7df50b-8987-4cf0-a38e-4f5f31b1fefa",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #926)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11114,11 +11114,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3438a8b3-000f-4a5d-9bb0-85caa5ecd7fa",
+    "id": "b94b7676-bd41-4d94-b069-35a9870619c6",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #927)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11126,11 +11126,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c16c80ed-403e-4e17-b51e-64497ca28f05",
+    "id": "ecfc7fed-ebbb-40be-95b0-48cd764485da",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #928)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11138,11 +11138,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "610d366a-be69-42ab-a94f-c1708bd0ac25",
+    "id": "19ce38f6-f053-420d-8a88-5f0552610178",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #929)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11150,11 +11150,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "58fda7f2-617e-446d-a993-dd325681b277",
+    "id": "c28c482d-4923-4863-acd9-2f963f456453",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #930)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11162,11 +11162,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b5f8bf79-6dc4-425e-838c-b0d834f861de",
+    "id": "4adc704e-2781-441a-bfbd-a01304fbd6f4",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #931)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11174,11 +11174,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c8c45005-572b-4eb1-8f65-a004c56556f8",
+    "id": "a62be0d8-c69a-4954-a071-302c07a38ec2",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #932)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11186,11 +11186,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6f69cf25-eefb-497b-b812-6a5db1644f30",
+    "id": "160cc623-06d0-478d-9313-8a84c0b02d21",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #933)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11198,11 +11198,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f788478e-1477-4225-aafd-ce9726acab23",
+    "id": "b1587b73-4b02-4af7-b6cf-3f4e013c9c8f",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #934)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11210,11 +11210,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f220b134-53c1-4ceb-9811-0bd1509d0f62",
+    "id": "e88a1a1c-e65c-49d2-9b26-564fe512599c",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #935)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11222,11 +11222,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f6309baa-f952-4bb7-bb6b-f26510e3a223",
+    "id": "67a9a887-1525-461c-9a9b-b3a46e156511",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #936)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11234,11 +11234,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "95b72d06-4550-49a4-b587-9fe6a0ced88b",
+    "id": "ee7026e5-0742-44ee-96a6-90fdc238113f",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #937)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11246,11 +11246,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "95bfe89c-13b8-4285-952a-7b1ebae2cd00",
+    "id": "e09f0113-6ad6-4f6c-9387-e8d027273b9a",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #938)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11258,11 +11258,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "da270271-fbf8-444f-862d-90bfbd29dd1c",
+    "id": "02c80df1-f072-442f-85b9-afa8783383b5",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #939)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11270,11 +11270,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9f6c7032-6852-435e-ad06-ecabb166fd17",
+    "id": "e0598693-aac2-4490-8046-a102fd13b6bb",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #940)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11282,11 +11282,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5cd0ca5c-818d-4242-bf81-270a6cdf40dc",
+    "id": "27d17a89-2b2a-47d9-aab7-7a9c14cc4d3a",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #941)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11294,11 +11294,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9bf98b04-90b8-4325-bf34-1dd9a5da6736",
+    "id": "c38740dd-256e-470f-86f5-d79926710549",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #942)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11306,11 +11306,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9dcff680-f844-4867-990b-6eef63d794bf",
+    "id": "67951833-63fe-4cad-b974-8b0e73100fda",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #943)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11318,11 +11318,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1fc41156-c360-4d2b-99a8-d7c6b1898540",
+    "id": "d4b4a17b-99bd-4af3-a48c-16b6d1d290cf",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #944)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11330,11 +11330,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2f68067b-1c64-4384-9e55-205c18bfb09d",
+    "id": "01c2b240-4e48-464b-a016-631f838062a9",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #945)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11342,11 +11342,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "e660a7f1-d577-4852-b531-dafb14549775",
+    "id": "d6e264e8-bc3c-4ffa-aa5a-771f9e55be59",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #946)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11354,11 +11354,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "39ed8dee-6965-4308-a565-ed6c38691d6d",
+    "id": "354fbd7a-4ded-4dac-9124-a85b78593896",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #947)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11366,11 +11366,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9fdfc831-71dc-4e06-bf0b-a933ca3c7426",
+    "id": "93ca098b-34c8-43eb-ba6f-5e6be030e0b1",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #948)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11378,11 +11378,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "28cb99a2-8298-465b-8347-002c28a954af",
+    "id": "178432db-ad18-4399-8d07-ba698a8027e7",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #949)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11390,11 +11390,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5acf9fde-eda9-4117-8bf7-c9fd5cec9a96",
+    "id": "8d1144e4-702c-4ac9-bd12-7e249b2ee12a",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #950)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11402,11 +11402,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bd9a70b3-eb5e-4816-88af-399e61738c55",
+    "id": "6c250dfe-9660-4058-846c-8e53719a18a7",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #951)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11414,11 +11414,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "057e636f-0c38-487e-8316-79415d898c17",
+    "id": "3c412e1d-7693-4ce0-9de2-b00a53550db7",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #952)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11426,11 +11426,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "24eb42ae-7576-4d34-a346-777257e0ac66",
+    "id": "b1059759-186b-49c9-9157-cb04eba0da7a",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #953)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11438,11 +11438,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c3540a8f-d105-4869-9685-2a1964e868a6",
+    "id": "b2308cc1-afda-40af-a1be-d4f50853aaeb",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #954)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11450,11 +11450,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "658bd2e1-30d7-4899-9030-47e8eeb60f41",
+    "id": "d1d27e63-8979-4055-9846-22f41af1b827",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #955)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11462,11 +11462,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ae0ddec1-c19e-42af-be3c-b41259eebfb8",
+    "id": "50904308-4583-41d7-8c87-61a35828a524",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #956)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11474,11 +11474,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "64ff8754-bd8e-48d8-8d69-fea7fc94bda9",
+    "id": "89599e0a-84c4-4e04-a550-3e2b265f0dc4",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #957)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11486,11 +11486,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "5809effb-527e-47d5-acba-d9b7dd022d8b",
+    "id": "6face2c9-a589-418d-867c-92a19415fe9a",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #958)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11498,11 +11498,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "cd8e2778-decc-4fc2-b372-eb497aa74725",
+    "id": "7f262b7b-a21c-48c7-bfcc-dd7e5f9a667d",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #959)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11510,11 +11510,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0246602d-2174-46e8-98d0-8f9794b8b68c",
+    "id": "c93b7864-f18b-41a9-add7-a9e007bfca13",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #960)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11522,11 +11522,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ab5ffa7b-bc39-4bf6-b5f0-4ad9ef693ef1",
+    "id": "ce577555-3165-470f-8b3a-78dfee61437d",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #961)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11534,11 +11534,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "45d4836f-6d83-4a67-88be-4f6056fc86a6",
+    "id": "5e96314b-d6c0-4e6b-9757-92013e8bd15e",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #962)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11546,11 +11546,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c166a8a7-80df-40d0-b081-6ff559c025d1",
+    "id": "d4c977c9-8bad-47b6-b36a-97fe085dbddc",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #963)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11558,11 +11558,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "eb14a8dc-09d5-42fa-b84e-fe19c24b03a9",
+    "id": "b5f4f0d0-88a0-444f-9863-3cd60a17d1ef",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #964)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11570,11 +11570,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "84fd78b4-e972-45f6-b7d9-f2bfaed5311e",
+    "id": "6de8d6e6-9efc-42ad-923a-6ebd99b7798a",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #965)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11582,11 +11582,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "bcdfc6df-21f4-47b1-a4df-1454483cd6f7",
+    "id": "789600b8-7645-431d-aa10-34f1f4d47922",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #966)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11594,11 +11594,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "21c9c0ff-48a7-4222-b657-f34099a3f4aa",
+    "id": "8e7dee9a-357c-4bf8-9e8a-453643c891ad",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #967)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11606,11 +11606,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f162dfe6-7188-433a-8bde-7778a01c5176",
+    "id": "fefe6550-dccc-4416-8b10-60174eab30ec",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #968)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11618,11 +11618,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "04d6b624-a37f-43c7-b122-41327a9ce989",
+    "id": "a296cca8-1162-47db-b33a-cf67cc9026e3",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #969)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11630,11 +11630,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "99f1bb1e-b5dd-436f-914d-c189b014f541",
+    "id": "1d7dbe7d-c10d-4ae0-9d91-54ef184ee5ca",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #970)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11642,11 +11642,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a273bdcd-fd22-4057-9c40-e79739f34cc5",
+    "id": "b34ac24e-9f27-4299-8914-a6f95b75fc03",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #971)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11654,11 +11654,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "65914de8-6cfd-45ae-9bdb-7b03f30d54d1",
+    "id": "4df91f75-8d5c-48d0-8664-71e6aad937e0",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #972)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11666,11 +11666,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0275ad8b-e60c-4507-b992-67b63d8df095",
+    "id": "91d53bff-7f14-4d2d-9b6f-fae600493bf7",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #973)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11678,11 +11678,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "f51a74da-ecc4-43e8-ab0d-dc4feccef358",
+    "id": "7c716408-5c37-4e98-836e-fe1afcd3b0ec",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #974)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11690,11 +11690,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "460f7dd9-c2c9-4c6f-a234-261c1136651f",
+    "id": "875c2765-3dd4-45ed-af9b-3ad7defaec82",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #975)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11702,11 +11702,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0510af73-44c4-4b8c-bc2c-c06ab77600bb",
+    "id": "0ad08bc7-315f-4c36-a0e2-8b876168bf6f",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #976)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11714,11 +11714,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "4dfde8ec-290e-40b4-bcbd-603f0cfbb355",
+    "id": "dce46ae8-0285-41db-80cf-3790f8f5ea6a",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #977)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11726,11 +11726,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a9330ab5-5c64-456e-bfc0-4f74e502d64a",
+    "id": "fa6c7da1-0568-413d-92b7-5e64a17fd3fa",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #978)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11738,11 +11738,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "3a30958d-d71d-4904-9671-31ba7182c14e",
+    "id": "0ad3fecc-c9b8-4f22-a393-8921a747f623",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #979)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11750,11 +11750,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ec222534-455c-4d37-993e-ef2f34cc1529",
+    "id": "9343d907-a08f-4ecc-b9d7-e8e6c4c426e1",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #980)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11762,11 +11762,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ea6d13e6-7a32-4203-946e-a93ac0529e23",
+    "id": "d5163ce2-77fb-4893-8f96-9a66304fa140",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #981)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11774,11 +11774,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c961fb5a-1e6e-4f5c-bc3a-07e11e46d8df",
+    "id": "2c5209de-d499-475a-88de-18e1c4174f6c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #982)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11786,11 +11786,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "0e96f309-6181-475e-8fa8-e63b73ecd696",
+    "id": "330a8076-648c-465e-bd6f-e2c4889a9f46",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #983)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11798,11 +11798,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "ac2dcf97-a733-4da2-b919-d4d02a52632b",
+    "id": "319d8ab9-3537-4ee5-9460-9cdbfb123c78",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #984)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11810,11 +11810,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "6e43f72b-95b5-41a0-b1b8-036fb166c4ba",
+    "id": "d61b692f-4ce1-45d5-bd6b-dbbbf5f4dc1a",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #985)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11822,11 +11822,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9ed73bf6-10e5-4da4-b2e6-54b9c8bd6a83",
+    "id": "5c923aad-047d-47b7-9856-8b9e400c954e",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #986)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11834,11 +11834,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "a6a2a3b2-638e-4f6a-bdc5-a29b1ba832b0",
+    "id": "4b1b836f-60b5-4858-982c-4d4b7424c31c",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #987)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11846,11 +11846,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "86dcafa8-8b5e-482f-98bf-8ce078b23d2d",
+    "id": "9f3b8c45-e89d-47d2-aafc-69a4e72eb163",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #988)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11858,11 +11858,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "c2906890-890a-4a4f-859a-b0eeaf739d3a",
+    "id": "c5a4e5b3-2d92-4d9a-a2e5-705e97e531e1",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #989)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11870,11 +11870,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "29e12b55-4f4e-42ce-b096-9889195b3cb4",
+    "id": "69a7e006-44e8-4e87-b4c0-f279344de220",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #990)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11882,11 +11882,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "9f7573a9-c17a-488a-8f90-d4c2e24d2441",
+    "id": "436a461f-9a72-4725-818b-749aee4106e1",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #991)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11894,11 +11894,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1658abfa-6f31-46cc-84bc-2f73ac1d7225",
+    "id": "4066df6e-fa5f-4a18-8e97-9586f3019da6",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #992)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11906,11 +11906,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "1fa5ff4a-db3b-47d2-a8db-f1551f8057b3",
+    "id": "9bfe4dc3-8c06-4de2-84e0-c916d9d60141",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #993)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11918,11 +11918,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d87cb7fd-488d-452c-874e-3e686eb72c5d",
+    "id": "a6226f39-6d85-40f5-8a71-4338b5d97799",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #994)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11930,11 +11930,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "30ad8277-2044-46a5-b0d7-da3ddf874713",
+    "id": "388009a8-fde1-4bea-af4a-d2d87be4ec47",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #995)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11942,11 +11942,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2241a651-e6e8-4de4-b913-9fc982b3dd44",
+    "id": "ef992292-40ef-44e6-be25-f7cb19008be1",
     "topicId": "madenler-ve-enerji",
-    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm? (Kart: #996)",
+    "front": "Maden çeşitliliği ve rezervinin en fazla olduğu coğrafi bölüm?",
     "back": "Yukarı Fırat Bölümü (Elazığ)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Elazığ ve Yukarı Fırat Bölümü, volkanizma ve metamorfizma nedeniyle maden çeşitliliği en yüksek yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11954,11 +11954,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "2802afb1-313f-4e18-8904-f970b800f230",
+    "id": "34d4429d-19a7-4dd6-99be-8eadb64f436b",
     "topicId": "madenler-ve-enerji",
-    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır?? (Kart: #997)",
+    "front": "Demir cevheri Türkiye'de en çok hangi merkezlerde çıkarılmaktadır??",
     "back": "Sivas (Divriği) ve Malatya (Hekimhan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Demir madenimiz en çok Sivas Divriği'de çıkarılır, Zonguldak'taki demir-çelik fabrikalarına taşınır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11966,11 +11966,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "d9115ac7-28e6-4e6e-9192-550d3f9cbcfc",
+    "id": "1d1a3a67-a5a3-4957-a1b4-22363bf217e6",
     "topicId": "madenler-ve-enerji",
-    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden? (Kart: #998)",
+    "front": "Dünya rezervlerinin %70'inden fazlasına sahip olduğumuz, Balıkesir, Kütahya ve Eskişehir'de çıkarılan maden?",
     "back": "Bor Mineralleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Bor mineralleri jet yakıtı, cam ve nükleer sanayide kullanılır, Türkiye dünya rezerv birincisidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11978,11 +11978,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "55c9fa84-6b48-4056-9c4c-63455564a3c6",
+    "id": "bd9bb09d-01e0-44b0-9c65-eeeca16b3a79",
     "topicId": "madenler-ve-enerji",
-    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni? (Kart: #999)",
+    "front": "Türkiye'nin en çok ihraç ettiği ve en yüksek gelir elde ettiği metamorfizma ürünü taş madeni?",
     "back": "Mermer",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Mermer maden ihracat gelirlerimizde ilk sırada yer alan blok taş madenimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11990,11 +11990,11 @@ export const flashcards_madenlerveenerji: Flashcard[] = [
     ]
   },
   {
-    "id": "b5c18d56-f4d2-448b-9d92-6bff5b76575d",
+    "id": "131b9cee-b35d-4fc7-ad08-1de593d33bac",
     "topicId": "madenler-ve-enerji",
-    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü? (Kart: #1000)",
+    "front": "Fay hatları ve kırıklı jeolojik yapıyla doğrudan ilişkili olan, Denizli Sarayköy ve Aydın Germencik'te elektrik üreten enerji türü?",
     "back": "Jeotermal Enerji",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Jeotermal enerji kırıklı fay hatlarından gelen sıcak sularla elde edilir ve iklim koşullarından etkilenmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",

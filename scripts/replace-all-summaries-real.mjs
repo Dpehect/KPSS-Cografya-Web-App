@@ -942,31 +942,52 @@ const allSummaries = {
   'bolgeler-cografyasi': bolgelerCografyasiSummaries
 };
 
+const images = [
+  "cografi_konum_1783726519779.png",
+  "mavi_vatan_1783727834384.png",
+  "sinir_kapisi_1783727826782.png",
+  "yer_sekilleri_1783726529525.png",
+  "turkiye_golleri_1783727842204.png",
+  "fay_hatlari_1783727849459.png",
+  "iklim_bitki_1783726537799.png",
+  "ruzgar_haritasi_1783727857236.png",
+  "nufus_yerlesme_1783726544550.png",
+  "tarim_hayvancilik_1783726552170.png",
+  "maden_enerji_1783726561347.png",
+  "nukleer_enerji_1783727864452.png",
+  "sanayi_ticaret_1783726570829.png",
+  "ulasim_turizm_1783726578587.png",
+  "bolgeler_cografyasi_1783726586047.png"
+];
+
+let topicIdx = 0;
 for (const [slug, summaries] of Object.entries(allSummaries)) {
   const filePath = path.join(topicsDir, `${slug}.ts`);
-  if (!fs.existsSync(filePath)) continue;
+  if (!fs.existsSync(filePath)) {
+    topicIdx++;
+    continue;
+  }
 
   let content = fs.readFileSync(filePath, 'utf8');
 
-  // Let's locate the summary: [ ... ] array and replace it entirely!
-  // To avoid regex failures, we'll locate `summary: [` and `],\n  mustKnow:` or `  mustKnow:`
   const startIdx = content.indexOf('summary: [');
   const endIdx = content.indexOf('mustKnow:');
   
   if (startIdx !== -1 && endIdx !== -1) {
-    // Find the closing bracket of summary array which is right before mustKnow:
-    // It is usually `],`
     const sliceBeforeMustKnow = content.slice(0, endIdx);
     const lastBracketIdx = sliceBeforeMustKnow.lastIndexOf(']');
     
     if (lastBracketIdx !== -1 && lastBracketIdx > startIdx) {
       const beforeSummary = content.slice(0, startIdx);
-      const afterSummary = content.slice(lastBracketIdx + 1); // keep the trailing comma or let's format it nicely
+      const afterSummary = content.slice(lastBracketIdx + 1);
       
-      const formattedSummaries = summaries.map(sec => `  {\n    heading: "${sec.heading}",\n    body: "${sec.body.replace(/\n/g, '\\n').replace(/"/g, '\\"')}",\n    bullets: ${JSON.stringify(sec.bullets, null, 6)},\n    imageUrl: "${sec.imageUrl}"\n  }`).join(',\n');
+      const formattedSummaries = summaries.map((sec, secIdx) => {
+        const imgFile = images[(topicIdx * 7 + secIdx) % images.length];
+        const imageUrl = `/images/topics/${imgFile}`;
+        return `  {\n    heading: "${sec.heading}",\n    body: "${sec.body.replace(/\n/g, '\\n').replace(/"/g, '\\"')}",\n    bullets: ${JSON.stringify(sec.bullets, null, 6)},\n    imageUrl: "${imageUrl}"\n  }`;
+      }).join(',\n');
       
       const newSummaryContent = `summary: [\n${formattedSummaries}\n  ]`;
-      
       const newFileContent = beforeSummary + newSummaryContent + afterSummary;
       fs.writeFileSync(filePath, newFileContent, 'utf8');
       console.log(`Successfully rewrote summary for ${slug} with 10 high-quality chapters.`);
@@ -976,4 +997,5 @@ for (const [slug, summaries] of Object.entries(allSummaries)) {
   } else {
     console.log(`Failed to find summary or mustKnow in ${slug}`);
   }
+  topicIdx++;
 }

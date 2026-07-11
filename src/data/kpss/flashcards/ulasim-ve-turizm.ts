@@ -2,11 +2,11 @@ import type { Flashcard } from "@/types/study";
 
 export const flashcards_ulasimveturizm: Flashcard[] = [
   {
-    "id": "999db009-09d6-4997-ad86-7efabd354c30",
+    "id": "9beebc18-26d8-4a23-8f03-b664c512c50c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #1)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -14,11 +14,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9f1921f6-3f1e-43a2-a1db-3bf7eddd978d",
+    "id": "434d06c1-07a7-4001-b5e1-8fdec07f479c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #2)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -26,11 +26,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ef3923e8-1138-4786-92ac-57e6e0e0788e",
+    "id": "b94d4023-f181-4f48-80d3-9468a4429373",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #3)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -38,11 +38,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cd8c243d-9e84-442d-9a7f-97c7b19e3dc6",
+    "id": "a4e6728a-5ffa-4bae-8948-7b026f34fa08",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #4)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -50,11 +50,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "af99d11a-e8fc-4f92-bf1f-c73552ad5121",
+    "id": "2cba7e9f-169f-439c-9b5e-7dff6a93c96e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #5)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -62,11 +62,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "93c47520-fa13-47e3-908d-0b5eecef802c",
+    "id": "907111a1-57f1-49f5-9159-53a267b3d0ba",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #6)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -74,11 +74,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "935a2be2-d145-44fb-9189-68a5ff4afccc",
+    "id": "2f0b4144-81c8-4153-9c5d-7aa492e371fc",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #7)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -86,11 +86,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0d3c25c8-a7b4-42dd-81ec-f589422b7d56",
+    "id": "b3234cbf-2b42-4037-9d34-780df677b56f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #8)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -98,11 +98,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9bf3e289-b64f-4f3e-a504-1a347472a187",
+    "id": "ad1bfae4-2304-4522-8077-405cfdc5eb8b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #9)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -110,11 +110,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cb335369-23a8-4e58-b73c-5cf54e69fe83",
+    "id": "df8e13a9-f059-419b-ac84-9b400564a3d8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #10)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -122,11 +122,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ec766983-dd0f-4301-89ac-6f892f2153b5",
+    "id": "e0012858-cf64-4270-90dd-dcc679faf994",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #11)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -134,11 +134,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "23bd26b6-158e-479b-a41f-fa64dc0c7a13",
+    "id": "b2da6a29-0455-4383-b8b1-0daa28621458",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #12)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -146,11 +146,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6a9539e1-50cf-4a4c-b174-7642e3759973",
+    "id": "505d49b5-6619-4cf1-b1ec-f52494a67c5f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #13)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -158,11 +158,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ffd14d31-e542-4647-b8b3-18f6e0560d9a",
+    "id": "4fcb7ce5-ce09-4a87-9490-cbb56d4eb19a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #14)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -170,11 +170,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "556cf806-d141-4aac-8ec9-518df53a08c3",
+    "id": "c99c45e9-283b-4124-a4ba-ee472182ff0a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #15)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -182,11 +182,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "51266af1-2d6e-438c-b663-cc95ef50cea8",
+    "id": "350fad1b-820d-497d-b914-5fb0c66f4f96",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #16)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -194,11 +194,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "274dd63c-c5ad-4ac1-aa36-d0a47347ce88",
+    "id": "f6a652ba-b3e4-4a0d-b1bb-95ffd983433b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #17)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -206,11 +206,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "166a4c69-83c2-4bfb-8af9-fb8706ef0e50",
+    "id": "28d47c0f-273a-4c25-b32f-6352dc8b1132",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #18)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -218,11 +218,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e939bec8-e754-4387-a7e9-7eb4a105cd40",
+    "id": "667e80d5-306c-464e-9518-e7354c486619",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #19)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -230,11 +230,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e240ccf2-5ca6-4d22-976f-cf63ff57dd1a",
+    "id": "f63db639-d196-4ba8-befd-58659398e98f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #20)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -242,11 +242,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ba37c729-1862-4a9c-9ff8-14e913fbb60e",
+    "id": "427dcf76-ced3-494f-9fe9-e528cbb20d39",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #21)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -254,11 +254,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3a9512af-40aa-41a1-8b17-4786aff86224",
+    "id": "1e92d1e2-58d6-41f2-9f72-8742564062ae",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #22)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -266,11 +266,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "149fd350-c221-4fc7-8c1b-555242057c67",
+    "id": "7e3bca1e-82ba-4934-b5b2-4fbe334a7b86",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #23)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -278,11 +278,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3a612372-fa25-44b6-b88a-23f4319f6ef6",
+    "id": "7661fe9d-f1b7-4ed7-9d2a-ead9f35d4e73",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #24)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -290,11 +290,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "301eaa06-06a6-44b8-8047-169359cf9fd2",
+    "id": "e0ce816b-0aef-4b03-bec8-60024d5a30ca",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #25)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -302,11 +302,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2a12a458-6852-4300-a3e7-1a876ce5ce2b",
+    "id": "282817f7-b5aa-417b-a078-3e2f44b92e29",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #26)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -314,11 +314,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "10a63468-33da-421e-8555-d6f0276b135d",
+    "id": "509c11c4-7c01-4c5d-b619-510e93acde94",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #27)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -326,11 +326,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "14c39abb-f002-495e-9b7c-f522c07eacd9",
+    "id": "b7676c6a-e120-418d-a078-e7991b88f111",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #28)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -338,11 +338,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3691ec78-3598-4f4d-ad33-2989c0d98da8",
+    "id": "b2fe6ac5-1c04-4dca-8955-6ba72f751cb0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #29)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -350,11 +350,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3dfba745-6c48-4725-b3a8-7c63c1c81960",
+    "id": "d47ef9fc-7c00-4a9e-849b-384253d8ed35",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #30)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -362,11 +362,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "468ccab2-852b-4d83-96d5-cc1deed03e66",
+    "id": "7f885f23-111a-45c4-b3f7-6ca57c114ad3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #31)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -374,11 +374,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "815bc158-fbf8-4493-92dd-27905a03a959",
+    "id": "7af3039b-2b33-4a31-b7ae-7f5e32ca25e8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #32)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -386,11 +386,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e89b65fe-326c-4de4-8d8d-596851ee5ce2",
+    "id": "3814bcca-1666-446e-ae51-fed1846cc765",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #33)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -398,11 +398,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1a96fd48-c549-403b-bfe5-4425006ddf44",
+    "id": "13617d40-8f50-47b2-9ef6-6ff2d657da18",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #34)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -410,11 +410,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b7088304-d1ea-4ed1-85e8-0cdae5eae17c",
+    "id": "05e16da2-cea2-42a9-843d-c56d691a9298",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #35)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -422,11 +422,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "53f27a18-1050-4f4e-a854-69c20efc0fc7",
+    "id": "04066fc4-4cf3-4fa7-9786-641d423010b1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #36)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -434,11 +434,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "49e448c1-d8f4-43f4-885f-4ee68b31c32a",
+    "id": "adeb67b4-d2a2-400c-ab0b-c011522c64ce",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #37)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -446,11 +446,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b647ca85-cbf9-4fef-bd62-94c27d05b0bc",
+    "id": "71ff5ed6-9ad6-47f3-896b-c9c258816829",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #38)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -458,11 +458,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1902c3f0-b5ec-46bf-a636-6d232fbc1ef8",
+    "id": "29186198-c7cd-494a-9859-84bfa8040a1f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #39)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -470,11 +470,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "235f878d-d4ed-45bc-9d76-6f46de4ddf0e",
+    "id": "2fd104a7-8008-49d0-8fc3-7fb4008a8d0f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #40)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -482,11 +482,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9db00731-2e87-4844-a4a4-4fa6e40a4492",
+    "id": "bd6540d6-d78a-4586-8fe1-21f24e47f98b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #41)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -494,11 +494,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "669c990d-b399-4112-aeec-b7018143df4f",
+    "id": "4064c39f-c2c6-40cb-a492-04b22588ba7c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #42)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -506,11 +506,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3057957c-4d32-4d62-a762-72ed770c4077",
+    "id": "235200bc-5a8e-46e7-912e-f3015e67e920",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #43)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -518,11 +518,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5e2a2021-79ac-4efe-857a-b9842f0351c1",
+    "id": "646ad36b-dd00-4e33-8d1a-a926899ca178",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #44)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -530,11 +530,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6d86adc9-2983-4872-b9c1-c8c6dcb4789f",
+    "id": "63e77bf7-3e9e-4030-92de-193ee50c5f71",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #45)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -542,11 +542,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3e8769b8-d87a-4165-9e55-6920244dfa2e",
+    "id": "ab316ee3-fa9f-45c9-bcde-ff6650b8e742",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #46)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -554,11 +554,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "916adfe8-5731-4c60-ba34-95e16eae3792",
+    "id": "305f354d-3c1e-4dd2-9835-aea1d3e7eef0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #47)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -566,11 +566,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "525923a5-b7d9-45a9-8a65-a786e606f4f5",
+    "id": "7451d63c-8057-47b9-a24a-98e65c4d97e7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #48)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -578,11 +578,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4446eb45-e07e-48df-b073-df7af774d0a3",
+    "id": "2e57e766-dae0-49d4-baea-4f2379091dc7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #49)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -590,11 +590,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3bfe2fab-4dfa-4ffc-9d23-c279008d0f0d",
+    "id": "10552119-d19e-4fec-b7de-0a83a6f92c67",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #50)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -602,11 +602,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "489bfbc4-6b1c-4302-9b29-f90428456676",
+    "id": "060feeba-11cf-4df2-8902-64a2cb807cdc",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #51)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -614,11 +614,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e4912d79-6b52-4b85-b7bc-b9665daa1cd2",
+    "id": "773a950b-e5d6-4f6d-a39b-e5e3d667d02a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #52)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -626,11 +626,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bd2959b8-ff47-40d7-8b44-a3c19e4e1ee0",
+    "id": "9ede9e92-6897-4f55-981a-07b8b09d6b19",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #53)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -638,11 +638,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5e19f253-5e27-4fd6-a560-442f884c9987",
+    "id": "f460b797-df5e-4ae5-bf20-3802d31ce382",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #54)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -650,11 +650,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a5a8c80b-6e35-4be1-ab85-c0e38bf7d96c",
+    "id": "1841610e-b78f-4f2c-a3bb-32e193f271f9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #55)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -662,11 +662,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5d245725-8b70-45ab-bf32-85998c2e8a87",
+    "id": "d7e371bb-8959-4a4f-a5c2-bfa54a1420a8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #56)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -674,11 +674,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "21ad845b-6040-48aa-945f-4d648b1d82f9",
+    "id": "259d9320-7102-4fa7-b9f9-22b99a68300b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #57)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -686,11 +686,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8e9660ce-f5e0-41d8-9c2b-0961679b9155",
+    "id": "50525dfc-904d-4ce5-b447-7117e44903b0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #58)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -698,11 +698,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "aec13d69-82e6-46cd-8178-a0ca0fc8a8e9",
+    "id": "f69f033f-d56a-428d-95d4-cff57ab911d7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #59)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -710,11 +710,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "875aa529-6d5c-4709-ab82-078d0dde584a",
+    "id": "ccfa6ab5-744e-4b1d-84b2-30b2826c72b0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #60)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -722,11 +722,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ffc9f99e-6f14-4cf2-b891-08715c324979",
+    "id": "7eaffb25-e580-4c2b-989b-4dbdc0882ed4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #61)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -734,11 +734,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d7e03c30-5362-4523-ba18-14e1c7b75cc6",
+    "id": "71ca40ab-0e8c-4d33-8b0f-7e168c76723a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #62)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -746,11 +746,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "91b4c0d5-eadc-4a2f-8279-05e5e8d5602a",
+    "id": "f7c3eeaa-33bb-42e3-8641-27777b402641",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #63)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -758,11 +758,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "830a5bba-688c-480a-b96c-d939c1e2f3ed",
+    "id": "572a8eee-e67b-4afa-98ea-4b4318e6b800",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #64)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -770,11 +770,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "aa94d748-0bea-45fd-b644-88652419fb3d",
+    "id": "bc49a62c-efc2-4ca2-9fd4-4526d8d686f6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #65)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -782,11 +782,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bc0888ed-2117-4e28-a8af-9532321bc604",
+    "id": "59501f1d-713b-434c-b3bb-6797e297950f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #66)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -794,11 +794,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1a6a33a4-3d62-4949-8d78-60dc82222fd7",
+    "id": "d0ecb586-91c7-407f-9c01-eb8e31c9a834",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #67)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -806,11 +806,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4e8016a3-81a2-48d1-a10f-9b1241b60222",
+    "id": "e47ee005-4684-4a54-a307-55d52ea848ca",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #68)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -818,11 +818,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d3ac6549-8c60-4221-9c8c-c2b55b7c47de",
+    "id": "fe730e57-27dd-4801-82ce-4fe6a1e1837a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #69)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -830,11 +830,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "77d968b9-14c0-44af-8856-3b24ba72be52",
+    "id": "6c192865-3eb2-4075-b479-8880b8910ebc",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #70)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -842,11 +842,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b458ac8c-c952-45e9-a7ac-7f63781a862d",
+    "id": "13cfada0-c459-4dd4-944b-f5054c789899",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #71)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -854,11 +854,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "047a945d-886c-4f21-b1f4-a7cc5a21ab2b",
+    "id": "8f88fde9-294b-41b7-895a-d41137a75150",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #72)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -866,11 +866,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7a744cb9-ab3f-4e33-8ef9-8a5152f7067d",
+    "id": "b3a419cc-ced3-4055-ac27-60b04ed51e21",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #73)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -878,11 +878,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5f2340a9-c42f-4a8b-a30e-3eebdf50e4ea",
+    "id": "95b4c05a-2af4-4040-80cd-eedccb3bbeab",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #74)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -890,11 +890,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a26ccbed-3b2f-44b2-918d-e6a933bed827",
+    "id": "d4380b6b-15e7-4ca5-b553-5d8c5e62c861",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #75)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -902,11 +902,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "23e8ceff-47d4-4bea-94e1-de9adbe3461d",
+    "id": "a4e2bd1a-edfd-4422-aa71-8fea0ce1f768",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #76)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -914,11 +914,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f7109d4c-e74d-4a84-92f3-67548a000e76",
+    "id": "395730be-f2a3-4b7f-9b3d-69e132f303cd",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #77)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -926,11 +926,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c59bdd6b-8943-41b8-99c4-e491fcd4154f",
+    "id": "0e7c18a6-ddb2-402e-b611-668bea883b91",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #78)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -938,11 +938,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "66aa9d2a-1796-4746-a5ef-ed82413cd323",
+    "id": "8c7828fa-04ad-4a06-81fe-b65df82ce863",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #79)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -950,11 +950,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6c9ac2a3-d91c-433a-9d08-8b27d83e9741",
+    "id": "22d78f0c-e56c-4d53-b43c-54cef0c5ced4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #80)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -962,11 +962,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "feb4ae38-43ab-4895-9af9-1504efbf0e29",
+    "id": "af8a9b04-b5e1-4551-aa6a-2b50f9bedca5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #81)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -974,11 +974,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "55181ceb-78dd-435a-bee3-ed85631daf40",
+    "id": "6d4a9a9c-e39e-4e9e-86e6-b97b9398d01f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #82)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -986,11 +986,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e40a1575-fd63-4140-bf3d-476ff6cfabb9",
+    "id": "80976543-1ea1-4c3e-8d21-9f0fff35b27c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #83)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -998,11 +998,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c5e55831-38ba-4dd5-b2e6-90c26b693241",
+    "id": "1f84c327-a29e-4272-9a1b-fc9a5837b006",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #84)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1010,11 +1010,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c1293ff8-b916-4a63-87da-8b0e908c0275",
+    "id": "aa0d2918-1e90-405c-a956-16268d45fa4c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #85)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1022,11 +1022,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0cd5ef27-3377-492f-9da7-ef4ccbaa56d3",
+    "id": "92dced55-6565-4a94-9b2e-52085e7fe1d8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #86)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1034,11 +1034,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3a0edaa2-b388-47bd-aa1a-7b328f39c23e",
+    "id": "f4c9aed8-8a7a-4283-b00a-2f1f244c7767",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #87)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1046,11 +1046,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ec959869-aa03-497a-b6ce-b3fce1a38cab",
+    "id": "e1478502-72c0-4e6c-9872-9358a61a408e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #88)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1058,11 +1058,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8a2c6a14-f6ee-4336-907b-091925c37232",
+    "id": "32a71ba2-fcc6-4f00-ba89-ce305a47dc48",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #89)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1070,11 +1070,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6912e735-2a32-4eaa-96c3-4a4c08df47b0",
+    "id": "b09ae37c-06b0-46e7-9db5-278b298f7d43",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #90)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1082,11 +1082,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b86691fc-a5c2-4ee6-97ad-2c1162ea767f",
+    "id": "d1c3548f-7ff5-4c8e-a086-701103caf610",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #91)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1094,11 +1094,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "31a46337-0428-42d6-b589-28cc331dfb04",
+    "id": "85e4c4e6-a81e-4fcc-80cd-991f7eac5ee8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #92)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1106,11 +1106,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "28e0b0cc-58c9-486e-a824-3df2d6af4171",
+    "id": "7eb7ca91-40e6-44cf-a8ba-e33cbb7db9f6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #93)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1118,11 +1118,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "481a76a3-e87f-45d5-8e42-c6f953f4d55d",
+    "id": "7814cb49-8fa8-4045-bb1c-8350963366b5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #94)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1130,11 +1130,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "539eb4d8-1b5d-4d30-864b-3b9e9fc60041",
+    "id": "d93faca0-75b6-4dd3-ba19-f1cc639a9ee1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #95)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1142,11 +1142,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ae989e9b-9b10-49f0-a1fd-f043550e4a64",
+    "id": "0e06d411-4df8-4f7e-89ab-753409f1fc33",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #96)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1154,11 +1154,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f6b4bf21-f2fa-4bc8-ad36-d6727c1623f2",
+    "id": "7ad0e78b-94fe-4e79-b46e-c6aed57cc0ce",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #97)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1166,11 +1166,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f9e32d74-7918-45d2-aaba-232fbb7b1365",
+    "id": "390fe303-6d03-4736-863a-9779e2351aad",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #98)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1178,11 +1178,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "dd793a8d-e1f4-403c-b4a3-1dda2806d917",
+    "id": "f4daa1ee-906d-477b-bf9b-3ea3680de326",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #99)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1190,11 +1190,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5cdb752e-75df-46c4-9363-4f1af8b5d25f",
+    "id": "578e65c1-becc-4284-a407-1bee6760b810",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #100)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1202,11 +1202,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "522c37af-b4a4-4320-92bb-9e02a613adcb",
+    "id": "912947fd-6fa7-4d4b-8103-c61234ceb776",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #101)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1214,11 +1214,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "17b3d760-39cb-46b8-9588-2c71325f4333",
+    "id": "513df289-5153-4043-8c60-5c88aeb7d15d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #102)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1226,11 +1226,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cffe6518-bed8-4c0e-b284-a40e271fc895",
+    "id": "3cb521d1-7384-49f8-86b8-94e7673062d5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #103)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1238,11 +1238,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8a134865-0822-4656-b567-3c99c251a7a6",
+    "id": "a10baccf-d1d8-4807-8a4b-5da8be7d1ebe",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #104)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1250,11 +1250,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a562cb39-4913-44c4-a217-3610df29f478",
+    "id": "6f171837-2ab5-478c-9101-cff600973b1a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #105)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1262,11 +1262,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "15a878d1-0640-479b-9fb9-ae59f17e1fd1",
+    "id": "31cfd20e-3f31-45e1-9a7a-663c7bd06d00",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #106)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1274,11 +1274,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "05d5dad4-51d9-4632-aaae-760ea34e7781",
+    "id": "820e6f8b-9dde-458e-b8c2-1bc458e1442d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #107)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1286,11 +1286,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ac2f53de-8bdf-4590-89a4-9264ee29cefd",
+    "id": "e9e09e88-2460-45e4-b310-a45fb32dd5a5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #108)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1298,11 +1298,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "64fa822b-de94-4042-9684-93372a172455",
+    "id": "b191cd1a-8bbf-45fc-af1d-4e0573175dba",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #109)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1310,11 +1310,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "dc212119-01ac-4f7c-8264-6dbfedb7f850",
+    "id": "ed5e7b24-f60f-4037-a1ce-0ac08f7e804f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #110)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1322,11 +1322,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "19fca838-3222-47a1-a79d-6faa0bbccd7d",
+    "id": "fe89c943-ef49-4a85-9264-603112ea09ef",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #111)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1334,11 +1334,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "45bf42de-2571-4d26-9d89-f3445a1633e5",
+    "id": "b988d58e-90c0-4119-a229-d1a3f24776d7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #112)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1346,11 +1346,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3bf4dddb-73fd-443f-83ea-1b3455213e0e",
+    "id": "745a52ac-f3de-4340-949d-61d8113640d1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #113)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1358,11 +1358,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a819a639-a747-4ffc-bbde-2616ed8f7a6d",
+    "id": "b1da5744-3be8-40fd-b6c9-dfe3edb8cd8f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #114)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1370,11 +1370,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d1562d52-8f7a-464b-8444-e567a322a158",
+    "id": "3d042d0f-afad-4360-9289-c35cdb65aa3e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #115)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1382,11 +1382,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "14da7728-fec9-4fd1-ab0a-686feca1ec3d",
+    "id": "310f8d13-b4dc-47f4-aa26-c5807db125f1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #116)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1394,11 +1394,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "baba9622-b5ae-4e52-aa4f-cf4a2d6d62a5",
+    "id": "e3c507d8-055c-48cf-a2cd-ec4229cbfd30",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #117)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1406,11 +1406,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "db1a11e4-3d3f-4cf9-a104-fbab9bfa97b3",
+    "id": "4a0bfc91-abb7-4ff1-86d7-074719405312",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #118)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1418,11 +1418,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9da31e04-5f8d-4e0d-a49d-13444c547b2c",
+    "id": "f231b6e1-8b10-4942-ab16-4cc29404ed0b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #119)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1430,11 +1430,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3c9f30ca-9098-4455-959f-87a09e3f457e",
+    "id": "4cdd62d0-ca59-4d2d-a45b-7ebc6909da3e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #120)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1442,11 +1442,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cb1fa5ee-8275-461c-88eb-59f2302a711f",
+    "id": "fdc665e7-bee5-41f0-a4a9-dc2258a753f6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #121)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1454,11 +1454,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "99ec694e-acb2-448e-ad2e-6d8f4405e1c3",
+    "id": "a3d0ac2a-e47d-4da6-883f-de30b8500261",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #122)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1466,11 +1466,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6e9c37b0-e50e-459a-ba03-066ab5c2b24c",
+    "id": "c6748227-bc5f-48ce-b086-b1c795b677db",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #123)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1478,11 +1478,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0372c6bb-7aba-4a62-a58a-d3316b466834",
+    "id": "5f4ce882-99ef-4ce7-805a-a1e41f5fd957",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #124)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1490,11 +1490,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f2406346-d491-4c45-b179-59e8a0fc2768",
+    "id": "cce78670-a641-4911-8d8c-ad5fe70a87c8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #125)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1502,11 +1502,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3306ccbc-1aec-4c43-81b4-4fb58b64483c",
+    "id": "fd3de148-ea2e-4d89-adfc-f76f43a2644a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #126)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1514,11 +1514,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "75dba473-1e71-4a9d-8be7-340ed7ac4c03",
+    "id": "fae049c8-c478-484d-a585-c9b875ed266a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #127)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1526,11 +1526,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ceea2b4a-da23-4085-b310-b2af35321d0d",
+    "id": "087a0eda-97aa-4d31-b075-b5228435e3a2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #128)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1538,11 +1538,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0c1626ee-4929-4b83-984b-22efa616ce35",
+    "id": "02fad95a-aa67-4d83-91a9-8daf873b156b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #129)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1550,11 +1550,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "96427d49-692b-4ed2-a2b3-f744e33a2ee2",
+    "id": "7a378bd1-a1ef-4099-b3f5-b22f5e6c5709",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #130)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1562,11 +1562,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "76990669-743f-459f-897d-3b9921f0877d",
+    "id": "626cd4b8-d271-480f-9c46-227983c99b49",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #131)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1574,11 +1574,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "32ddbf25-f5e7-4fef-a498-6147ef6a303c",
+    "id": "27d7590c-e9ee-467f-9c5b-261197519041",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #132)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1586,11 +1586,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7808cdef-c10d-49bd-9377-62b17b7b8af8",
+    "id": "c689a0f8-b52e-4f52-8a09-a3770758cb5a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #133)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1598,11 +1598,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4b8237db-6bd9-4f37-9a58-9273779ef8dd",
+    "id": "959a1109-3641-45bf-9f18-7b213bef48cb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #134)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1610,11 +1610,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d784b09f-d262-4fc1-b372-3b2eab7f76e7",
+    "id": "30e85aa3-d076-40ae-b143-73bc50fbd07e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #135)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1622,11 +1622,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0634668f-a4a6-4145-b6d9-456b7a4e0ca8",
+    "id": "fb88df71-db53-405b-9e97-eeb860c3031d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #136)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1634,11 +1634,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7d4ea53d-ceee-41d1-9135-a4dafcde5951",
+    "id": "c0370260-2a07-4805-a386-f20b19c3085e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #137)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1646,11 +1646,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8e826057-c629-4896-b4e6-d43ec8a43a24",
+    "id": "6f860d58-b058-4492-9ea1-af63a4e72501",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #138)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1658,11 +1658,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f14b2538-c8f0-48b6-820b-0a9858c210c9",
+    "id": "40a689ec-f460-42b3-8fe3-9ba0906b3866",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #139)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1670,11 +1670,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "08643d6b-4a0e-4d88-bccc-844eb6a04174",
+    "id": "b36bce14-6599-43bd-aac9-f71792a2747d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #140)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1682,11 +1682,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "eb4c2c2d-fb3d-414d-9dfc-ecaf6f8e4f15",
+    "id": "95137aa7-21e3-4440-a08b-8be64045e88d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #141)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1694,11 +1694,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "30cfe388-344d-49c0-83ea-563245fa2af5",
+    "id": "e6ce718e-be17-461f-b172-3b4d135489c5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #142)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1706,11 +1706,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bc234f10-54d2-4ee8-baa0-5b5868fec526",
+    "id": "5c175c8c-d02d-42e6-ae22-66d4c0265d75",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #143)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1718,11 +1718,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e889bfa7-66f3-4f3f-a1c7-7d6a935605ae",
+    "id": "b105f721-1bbc-4b31-bf14-a7e22cc953d6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #144)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1730,11 +1730,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "08171835-082b-45b3-a9e5-3da79738e31b",
+    "id": "a9d49d7c-2c35-4892-bbb0-02219c0e1b50",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #145)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1742,11 +1742,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0b39b96f-58bb-49bc-b259-bb12358a90e3",
+    "id": "ba3e91f6-187f-41e7-a06d-a971cc56279f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #146)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1754,11 +1754,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "237779f8-7406-44e2-9134-49c6d9ba5c84",
+    "id": "4f5022b2-4366-4afd-89e5-fc25a16f3a49",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #147)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1766,11 +1766,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e1a2499a-421f-4caf-b783-5a42c2352bd4",
+    "id": "f3fa742f-1121-4b65-9977-7e3eff07931c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #148)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1778,11 +1778,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a9b95500-78c7-4e68-adce-a603df2a230d",
+    "id": "437d6dd3-f0a0-4709-8b29-1c4654fdad74",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #149)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1790,11 +1790,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "65deb85f-6667-4bd1-9ab5-fd1f48856ce0",
+    "id": "64ab29f4-550f-4e1c-842b-dc36dbbd575f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #150)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1802,11 +1802,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "377024c2-7f76-4e8f-82b3-6243c0c5ebb1",
+    "id": "42179333-7258-40f1-9bb5-97f764f87159",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #151)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1814,11 +1814,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "83851b45-a13d-4bcc-a6c9-5b5323ee2ec8",
+    "id": "c925fc95-6959-4201-a3e7-e50429a22f08",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #152)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1826,11 +1826,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e9ea4644-498a-4596-a596-b7782c783fc5",
+    "id": "50f74f67-9478-463e-99bc-391f4f31ae0e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #153)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1838,11 +1838,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8b54f6e8-d075-4c2d-8491-c2b1e2451d7a",
+    "id": "1efb1993-ce9f-4f40-99ba-3239e0547c0a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #154)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1850,11 +1850,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f68d4923-ad41-4735-a7fa-1debba7458a2",
+    "id": "b176cff4-b86e-4369-81d9-59b852045d84",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #155)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1862,11 +1862,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "80160ad8-91f9-4843-9e5b-bd4dca7a5fba",
+    "id": "84651365-6cd5-4c6a-94c2-6406a7bad7de",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #156)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1874,11 +1874,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1f689c62-b7a9-480c-b083-2432083a6382",
+    "id": "96667970-c351-4bf8-b6a6-4b53250c1f8b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #157)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1886,11 +1886,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "026d1e93-6fbb-4b35-a891-f862fcee5573",
+    "id": "f40b015f-0ad8-42b5-9411-fb753cd264d9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #158)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1898,11 +1898,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e1938fa5-86dd-4fba-b017-9ae94fbf87b8",
+    "id": "0b316aa7-4349-4939-91fd-e6f6a500dd0e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #159)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1910,11 +1910,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "617632f2-5fef-4408-8dd8-842768a505d9",
+    "id": "1396f59c-daf1-4a2a-88a3-2a41b2be389c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #160)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1922,11 +1922,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0ca2d0b5-0bdb-4d64-b81e-2964bbbd70b3",
+    "id": "5b58b4fd-2346-4c99-a2ac-f67e7a368b88",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #161)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1934,11 +1934,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8e19ec31-30dc-421d-ab99-7da4b590b02a",
+    "id": "a6edd1ad-42db-41e3-a7f2-5a6c2051dd0e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #162)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1946,11 +1946,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "793045ea-093d-41d8-8eb4-c66beb721328",
+    "id": "0e97c741-5fac-4360-84df-57bbbd2e8d9d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #163)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1958,11 +1958,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "191a48e2-f7be-4bc5-beb5-cc995c6b6929",
+    "id": "2acd24b0-d7ee-42e0-b26a-b732a4c5b8ec",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #164)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1970,11 +1970,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2ea25dd4-a7a2-431d-a7ca-b1ef55e2c6fb",
+    "id": "f9b47c11-8560-46ed-b7ce-e9df30771623",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #165)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1982,11 +1982,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "80a45a65-fa3b-46a2-a82a-629a4375fc00",
+    "id": "0a014b7f-8369-4709-9a5e-7580cf8a6d9f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #166)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1994,11 +1994,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "81b561d4-8ca8-4b15-b4a5-a8ee29d20713",
+    "id": "496dfaa6-38ed-4098-9ea7-421e60355118",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #167)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2006,11 +2006,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "303bef5a-8dc1-4937-b26c-ea192da51e7c",
+    "id": "045a6b2e-eb88-4ea3-9e45-421423e4437f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #168)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2018,11 +2018,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a6ceafd6-7a08-4b55-b775-a958c6ed7b63",
+    "id": "3336d4fe-782e-46c5-8495-346181202376",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #169)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2030,11 +2030,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fef0ede5-b6a1-43f7-a617-53da6a291c79",
+    "id": "a0b66f07-58cf-4a1b-ad34-488ee991d561",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #170)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2042,11 +2042,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cdd1c31a-0590-4302-af0d-441fd42b8cd1",
+    "id": "67fbcf67-6448-4d02-8312-802b695dedd8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #171)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2054,11 +2054,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "878ce56e-af33-44a4-947a-1e7af9e7257a",
+    "id": "51e3932f-b5ac-4681-80cf-d5769ff87bfd",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #172)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2066,11 +2066,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fbd17760-3a1b-4df1-b42a-b097e99fc7f5",
+    "id": "2883473f-f02a-4597-808b-3d76c2e8fd76",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #173)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2078,11 +2078,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c8949ad9-e70a-413c-bcb0-1269af3d32ea",
+    "id": "aade709e-1d6c-4a04-bdb8-0750d12adb1e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #174)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2090,11 +2090,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "456fe108-515f-4add-85f2-422312ca4a35",
+    "id": "adc4fde4-5ecd-46b3-9261-af14241083e5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #175)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2102,11 +2102,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "146945dc-0602-4edf-99a0-a6f64bf08ac0",
+    "id": "85bcb288-881e-496d-b5ad-8dc88e9a28f5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #176)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2114,11 +2114,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d01239b7-f68d-4106-aebe-ab28136dfe82",
+    "id": "4e958dad-d586-4d3d-8aee-7f9c47a1c587",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #177)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2126,11 +2126,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c0faf1a2-a879-4eaa-8715-e2d77352c6f9",
+    "id": "994a974c-5e61-450f-8891-450f7c0225fe",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #178)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2138,11 +2138,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a17cbf8e-4df4-4802-8df4-81960a961e75",
+    "id": "673da042-e348-4cdc-aaeb-905d68ee9aad",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #179)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2150,11 +2150,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0122a94b-4251-4631-86b0-76145150d979",
+    "id": "a56db83c-e6be-489e-a8a8-6f69bf359901",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #180)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2162,11 +2162,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a24de6fc-fddb-40b9-a6be-623aa52f0bd6",
+    "id": "0d029e29-1dae-4454-8a6f-35543d4132e0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #181)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2174,11 +2174,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a7622a3e-684b-45f8-ab33-a894f6cfcb2a",
+    "id": "989462f0-4e95-49df-bde5-09fca8bfeb7a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #182)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2186,11 +2186,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f82662d6-72b2-4669-aed8-5b29105f39e1",
+    "id": "cba806b4-1fdd-4bd6-9aa6-53747801a04a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #183)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2198,11 +2198,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4f864837-b60d-49f5-9736-4ddfd90168b6",
+    "id": "0205dd96-b8b8-4665-aac8-5e62bb7e2a5d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #184)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2210,11 +2210,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d0821562-e3d7-4b0b-8a61-5ed3543ce4ea",
+    "id": "1a6c127b-9590-465b-a1bb-b626547cfaeb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #185)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2222,11 +2222,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "73cf9340-fec0-4873-b4dc-4ca993dae5dd",
+    "id": "7b374528-9c5a-4e35-9f5d-9194f4dbfb23",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #186)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2234,11 +2234,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2c664c22-a4b5-44ca-ad8d-c567c3ea0883",
+    "id": "f1c2aad2-8ca3-4a8c-aea7-6ef28b8bc1a2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #187)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2246,11 +2246,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cc583800-44b2-4f17-8a63-7588b200751e",
+    "id": "463de2ba-7878-404b-b07f-905d6fecc8b2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #188)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2258,11 +2258,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d953e428-393d-4a21-b861-9e009edb9f69",
+    "id": "417d82b2-d402-45e2-9cc9-294d2df52283",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #189)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2270,11 +2270,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "23f43716-f64e-4de7-808c-0ae6a3effad2",
+    "id": "a1a68ee8-6a8e-4c85-b261-6ddf4b8d5af0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #190)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2282,11 +2282,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "da1b9223-baae-4eab-8b0d-5dccf05058ca",
+    "id": "5c34cc67-7b03-4ba8-92b7-8187c9087579",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #191)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2294,11 +2294,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fd3b3db5-348f-40c9-adae-17304c5fe124",
+    "id": "2d1b079b-35f0-4f06-ae33-31dcc15cb9fd",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #192)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2306,11 +2306,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e26afdd3-aa11-440b-bce9-86ba802906a4",
+    "id": "4ab389af-4dcd-4595-bead-b2c2ed37246b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #193)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2318,11 +2318,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3afeeec8-e4f5-4565-aac3-9dded7485fdb",
+    "id": "c614fae2-c337-4afd-b3b2-0b264c177c71",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #194)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2330,11 +2330,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6c4653fb-80a8-475b-8fdc-b8088a6b4c35",
+    "id": "288138b2-c146-4b1d-a442-9b3a7a9518a5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #195)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2342,11 +2342,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5b521d49-ea4e-460f-9ca3-761c169134b7",
+    "id": "431cc4e7-9da8-4e9d-ab49-c5f97110cbeb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #196)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2354,11 +2354,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "522a921d-5895-4ae7-a3ca-ea1ea3ecfd3d",
+    "id": "d0e700fd-63fe-45b0-9479-09cd87b3a1bb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #197)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2366,11 +2366,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e0e9c43b-2215-4916-8ae4-f92283270d7d",
+    "id": "b911c8a8-33bc-4b51-8b3c-5802ef70bd02",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #198)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2378,11 +2378,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b1359211-ce13-4bd4-a0ed-ba5bb9ceee6d",
+    "id": "3f044e2e-78eb-4247-acd1-30f317b1c59d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #199)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2390,11 +2390,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f4cf3800-5fa7-4b69-a48c-d58a425ee78b",
+    "id": "5e02f0a3-2cc9-46c4-aa16-732b05afb266",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #200)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2402,11 +2402,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "59f23fee-516f-4496-832e-d38cda4240aa",
+    "id": "4b6eabdb-2ebe-46e0-9d65-b35cb6e2c4fc",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #201)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2414,11 +2414,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "21c1307c-57bf-48bd-9432-3d577f3f5b1e",
+    "id": "4bc91a66-e066-4be0-ae85-cdace4f68cb0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #202)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2426,11 +2426,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "850c20a9-fc51-4c3f-837a-51bb4669112f",
+    "id": "0fdb7bf7-4a71-4583-9013-c9ca9569e903",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #203)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2438,11 +2438,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5808c8a8-23ca-46a4-a8e3-00d2dca6a792",
+    "id": "fd73b72d-4c3b-491f-8d27-4b3bb173d8a0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #204)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2450,11 +2450,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6b753119-61ad-4035-90cd-ea59ae2408df",
+    "id": "804c1662-3e52-4457-8721-c945e2fcfaa5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #205)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2462,11 +2462,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "73b2b59c-7d3b-4dd2-bf97-8c6e4e40ff5f",
+    "id": "d0c06d97-54cc-43ce-8e96-d911bb40e58e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #206)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2474,11 +2474,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3706c2db-8b02-4cde-b084-5273dff63335",
+    "id": "207ebcb1-9f10-4ea8-9e73-8cf13efe0569",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #207)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2486,11 +2486,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9f6d321a-d41f-41f5-a46d-1bf50ccd2e76",
+    "id": "22301087-0ec8-4461-bccf-c88167835f58",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #208)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2498,11 +2498,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4ed7b2ed-7b41-466e-9801-1f3ba1615355",
+    "id": "0c925ee7-c3cf-422d-9c2f-e8c05e7390a6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #209)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2510,11 +2510,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "87b90997-020e-4995-b919-318d961cc41d",
+    "id": "cda1a422-2963-49ed-bea6-077d354cd8e4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #210)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2522,11 +2522,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "538d37c8-454c-49a4-aec0-d4cf3bdd0d27",
+    "id": "4335212d-0317-42dc-a811-931664e63f00",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #211)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2534,11 +2534,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "64ee75e0-96d1-4d07-8677-21805734f6ff",
+    "id": "a559a614-f60f-46a0-a342-91b38a141a92",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #212)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2546,11 +2546,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "86de52f3-aaa9-4617-a864-6e97787c4137",
+    "id": "0f1f6acf-3e9d-42db-9519-3a407c3b6375",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #213)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2558,11 +2558,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d4074857-fd8d-49f0-a96b-c1d0b1ca9c3a",
+    "id": "4f19e669-078e-4b92-b72f-c5bae56ac579",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #214)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2570,11 +2570,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "76ed5f3a-e5f4-434c-8262-b82dc5516513",
+    "id": "e932dcd2-1a29-413f-97bc-0c206bd8235e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #215)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2582,11 +2582,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "69584976-fa49-4b23-b139-9e2c7d184500",
+    "id": "45144e7e-bdb5-439a-b649-71e7039c8c2b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #216)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2594,11 +2594,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ea56ce7f-9b0e-48c1-bff7-b0b41e0492b3",
+    "id": "d728d144-6d90-46d1-969a-cfd69a160f19",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #217)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2606,11 +2606,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9d2c5acc-4290-4fd9-b216-98f6e853627a",
+    "id": "2bc74d9e-801b-463b-8f03-b6793cf3e7bb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #218)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2618,11 +2618,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fa752446-d24b-46fb-b25f-2e5a1a997944",
+    "id": "b82ed902-f085-43db-8e5a-21ac6a8ee4b0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #219)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2630,11 +2630,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "70eb4b8b-3833-46dc-a9c6-f276129db38d",
+    "id": "4075c059-bf21-43fb-8b55-317f06e60ba0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #220)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2642,11 +2642,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ec00c21a-dd4c-43ad-8efb-122c6edc5df7",
+    "id": "0ead6f9a-4d3e-4498-abf8-4a42282e27d0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #221)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2654,11 +2654,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "63fdb318-c0e2-4428-9263-b027700f6ece",
+    "id": "f18fc0de-da37-4cec-bf76-d301fa516789",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #222)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2666,11 +2666,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a54ea72e-042e-41f4-adeb-5195ed6d2c0c",
+    "id": "fceecc23-ec6c-44e5-80f6-65ed3c753d53",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #223)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2678,11 +2678,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a95d26ff-f2eb-4eb0-8666-a007a02fe5a2",
+    "id": "85521f04-0abd-43f8-8c76-791be21dbcf2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #224)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2690,11 +2690,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c844e725-be84-42a4-98a6-bb5bd79c05f6",
+    "id": "23209570-8de7-4526-bd6c-a93256ab3859",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #225)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2702,11 +2702,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "134ac2c0-dda1-4712-989d-f930a0c5e1a1",
+    "id": "e8d7d5a2-afb9-409b-9223-4fd8e49ea538",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #226)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2714,11 +2714,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d5fa6cde-1aff-43bb-bfd1-942770e242b6",
+    "id": "bba4b14c-8f20-4e6a-b129-ba3937f69b16",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #227)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2726,11 +2726,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1f5ccd3a-a89e-496f-a1bc-551082800bcb",
+    "id": "83f45d15-1b2e-4d0a-9cc7-55ecc304eb83",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #228)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2738,11 +2738,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fa71bb87-bd59-4864-a93e-4cfb029da2d0",
+    "id": "b19e96d7-cd60-477b-8259-109b7533ae88",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #229)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2750,11 +2750,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e362a978-9a44-46c7-bc33-693732e01c1c",
+    "id": "42a43279-c1e7-40b4-b4b8-43879f198577",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #230)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2762,11 +2762,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6d44c5ac-ee6a-474f-bc33-0c2c8221ac35",
+    "id": "1403268b-bef8-4c4e-8765-be3f379a990d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #231)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2774,11 +2774,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c30a8720-c0f6-44fc-8353-ae75ead2c3cf",
+    "id": "dcf177f9-2e87-460e-aee8-66aa8a6d1e1e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #232)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2786,11 +2786,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9435b455-b231-4b44-b051-8f3b9615fc70",
+    "id": "9865174b-6073-4de8-bb2e-3cdcf1b6a105",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #233)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2798,11 +2798,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "909ce692-a87c-413b-8993-c32fbd17939b",
+    "id": "e5991c2c-60c4-498d-8320-9abae20ce350",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #234)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2810,11 +2810,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9d8ceb98-e688-4eb7-a0d5-3dc8edf55b87",
+    "id": "dd4192aa-d19a-46bc-8e98-b84628fa2efc",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #235)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2822,11 +2822,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "efd16b9c-1eb3-4b8c-97d4-499aa8cdd73a",
+    "id": "0686a8f2-6122-4c60-acc8-b4889ec45a32",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #236)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2834,11 +2834,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2d976acc-a9d0-41f2-b6cb-b132e41c1f7b",
+    "id": "28760900-2e09-4244-87e6-3c869e291384",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #237)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2846,11 +2846,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "88006f37-e823-437b-bff2-3774e5ab1a9b",
+    "id": "e6f95325-d9ea-4065-9e36-3048e68a4a63",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #238)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2858,11 +2858,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fcad659c-5a5f-40dc-9321-885936a32570",
+    "id": "72195624-08d6-4962-9bd6-7b301e840457",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #239)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2870,11 +2870,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f29a8ec0-55b3-4c8b-a0a9-5221ead11450",
+    "id": "3b4b1355-29d3-4d46-9e29-3e7f7be3398c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #240)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2882,11 +2882,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "354a25c3-e29b-4471-9657-a17d29d79616",
+    "id": "ec2761d1-689d-4267-b369-79788e6634db",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #241)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2894,11 +2894,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d5802906-fb63-420f-bb64-cabb6bf0b425",
+    "id": "716891c0-3221-4666-beeb-20cf5e8f8b69",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #242)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2906,11 +2906,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a4516f18-8569-48c1-ad69-17ac3ddd67ba",
+    "id": "18dc9f70-0f6f-4e9d-a2a0-a7eb949abcb9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #243)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2918,11 +2918,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9bb1551c-969d-499d-8d93-a4da940b6765",
+    "id": "bb534b73-a255-4703-be8e-9dcaef0ad7a9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #244)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2930,11 +2930,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "256a5e37-c3cb-4e7a-a113-f7613bdd9d3f",
+    "id": "5be237f3-e819-4a38-8c8a-7c67f448b7cc",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #245)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2942,11 +2942,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "71a26f12-d5be-4b45-b573-c0fc7542e5b0",
+    "id": "cdbfef5b-b2a3-40b3-88d6-2de8238b43ab",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #246)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2954,11 +2954,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a49d97b5-d9a1-4893-9006-9417b3e22a46",
+    "id": "b8384458-fbeb-4719-87bd-882c758eda95",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #247)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2966,11 +2966,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "87c6ea09-3724-43b5-9421-0bd061d91a2a",
+    "id": "6370a1b5-659b-4f07-a40b-6a9e37d7c891",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #248)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2978,11 +2978,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d2b9313e-c80f-4f35-a6aa-ab5aea750b9d",
+    "id": "d802d4da-7586-438c-b22a-47934dc65834",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #249)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2990,11 +2990,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1e0b610d-9c06-48d1-9822-8e15e09730fe",
+    "id": "99e8101e-6a23-4aeb-8989-024c9c52d044",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #250)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3002,11 +3002,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2e800f77-3182-4879-82d5-e9c27d8faf19",
+    "id": "1c06c6dd-2a64-4fc0-891a-0d69b3af819f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #251)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3014,11 +3014,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b28c91f6-6453-4845-ab39-2c2e66a6c6f7",
+    "id": "432a1866-1dc8-4e02-8694-6b3d17e618b3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #252)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3026,11 +3026,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "718d03d8-16ae-45bd-a1e1-9901cba51b54",
+    "id": "31d93f33-e68c-48e2-b0cb-ef3ece3b5ec6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #253)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3038,11 +3038,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "219f1ebb-ac93-473a-a1fd-8338bfc2ccde",
+    "id": "e71d7bc4-205e-4ab6-a504-c77157da9ede",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #254)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3050,11 +3050,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3599b450-031c-4ebb-a3ef-fb2e4f0811a9",
+    "id": "03df2c60-2805-4ec3-a71b-0cf8b6a6d4aa",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #255)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3062,11 +3062,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cfa5d684-c63f-41ac-b9b5-9635ecec66ed",
+    "id": "45405341-2f6b-494b-9245-b40abb1b3cde",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #256)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3074,11 +3074,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7bf2cfeb-8c19-4eef-9b67-a5795176d8e8",
+    "id": "2222684a-bf46-4674-9786-2b759f30bd6e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #257)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3086,11 +3086,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cba9193c-61a6-40d7-a57d-b749412c3b98",
+    "id": "3bdc797b-aa10-4743-b73c-56f1dc93df23",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #258)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3098,11 +3098,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "75d0a373-92fd-4806-bac4-e80a2caa3d70",
+    "id": "9fd34988-bc60-4dfb-8b8b-4da20b9e833e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #259)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3110,11 +3110,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "43c0b5e6-bdff-4cae-851a-856f3e0dbcd5",
+    "id": "2e2d387b-8176-4699-b159-da3aaf743957",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #260)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3122,11 +3122,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fb617d4a-2e45-4317-9492-b5334bba5527",
+    "id": "287665b4-932a-4580-9dd1-137346aee930",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #261)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3134,11 +3134,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "27e0c56a-ca6f-4933-8df3-c52efab48906",
+    "id": "6dc251b7-f326-4bc3-a113-285e0c1acc7f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #262)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3146,11 +3146,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "30fdc2bc-ee30-454d-be86-101be6df8a40",
+    "id": "12c4388c-75c6-4890-bc29-056d9fc31c6d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #263)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3158,11 +3158,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "564e9e87-0e0b-48fd-afe7-3d10247391d0",
+    "id": "eb52ae45-591f-4a1a-bb31-9d6b4a1fb0df",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #264)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3170,11 +3170,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0e82e96a-0e33-4513-b136-c12b77d6a97f",
+    "id": "ee211838-7ac5-41f7-9078-e2db4e220539",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #265)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3182,11 +3182,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bb722208-2216-4612-b202-953bf300ed4a",
+    "id": "07cc74db-e9e4-4e6d-b417-d10a38561fc3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #266)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3194,11 +3194,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d0becee0-07f3-4f70-b37c-305f692bd6e2",
+    "id": "4255ae05-c547-4d58-bd2e-d94cc3536a35",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #267)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3206,11 +3206,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9e01c9f4-619e-4623-83f2-9e4bfa86516f",
+    "id": "2dc25cda-7cec-4a7b-ae30-11efaadbf8f3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #268)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3218,11 +3218,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "dc3287e1-f5d1-482f-a031-80c60f425b7e",
+    "id": "de14e349-4ab3-40a7-ae36-ef0f65feb912",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #269)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3230,11 +3230,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a77825d9-1f94-4763-91b9-a89d3af2fdae",
+    "id": "78452134-f9bf-4b01-9c59-7129f9663183",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #270)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3242,11 +3242,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f0761bfe-f109-41b4-be3d-e10b8359e104",
+    "id": "d6aa2e40-9053-4ce2-801d-1151a41b947e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #271)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3254,11 +3254,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0816bf57-67cc-4887-95e4-45e47fe32e0c",
+    "id": "ceea39d9-119b-4942-839e-ebae78f08ca2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #272)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3266,11 +3266,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4c528ec4-2e9f-4b5b-98b3-0cfa0926ba17",
+    "id": "7c8e70e9-175b-4a27-9b5d-0da008181780",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #273)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3278,11 +3278,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "212aaf71-5ea7-4460-bbba-2ea84263ebd9",
+    "id": "3b7b3282-5a3e-4fb9-b73b-a69c632f61c0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #274)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3290,11 +3290,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bef0c14e-b48d-4bcc-8481-64b74ebf425a",
+    "id": "0fdd0536-242b-492f-b9a8-4c4c475837fe",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #275)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3302,11 +3302,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8d36db3a-1b44-4219-a2e4-88432ba22a99",
+    "id": "1cdf25a4-3678-4b71-a6e7-aa86c7677275",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #276)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3314,11 +3314,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "44a6a338-9b1a-4600-9a69-cfdc49d0460c",
+    "id": "4a94ddfd-6fdc-4352-9da8-b0ce08a2bc9d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #277)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3326,11 +3326,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4d70e5e5-5e2a-4176-a4ae-f1d01c509e49",
+    "id": "aed27975-e9c3-4261-be52-4e596626acbe",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #278)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3338,11 +3338,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c08b3a3e-51ad-4d87-95e7-ca42e126fafb",
+    "id": "4e21526a-d085-4882-b4cf-8f9415b0c726",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #279)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3350,11 +3350,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a1e1df5a-e1d0-4384-8a4d-8bec2f5e502c",
+    "id": "269448b9-86d0-4ab6-b739-7a07f8094d9f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #280)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3362,11 +3362,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5e968544-5378-4b43-a58e-3bbfb960247a",
+    "id": "9382f0ab-1900-4fb5-a7a2-946e91e8d3fb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #281)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3374,11 +3374,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "21e28b82-5dcb-4d6a-bbec-009d39c1be21",
+    "id": "99fbf902-bf1d-494d-85e2-356efb95cf93",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #282)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3386,11 +3386,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "dda8ad52-20d8-4fc2-abb1-15b8deab5d91",
+    "id": "4312f88e-023c-4fde-a307-e039411e0072",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #283)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3398,11 +3398,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d4c9aa40-ace0-43aa-b50f-188ea06f2f9c",
+    "id": "1895f596-bc4c-4d09-b066-af3610273127",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #284)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3410,11 +3410,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2571dc57-8c0e-40a3-8d25-11bbeafffdee",
+    "id": "d98d6819-fd38-4c5b-9b45-ca893f951e1b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #285)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3422,11 +3422,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fcc3fce5-f138-49e4-8972-da51acc2fb83",
+    "id": "816f3a5a-47e7-49f6-9a98-1b2ce48d8cd2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #286)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3434,11 +3434,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "990e0dfd-ebbb-442b-8089-3bac10880261",
+    "id": "bbafe00c-249f-46d0-9fc7-1a49725d8e96",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #287)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3446,11 +3446,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fe957dd7-4d10-4b3a-8e75-6cbf39fdeae7",
+    "id": "0681d39c-1d0c-46e8-9950-f8db7cc97c51",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #288)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3458,11 +3458,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6cbfcc4e-c8d7-4810-9bca-e35f5c599772",
+    "id": "f49c51e1-ac8d-43d2-9469-82945a06b325",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #289)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3470,11 +3470,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2168af08-b3be-4f5f-ba46-ce82a050b7e6",
+    "id": "2d5c3554-f08f-4e9d-9dfd-cff1782bc42a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #290)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3482,11 +3482,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ea120e74-a107-45f5-865a-ec1ff0b8f2be",
+    "id": "9b4cb039-b11a-4132-9673-15c15f29fedb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #291)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3494,11 +3494,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "093868bb-d522-44e8-a877-ef4ba4c7f36f",
+    "id": "1951c383-fef1-4065-8ade-06479be934a1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #292)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3506,11 +3506,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7a0585a2-b27d-4ccc-a0c6-9df720966c5c",
+    "id": "a910536f-e5b1-4b21-9170-6f8bd4267140",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #293)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3518,11 +3518,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a65c7a8b-bace-4447-b8fd-955183cc499c",
+    "id": "48ddef5f-ef7e-40fc-af1c-e65f27e9d614",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #294)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3530,11 +3530,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1d007de7-838f-4588-9691-0526d452851d",
+    "id": "50700885-7845-499d-88ba-45f28fe511a9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #295)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3542,11 +3542,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "545e5b79-6c34-4dd2-bc0c-425eaf4a1545",
+    "id": "5795d965-f105-4b81-9b4b-ade6b92f6b19",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #296)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3554,11 +3554,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d19fc5a2-2939-467b-8f75-14c7f553f579",
+    "id": "40110abc-22a6-4c45-9bdf-f1cbe0a40b85",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #297)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3566,11 +3566,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3ae2f488-deed-4f72-9283-a50b96ca65cc",
+    "id": "cd23abbe-a0ca-4e95-8da9-442b5b405377",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #298)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3578,11 +3578,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c7c847f3-a6f6-44dd-b2ea-8c56afb7a97f",
+    "id": "25f05a9d-a167-427a-a506-b044443c591f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #299)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3590,11 +3590,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "dc48001e-7ab7-4055-83a5-26a8c2069cf9",
+    "id": "1a1c63ac-d2bb-4ac1-bfa8-9c70e89c812b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #300)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3602,11 +3602,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3a4dc7a3-7fd3-4576-8f6b-474176dc507a",
+    "id": "582e7faf-ed19-4335-9e13-fe436107cd8b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #301)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3614,11 +3614,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a9ab17fc-8abf-4ed5-b128-17413619bc07",
+    "id": "8f19cfd6-0529-493a-9b54-04444ae39cbb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #302)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3626,11 +3626,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "acdc024e-eef2-4a77-9c5b-81c68b150215",
+    "id": "847cb5c1-f8ce-46b6-ad42-f6cf8dbd57e2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #303)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3638,11 +3638,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "415bf2d1-d1f4-4b52-992c-25280a0d31e4",
+    "id": "f3831358-ccc2-4bca-8773-0e2136fc6d2c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #304)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3650,11 +3650,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "db34a5b0-f8a0-479e-b115-f2a3c6be84c3",
+    "id": "5d822761-e454-4a4b-9084-73e7f560df11",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #305)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3662,11 +3662,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c02e621e-3ee3-45d3-8eb0-b5fce2985df0",
+    "id": "5bfcc4a0-1a85-470c-a777-75f0383cad48",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #306)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3674,11 +3674,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "71c7224b-0501-488c-9968-4f991b753417",
+    "id": "9e09dae2-2253-4926-8cea-b60f66097ba3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #307)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3686,11 +3686,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c815b27f-34f5-4095-afaa-1faea459304e",
+    "id": "fe5d86f7-3762-4ac5-a0eb-a3e504aed60b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #308)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3698,11 +3698,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7b112a5d-0592-40b0-8767-62a09c3d8729",
+    "id": "751454a1-6e7d-42cc-a6f9-996b70eefb76",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #309)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3710,11 +3710,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "89d7065b-00da-45f3-83dc-f589f179993f",
+    "id": "6859a33a-d9d8-4975-9c2a-c5f73f545fd1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #310)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3722,11 +3722,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c479dce0-4cf9-475a-82a2-e251525d8dea",
+    "id": "59021e3c-a4e0-46ca-ae33-22dd40893716",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #311)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3734,11 +3734,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1d63a1ef-0727-4e64-a5f9-d48c9718fbcb",
+    "id": "9c2e3bf3-7d8d-437a-bac8-ab6b78a0bd0d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #312)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3746,11 +3746,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c7a77ca7-81ef-44c1-b3fd-27ef54ea13f6",
+    "id": "f119229e-bbce-4850-9843-b2de03b45770",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #313)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3758,11 +3758,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b97f73ae-ebbb-4cf4-99f8-b0587afce2dc",
+    "id": "e0ef356f-5ea2-473d-8e7e-683554fdf219",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #314)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3770,11 +3770,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7ecd086e-4f75-4bbb-8e53-7cd98320801c",
+    "id": "c10090a5-8001-4639-8433-d84856582be3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #315)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3782,11 +3782,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e19d34a0-83fc-43d6-be87-bbff77b4e744",
+    "id": "70233c0a-a9d0-442d-897a-7872d0fa0ca9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #316)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3794,11 +3794,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "749b7114-67ac-4c1f-8db9-1d542637182a",
+    "id": "7a193735-5388-4cce-807e-d3e70b59dacf",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #317)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3806,11 +3806,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c5ca0492-0aa4-41c7-b8e0-b5326f32c9e8",
+    "id": "4761d59c-85ba-47d8-bc2d-3408b2f3acba",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #318)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3818,11 +3818,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c3af4e45-79f2-4190-b6ce-c7645f974c7f",
+    "id": "6da3f71b-9d68-4c0a-b39e-5ced70520463",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #319)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3830,11 +3830,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a44fc821-567d-456e-a939-52d13409a5b5",
+    "id": "b42312bf-2533-4455-94f9-e81edee7dc33",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #320)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3842,11 +3842,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5e4440e1-7196-460c-8a22-3a3cda8a9f1f",
+    "id": "21ac4986-9fd1-4db2-9921-7254ef077126",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #321)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3854,11 +3854,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b8132c45-28c8-441a-8e7e-b2b70cdc08e7",
+    "id": "69cffc07-dae3-476c-ba17-5b243fa8dac4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #322)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3866,11 +3866,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f538aa47-c1e3-4f5b-a203-44070c294f5e",
+    "id": "5fe434c9-58fc-46e5-8173-0e53c4542291",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #323)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3878,11 +3878,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "428cf894-5951-4214-ba32-98c0ea651184",
+    "id": "3361305a-f11b-45ff-b63b-5129030182d9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #324)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3890,11 +3890,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f37231e5-9716-4868-998b-89a4cef591c2",
+    "id": "8b8ac151-1993-4e3f-aba5-5f0bf83b48b1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #325)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3902,11 +3902,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "67dbd38d-b419-4f76-a307-6dcb09464188",
+    "id": "f813b814-dea0-4f72-a7cd-ab326b6b258f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #326)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3914,11 +3914,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1e0ab3fd-1506-484a-8b8b-83bf86ee9542",
+    "id": "9ba6ae18-214b-4327-94a2-68130162443e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #327)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3926,11 +3926,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "54aa6c5b-783d-41f2-90c4-5ab73cc887c9",
+    "id": "d2addbd9-9e6f-4298-8f44-ebf99a85b2f1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #328)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3938,11 +3938,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "38562d94-e05c-4079-a163-feb5ffa97cd6",
+    "id": "76a2ae3c-d6d5-4e85-883c-e86dee1d456a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #329)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3950,11 +3950,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "78ea1e93-ef46-458b-9d25-d42b4b3c80fa",
+    "id": "55f841bd-64d6-4e2e-af02-f7a5a68ebbf5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #330)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3962,11 +3962,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4c83acba-a46a-4ab0-8790-eee184404cb4",
+    "id": "a3cb4c32-0fbd-4a85-a192-2bf29cb3bf00",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #331)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3974,11 +3974,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "31bae0d9-556d-48e4-bd78-816018888a71",
+    "id": "c150005b-27e2-40a4-a25a-aab741b2e4ea",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #332)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3986,11 +3986,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7a1d3a26-d5fb-4f2d-9093-07fbe5be5fe0",
+    "id": "eee1e2d7-2a53-4afe-adec-653a09206a34",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #333)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3998,11 +3998,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d3d6ab27-05d6-46ee-a692-cf4ccc95f509",
+    "id": "fd5b45e9-9678-4f07-8d19-4b3369f31ea3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #334)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4010,11 +4010,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c0e013ca-7df1-47f7-ac61-64ec7dc2385b",
+    "id": "d6790ca5-28c1-421a-a4d4-4038ff87aa05",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #335)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4022,11 +4022,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d1d1bee5-c1da-4ab2-8145-04cce60fb654",
+    "id": "adc5b0a0-5387-4bad-9bca-e685559dba53",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #336)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4034,11 +4034,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f631ea61-8ab7-4571-902d-ad97c38258c4",
+    "id": "75c43df6-1e80-4547-b0ba-aa34aef1a134",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #337)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4046,11 +4046,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d5560f54-4be0-4c35-bcb6-4db061f0178a",
+    "id": "c2fc6441-9034-4f10-bbb4-cdd591d6ef1b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #338)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4058,11 +4058,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "063a8bb6-29f3-4283-82fe-c98f0570bfd3",
+    "id": "0050919e-2545-4603-8ae4-65c9171f8eb3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #339)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4070,11 +4070,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "91efeb12-9b61-4109-9f4e-d0a2f0194dbd",
+    "id": "bc562d35-1f89-4ae5-aa9b-03d88bf5b1ff",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #340)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4082,11 +4082,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bdd5742f-66b1-422f-93d3-dd2650a38425",
+    "id": "7a84c095-5da3-479a-a18c-6774cbe498b6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #341)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4094,11 +4094,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0f73ab87-8cec-49a6-a55f-1ebb850bbb59",
+    "id": "72278996-cd78-4248-b32b-380c06a26f39",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #342)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4106,11 +4106,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b093bd73-4d2a-4356-bfc3-fc32a25b49ac",
+    "id": "0f212565-25eb-4d34-85e1-2646cc679c4d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #343)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4118,11 +4118,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "19875716-3ddf-4413-8ddc-20aeda3d0b5f",
+    "id": "5f28e4f9-bb4b-4282-9266-fa6b4bbf1ee6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #344)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4130,11 +4130,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3e248982-e99e-4bc3-94a8-e851e007e0d2",
+    "id": "1a25e47e-e1cb-4b71-b478-2fa7cde81cfd",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #345)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4142,11 +4142,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ae6444cf-3a3f-46ac-93cb-caf70a36fc0b",
+    "id": "fcba9f50-5ef6-4498-8b25-4e0974901eb9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #346)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4154,11 +4154,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "12cb170b-7251-499e-922a-fd38a43b5068",
+    "id": "a4b9b3f1-64b9-49ba-b0a1-f5430754d9e7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #347)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4166,11 +4166,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3ddfc4b5-a655-40d9-9076-25d406bd8a43",
+    "id": "49501d7a-7367-4ad0-93c3-35ab3381f390",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #348)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4178,11 +4178,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0a08292b-a10f-43a8-a98d-6deb41716764",
+    "id": "bfcda24c-c537-422d-a160-21fd0b223ff1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #349)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4190,11 +4190,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a717acf0-cd16-4659-b87b-4f4f726ab21d",
+    "id": "5049a7df-a82a-42b4-8d1b-4bb41a642ec5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #350)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4202,11 +4202,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a82ed7a4-10e4-4599-8597-3913929a530b",
+    "id": "38521df1-dc11-4e11-976b-11b911ad37d7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #351)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4214,11 +4214,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6140a9d4-ae89-446e-a533-43747f9beb4b",
+    "id": "f72a02da-10fb-452b-a747-c7b685b57589",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #352)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4226,11 +4226,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a5dc717e-cf29-4cbd-9e2e-4cd1e66f543e",
+    "id": "303ff7e0-f30d-4a5c-9c7a-45709e981dec",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #353)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4238,11 +4238,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4ab91c13-e873-4a69-b165-096b90bc2f3e",
+    "id": "78e79d66-1f3e-436e-9461-27f84cb2efe1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #354)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4250,11 +4250,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "05263c18-b9b4-432c-b71c-87fc1af16456",
+    "id": "720e7a75-c15f-4763-885d-65736d52f25c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #355)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4262,11 +4262,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5f96b072-cfa5-44f8-87bd-2eb27735619a",
+    "id": "a6143718-fde4-456d-9179-ad89680bb353",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #356)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4274,11 +4274,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "619687b6-8b41-4a1b-99ef-2854c57340a0",
+    "id": "7992a5f8-1432-44e8-bfbc-888a8a0b1ef2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #357)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4286,11 +4286,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "86d434d7-6111-410a-894c-cb51e72447c9",
+    "id": "65bf35de-d12e-45cd-818f-9cb2cb9b191b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #358)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4298,11 +4298,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b3afed79-b300-4ddf-becf-d2d7cb14e11b",
+    "id": "12453416-5c18-4056-b825-b848b9eb5adc",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #359)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4310,11 +4310,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "077fb6ad-edff-4e9d-b291-95ab57b8af5e",
+    "id": "c267a9eb-e58d-450e-bd15-79a540582d76",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #360)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4322,11 +4322,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "29c643a4-4ebc-4279-b78d-a395f255810a",
+    "id": "04910746-904c-4dd2-999f-8cebd81292ea",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #361)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4334,11 +4334,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "261773bd-0ab1-45df-8b39-9b06f402e94f",
+    "id": "c32848bc-4410-4bf8-b6e1-4b11af7a0a86",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #362)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4346,11 +4346,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "66c4d7a4-6222-4a47-a486-01f7939167f7",
+    "id": "42534ed3-ba58-4465-897b-07871b85a222",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #363)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4358,11 +4358,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "aa087219-cd61-4344-a075-c19fc237825c",
+    "id": "f302f108-b59e-4a5e-8c04-12a1f3a69c03",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #364)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4370,11 +4370,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2c38becb-1651-404f-a915-a13dc0c9a33c",
+    "id": "15caa971-85fe-4ae7-8a85-bfd5e9cf157c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #365)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4382,11 +4382,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "03f4e481-3f4b-4f78-8af8-218552654572",
+    "id": "0230065e-dac6-41b1-8653-0fa99ce05e10",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #366)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4394,11 +4394,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4bb1f458-20dd-44d8-ba16-d783026fd3c6",
+    "id": "0abb9782-3c63-4ef9-a685-fd6799e19157",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #367)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4406,11 +4406,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "47822df8-b15b-4913-ba65-72a2fa67f476",
+    "id": "f604f42c-1fa3-4c09-96b0-cac6bb25f46f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #368)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4418,11 +4418,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bebe4569-7fab-416a-bf2c-d88a06539c19",
+    "id": "0fd45d42-4d19-43a2-9b8a-03f21b4d3785",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #369)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4430,11 +4430,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0ff19eab-f3d3-44ec-abde-4ee41b475b28",
+    "id": "2eccdc8d-efdd-4a35-a118-7e9428b76551",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #370)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4442,11 +4442,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "acbe6b0f-1655-4146-9ece-af25e41e04aa",
+    "id": "1852991c-bf79-472f-b600-b1be062fc6e2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #371)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4454,11 +4454,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f75c0438-eed9-44cd-bc86-1a4d1dff10bd",
+    "id": "bf9d6f6d-a843-475e-b3c3-982702684382",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #372)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4466,11 +4466,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "da3fb861-a4b3-4cfe-93cb-a1c2017b1d4b",
+    "id": "44a8f75a-5064-4be7-8322-f5d1551714d2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #373)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4478,11 +4478,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c8c2f6dc-d597-42d1-8b14-b441e38a1392",
+    "id": "f96361d0-f940-4142-9fcc-ca78ce84ea8e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #374)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4490,11 +4490,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a5f4855c-331e-45d0-9c99-12b7c9df5f38",
+    "id": "76a36732-e29f-4d40-a1b9-f46aa244af2f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #375)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4502,11 +4502,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6fc60847-1c3a-4dd5-82d5-dde54fe1782a",
+    "id": "c48475e2-a665-4796-89ae-b1fe691b5208",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #376)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4514,11 +4514,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "916b0588-3985-4776-addb-1a20ca6cfb55",
+    "id": "54c168d1-98cd-44af-8ded-86b5bbbcd3cd",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #377)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4526,11 +4526,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ef3ded68-d9f9-4dd6-8f46-31f2e6ffaab3",
+    "id": "7c2d063a-ac30-452f-a228-ff974e61f734",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #378)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4538,11 +4538,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2bfbeaa2-707f-4f54-8528-8dc449589ee4",
+    "id": "87f82fb3-5bbf-4a1d-afb0-89d3f73ff525",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #379)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4550,11 +4550,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b963a4c4-6972-46d2-adb2-2963e1b9bfc6",
+    "id": "98136c25-1751-4fdf-bfce-a04a77896c7b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #380)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4562,11 +4562,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9e87dc2c-e0ed-4604-b9a1-193d84348c7d",
+    "id": "4dfe9cf0-f118-4dc4-94dd-bbfdcc00c82e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #381)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4574,11 +4574,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "33fdeac3-e59b-4bed-a23c-142e60de4a5f",
+    "id": "8c11ec68-ce7a-4fa9-a7bf-95cd56b8101c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #382)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4586,11 +4586,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "50a85e04-a4be-4dbc-adb6-6950be8a0ea4",
+    "id": "649365e2-63da-4f4f-91ae-cfc4eb559c7a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #383)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4598,11 +4598,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a4bb7655-520c-494d-86dd-4c091d00440e",
+    "id": "4107ed33-0df8-4a61-bbfd-449d81ba2f4d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #384)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4610,11 +4610,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "85da1d40-3aac-4c04-bf19-435af3c0401f",
+    "id": "6b201a85-41a8-41df-a940-28c92bf6db2e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #385)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4622,11 +4622,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "54811912-51ca-4a3a-bf8e-311231c8dbe0",
+    "id": "96af68ec-6a7e-4239-b0c6-892b5ec9d258",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #386)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4634,11 +4634,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b07ec459-7a31-474d-93f6-24cddeb8f63f",
+    "id": "7db757ed-4eb3-4add-931f-5e6c719931a7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #387)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4646,11 +4646,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3ae01ab0-f9fe-4610-aa0a-459cd8466a39",
+    "id": "735e100b-bcb6-42d8-b217-a53d2e932dd4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #388)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4658,11 +4658,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "48aa23d6-e438-474d-9c78-cf731b479fe4",
+    "id": "d3788d6e-ad26-4c74-b04e-45ea359f1500",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #389)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4670,11 +4670,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3ea3b421-4d26-465f-abab-8b8e80f9fc8d",
+    "id": "0ea85d0c-2b4d-4aab-b04d-b614ed5590e9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #390)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4682,11 +4682,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "821d334c-1e50-4625-ae82-5ac5cb2bb000",
+    "id": "ca626124-f576-4786-8ef3-78544bd49ca9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #391)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4694,11 +4694,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "25bf19a4-b9b4-4638-aef5-5e265279a6f9",
+    "id": "1982ffbf-3209-48a4-b1d8-96d65494fd51",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #392)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4706,11 +4706,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e5c2374e-4257-42cf-a970-7afd31b83525",
+    "id": "f33f1eb5-be0f-4862-9e07-6ab5d6c7c589",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #393)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4718,11 +4718,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "85bd2549-6ee1-4387-8137-a4d35e364cc1",
+    "id": "0fc05a18-8e54-4445-8926-566c37ee9788",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #394)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4730,11 +4730,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "afa5e290-675e-4aa0-a27a-8c4bf8c13da6",
+    "id": "55a59bad-9a9a-4cbb-ba1d-659e933f2024",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #395)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4742,11 +4742,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "60b317b2-71c1-4460-aad4-e4f76d990fbb",
+    "id": "aef3bb4b-df62-4d55-a6d1-9a656f74c593",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #396)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4754,11 +4754,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ebb40a9d-06bc-44ca-a1a8-ae964b45a33c",
+    "id": "8ee3d0bb-453c-47bb-8573-7447ee8112ca",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #397)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4766,11 +4766,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5a4b9fc8-4886-4dda-91f4-c4c5f432d321",
+    "id": "edaae4fa-42ec-43d4-b5e5-6af941249748",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #398)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4778,11 +4778,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "322f909a-503c-4c86-a14a-5733d30e1e75",
+    "id": "8ea21598-46c3-4d94-b4b5-3b57e2f9cd42",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #399)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4790,11 +4790,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "74e5fbc2-652c-4cf6-a343-bb81942a82e8",
+    "id": "f1c08490-4500-4026-a98a-4cf31816cf23",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #400)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4802,11 +4802,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d920ba4b-a15b-4f79-931d-ba064f7c53a5",
+    "id": "4b7ab149-332a-4e07-8cab-e9cbb8989b0d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #401)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4814,11 +4814,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c189d24f-d271-4aa6-b483-7f380c3bf131",
+    "id": "d4aab608-a8a8-4fbe-a161-111a2720ad99",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #402)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4826,11 +4826,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cba3b7d4-963f-4fa5-b8ee-2d03ccc97dff",
+    "id": "a9edcd11-7e22-4506-8c82-8af1f4a61f53",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #403)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4838,11 +4838,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "46c0cfa4-b80b-4fe4-bc22-93ff718a348a",
+    "id": "8092d8a3-ef67-47cb-b0b8-85a1150f19f6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #404)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4850,11 +4850,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ce674636-97e4-4f78-86c9-de0d47e5aba9",
+    "id": "e0a4d5a5-d574-4504-9f18-1bce3f050632",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #405)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4862,11 +4862,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "646fd2a5-cc99-4b79-8f08-19387e62b8ce",
+    "id": "584ffa9a-2004-4ce1-bd39-d5249de2d7f2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #406)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4874,11 +4874,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f709b9ed-626c-4ad8-8e52-4f325c347cfd",
+    "id": "30b3783d-ea12-4209-bde0-fbb8fdfb424b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #407)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4886,11 +4886,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5216f3ae-42f4-4343-a1eb-39fe85cd5896",
+    "id": "9542a44f-be97-4488-9f6a-7f59ecda6a5c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #408)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4898,11 +4898,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9c5dfeef-f9e7-40c9-bcf7-0e4bfb1ae3b0",
+    "id": "af4f151c-8311-4f6c-a791-173a9934c85a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #409)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4910,11 +4910,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f056693e-be2f-4278-9667-4f43e3e07878",
+    "id": "312dacf8-dd6e-4453-bf57-ba8941b6f77d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #410)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4922,11 +4922,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9288d504-e98c-453f-8b1a-ce7c94c926f1",
+    "id": "bdc1fd2d-be4f-49fc-ac83-1b152cde472b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #411)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4934,11 +4934,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "255dc2f3-e738-436f-a025-abc1b74a1e8a",
+    "id": "81f7c3d2-1e6a-47d3-9ef3-a73bec6a7f4b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #412)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4946,11 +4946,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "20aa104c-16a9-4857-a3b1-ea0203c859da",
+    "id": "d68000cd-7b38-43ea-b460-9c1f44d1a039",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #413)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4958,11 +4958,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b87b1460-667c-45c1-81cd-9f2b516a5ce5",
+    "id": "0a711f40-8851-4a44-a19f-c62e277364b4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #414)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4970,11 +4970,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "604d6b86-c6e8-49ad-b190-63376bd70945",
+    "id": "96982e68-2c7a-4a13-8c85-701ee6f34a68",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #415)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4982,11 +4982,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0a6307b4-6a69-4778-bf79-c3273d7abec0",
+    "id": "9ff8bf0f-be8e-4035-be2b-a29d867b5041",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #416)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4994,11 +4994,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4e96546e-57bc-4c39-8a14-6462822b315e",
+    "id": "737107f9-15a0-4cf4-91b6-84364b1349b7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #417)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5006,11 +5006,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "97f0b65f-3f20-4552-a472-688f214f5bb9",
+    "id": "d0846940-982d-480e-a8f3-12e811f034af",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #418)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5018,11 +5018,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "463ca527-73d6-4f64-b81e-5e43c4dc3403",
+    "id": "0fea8db2-01c4-4076-80a6-8bf39070968f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #419)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5030,11 +5030,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f71f40b3-76b8-4bb0-9aa8-f931c5c8a1e7",
+    "id": "8f06d76b-1bac-4737-942f-256568d06b41",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #420)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5042,11 +5042,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "780650b7-ad96-48be-9dcd-dcdbdcaf9827",
+    "id": "142b2782-3c8c-432c-9ecf-57d1f0cb7294",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #421)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5054,11 +5054,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "dd9148a2-4a1c-43f8-b098-ed464b6c43a3",
+    "id": "57150563-60ad-476f-9b19-25c8852d6832",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #422)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5066,11 +5066,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b4112dfe-146e-4dbf-87b8-0b1d02792bef",
+    "id": "fdb9a644-8601-4841-94ef-562fe3ff4cd4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #423)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5078,11 +5078,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9e851261-dde6-4e23-ab90-e8e3a34d526a",
+    "id": "ee3d6310-5819-4ba4-a1dc-ffa9f3508447",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #424)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5090,11 +5090,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "25df4971-62ba-4698-a9bc-67b7cccd813e",
+    "id": "06ccf4ec-6a72-4fe3-9d2e-fb40372e3a52",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #425)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5102,11 +5102,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "23a59587-8a90-433e-9edb-591c9977cc98",
+    "id": "834a3a31-0c73-42f3-9a77-b38ad724056c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #426)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5114,11 +5114,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "302f37c3-15b1-49df-aa34-126907db57af",
+    "id": "bcdfba4c-f8a0-43c1-8771-00931190ad98",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #427)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5126,11 +5126,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b6295a31-ea89-41b9-99fa-6cfd26fa6593",
+    "id": "5a92486e-eac7-4444-8f93-fa93007c0294",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #428)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5138,11 +5138,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "986e94f1-1f2d-4118-a85d-2065304a7a4e",
+    "id": "1e57a071-47ef-4f24-b595-afd40ba54359",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #429)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5150,11 +5150,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5ff4bd56-b652-405b-820a-06568f66e452",
+    "id": "40940a28-b9a6-47df-928b-ab169c49ede2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #430)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5162,11 +5162,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "25377034-9a47-49e3-b38e-0646826b0af6",
+    "id": "d877fb42-e594-4d47-a120-6cffa027e588",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #431)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5174,11 +5174,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "79a59113-7326-43c4-b066-9bac464672b4",
+    "id": "6866cba4-5ccd-45c9-ae1c-c40694e41df6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #432)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5186,11 +5186,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "32a3c5ff-111a-4097-acca-a6ca2b23d739",
+    "id": "33c5e8ec-6ff3-4dbb-a580-edaf78e3a3fc",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #433)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5198,11 +5198,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "75374495-eb81-4d25-9252-66e9914e54cb",
+    "id": "e8d7a73e-3d2a-4d43-8582-37d3f6308f6c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #434)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5210,11 +5210,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7aa9973f-f911-4dab-9f62-f0bd30a9bdd5",
+    "id": "3c8ac1f0-d596-4c7d-bd69-3ef3774b1a6d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #435)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5222,11 +5222,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6d43a937-0f74-4c67-8830-96691608928f",
+    "id": "8cb1e747-2e32-4d7f-86c7-b5adf2a82689",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #436)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5234,11 +5234,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ab6315c2-bb51-4d5e-9bdf-64ebeefeb40e",
+    "id": "85ad14e0-6b6e-4efc-b114-acf944eb9503",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #437)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5246,11 +5246,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "05202813-12f4-4f8a-8142-7fa167d0872d",
+    "id": "5cd510ce-7c16-4398-9008-77ea4a742d3b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #438)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5258,11 +5258,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "21acad21-8d5e-4d87-a9f4-1bafaacef34e",
+    "id": "b88bbbde-ae31-433b-badd-6de0cc9f5f83",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #439)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5270,11 +5270,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ede616b4-53e4-466a-ae61-650b8974b6b7",
+    "id": "ad7d01d0-bf6f-4bb5-97ef-8739aef41cbb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #440)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5282,11 +5282,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cbe6c987-10ed-4081-b263-252ec13bb90c",
+    "id": "400ea7e8-c966-4e3e-bc34-0e6e42f22e0f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #441)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5294,11 +5294,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "24697ccb-8d8b-44e4-aca1-016661ccf270",
+    "id": "95e00ca2-b38e-42cd-8ad3-b788a8d137f5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #442)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5306,11 +5306,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e5da2703-2fd8-42aa-ba41-985826ff0651",
+    "id": "41cb8b80-1c94-47ba-a49b-d9adfb344d3f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #443)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5318,11 +5318,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "249ed1d5-ff81-4f73-97a3-80f99d6628d7",
+    "id": "8096c3bb-d862-4aae-b8a4-7f068bb4ab53",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #444)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5330,11 +5330,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "48e3a31b-baec-40d6-a2bb-bfca092ea8bd",
+    "id": "94f6554f-b68c-4772-b58f-92628fa6e95a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #445)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5342,11 +5342,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "33033806-d6d9-48fc-8eec-cb38560f7837",
+    "id": "0d13c838-30f7-400a-afba-12a067cd2b10",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #446)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5354,11 +5354,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "73493647-598a-416e-a069-322db999d045",
+    "id": "d4e6dd53-f8df-4c9f-8655-f5bef057b5b5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #447)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5366,11 +5366,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5912a3c8-5bfe-4513-99a2-7841cf3840d0",
+    "id": "b241602c-bd56-4b09-9f62-0ddb936a3525",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #448)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5378,11 +5378,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "255509fe-0991-4420-97bb-b03ac4e7b4dc",
+    "id": "4ee82820-e3db-4b22-a76f-5e9090aa6a3c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #449)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5390,11 +5390,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "33c14988-1bba-4ae2-bc7a-a64dbcf874d6",
+    "id": "f1f107ef-1be7-467d-aa3f-4e6cfc91013d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #450)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5402,11 +5402,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5e1bd6f5-a6ee-4ca1-a443-a182f8e05c86",
+    "id": "6043ccbf-777c-41de-b93c-e1bb6b2c9e06",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #451)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5414,11 +5414,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e8cdaf23-cd61-4526-b1b9-5198c72538d8",
+    "id": "2c9833c9-f2f5-40ef-8ac4-be24491f8ab2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #452)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5426,11 +5426,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bb440b8b-fca0-4b55-aa8a-5ba8d56e3a4c",
+    "id": "e15a45b8-6388-48b9-b7f0-7078ce75cd76",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #453)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5438,11 +5438,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "65f5393f-57fc-4389-8c27-20da6ca4589a",
+    "id": "011910e3-d070-4040-967e-79942f276a43",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #454)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5450,11 +5450,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cf3f5038-0b3f-4639-9c5b-bcec1b46377a",
+    "id": "f12145ba-852a-4495-919d-27c623b7db09",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #455)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5462,11 +5462,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f718aaa7-ea3c-4030-8627-ff85bf6992ef",
+    "id": "6f4e6a05-a004-48d2-b7e8-8401b797ff8b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #456)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5474,11 +5474,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e5b0cfbc-1340-49cf-aada-d3f0a89cdd18",
+    "id": "2c27199f-4ad2-4a19-ae7b-3363a27e0194",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #457)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5486,11 +5486,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f4ada724-7fed-4d85-93a5-8e1201de5866",
+    "id": "aeda9757-00f5-41b0-a6c0-769b2467a4ef",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #458)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5498,11 +5498,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c73fef42-a9f3-41ea-9364-65f8a455ada2",
+    "id": "3d6de854-e4bc-43eb-b5b5-8a88c63cf440",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #459)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5510,11 +5510,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ec59f6ce-9b97-4958-aa24-01c0fe9b7cb9",
+    "id": "d7dca6c4-94ea-456b-a24f-ef1fdca49515",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #460)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5522,11 +5522,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "99ece78c-8088-4ab2-a388-05c4ad5eac05",
+    "id": "58b3e08f-a3c7-4b04-9b0a-533e9a5ba04d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #461)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5534,11 +5534,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e2e7660b-2650-4374-9b0a-78aa2ea3f18c",
+    "id": "c86ac644-5c24-48a0-9143-ca8f9bbec73b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #462)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5546,11 +5546,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9fd3615b-b680-470f-99d1-f0c78574992b",
+    "id": "08804252-c5f2-4179-9ae3-59856f767d92",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #463)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5558,11 +5558,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d1b017ff-8dc0-4621-a876-68dd59c26431",
+    "id": "96ac77f7-2903-4c02-a8d2-f4b9e6a294b2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #464)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5570,11 +5570,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0e392c95-4a18-4a8c-ba15-d338b0228ea2",
+    "id": "e59561aa-ef0a-4443-b1b3-3cdad3fbae9c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #465)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5582,11 +5582,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cbb042b2-b40d-401f-81be-89a597efd4ba",
+    "id": "2b881e9f-6818-40f3-9891-56b7b7676cbc",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #466)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5594,11 +5594,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0c43b52d-29f8-44cb-b123-7d310c8c9fa8",
+    "id": "c768d910-7a61-4802-96f5-076154691a82",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #467)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5606,11 +5606,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f17bc51e-3eae-48fb-83b6-570fafb79942",
+    "id": "1a3888f7-7113-45b5-9168-1ca818272750",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #468)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5618,11 +5618,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "96f3ec67-9876-4a5b-9657-acedafd526ab",
+    "id": "328ad02b-db9f-4c72-9739-dab156e0e92d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #469)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5630,11 +5630,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b7abff9f-4c41-4cd3-9e0c-1c2b0b050432",
+    "id": "97105448-fca9-43dc-a279-2443c120965d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #470)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5642,11 +5642,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "23811aba-09bd-42f0-8cc5-6d5f91c7a78c",
+    "id": "355c7395-68bd-4232-a474-7260dde81c97",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #471)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5654,11 +5654,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "923a5268-110d-4025-9bcc-f88dd6250335",
+    "id": "95b2e74e-fbf8-417b-b7e6-5e502861f059",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #472)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5666,11 +5666,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6b5001f3-4142-4c7d-ab92-0645c18012de",
+    "id": "348c2075-f0f1-48d5-a578-418e7e8a4742",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #473)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5678,11 +5678,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8c2abfaf-23a1-4c87-aee7-85628091698d",
+    "id": "1a552e0f-b694-4f09-bfab-aae705999784",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #474)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5690,11 +5690,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e9ba6955-52cb-4610-b479-14426343df8c",
+    "id": "e329c463-e2b1-4e9c-bef5-82dc692b0cfe",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #475)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5702,11 +5702,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "06f6e2ba-dcee-4a7d-98b7-acf124bf55d5",
+    "id": "97bb950c-c09d-4bf2-9ec0-971e0cdcfc50",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #476)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5714,11 +5714,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "44106a8f-9a78-422b-ae47-655c7cd57436",
+    "id": "a0ad43ec-5d49-4c94-9d62-6cafe716c59f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #477)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5726,11 +5726,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "de0dc98f-3946-49b1-b553-66e83094bb55",
+    "id": "afbfc767-e59a-4156-9805-451f92e783c2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #478)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5738,11 +5738,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "871e7427-9608-405c-ac14-2c79d76f14cf",
+    "id": "9e01f59d-f66e-4b8f-bd4d-31792725b8ff",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #479)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5750,11 +5750,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c5cb4a8c-5498-4c00-be2c-39e271446e58",
+    "id": "8271ff08-8178-4530-b4b0-abf3637ea1a5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #480)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5762,11 +5762,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5587e56d-15ec-4214-8894-e05df83457d8",
+    "id": "a57506bf-2878-4e21-aa49-9377449c27c7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #481)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5774,11 +5774,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8ecb3495-04d4-465d-ab56-0c4db7af62ea",
+    "id": "189193db-ef20-4971-976c-72067708c205",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #482)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5786,11 +5786,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2de7a187-c379-4ddf-ba0e-051c24ceacc1",
+    "id": "33632d1d-2bb9-4f04-8233-b9b5a3e53d98",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #483)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5798,11 +5798,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d9d9ad96-e8fc-43bc-b084-46e1dfbfd60c",
+    "id": "d22dad11-79ad-46ea-80a8-c984d8643a43",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #484)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5810,11 +5810,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "65886884-869a-46bf-92a3-29486328c2d4",
+    "id": "9a488205-34da-4dbe-9b56-a92151d9fe33",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #485)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5822,11 +5822,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a2ce4038-5825-46e0-9ca5-550d4793e94b",
+    "id": "30bd2852-b01a-4b63-8150-3255441cf58c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #486)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5834,11 +5834,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c1aec7d9-dc09-49f7-b3b4-fc583e577e7a",
+    "id": "d479e38a-c3f8-4845-b37d-0355216e5c3c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #487)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5846,11 +5846,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "64dcb97f-1b90-47db-b56c-5e1bdfdcaa00",
+    "id": "ef540fa0-eab9-445a-8c0a-5c76c009b155",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #488)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5858,11 +5858,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "09f8c9a8-50a8-476b-8696-731b3cbc381d",
+    "id": "086133a6-db35-4951-ba0a-ce86278705c7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #489)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5870,11 +5870,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b536274d-ffbf-4d67-83a0-ca854837987a",
+    "id": "469c8a01-44f8-4a09-94f4-82ac3dcb780b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #490)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5882,11 +5882,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bf529f8c-f1be-4813-b57c-a2510940087e",
+    "id": "f9cb4d38-34cc-47f5-942f-a293116e4855",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #491)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5894,11 +5894,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6906ac01-4c34-47d8-b8d6-d68e0a201555",
+    "id": "ff9578fd-d473-439c-8943-8211ee220ae2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #492)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5906,11 +5906,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b90f5a02-5ae1-44fc-bad2-f27b0660eedf",
+    "id": "d1859b4e-10ed-44be-8da8-435a2cc24794",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #493)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5918,11 +5918,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "19b1ad6b-0eac-4a0b-89c5-d06a8f8646e2",
+    "id": "2c75a327-b6a1-4134-8da4-a83a8788e925",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #494)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5930,11 +5930,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3e662ac4-46c4-45eb-a5fd-261ab075f095",
+    "id": "9010da83-4b56-4825-8b83-8724556f6e75",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #495)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5942,11 +5942,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e01602f1-5d1a-44b3-bacb-5e119dc79a79",
+    "id": "cad4e610-2869-4a5e-8e8c-41d99d3f6839",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #496)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5954,11 +5954,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "543933c6-8f05-4ab8-8e5c-c565bc38534a",
+    "id": "be989714-1f66-48bf-ad13-34a8110daa12",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #497)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5966,11 +5966,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a333ed0b-796b-40be-bbff-a3bd1d298cd5",
+    "id": "6417c764-442a-457b-aad2-2b9947314632",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #498)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5978,11 +5978,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6ab11d41-05c1-4dbe-bc7d-c847dffdd4b1",
+    "id": "c1265688-e7e0-4ffe-a895-06974a2d493a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #499)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5990,11 +5990,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2f3f2a8d-147f-4679-9100-494c1c16b85a",
+    "id": "89669e15-32f9-483b-88a1-cf52aab67483",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #500)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6002,11 +6002,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "73341a14-b5f0-4283-9504-c75c616536bf",
+    "id": "7628b908-e2d8-4733-9272-8a9ff540c9a4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #501)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6014,11 +6014,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7221dbe8-65f1-4d66-8570-298281ba1907",
+    "id": "2fb86f59-64fe-463b-a3c6-6c51b2007d93",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #502)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6026,11 +6026,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a18dec0f-3d48-427a-b65f-74bce8db15ad",
+    "id": "48baa2ce-472c-4a23-88d1-565f76be21d7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #503)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6038,11 +6038,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3fd3cfda-1439-4d28-ab8c-063b586fde39",
+    "id": "3badf99c-6d46-420b-bbe7-729cac0f46eb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #504)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6050,11 +6050,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "06435258-7402-40b5-9e25-b3d9f708f863",
+    "id": "7c3772c4-ee97-4dce-8ceb-5aeb0b2f162c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #505)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6062,11 +6062,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bff3b31e-b21e-4a2e-a918-b076f3ff70a2",
+    "id": "e7cbdc74-6318-43b3-bb04-a84d29c7c004",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #506)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6074,11 +6074,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9ab72733-fa79-4863-8c37-8f183704e80f",
+    "id": "2316bc70-240a-4758-8b6c-bbe61f3d6b08",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #507)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6086,11 +6086,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "01e0af12-070a-4bd9-829a-05ae78160d5c",
+    "id": "2ea91afb-cdb3-4e9a-b466-81aba9f3fcfc",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #508)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6098,11 +6098,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ebb3d8aa-aeda-4890-89b1-0444ad83afdc",
+    "id": "77166f91-81d0-477f-ab1e-209afa807465",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #509)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6110,11 +6110,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7c592451-8ed2-43af-9997-97b0b1fde80f",
+    "id": "40572546-0894-4d88-b543-e1a8fbf71d79",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #510)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6122,11 +6122,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e5cf9b5a-bb35-4b1b-a5ce-e12756e27154",
+    "id": "f89ae947-9bc2-4cf9-8ac5-654fcdb36813",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #511)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6134,11 +6134,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "00e13625-1d3e-4928-a5dd-ee359aab4cb8",
+    "id": "ce12cc43-5d0d-4536-819f-a560b53be15f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #512)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6146,11 +6146,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f8a5aa1f-2e30-4059-af9e-5ba0669a24c0",
+    "id": "0b5dd9ce-053d-460a-b502-2cfa1855517d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #513)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6158,11 +6158,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2aa307cb-bbcf-43de-8c1f-1f2fae01c21f",
+    "id": "49c4d0ff-b4c2-4d78-a413-c85bd9113531",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #514)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6170,11 +6170,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "74777e51-1775-4c9c-bd64-22283b370556",
+    "id": "8edc279b-1562-4636-9ce6-f0104e2bbbb2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #515)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6182,11 +6182,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3d118897-2100-4c07-a37b-584aeab81e16",
+    "id": "abf55630-e248-4eec-b6ac-392b42a20442",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #516)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6194,11 +6194,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "890fab08-6cbe-426e-bf85-c24c978a71f5",
+    "id": "88d02af6-1b6e-436a-988c-dca9c0e56e7f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #517)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6206,11 +6206,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "245567d8-df5c-4920-a583-f6336a648712",
+    "id": "c734494b-cfad-4062-91af-147168d50fa1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #518)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6218,11 +6218,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0f80ef5a-a9e8-43bb-a4fd-afc8bd1d4adb",
+    "id": "36758d5c-12e5-43f4-b7aa-555a84ac065a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #519)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6230,11 +6230,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "263bee7e-376f-4892-a94b-008968bc2875",
+    "id": "2963155e-d073-4a70-a9ae-fe2259ed8b14",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #520)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6242,11 +6242,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b07c3bf5-faaf-428e-8afd-080de7e41b54",
+    "id": "b13ab31d-8d57-48b0-a6a1-42d8e4355b9d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #521)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6254,11 +6254,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6782e7c9-56ed-46f5-bec8-1ea983cd4fa4",
+    "id": "8a72cbcc-71e8-4eeb-bad5-8ec953af1ef2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #522)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6266,11 +6266,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "00d0b79c-098f-43b5-9bd4-f0a3b6c19187",
+    "id": "49938dbc-1116-443e-9955-975743bd7d22",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #523)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6278,11 +6278,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bf8b2a12-ea87-47a9-b59b-aeed6e7ce4c8",
+    "id": "d53116c8-dda1-4f26-b71a-b76665a52c1e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #524)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6290,11 +6290,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f57b4adf-46d6-4cdd-9e7d-1adf730d8cff",
+    "id": "a74df6b8-08ee-4db3-b647-501007e3a502",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #525)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6302,11 +6302,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "71aee980-efa1-4ba9-885c-f22fb4d13679",
+    "id": "665adfa9-d06f-4895-b142-ff85d1ed002c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #526)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6314,11 +6314,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bd644eee-b52a-4229-a3e4-88c45b466968",
+    "id": "10fd1588-6223-48d0-a9bd-f9923e89e4b8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #527)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6326,11 +6326,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "da132f00-c052-4e1c-bf53-b3c559a1ee91",
+    "id": "95292b0a-1b63-43cf-9bca-b76f7c86450f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #528)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6338,11 +6338,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "96e0d491-6917-422c-90eb-f083f14f4922",
+    "id": "491ab5b3-5a50-4bf1-8a13-cad65f625d46",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #529)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6350,11 +6350,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "56693cd2-6ece-439f-bf99-4cbd5cf481c1",
+    "id": "660a4734-c831-4e97-96b8-12f0d7b5f7a8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #530)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6362,11 +6362,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "00fdcf04-8e76-4759-a83f-a39cef764304",
+    "id": "21a49a80-8eec-4bf2-8f65-71b3b59a8390",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #531)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6374,11 +6374,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "dd253bbc-1ecf-443f-ba29-a7f1f643bd69",
+    "id": "fe282b89-5507-48d5-977b-b3845ddbf694",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #532)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6386,11 +6386,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c0a993ce-3615-4111-9a47-8ac16aa57d71",
+    "id": "c23efffa-edcd-450e-887b-4614210b9a39",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #533)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6398,11 +6398,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9b60e957-3be5-4dbd-9485-6e94eac0e661",
+    "id": "c7a1c2e7-9ab3-40a9-ae64-617b50593893",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #534)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6410,11 +6410,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "67753f4f-4703-40ce-912e-5db655615a64",
+    "id": "385711a8-1e4a-4010-a200-6a8c17e36d90",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #535)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6422,11 +6422,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "97576aad-1a88-430c-a13f-152651093395",
+    "id": "8d1a3925-518f-4035-b34f-1dcfc1bb7fa0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #536)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6434,11 +6434,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5050b594-c556-4c6d-8009-17845c1710b4",
+    "id": "ab106352-b25f-45d0-895d-e646ef20be70",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #537)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6446,11 +6446,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "777b64e0-6ca0-4330-9100-7e483612fc42",
+    "id": "1a3cfd3f-5d00-4af8-b297-5a41d7d3ec57",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #538)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6458,11 +6458,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e5c93315-94e1-4900-ad5d-90f74647e2fa",
+    "id": "7bd76465-6a62-4730-8f6a-f2c1b1cbbc88",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #539)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6470,11 +6470,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b2ede2e0-8256-4b69-9c3c-cfa9fdd72bec",
+    "id": "33065ca7-5748-4510-8ec4-09b98aa6e843",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #540)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6482,11 +6482,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3327a8cd-ebbd-47b1-bd7c-d43b964270d5",
+    "id": "b7a3f9f1-5a9a-4551-b9b7-fb9a82888abb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #541)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6494,11 +6494,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "07897a96-fb43-494d-91c5-b9b7ed4dfa04",
+    "id": "77c130f1-0373-4ee1-af24-7947387119d3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #542)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6506,11 +6506,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "793e9e90-dc1b-4ea5-a1df-b745a723f8ef",
+    "id": "0556d90a-b717-4ebe-9a33-56c25a69ba86",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #543)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6518,11 +6518,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "58104b68-1144-487b-a55b-628d364dd8a8",
+    "id": "257c9d9f-1abc-423d-a3e9-603bd3097dac",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #544)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6530,11 +6530,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c59a7ea6-1ff6-48eb-a294-258ee37ae830",
+    "id": "9b21d75a-6ec0-4a78-9f2c-77090aac551d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #545)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6542,11 +6542,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "854c278c-7852-426e-9689-dc3a9aa3f37e",
+    "id": "d609bbe4-fa58-45b0-8f2f-7422cb591774",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #546)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6554,11 +6554,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "593c856d-b72f-434c-8b6d-c9579eae6dcd",
+    "id": "e680a9bd-7789-4172-a2db-5270d9464066",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #547)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6566,11 +6566,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c4fe166e-530b-48ee-93da-ae36e5269376",
+    "id": "4d5df2f5-5f8d-4a60-8a9c-e74d5e6294b7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #548)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6578,11 +6578,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "edbb8f7f-85eb-4084-a9e2-d17fcce96c01",
+    "id": "ec44b5bb-a597-4556-993c-4c06ba7b47e2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #549)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6590,11 +6590,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ab36d544-b3a7-4d75-832f-87ceeb6a8dce",
+    "id": "62485a44-54e0-48bb-92f6-5bbd737d156b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #550)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6602,11 +6602,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e72be5af-4947-49f2-b68a-da34aecfc445",
+    "id": "3fc69153-06dd-4d37-a02d-24179e1f847c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #551)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6614,11 +6614,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "12f81ec7-855b-4d0d-aa1c-904bbffddc1e",
+    "id": "59e858f2-3a51-4e5b-8b70-a4b7e9b16525",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #552)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6626,11 +6626,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0284b9ea-6f4e-4462-9424-cfc375e27c90",
+    "id": "56be7c10-79db-4e8f-a7d9-33408e306178",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #553)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6638,11 +6638,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c697ae52-9c6f-49d0-93e0-fa5aec5ec0aa",
+    "id": "10caa26d-f564-4787-88c4-5523a6f68637",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #554)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6650,11 +6650,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3f94d7eb-3715-4352-8047-8d1ad590fb28",
+    "id": "fcf693a0-7e50-49fd-be21-4bbd8861ec55",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #555)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6662,11 +6662,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "67118f2e-3ea8-4867-bc07-a4d02de91c87",
+    "id": "58e2fa34-2aaa-4307-8b2e-519067bb8571",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #556)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6674,11 +6674,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "af07b2d0-05b5-47fd-a1cb-63f97c227110",
+    "id": "eac1032c-8dc0-45ba-bc61-02ca737bbdab",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #557)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6686,11 +6686,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "202a3fa2-5776-4ab4-ab05-f4d6c2468362",
+    "id": "0fe35413-8fe1-450b-8a9c-ae5373717629",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #558)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6698,11 +6698,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1ca25a64-9bfa-4f4b-b716-7925b1c87ef7",
+    "id": "7c0b505c-5535-4920-b887-41d56b489bb6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #559)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6710,11 +6710,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4667fd7d-503a-48ce-ae45-d9772b471eae",
+    "id": "943e1808-99c0-470a-8a44-11a82910f01b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #560)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6722,11 +6722,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0f71f4b5-ffff-47b8-950b-bdbebc12b52c",
+    "id": "b563cd48-70eb-4ac5-b0ce-134b6b6bbb7a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #561)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6734,11 +6734,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "583a9ebc-85ae-451c-b349-2b42bd55a162",
+    "id": "7c666ba0-e792-48f1-9333-7d8a1b4edda1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #562)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6746,11 +6746,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "53a031c5-7cd1-488a-88ee-19225ca68fcb",
+    "id": "3fc8cd23-d254-4dc0-8717-b60f62d0e3ad",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #563)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6758,11 +6758,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "166315f2-15a5-4418-b996-b3d35bcbbcb0",
+    "id": "b19a40c5-3c48-4181-a544-c2c43da8043b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #564)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6770,11 +6770,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2a3a7f07-3624-4825-a725-00f5500d7fc8",
+    "id": "5d9ba9ab-bac9-4791-90c7-eb6c2a47d5ac",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #565)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6782,11 +6782,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e617ceb4-f33f-41ec-a9c0-3e2cd988ec1f",
+    "id": "2f4787d1-f0c3-4157-a4c1-a3938d10c998",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #566)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6794,11 +6794,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cc65c1ff-94b7-4a2c-ae56-debf6da648e0",
+    "id": "b6504e9a-8fe0-498c-b70c-f4af19d2be41",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #567)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6806,11 +6806,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8a99d97b-d3d8-499d-94b7-9dd80afd7efe",
+    "id": "52be44fa-054b-4ce8-b59c-ea2956ff4fa1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #568)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6818,11 +6818,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3c458938-7c6a-4433-aea0-9f87092da1e6",
+    "id": "991c86fc-55ee-4d5a-9b1f-6a267b177605",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #569)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6830,11 +6830,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2a95d331-621b-4311-be5d-63d6782aa939",
+    "id": "f20af816-8cca-4174-9a88-9085a210fc74",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #570)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6842,11 +6842,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d67adb26-c39d-40b0-8c44-1b7772d2c2e4",
+    "id": "f86b3a10-0f12-4aea-921c-8f20b03a542b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #571)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6854,11 +6854,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ed1a6943-f22d-40ee-87bc-d0593d8837e8",
+    "id": "10956d43-e9ae-4e4f-916e-477055a3f6cf",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #572)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6866,11 +6866,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a96c4298-28f6-481e-ba58-698fb92c8408",
+    "id": "024d4340-1891-45ea-846c-c30e2d4d7d50",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #573)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6878,11 +6878,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a7402496-3e18-4b6f-b746-229928f76743",
+    "id": "3459d26d-3d9e-405e-9d7a-627bd00efadf",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #574)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6890,11 +6890,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4d1686d9-98a4-4cbf-8928-6532bf621bd9",
+    "id": "cbe7c317-b157-4dc9-b871-3f9e0b35693d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #575)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6902,11 +6902,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6393aceb-b517-4865-bdf1-55d63e271bbf",
+    "id": "d3adbc11-a0d7-4364-a477-4e3b55e9c0c1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #576)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6914,11 +6914,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b372f38a-666c-43ee-ab78-2b8db46fbae9",
+    "id": "ded4e1b1-8892-481f-a17a-ebb70a582516",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #577)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6926,11 +6926,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d2f8e7f2-b7d2-4ab4-8ca2-cc2a7537cc70",
+    "id": "aafdecf1-d12b-48e6-b861-6a538c9488b5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #578)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6938,11 +6938,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c95f79bb-ad7f-4751-a6cf-aca1f593e657",
+    "id": "257b1ec8-02aa-445b-84e8-3e0ef7af1b0a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #579)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6950,11 +6950,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "65522987-3148-4732-ac51-befc33ef2787",
+    "id": "50a8b713-acb8-4f85-9997-8ecc3c314348",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #580)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6962,11 +6962,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cb668ae8-4433-4f6e-9c54-034167e0fe4e",
+    "id": "f0d64aa0-ed5d-4849-8276-fe0b689c4b3d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #581)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6974,11 +6974,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "65b2531c-067b-4dde-bbde-8f84dbb76bd6",
+    "id": "72a2ac38-cea0-41e3-aa3e-5bbaef52fa43",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #582)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6986,11 +6986,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fe721c08-bafd-4e78-bc16-2b6b82619ced",
+    "id": "0d1b8340-bcdc-4ad2-b25e-f9e40ef9b36f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #583)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6998,11 +6998,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b2dd3320-6dc9-4de5-9226-2337cd37b439",
+    "id": "6e4b6739-19d0-4b6e-b1b5-ca2388865e95",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #584)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7010,11 +7010,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1a052c7f-2f3f-4d0a-b0a7-f8f34031b92a",
+    "id": "c5a438fa-c027-41e9-82e8-6dcb2888af83",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #585)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7022,11 +7022,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fedd290d-a0b9-4b0e-a6a3-1d3997dca309",
+    "id": "4848dda3-1fff-4cb4-afa0-f9ad9d342257",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #586)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7034,11 +7034,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fdc15c22-ef9c-4d69-a2e1-852b03346300",
+    "id": "6030b590-847d-44f0-8188-34ce1e453775",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #587)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7046,11 +7046,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "24bf623b-1e9e-4f6d-87b1-a6960a9270cd",
+    "id": "fff44aa0-b564-4346-8a6d-37644045a3d6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #588)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7058,11 +7058,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b12b3049-62b8-49c3-b123-518f49075eaa",
+    "id": "fbf098eb-8426-49a5-9aee-e4cf4099a467",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #589)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7070,11 +7070,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "65caa6a4-719b-48d6-8943-0d8c9f69fbd1",
+    "id": "abbdbcad-a7a4-4e7d-a404-77be985cc5e8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #590)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7082,11 +7082,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "63174009-0e46-4786-beb7-e01fcdb0c8ca",
+    "id": "a8c5036d-5675-4679-b4d4-8b4190ffe155",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #591)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7094,11 +7094,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "29222c5f-f097-4439-8794-4e344c15df7a",
+    "id": "31cf1d7e-7d16-42e3-8dee-7a3ec739f8a2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #592)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7106,11 +7106,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cbf79cc0-519a-49be-9975-2d0440a9192a",
+    "id": "bb9e58a5-ce87-4405-a400-d6e731beebda",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #593)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7118,11 +7118,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f4645057-8e2b-4a58-ab80-622ea86dd4b3",
+    "id": "24d31a17-ee09-42a4-af33-0eba0adb6bb3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #594)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7130,11 +7130,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c090273a-ad72-4115-be03-2858b6cb3b5d",
+    "id": "a8480086-4370-4eac-89ee-2727f80cacaf",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #595)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7142,11 +7142,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "216dfc24-a262-40d4-bbd7-ae73dd3eb6c6",
+    "id": "ba604a00-579f-45ff-9cb3-a6ee23db5759",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #596)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7154,11 +7154,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2eb279b0-1988-45ad-ae8c-056e0e674fbe",
+    "id": "f9666ccb-7ed7-4eba-b4d6-1f733a97c722",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #597)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7166,11 +7166,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9fa9f3af-71c4-499b-a7b9-985ef3145476",
+    "id": "69f3f4ae-dbe3-4248-8828-1431f9a8fd2d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #598)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7178,11 +7178,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "735b22a9-45e4-4b9c-9184-36f884476f6f",
+    "id": "888e0968-a89a-4dc8-abdc-7e4c0b48e370",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #599)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7190,11 +7190,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "49b90711-6750-4cb5-b0d1-baef3d14ca70",
+    "id": "3a61fafd-8e3a-4ef1-aa68-e24297c0617a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #600)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7202,11 +7202,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5d6df435-5f03-4928-87ce-b249609ea7a0",
+    "id": "44bcb510-9e0d-49e8-8cb0-a829000787a2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #601)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7214,11 +7214,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4ae9bd3e-77d9-437d-8543-e3b00e5e30d7",
+    "id": "9c84786d-c42c-4294-8ede-13719194b630",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #602)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7226,11 +7226,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3765f8d9-baa2-44ff-ad31-6b44808def0b",
+    "id": "86188425-79cd-4525-99c1-56f79e20c423",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #603)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7238,11 +7238,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3d9b9a5e-c4cd-4c34-980a-2653d100fd6b",
+    "id": "4121d369-ac6f-4575-ba18-a71b87d788c5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #604)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7250,11 +7250,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2f8c476a-200c-4685-a707-184e145ac7cf",
+    "id": "e6d961cb-5d88-4ee8-9901-06e5eaf97c3e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #605)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7262,11 +7262,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "05225995-3e02-4da9-afc4-2c2d082ec937",
+    "id": "c89f5f1c-94c5-4437-8ce7-9023f2bfc2f9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #606)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7274,11 +7274,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ac6a57c0-6872-4f5d-935a-afd0622c393f",
+    "id": "b3ee811a-15ca-461b-97db-99e862ed2df2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #607)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7286,11 +7286,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "966a5e77-d0ad-4511-b43d-09af1d9abc89",
+    "id": "8b872ffc-6a74-459d-80d6-e5df780b790f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #608)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7298,11 +7298,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "827b674a-9bba-49e9-b284-79f7c5fdd05d",
+    "id": "07beeec9-2dee-441c-9959-a91f3f496924",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #609)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7310,11 +7310,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5704669f-f49a-48c7-86ee-2c1b718bc839",
+    "id": "252befd5-d4d1-43f4-9e8d-a76861c752f3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #610)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7322,11 +7322,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "07340f46-c6fb-4458-822b-043d46a737c8",
+    "id": "d22375c8-400d-4c8e-82d0-17f099e77dd0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #611)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7334,11 +7334,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "01e57286-9368-42cd-a9ea-c154273dc4c4",
+    "id": "721a9c3f-ca9e-4c9a-9a9c-31fed5c1e89d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #612)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7346,11 +7346,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8d96a1dd-585d-4589-b261-c2ad52b20e86",
+    "id": "6da7bb42-8660-4a4c-af7b-dd6928351c34",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #613)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7358,11 +7358,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1dc99931-5310-4a46-a7de-0358c42e9164",
+    "id": "4a396ac8-57da-4002-9a6f-91ea76fd5cad",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #614)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7370,11 +7370,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "73be1b00-0a74-4df1-bf0b-2c15d198badd",
+    "id": "1ea8677b-1c1f-4753-9104-575d8de85555",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #615)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7382,11 +7382,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1a29bd72-0fc1-403e-aed9-c69c566da2ae",
+    "id": "b99f877a-e386-4fb7-b583-e9caf7d56432",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #616)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7394,11 +7394,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "59e4c91b-d67b-457e-a13a-3092d212ffab",
+    "id": "81be5175-9d77-450d-a512-21796161c637",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #617)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7406,11 +7406,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "60ed9295-b53d-4b39-a95d-f1c29adf8900",
+    "id": "9e69fdcd-b58e-4a0b-93ff-c703799cb941",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #618)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7418,11 +7418,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bb89eef8-4a02-40f9-961c-20af2432d802",
+    "id": "ae0d8210-8b15-4387-9314-9348eb14f660",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #619)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7430,11 +7430,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e744390f-61f1-4cad-bd6d-3c721da70caa",
+    "id": "ab2f4185-b23b-4bc6-b9b2-c4e8a9eb30b1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #620)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7442,11 +7442,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9890277f-3da2-4f67-931f-0ff9c91673cd",
+    "id": "542b64ca-e491-457c-9dda-d1867dae10a8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #621)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7454,11 +7454,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "be6051eb-f594-4dfd-b32c-3962397177f7",
+    "id": "4032f824-2cdd-4200-b45b-d81354c1e9d1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #622)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7466,11 +7466,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "74be6d4c-d629-4cb2-bc08-f300c85d54a0",
+    "id": "d63511f2-850f-4994-92d4-d9ffc9a2711a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #623)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7478,11 +7478,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7c2f4dca-ed06-4921-8018-2546666874c8",
+    "id": "a7ab573d-a9ec-45dc-bba9-22038ca2240d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #624)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7490,11 +7490,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "73c3c3f1-62a9-45df-85cf-adc7468adbd1",
+    "id": "129943f9-2edb-40b3-9386-722d708a76f2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #625)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7502,11 +7502,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7095638f-2d6e-4f66-80f5-96b8c348b5d7",
+    "id": "ed5deff8-2649-4af5-b43a-169d7bbaf2bd",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #626)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7514,11 +7514,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a899c818-bfa8-4857-84fa-9027c7780617",
+    "id": "92ee3e26-cf1e-4747-8248-c46694d43b6c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #627)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7526,11 +7526,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6c5358ca-1e06-48ea-a886-5214a3f107a6",
+    "id": "8472cd39-dc33-411f-9d40-2be4a31b2940",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #628)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7538,11 +7538,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f2620532-671a-4002-a5bc-88e6c7e532bb",
+    "id": "6341c1e9-eda8-4cde-9574-3b45475779aa",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #629)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7550,11 +7550,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ac3f5f53-95eb-4396-b380-ea92cc7dbcc8",
+    "id": "61a6e1e6-c640-4eea-bfd4-354b1df88fba",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #630)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7562,11 +7562,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f0e6409c-17f6-475d-ae83-1250968e56e7",
+    "id": "b6c824d6-2d79-4703-931f-286e01be738c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #631)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7574,11 +7574,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7b7e9a90-ac40-4178-9088-14892ba45a34",
+    "id": "d32bf43d-28d9-4733-a2b3-dcbdaa2bf3db",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #632)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7586,11 +7586,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cbabbc8c-fea5-4cc6-8a21-771d025227b2",
+    "id": "27802bda-2b31-41ac-bd68-2217d519231c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #633)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7598,11 +7598,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "dad185c7-12f4-451e-9c3e-4a33e28d2d32",
+    "id": "e1b932f8-f51c-44cf-88b3-e183d8d39825",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #634)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7610,11 +7610,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3e7fbb26-9463-42a6-a1e0-3c2a47081c70",
+    "id": "6cffc453-e093-48ad-875f-ced34e0edd5f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #635)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7622,11 +7622,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b1d9d039-dc65-4b0f-bbd3-0a9122ae1054",
+    "id": "dce1bd2b-e2d9-4466-9d59-4885f8da1db0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #636)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7634,11 +7634,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bd96b41b-05ac-4d06-9155-93f4e3b034f8",
+    "id": "1b0f8223-113a-4baa-a2e8-2fb002fd08e7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #637)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7646,11 +7646,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0e3133e4-448d-4868-9782-d403a7c81686",
+    "id": "48eff39d-8a9c-436f-b6ad-824b140db346",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #638)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7658,11 +7658,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ca7be637-8086-4766-8a39-ab31bf35db3f",
+    "id": "7c7a7c1e-7c80-4564-9a0c-fb571c23de3e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #639)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7670,11 +7670,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "eccd3f0d-9fc7-458b-a40f-f2d8b4df44a3",
+    "id": "1806bfe3-6f4e-403e-8ffc-772cc5a633ce",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #640)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7682,11 +7682,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "54d6d7b8-7467-4041-ab24-354672649ad4",
+    "id": "d182ada1-9fd0-4698-8680-d826fde50933",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #641)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7694,11 +7694,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3a9af2d5-6011-4b3b-823e-34d10c01ad44",
+    "id": "6fcd155a-ecc8-4f0f-b668-d0d7dfe8c893",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #642)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7706,11 +7706,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "23eb60da-33ed-4ee9-9ae5-99ba256536a9",
+    "id": "262cfe5e-4dda-4472-9238-882fab62fc45",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #643)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7718,11 +7718,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "63f9b810-5e26-484e-aece-0673971f853d",
+    "id": "f4e0e7a1-ce04-4d31-80a3-ddd761e224d0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #644)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7730,11 +7730,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bd94dee9-a6ab-4e62-b283-771a52efd82b",
+    "id": "bc33f98c-ce1c-4b16-a6cd-cf8e8279a25b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #645)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7742,11 +7742,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0c42120a-5b7c-4fea-83fc-50ccfb79e2c0",
+    "id": "023e257c-0b84-4618-b10e-580213c51c68",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #646)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7754,11 +7754,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cea7abf8-3a11-48d6-addc-17018352eda9",
+    "id": "f3cdf8c2-a6e2-471a-8662-2e8df5df7616",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #647)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7766,11 +7766,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "82c9c92e-65ec-4ea1-9a59-60c0fc69224c",
+    "id": "6fd925a4-f1a6-4118-a535-f2573cce98e5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #648)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7778,11 +7778,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1aa11b36-1422-4a57-b67b-5295c1d92862",
+    "id": "7f37b349-915b-43f8-b5c0-33c5584d5602",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #649)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7790,11 +7790,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "641b8ce3-1a5e-4671-9310-7f8bb77a9578",
+    "id": "6cf33e54-8d25-4dc5-9140-453e86a6c266",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #650)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7802,11 +7802,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cac4ff07-ec44-4c22-a56d-a4b4b2c8bc3e",
+    "id": "014a7679-0f10-49f0-b1d5-38776d038876",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #651)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7814,11 +7814,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b06f860e-21a2-4718-82a5-980456580b7c",
+    "id": "af7d89f6-99f1-4f58-a584-58fc46cdf70d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #652)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7826,11 +7826,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "70dd24de-444b-4d56-b7ea-e6d97295c665",
+    "id": "ef0dcda8-f291-4467-b41f-c9b31a645284",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #653)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7838,11 +7838,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "517d07fb-97dc-4a50-8974-6236bfbcd303",
+    "id": "6ac5f434-d24c-4127-be35-8b3c39ce62cc",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #654)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7850,11 +7850,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7319a4f3-0996-4ce3-87b2-5d360ef06475",
+    "id": "86372282-6165-492c-88c6-423207faeb9e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #655)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7862,11 +7862,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7873eb3b-5f7d-497a-9e1e-a3e0d1d109fa",
+    "id": "85335f33-d175-40a6-8b87-332864d24af4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #656)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7874,11 +7874,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "615ece79-c47b-42d6-be08-4abfde3df199",
+    "id": "305622f2-e36f-4913-8d4b-c47f5607cae4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #657)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7886,11 +7886,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e2e942bd-7e52-4048-bc2a-1f0e57bc5c98",
+    "id": "9f220482-7af3-4271-aa03-31badd1aa086",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #658)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7898,11 +7898,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cc8f1c6e-bdae-493d-aecf-01c2b9438824",
+    "id": "63c4b430-6583-4fc4-a18c-aa61a4e515ea",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #659)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7910,11 +7910,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c0ebff85-841a-4c67-9c1e-1f6b16a49fc3",
+    "id": "3e50775d-9db0-4844-b23a-ae069d3c638f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #660)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7922,11 +7922,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c34f5489-c1c9-41e4-ba1c-f8bb16cbb4d2",
+    "id": "bdfafa7a-08c0-47e5-9825-120e5bad7441",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #661)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7934,11 +7934,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "992790d5-924c-4153-abed-ff39f448b1fa",
+    "id": "c7c1bdda-b323-4bbc-b5c3-deb32580755d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #662)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7946,11 +7946,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "dd86256f-71bc-400d-8426-d8ebd091dcac",
+    "id": "ed12bbce-d02a-4b19-be3e-b0d25e701495",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #663)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7958,11 +7958,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6f3082cc-2224-4f2d-8990-dceafcfe6df6",
+    "id": "734551c1-2b09-4e9a-b58b-f6c09a334574",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #664)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7970,11 +7970,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "43185dbe-b8ee-4188-a5e5-88a970861526",
+    "id": "d4af8c7b-ceaf-4770-b79e-b528fdea1cf5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #665)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7982,11 +7982,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "795ca6d1-df93-4081-808c-510d3f09f8b5",
+    "id": "8580eca5-4581-4463-9733-45ad64506555",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #666)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7994,11 +7994,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "299d9c7f-6f31-4e3f-8591-a97e05e3c6b8",
+    "id": "61c13282-1ee8-4688-bc71-6413977b8b77",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #667)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8006,11 +8006,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ca7f3ea6-d544-41c2-b61a-d75cc0665dab",
+    "id": "b9ae8f66-bc08-4dbc-88f5-96f50952e57b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #668)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8018,11 +8018,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0f836619-d89c-4250-ac72-d3a35355d628",
+    "id": "ba30cc4d-1a98-452a-90b7-e288efa80ff3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #669)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8030,11 +8030,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "30573dea-e653-4571-be9d-f6fffc6e821b",
+    "id": "343fa119-ea19-45c0-ab26-09d8112e2b28",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #670)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8042,11 +8042,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d936dd7b-7a26-43ee-8ee9-8adbe3dc8228",
+    "id": "0c3c119c-870e-4ba8-984e-6a60d0efaef7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #671)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8054,11 +8054,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fe104ca9-6389-4486-a751-4b96e4216d59",
+    "id": "8f7f0201-845d-4e5a-9ee2-c1f9f639f172",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #672)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8066,11 +8066,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "824ed8e5-9ddd-49de-9681-d6be288d2a99",
+    "id": "e9cc12d1-aa2a-4ee2-bde9-53af237e8742",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #673)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8078,11 +8078,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "52c2acf9-20e9-4d44-ae8c-867f696f2e64",
+    "id": "78bde80b-bfd3-4ad0-b1ad-7b4483395048",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #674)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8090,11 +8090,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "333a07fe-f947-4a4a-95c5-81b3ec2bcc63",
+    "id": "dcd9dd7e-39df-44fc-8f99-1a4f865b7940",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #675)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8102,11 +8102,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9de0ee64-512d-4648-9322-044b1e6f012d",
+    "id": "525a59b8-d26b-4cc8-90aa-a238ae0cb825",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #676)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8114,11 +8114,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e75f011a-a2a6-4f24-aba9-cecc2edf9721",
+    "id": "61829dc2-600a-48fd-bc76-cd75b0b9346a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #677)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8126,11 +8126,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "968fefb4-0399-46af-8da3-bc8b44a403e8",
+    "id": "4c7fe627-8d80-4425-99d8-91387745da0c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #678)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8138,11 +8138,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "61635d79-3a4b-426d-b2d3-dbb3642d1088",
+    "id": "30d248a7-fd92-4fc3-9b03-1af9b9de1f92",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #679)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8150,11 +8150,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e0250c81-ef85-47b3-a40c-7c1fccc1b067",
+    "id": "243241d5-e7dc-478a-b689-295f6be7d645",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #680)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8162,11 +8162,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "af8284fb-279b-4884-9e11-5d5dcee44866",
+    "id": "ca82e3df-3df0-49f3-997a-61d37ae3df93",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #681)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8174,11 +8174,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2ae2362c-fffa-43f6-b769-7cb534e99a55",
+    "id": "4ed77bb4-de31-4630-bbf5-04004aff9560",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #682)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8186,11 +8186,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "397350f0-a4c2-4063-895b-4b95ce7df21f",
+    "id": "0939450b-4964-42ca-8443-c0dc327c4489",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #683)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8198,11 +8198,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "30fa2b63-246f-45ba-aaa7-b20e39e46175",
+    "id": "d9c32077-daae-461d-95bc-e7bf52137669",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #684)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8210,11 +8210,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e89564e5-21ae-4406-bf59-84311f4fb38a",
+    "id": "043ddcf7-08a7-41b1-8049-deaff1026316",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #685)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8222,11 +8222,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "354f46ff-d883-47ee-9898-cdcba15ad92f",
+    "id": "cea64ae9-6af7-4167-88c6-a148122d9e11",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #686)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8234,11 +8234,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a65dd507-a1ff-4bb4-8963-891775734baa",
+    "id": "0cf3e4cb-1265-4288-9adb-588dc76edf37",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #687)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8246,11 +8246,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8139a0b4-9fdd-4784-ac38-15299d459930",
+    "id": "e05e9530-fccf-4b81-b0a8-9f20543ac36e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #688)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8258,11 +8258,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8ec3147a-b6b4-403d-a0c1-cb029fd9280b",
+    "id": "31d9760c-523a-4a07-9965-91855fd8b0c9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #689)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8270,11 +8270,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "63e579ae-b286-42af-ab23-a169aea6f8c4",
+    "id": "08663550-28e3-4250-8d6d-3bf5adea8254",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #690)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8282,11 +8282,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "632f1178-56f5-4a3d-821b-e145b128f2ff",
+    "id": "993b2266-cce1-4d51-a952-656377a89a8d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #691)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8294,11 +8294,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "219fe00e-25e8-4077-94e1-6b342a959f4f",
+    "id": "89ddae13-7c98-46bd-8a3f-5283ef2ee5cb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #692)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8306,11 +8306,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d8496bd4-949c-4047-92cc-e61cde782fa2",
+    "id": "cf297553-9a73-4a7e-8b0a-24c98a5ab709",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #693)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8318,11 +8318,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0dd1d7d8-955e-45cf-95b4-cacf5c636c9a",
+    "id": "ec3f01be-596c-4635-8e79-9d9a63cc7086",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #694)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8330,11 +8330,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ef50e685-3f27-4536-821e-6468d49e68db",
+    "id": "6fcb17a2-3f4c-44d8-9984-8df50afedbf7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #695)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8342,11 +8342,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "eb8c7d03-9c3f-4f2c-8a1d-4b1d365f8fae",
+    "id": "093faa25-d2b6-49a4-9935-5e4ace47b68c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #696)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8354,11 +8354,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4d77ddd8-1096-4e74-bccc-449c9a79050c",
+    "id": "6991cbb4-733c-4895-b546-50862d48ffa9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #697)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8366,11 +8366,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2b7aae5a-79bc-4b1d-b89e-8220d9c63c17",
+    "id": "e5075490-906c-436a-b0da-a2537896c511",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #698)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8378,11 +8378,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e0bd8060-207e-4edc-89dc-29024b02ddab",
+    "id": "9c916826-cfa5-4599-8765-8c7ee4873fdb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #699)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8390,11 +8390,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9f2bcbf0-2bef-4ad8-b48a-d5f592576c8c",
+    "id": "f7350b15-feda-4b26-9e95-4763bcd326dd",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #700)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8402,11 +8402,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c87da148-b038-4e01-939d-1cd518e0c270",
+    "id": "2c19c761-005f-40a5-b50e-a38380833d1c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #701)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8414,11 +8414,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c49eac19-53fe-45d1-ae3d-1d9a536e3c30",
+    "id": "a984a623-6da5-4cd4-8a46-de255d3be0e1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #702)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8426,11 +8426,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e7e2c9f1-09d0-435e-9f37-91c13aa7e80f",
+    "id": "e25928b1-0e77-4631-8c8b-b7fcabfbd55a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #703)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8438,11 +8438,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "09640c23-6625-40cb-a38f-d71322973809",
+    "id": "1f77c2a2-286b-466c-bfd0-2b8208b1347a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #704)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8450,11 +8450,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ac17c47f-281d-447d-b02c-ee405b0f70af",
+    "id": "6cf897d3-2aff-47ef-8aaa-e9d2067b18cf",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #705)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8462,11 +8462,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "15fd6ec1-010a-48c4-9b53-2fd32678ab52",
+    "id": "19a16c4a-5835-45fe-bf43-4cb948fda154",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #706)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8474,11 +8474,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "620d3794-8f25-46cb-ae74-a67ab44ff72c",
+    "id": "5919e228-643c-4091-b782-e57ecbbce0e6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #707)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8486,11 +8486,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1da94614-4d57-459b-bdae-3b5ae33491e8",
+    "id": "45e7c275-01c3-450b-9304-2bce24d0891b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #708)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8498,11 +8498,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f12792c9-f48e-47b4-8d03-bf2df6c413dd",
+    "id": "98b5c91b-be60-4431-9b2e-e8dc52d46965",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #709)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8510,11 +8510,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5bf730c5-8479-4100-aa99-ed37bef87a0e",
+    "id": "5ee48978-0e4f-4d22-8d5a-20131df15829",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #710)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8522,11 +8522,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "621dc391-ddd4-49c5-b7c0-756707ceedca",
+    "id": "453e44e4-8701-46c4-9729-147f4236fe7f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #711)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8534,11 +8534,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "059f2821-4a04-4e36-87de-7865415b16f7",
+    "id": "1b19e4e7-f4a9-43e4-bdb3-bb2bf7fd19c5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #712)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8546,11 +8546,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "001d766f-ecd9-4816-9154-0ef662c4055b",
+    "id": "77685627-861e-47b4-9d0e-6c9949506139",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #713)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8558,11 +8558,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a086103d-5eab-4a45-abd8-4675a1aa3681",
+    "id": "44d6648e-95f5-461d-bb30-04db38c76136",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #714)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8570,11 +8570,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "42c8ac74-9d76-4495-81ec-076cc00ba1a3",
+    "id": "2c6bce87-2b8b-4cce-a0cd-a36898b32069",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #715)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8582,11 +8582,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2e2f770b-ce05-437a-a0f0-3fddd826bc35",
+    "id": "39398199-d8f3-448f-854a-4676379b1baa",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #716)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8594,11 +8594,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "297a42a5-3692-4a51-a4d6-a76712fd5920",
+    "id": "bff18f57-9035-45e2-b270-01c31feb7252",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #717)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8606,11 +8606,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "943a2f4d-10f4-4224-b59b-699deaf13a47",
+    "id": "42663113-73fd-4f0e-90a9-3cc4de12260d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #718)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8618,11 +8618,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "49054b4e-e413-4592-b7a2-c9b5aec91b5e",
+    "id": "e146ae27-8de1-4959-b608-343bf582f6e9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #719)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8630,11 +8630,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "66532063-73f1-409a-b5af-303bd7f24119",
+    "id": "e30d60e5-440a-4db9-94f5-80bc7e3b401b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #720)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8642,11 +8642,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5559103e-69bd-4992-8203-82a263760d46",
+    "id": "ec98e6a8-530c-4b08-ab2a-4dfb814b872a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #721)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8654,11 +8654,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "acbc911d-5ad1-4f87-bd8c-a72127298bfb",
+    "id": "07ce83fe-a3b6-4929-a096-f5ffa5588e2b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #722)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8666,11 +8666,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "68a8550c-f85c-4fd9-b3be-2cadf7f7ed5e",
+    "id": "a63348d1-4c60-48d5-8cb6-d03fc2cc155b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #723)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8678,11 +8678,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d0ac2ecd-41f0-4a6e-b7ee-cc991c75bdd3",
+    "id": "0d43b13e-702f-4772-bc28-bfded27870ec",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #724)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8690,11 +8690,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "70b1c1bc-8767-4988-afb0-5bb92005c913",
+    "id": "80c05ed3-3486-46cd-8870-8cf0452bb3cb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #725)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8702,11 +8702,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "825f348d-e35e-4540-ad8f-03b6cadb7e45",
+    "id": "b078375e-7964-4760-a702-d6212bce7bb9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #726)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8714,11 +8714,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9972b20d-05b1-4908-9e2e-823808f39370",
+    "id": "00afb7ae-f8ca-4250-95a1-c9f1e69091b0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #727)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8726,11 +8726,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "190749ef-aad8-4327-8bdd-66dd90275664",
+    "id": "befda44f-9525-432b-bf77-a90cc7d3679c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #728)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8738,11 +8738,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "150be9aa-43d7-48a7-9b96-38c27dfa9c84",
+    "id": "f4601a1a-abd8-4856-b291-977586ca5daf",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #729)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8750,11 +8750,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "eff120fb-94ef-44dd-ba48-a3f30e01a697",
+    "id": "bcd22fb3-b6f0-4a4d-908d-9931aaf37b1b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #730)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8762,11 +8762,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "65d50363-30a4-4bbe-8a0d-eaa547a2f474",
+    "id": "77a5e804-fcf2-4cfd-904e-1d6c6a25aaa9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #731)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8774,11 +8774,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cd60c8b0-424e-43a8-984c-427ee445649e",
+    "id": "9d0db8ef-622d-4860-a38f-6bb5fb2e910d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #732)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8786,11 +8786,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9b4852a8-cd84-4df3-9d3d-5e57353455fb",
+    "id": "ec89f225-b093-42af-bf4c-adda191b5e64",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #733)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8798,11 +8798,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cf7ed7db-259f-4489-a123-b66cb1a97ea4",
+    "id": "f352e39f-d2b1-4dd4-953e-d7df6b631651",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #734)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8810,11 +8810,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "289828f4-7c7e-446c-ac9a-80e165386914",
+    "id": "ee6db16f-35df-464f-9fdb-dc80b7174fa4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #735)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8822,11 +8822,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "55b58da3-aa37-4e2c-97d8-23fb52ad65ce",
+    "id": "24d5e801-f03d-4394-90c8-9f617aa0c39a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #736)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8834,11 +8834,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ac3076f2-23ec-47e0-a641-cd018348c1dc",
+    "id": "41cf0961-8773-4c33-a3c1-bec82d7a57d1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #737)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8846,11 +8846,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ba83490a-c4bc-4f84-82df-e2983cd51360",
+    "id": "a28aaa1e-93ee-465e-ba54-96b419e218e9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #738)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8858,11 +8858,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "11ed4bee-f979-4f55-83c9-858aacd425f6",
+    "id": "55c5f148-5375-45d1-8a16-52eb16aaede9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #739)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8870,11 +8870,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "688d2dcc-b2a2-4b19-943d-244308673501",
+    "id": "d4aa4bdc-7127-4615-bf1a-99292cecd0f2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #740)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8882,11 +8882,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d973f109-7de2-40ad-8e7a-8dbbcc73a60c",
+    "id": "d9c2f8fb-7a84-4ce8-a67e-6eda0bca97d2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #741)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8894,11 +8894,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3a3c476e-9c35-41c5-9974-83353ba9216c",
+    "id": "3f7269af-6b7a-4155-9b9e-8bc0c8b8ba16",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #742)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8906,11 +8906,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c51fe4ff-ed21-4b7c-afd6-015e0263a773",
+    "id": "c73fa506-e2ef-486e-826a-47892e3d2d60",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #743)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8918,11 +8918,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8f3ed149-36da-4baa-9aff-7cddc1f9917f",
+    "id": "8e4f6a84-0a60-4a13-9359-ed3747838e9c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #744)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8930,11 +8930,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c69ff275-be38-4585-ad2e-8805479bb636",
+    "id": "f4e48315-ac2a-4374-984e-21dd04caa140",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #745)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8942,11 +8942,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "544b80f3-3307-4238-bd09-1fcd49d275bb",
+    "id": "497d6150-08f0-45d2-a30a-8424d5a14b92",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #746)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8954,11 +8954,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "001b6091-5272-42ff-953c-90d452b6bd91",
+    "id": "f4c0f4ab-3924-4271-a44e-a0a8b7dac1d7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #747)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8966,11 +8966,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7d6791bb-d672-4e0e-9f05-40b5769d3373",
+    "id": "50e40b3d-79c7-4f5a-84dd-b0f68b7879be",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #748)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8978,11 +8978,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1c5257d3-e337-47b7-b7c9-44d0441c9e06",
+    "id": "997bb9b7-d2b6-4f9b-9aff-e14675a22b6d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #749)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8990,11 +8990,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1f2dbc56-0fc1-4112-8f63-3630f788205c",
+    "id": "e784f53a-a73f-4c92-bd80-9d7373315ae0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #750)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9002,11 +9002,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2143c908-9c1b-4de2-9bbb-96d46eb7c094",
+    "id": "eb98a45b-b5de-4d99-9a2d-47ea3731a37d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #751)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9014,11 +9014,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "390970f2-b2e0-4739-9e13-c1e54cb5e954",
+    "id": "3c4f44ca-e9c3-404d-9321-cab8f6a45644",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #752)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9026,11 +9026,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f09a0b4e-80ac-4f2f-b53d-6029b1799603",
+    "id": "682c2656-ebf0-4215-bd6d-ad4b88bb03ec",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #753)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9038,11 +9038,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e4938ce9-34d9-4fa1-92aa-76be4b004532",
+    "id": "462a7ac4-9e98-4146-a496-03552f22b37a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #754)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9050,11 +9050,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7f737a40-ba68-4a33-a441-3008bc388ad5",
+    "id": "2a566d44-65c9-45dc-853c-f7847492f855",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #755)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9062,11 +9062,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ddd75d8d-b9dd-4c1e-bec3-48e735d1e510",
+    "id": "42d10d7d-70db-475e-83ef-43c9c0fdaf00",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #756)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9074,11 +9074,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c88b50a7-4126-4dd5-af83-7a583850d773",
+    "id": "c7fb1696-ea76-4475-85e2-07069bfadadf",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #757)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9086,11 +9086,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "59b460c4-3264-4162-bf3c-5214f22dc2be",
+    "id": "3007b2a5-3dbe-4d5b-abfc-c342fea36c62",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #758)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9098,11 +9098,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "646b9d68-037f-4d70-8627-d4e3a9f22127",
+    "id": "4b932000-cdb7-428e-b046-fd574bcaae6e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #759)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9110,11 +9110,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b72f04b4-0dc5-40ab-a582-fd43be641900",
+    "id": "ede488b4-2819-4976-9dc5-73a2ec2c7774",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #760)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9122,11 +9122,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "95ca9e36-d573-4a40-b363-185965d5a8ba",
+    "id": "4e3cc3a3-d01e-4a0e-a00a-958100a1edcc",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #761)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9134,11 +9134,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4fec29ab-6d3d-440c-a409-0c3697896469",
+    "id": "5047cdc2-75c0-46f8-b5e4-074502283316",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #762)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9146,11 +9146,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b8afeec4-ddd7-4650-83f6-d4bc65ba336f",
+    "id": "0bc4f3ba-3620-455c-988f-8bedcccfae06",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #763)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9158,11 +9158,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "edbae0e7-f331-418f-b740-1cb48aace158",
+    "id": "3e081edd-dfaa-424f-9772-b3c9ef485fbd",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #764)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9170,11 +9170,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9416bc87-fc21-4843-b420-3a6325f9c19a",
+    "id": "ace69c30-f31a-4473-850b-d3e190b826d2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #765)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9182,11 +9182,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "dfcd9bb5-324e-4043-a49b-54d510af791a",
+    "id": "a728e92a-6336-4294-a147-066093893ae1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #766)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9194,11 +9194,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "45ce9cf1-aecf-404b-af08-5e49fe524791",
+    "id": "63e28c63-816e-4741-a193-0c3c229d9d28",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #767)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9206,11 +9206,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "acd277d4-163c-4fd3-b864-14448012de44",
+    "id": "3d4e4530-3243-491c-a3d8-d405d628fbb6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #768)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9218,11 +9218,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9f3c7676-eb9c-437d-9ee1-6e8bf64eb11b",
+    "id": "bedb56bb-1927-44b4-96fe-00d5980aff8f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #769)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9230,11 +9230,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "192932af-80ac-4832-b93d-a445f2dcec32",
+    "id": "4ea33b53-206b-4101-b1bc-d159bb9ba447",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #770)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9242,11 +9242,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8a7013b3-9473-4c25-8403-c698c7f10f48",
+    "id": "7b66e469-6974-47da-ab5f-59cc4921466b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #771)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9254,11 +9254,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "92148b7e-f23c-4811-8b4d-cc812d3b6ec0",
+    "id": "56dd7bc8-fac7-4d29-a530-66a8750e8c9f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #772)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9266,11 +9266,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cf269235-7fec-4c7c-8571-b1294ce56400",
+    "id": "ce426840-7f17-48e7-ad11-532006bf6654",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #773)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9278,11 +9278,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1e8c2bed-2e21-4849-963f-a85fb8b404a7",
+    "id": "4d75cdb5-873a-4672-b318-9917f39f13c9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #774)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9290,11 +9290,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "877e1a8e-8125-490e-a560-e21f45aa4d7c",
+    "id": "96d7d4c5-c554-4102-a650-93a62b6e9044",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #775)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9302,11 +9302,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "25973eb5-5666-4539-8a9b-17b0735afc39",
+    "id": "4c706e73-0782-45b2-979a-abab9fb3092c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #776)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9314,11 +9314,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4ba071a4-f9cc-42a3-baf0-76f289876c56",
+    "id": "f41cda06-9dcc-4b63-87b9-b5dfd113899d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #777)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9326,11 +9326,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6bf27202-fa94-478c-a693-760739033056",
+    "id": "a0ebddf3-20b2-4ea3-9bbd-40a3fd7da0c4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #778)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9338,11 +9338,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ccc550aa-aa30-42fc-8501-3a142e806999",
+    "id": "7c02110e-5249-4368-aee6-95f0591ce7dd",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #779)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9350,11 +9350,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8caf9f76-26d7-470c-a807-b5d9514c6b22",
+    "id": "d4f9226e-d7b0-447c-8231-faee46f9b7b1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #780)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9362,11 +9362,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "985438dc-db94-4b7a-a1cf-94ebd44be343",
+    "id": "959baf91-20c7-472e-b1ac-fc1a5761a5c6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #781)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9374,11 +9374,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f4004461-049b-4b11-ba19-326f97e99bac",
+    "id": "c694c166-2839-4c00-9a43-211e7366ef98",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #782)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9386,11 +9386,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3005c856-7dcd-4100-b788-0da939481f9b",
+    "id": "788ab487-37bb-4692-8a45-5eca8ad6b4b9",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #783)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9398,11 +9398,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1c37d792-be29-4a42-a2a2-86cc84a226bc",
+    "id": "0d371fd9-b7c3-41c6-a50e-4c8e28df57b7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #784)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9410,11 +9410,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fbf22caf-9987-4f5a-8d34-895f57f7250f",
+    "id": "7a8c635d-27be-4315-a225-5830da75e86a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #785)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9422,11 +9422,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d25115d9-5349-4742-b788-980188186a6f",
+    "id": "6ee353a7-4561-40ce-b542-f0e1fdcc392e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #786)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9434,11 +9434,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f13182d3-37d8-4d26-8caf-9dfc930d90c6",
+    "id": "7752294a-e69c-4eb3-85a8-85f6722c72d7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #787)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9446,11 +9446,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c346b796-c2e2-4503-ba38-e77c9aee5457",
+    "id": "a0649236-9c77-40c0-89b3-001baeec39d8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #788)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9458,11 +9458,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2b287b96-1495-4e80-a1d3-ac341019c156",
+    "id": "5a5f1377-dc3c-4604-bee8-56d6eb84496f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #789)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9470,11 +9470,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "24e50a88-c1e9-4d37-84ff-4d26a9b1ecf7",
+    "id": "04401254-0022-4d28-a99a-3d3a533c4b03",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #790)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9482,11 +9482,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "aaf92d36-e4e6-45c2-9141-71aefe80643d",
+    "id": "bbe7e037-0695-4525-a789-72b19a2c1a01",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #791)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9494,11 +9494,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2621b0eb-092a-49ff-a215-4f8c77171964",
+    "id": "09a0b1d6-927c-40f6-b27d-d40938f75b64",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #792)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9506,11 +9506,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "01b3f8d5-a93c-4859-9701-f4d336254db0",
+    "id": "aa4b29cd-0a84-4978-aa93-1db5a15a345a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #793)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9518,11 +9518,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "95d95f86-6035-4da9-ab77-e85ea5fe45ef",
+    "id": "38d6fea5-626e-4eca-b83c-c2e92cbdd6d7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #794)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9530,11 +9530,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "236aad4f-2d80-4be7-8cb1-a346a34a60ba",
+    "id": "5fac24e3-65ec-47ac-bbbb-1ba52cdd7337",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #795)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9542,11 +9542,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f872a0fe-6845-4419-a264-394a26b9abc1",
+    "id": "1e8e20be-26d0-4efa-9d21-e51353a46ebf",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #796)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9554,11 +9554,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a8201ab1-debe-4c9e-bc54-9268609575e0",
+    "id": "f2e774af-b751-4f44-8c97-aaaff4eb66b5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #797)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9566,11 +9566,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "531801ac-cea9-497a-b3d0-ce3a42a2a6e5",
+    "id": "ac672be2-d321-408a-9bec-bdf74f9b273f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #798)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9578,11 +9578,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c402055c-ab85-4523-874b-43e9cc280ca2",
+    "id": "9d393867-9ba9-4116-9442-7311e838c985",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #799)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9590,11 +9590,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f69166fb-ac98-47a2-8374-ca3b560f50e7",
+    "id": "cf8b95f4-55ee-4726-9bba-4f132161343f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #800)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9602,11 +9602,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "838d7fdd-371e-4d4b-9e64-f1f6d5211a9f",
+    "id": "ab3f9675-054a-454f-8d14-52011881aa6f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #801)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9614,11 +9614,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7e36423a-0fae-4896-b47d-ecc70bd255d3",
+    "id": "3a874cf3-1700-4662-b463-99c6c4591ed6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #802)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9626,11 +9626,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e0526fcb-bb27-48bd-b9b8-881978202209",
+    "id": "020123ea-6c2c-46df-ab3b-a1237edcf450",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #803)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9638,11 +9638,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1b7108ff-0351-4864-b6ed-157818cb4b6d",
+    "id": "86a12bc3-c2d0-4470-a67f-3bb6224d9b94",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #804)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9650,11 +9650,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "63432a07-8aa7-4538-b082-31c6391e018a",
+    "id": "2b603e94-36a3-4919-a5a4-92b31238c02c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #805)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9662,11 +9662,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1f227493-5dc4-4c41-8ddb-a5ecfced9598",
+    "id": "f3566856-f57e-4ff8-bad7-d37aa4375c86",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #806)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9674,11 +9674,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4e969843-54b8-476e-9e3d-ba092633f889",
+    "id": "73def92d-6e7f-4b7e-b462-c9fb14c704fb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #807)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9686,11 +9686,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "32f79d73-a897-4646-8a30-7dac63c3cb51",
+    "id": "40786ede-bdbe-4421-a68f-1a89413816a4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #808)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9698,11 +9698,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d69d24ba-422a-4b27-a54f-bc460fa18571",
+    "id": "67e2ec70-6953-4037-80ad-1d9778f386a8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #809)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9710,11 +9710,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e4c34969-0aab-41ec-aa75-2ca1eaeeeb78",
+    "id": "03eec3a0-3a21-4dd4-9bb6-76a6788ba495",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #810)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9722,11 +9722,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5ad7d700-de45-4f1f-ae8d-d78b3eb52c9d",
+    "id": "36f7c999-63e6-441e-ad5a-e7c19f2d1dbd",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #811)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9734,11 +9734,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f68be125-ab83-4b09-9694-115a92304807",
+    "id": "a015676b-7c2c-44a8-a777-f37f6df770e7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #812)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9746,11 +9746,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6a037942-ea1f-4c61-9843-84afbcdbeedb",
+    "id": "fe28cf9d-5916-41f3-9324-5e07e0b647ed",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #813)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9758,11 +9758,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "dd90424b-4b2f-4e3b-bf86-e9245f35d6e0",
+    "id": "dfd045be-d8a2-4fb2-b26c-5660b9b6c293",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #814)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9770,11 +9770,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "40857f0c-cd13-41da-a738-6bc6204ab0c8",
+    "id": "53278956-038a-4a08-97a8-982fb813fdac",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #815)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9782,11 +9782,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0ec8f82f-da1d-4399-855d-4463b0cc7969",
+    "id": "fd17321f-b557-431e-9b1d-6941a756a511",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #816)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9794,11 +9794,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e9f63d2c-933b-4592-81d3-7c9c4e2fc42a",
+    "id": "53204301-4f64-4f15-9b80-b5ff1903a674",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #817)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9806,11 +9806,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d2e72543-cd97-4ebf-b06f-cc55a4be060d",
+    "id": "44f1656a-eaa5-4ef7-b8bb-f8b58eda9fb7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #818)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9818,11 +9818,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "143d16d1-2e60-4860-b794-af0386c94f72",
+    "id": "4170335d-61ae-49b2-9bda-a1e0771a0158",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #819)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9830,11 +9830,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "390e99f9-9c22-456f-8fdc-01003574473c",
+    "id": "e07363a5-0ccb-4695-bd30-5237d0da0851",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #820)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9842,11 +9842,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "08169d63-f5f5-496e-9a89-c4b1459fcecc",
+    "id": "4c31c488-19ba-4d95-bcbc-a7400efb2784",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #821)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9854,11 +9854,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8edb162d-6f0d-405f-a5fe-f1e3ea914230",
+    "id": "f91fed52-cd13-497d-9504-20c58d7e8d14",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #822)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9866,11 +9866,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "078a91eb-3fe0-4a47-9155-7fd6db2609a8",
+    "id": "a51af82e-0910-44d9-b167-e2d0749c1b8b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #823)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9878,11 +9878,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "66c9f398-0314-4c80-8def-b41ec10f7872",
+    "id": "4273867e-9f55-416a-a60b-8f435f80800c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #824)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9890,11 +9890,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "860736a6-26bb-46ea-b214-381ecf6a65f1",
+    "id": "0dc5c88b-f0f6-4584-8ba1-8a314250c719",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #825)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9902,11 +9902,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4eea7237-c77b-4470-9dad-3b4a40a88334",
+    "id": "c0c43b66-2d88-4a5d-aa8b-07561b6ebd9f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #826)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9914,11 +9914,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8aa526f9-f1f7-4416-9360-4fd08e007b7d",
+    "id": "23eaa249-32de-4300-b23a-bdda880e70cf",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #827)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9926,11 +9926,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a9fb425e-7c7f-4ad2-a76f-38e88b3c56ff",
+    "id": "6c2afd0d-f9bf-42a1-9515-79b2913b5e28",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #828)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9938,11 +9938,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a640e367-f518-40fc-b1f1-c863b4561b35",
+    "id": "32324395-7006-4138-9077-0f8ca69675ac",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #829)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9950,11 +9950,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "87805110-2cff-43de-836c-b313bd8e6ecc",
+    "id": "8814eedc-3192-42bc-8cc6-ff7d8c5d429e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #830)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9962,11 +9962,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4b5ecbac-c6fb-4731-8021-9eac42f5bfdf",
+    "id": "7bc13332-c8a5-477d-949e-eece3d1f03c7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #831)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9974,11 +9974,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "84fd75e6-3a2f-4ecc-923a-3ceb1c9b7cab",
+    "id": "2ce42ff2-5489-4a97-9cfb-69852b71445b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #832)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9986,11 +9986,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0295ab59-97c7-479b-afdf-3bb17ee64869",
+    "id": "da037484-d5cf-47dd-b079-4ce2b6cf94f3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #833)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9998,11 +9998,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8f0ffad4-1b66-4946-ba85-cc75e5febac5",
+    "id": "66bd9758-393c-4f68-819d-bcdf9c4e7e56",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #834)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10010,11 +10010,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "97078bd9-c9b0-4e1d-90c5-f0d71461177b",
+    "id": "419aa3a6-4d14-44d9-82d2-bf4fb546da14",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #835)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10022,11 +10022,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4ee54441-5792-454d-ae48-1c326196b6e3",
+    "id": "90f908fd-f402-4e29-8f2e-88bf0bae3bb7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #836)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10034,11 +10034,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "84e87d7f-4571-418b-bfe1-19fc67f2b303",
+    "id": "e256fee7-28f3-4793-861c-3fb7c1cc1603",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #837)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10046,11 +10046,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f2aa2222-f0ab-4918-9722-9acaa1a04675",
+    "id": "cc6c0b58-3b74-441b-9b57-e94acea155ed",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #838)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10058,11 +10058,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "78d6ac1c-434b-449f-99b4-94d5a710d69a",
+    "id": "895561ad-df1c-4fad-8886-8593bf265324",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #839)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10070,11 +10070,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2c25d69d-a905-447d-9405-2761cab05ec0",
+    "id": "94654772-1d0e-4c32-b7b2-7f04a205416b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #840)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10082,11 +10082,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c47fda7b-9100-4858-a481-4fe9c41e0993",
+    "id": "815ad4b0-e993-4618-a3e1-65c0139fe173",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #841)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10094,11 +10094,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8e494e8b-1e39-44fb-90ef-11a0d132a8f2",
+    "id": "172fab24-8c8f-49e4-b95d-82fcc41c0987",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #842)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10106,11 +10106,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cd3eeb6e-a151-4c25-9cfa-5bef4864c13c",
+    "id": "ab0b0609-c392-4107-b622-a1c29bfc5f39",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #843)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10118,11 +10118,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f48c4bca-1024-43d8-88d6-dc2f68ddb15b",
+    "id": "5c61ac43-8842-4267-a97d-861d5e893f01",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #844)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10130,11 +10130,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "41f21f7a-97c5-418f-91c3-ae533c01f009",
+    "id": "36a24905-75bc-4ec8-b46b-578f307bd648",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #845)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10142,11 +10142,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0b6d7ab6-d34f-4bbe-ae23-fd5f5d440907",
+    "id": "59871663-3ef1-455c-b5f2-250d0837a290",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #846)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10154,11 +10154,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "781aafb7-1b44-4e06-96de-b43e0ce0549b",
+    "id": "838849b3-a17f-45fc-a7bb-fc99832c966f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #847)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10166,11 +10166,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "88bf919a-94d7-4799-9dbd-b35d5bb137ad",
+    "id": "ee91ae3b-5ad3-43ff-8f53-001eedb72214",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #848)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10178,11 +10178,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7c053d53-35aa-4afa-a389-694b262f25ff",
+    "id": "e57818e2-c288-4957-bf53-7b3735e72e33",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #849)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10190,11 +10190,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ff96a633-44ee-4116-827d-5df103789810",
+    "id": "6f183d5f-13af-4be9-8d3c-312601debc17",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #850)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10202,11 +10202,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d6b49206-c16b-432a-b9a3-3f7b76b0935e",
+    "id": "92f99b5f-3a6a-4f1a-91a1-fce6599f531e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #851)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10214,11 +10214,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c1007112-5a8f-4838-9aee-39a6aaa6cf91",
+    "id": "e5d3a435-b5be-4541-ac4a-16498e52707c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #852)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10226,11 +10226,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5c0b20e2-384c-46a1-8348-281d7ec98486",
+    "id": "4f531ab2-87cf-41c7-bdfe-f250d2a5bb61",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #853)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10238,11 +10238,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "20f5f863-0c8a-4bc5-88aa-a59ddad0bff7",
+    "id": "6179b18b-8c29-41a8-b572-416e94a8a35c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #854)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10250,11 +10250,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "57546f83-a2ff-400e-93f8-4b066a17313e",
+    "id": "b65ab53d-29c1-4d32-b3e0-4ec7c38d06cd",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #855)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10262,11 +10262,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e17a61ee-706b-4e72-98fd-2cd59d64e27e",
+    "id": "ecd9b781-8066-4823-9d06-0b6d625585b2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #856)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10274,11 +10274,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3aa7bbf7-97f3-4df0-b11b-6d762f4575c8",
+    "id": "8477b309-ff2d-4caa-8985-b445f645104b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #857)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10286,11 +10286,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6e09ca99-5a9d-4df7-ab25-f58fd426c9e6",
+    "id": "b40fa099-553d-4435-a924-99a6f2b7ff55",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #858)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10298,11 +10298,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b3ffc776-4211-4044-82f5-eee112c29b95",
+    "id": "e5aeb5f9-4822-4a8a-8346-68b245f44389",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #859)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10310,11 +10310,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "39902e71-b9cd-4a9d-ad7d-a51fd1c5d931",
+    "id": "3ff1745d-362f-4a69-8d07-32df4dcf1985",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #860)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10322,11 +10322,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d7c05c77-b6c8-4d74-9604-bf8c8f688158",
+    "id": "a3321503-c56d-4e8d-9a5a-338ddbdb05a7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #861)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10334,11 +10334,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "129cda5c-bf1e-4de2-9395-559320106939",
+    "id": "5c815ca2-e807-4990-b4e4-e05f9599542a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #862)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10346,11 +10346,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "afd0ba5e-62dc-4a0e-ad72-e2ca60562314",
+    "id": "0d5d5522-91a4-4f01-a7f8-b63324a29abf",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #863)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10358,11 +10358,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "99902092-8e9b-48f4-bbe3-eb91a3f233ad",
+    "id": "ed3d51ea-b4be-478c-9c1a-cbb2c56419f2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #864)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10370,11 +10370,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "db1a5890-5516-4ad1-a80a-a5f200de4a7a",
+    "id": "f5231409-6185-4883-8e2d-460984307748",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #865)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10382,11 +10382,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f9cde9af-2277-43e9-a16c-92adfa1f07e4",
+    "id": "35dccd30-9134-4340-ad56-15e5d832dc2a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #866)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10394,11 +10394,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "24a77810-b1b0-40b6-9291-c86b60413c04",
+    "id": "3d140351-a426-405b-b917-3d9f81920f91",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #867)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10406,11 +10406,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c7d8abe1-c080-45bb-acbd-f1c6bb596057",
+    "id": "9450ca5c-2799-4592-8483-ccf868ff5f83",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #868)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10418,11 +10418,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e93f1d59-71be-4755-a93b-ad9c2880a5f3",
+    "id": "fd712224-0940-40c3-8c92-45129085758f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #869)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10430,11 +10430,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "33d97556-1e8e-4fa6-b708-012e285b65bb",
+    "id": "c5e39348-4dd2-465b-a70e-6f483385c5f1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #870)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10442,11 +10442,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "558425c5-3f02-4b22-bdd1-7bbaef0c889e",
+    "id": "ccd3f12b-4a0a-4846-87c1-9ea87eb3db5e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #871)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10454,11 +10454,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c73c5797-7ba5-4652-872c-23bb23a54b91",
+    "id": "3bdfe6da-2659-4eac-a8fc-6d0bad53d7a8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #872)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10466,11 +10466,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "89166c41-5ab1-4f91-a004-df97134c456e",
+    "id": "3e2a3679-c2b7-464c-a519-02b83096ebeb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #873)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10478,11 +10478,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "dff06f63-5206-4493-a5e6-dcfa29a26dbf",
+    "id": "d7829df5-c6b0-4390-96f3-537be2865207",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #874)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10490,11 +10490,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2c6469d8-3de9-46c7-b9a4-092aa3b91ccf",
+    "id": "231102bd-511f-42d3-947a-18bfc3f1fc25",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #875)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10502,11 +10502,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "511308dc-8f3a-41b9-8a36-19f61473607f",
+    "id": "3a4683c2-16c7-4f15-b8f9-20929532c4d0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #876)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10514,11 +10514,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "69e780b1-6a25-49c1-a377-8e46732c0fa0",
+    "id": "47891b3d-447d-47a0-9be9-93bc662d5319",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #877)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10526,11 +10526,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5c95e761-28d6-4240-bad1-3fc306b9faa7",
+    "id": "88108792-ec1c-4666-a578-361a97c865a5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #878)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10538,11 +10538,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2cc48c5c-49f4-4251-b62d-b1acba1f9104",
+    "id": "d3c6353d-60d4-41da-a2d7-316d632de047",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #879)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10550,11 +10550,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "26ce713f-a37c-44bc-be54-e947a5614668",
+    "id": "1221e1b2-7327-4dc5-b8d8-8898cef8edfe",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #880)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10562,11 +10562,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8c387d6f-d9c4-4392-ac92-afddc8b6cb4b",
+    "id": "8ae9b563-3602-4447-a312-70fe15bb31d8",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #881)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10574,11 +10574,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f586b19b-aa12-4a76-aee2-af0086ec17f1",
+    "id": "e885347c-7c86-4d34-8fea-8e159a9ac8c4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #882)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10586,11 +10586,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9e139de2-bdf1-4991-8d4c-989b91bd861e",
+    "id": "ec55488a-22b5-4997-9647-af8659058eab",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #883)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10598,11 +10598,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5cbcd466-7d1e-4881-9464-017ce802fd9a",
+    "id": "23932534-02e8-423b-bff6-0d2e2635c289",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #884)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10610,11 +10610,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cfaae3ad-cb5f-4c64-a5d8-95497f36bbb1",
+    "id": "370a6bb1-acde-4281-ae7e-8c233c4ed12f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #885)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10622,11 +10622,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3bcb6cba-6a04-4377-97cd-25ecbfd2b7c9",
+    "id": "ff69884b-30f0-4388-8536-b58396059f56",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #886)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10634,11 +10634,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "10bf4b5f-06cb-431a-9d90-c1ad3cd69335",
+    "id": "8ff94eca-b1e6-44c5-be06-f5c66ae96a22",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #887)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10646,11 +10646,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a7e42e0c-489b-444c-a3cb-de9ff758436e",
+    "id": "a23c41cc-f3c6-4ef8-bfa6-305942ca76b2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #888)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10658,11 +10658,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a2620afe-6584-43a5-a02a-62d0eaac29b8",
+    "id": "3ccff2e2-fcdb-4d93-b56f-268d5098076b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #889)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10670,11 +10670,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a29021d5-f305-4add-a8fa-e238ce8f6eb2",
+    "id": "b5c8320e-3382-4a34-acfc-f065a4e3f901",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #890)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10682,11 +10682,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ea0ca4b6-da21-4576-9cbf-f37e402df0a4",
+    "id": "38174650-0c87-4d1c-bb32-177b4d00a6bf",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #891)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10694,11 +10694,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2b14f368-4a77-434b-841d-0542e130a989",
+    "id": "eaf4992d-d10f-49e3-8c17-9cc98a7c5d6d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #892)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10706,11 +10706,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a210af65-b2c3-4cce-97df-142b448a35a8",
+    "id": "f6e4f3a0-e8d4-46a1-9770-d6967342bc5d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #893)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10718,11 +10718,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "62d115da-48d7-4efe-b665-cefdef19df95",
+    "id": "7d49ec42-eea4-4761-9beb-7cf77c09488f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #894)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10730,11 +10730,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cb2b63f6-a374-43a3-8a7b-ab04d20cc73f",
+    "id": "7e4c11c6-3be1-4957-95d5-8cc0121c8d97",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #895)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10742,11 +10742,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "ca00b289-18a1-44b3-8f02-b02780f1b94d",
+    "id": "38bffbf1-4e19-4f11-8981-0589f56e8314",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #896)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10754,11 +10754,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5e487cf6-80d4-4e0f-9eed-930a80376808",
+    "id": "be4bbc64-3500-47b7-af17-aedfaed3e8fd",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #897)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10766,11 +10766,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "314b616a-7b7e-483f-862b-1f927a059281",
+    "id": "54f03f6c-ff90-4cc5-ae23-3ed84fb08e45",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #898)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10778,11 +10778,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "35e1e7a6-7e24-4740-b75d-36fddff2181a",
+    "id": "df9c9f02-823f-4930-95c6-bf6c2afd4b1e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #899)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10790,11 +10790,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3cabc0c7-e61d-4b05-a3d1-13159b472fe9",
+    "id": "b4b1d8fd-45db-4fbf-a96f-cea32010d6a0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #900)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10802,11 +10802,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1fa1d792-8889-4ff7-9181-572006876dc0",
+    "id": "2e53557b-c6d1-41d3-8bc2-cb55383f17e5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #901)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10814,11 +10814,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b0bbc301-b3a7-4f53-9a38-d638d0782135",
+    "id": "4dd54696-2cef-4cc8-a859-4ae96d8dbf9c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #902)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10826,11 +10826,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "71f570db-a8ca-4dd7-b9cd-471b4f74e5bd",
+    "id": "8d014369-efd9-4329-908f-605eb7004d50",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #903)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10838,11 +10838,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cc7f7605-3e31-4b49-9921-10c239a1a36d",
+    "id": "2f4b9907-f809-4fa6-97bd-3101cc39b2e6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #904)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10850,11 +10850,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "05a72fbd-c963-44d1-85d3-e82728c7d115",
+    "id": "71e137d7-72d0-4dfe-b0ba-ca947a5a4927",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #905)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10862,11 +10862,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0d28bcb8-c17e-478f-8b96-ad679919e36e",
+    "id": "67e004d3-f168-4f5d-a82d-fd25d46fc151",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #906)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10874,11 +10874,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cb4c29f2-eb74-4a01-9cde-303f0c12208f",
+    "id": "731d3ae3-cf6e-4392-8ea0-01d0fc0c57b4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #907)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10886,11 +10886,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9860ee59-e45c-45b7-9ebd-e4abdeb9c422",
+    "id": "bb323bef-f5dd-48a8-9160-2ec12fe37bb4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #908)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10898,11 +10898,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0d79a321-e857-405c-83dd-1d477906a831",
+    "id": "3cd9c55b-8fe3-44ac-9312-14c28c72e6a7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #909)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10910,11 +10910,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f7ce0dc8-c4ce-4e6f-8f20-794764235c18",
+    "id": "d32de0fe-d31a-4645-9315-36270cda2a56",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #910)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10922,11 +10922,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "01682bd2-d0fa-4d36-b719-0f8b4b38030f",
+    "id": "434d4af8-d506-4b9f-8627-6e8adbbe3242",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #911)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10934,11 +10934,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2412a6b7-e038-4fb7-bf19-9108f5e0d5ed",
+    "id": "ce4e9879-0c35-44bc-85ff-7a8a58dfd91a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #912)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10946,11 +10946,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d20d393f-32de-4452-9bc1-4d78158e8e56",
+    "id": "f19dc328-a574-4003-b146-6eb6e580fd8a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #913)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10958,11 +10958,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c4d216c6-b487-42c3-8aa4-ec465d07de1b",
+    "id": "a7906c52-9589-47b1-b5e1-aa510c4b475f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #914)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10970,11 +10970,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "16dbf0e0-4f52-4d38-8b14-4be5d1f85d78",
+    "id": "4055ec0b-8cb0-4616-9b7a-35b6a688c06e",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #915)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10982,11 +10982,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "47381f93-019a-4c21-a775-d72d230a0b85",
+    "id": "b60bb5c2-4594-4c51-b7e3-721205fe8687",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #916)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10994,11 +10994,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4b93a4ed-588c-458f-a2f4-b61ac76b7c38",
+    "id": "85546d9f-55f0-4583-ae6c-3402f86758da",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #917)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11006,11 +11006,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b49408b8-ab24-4476-ab11-5fb2a6dcee24",
+    "id": "680dfb15-cdb6-41da-b32a-58736d575e78",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #918)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11018,11 +11018,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "383100c0-f095-45d3-b235-82f7108588f3",
+    "id": "82312057-6ad9-4ced-93be-a441577ce29b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #919)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11030,11 +11030,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "aadb8203-f044-4ed2-95d9-9ac0b66d30bc",
+    "id": "6062f66f-3ee5-4e16-9d29-629c0ff45f3a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #920)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11042,11 +11042,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2d4f5bd8-f49a-4dae-809f-c01c49c7ed9f",
+    "id": "033631fe-d79c-4d58-8efe-444a93e5e15d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #921)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11054,11 +11054,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8d4505f0-ab37-4519-a4ff-b6bf079c47ee",
+    "id": "afc2f81f-fb35-434b-ab16-4f0e278ee227",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #922)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11066,11 +11066,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "606361a5-90fa-44d1-8a89-5f92fce6ffd7",
+    "id": "fcfd64f3-5c62-4447-aa34-a671d37031c7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #923)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11078,11 +11078,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8b927f45-ca22-4382-9840-64da1c80d580",
+    "id": "9b4e1261-6079-49e8-9b86-c66b33e95113",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #924)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11090,11 +11090,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "334484b9-62ad-4efc-9ed2-c9fcb8972a24",
+    "id": "f6a7baaa-7f9b-49ab-a069-3ef330165535",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #925)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11102,11 +11102,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d2c846bf-b2cf-4b4a-99be-4c77304beee2",
+    "id": "9e848e97-1f16-4511-a6bb-bbebdbe74180",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #926)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11114,11 +11114,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "aa5e55c8-f3fc-460d-a1cc-bc6cb1ed74a6",
+    "id": "176d129a-4cd8-45ed-bd61-b40015f37152",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #927)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11126,11 +11126,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b1a71864-4132-40fa-bbdc-156387b2caa5",
+    "id": "b0b5aa7e-3861-4480-9709-ba4b26571c99",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #928)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11138,11 +11138,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "04f0297f-c77e-4c69-8c3f-a98179be13fc",
+    "id": "15016abd-f6ff-446a-bdba-b9aeab86ddc0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #929)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11150,11 +11150,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4fc9338b-2c9d-40d1-8a18-af6666f4f65b",
+    "id": "885ee10c-9e1d-40e4-879e-f89df46f0255",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #930)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11162,11 +11162,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d8cf6b10-20e7-489b-8753-624743c380d9",
+    "id": "d2e5edbc-67cc-4f61-903e-74a647c386b1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #931)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11174,11 +11174,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c8e6540d-2531-4e64-9dba-463798155ae9",
+    "id": "b6a65b94-c74c-4b15-ad1b-a6a9d1d4b4f5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #932)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11186,11 +11186,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1c39bb34-bb09-4333-8b5d-851740586ed2",
+    "id": "c6ed2513-31db-4573-84d8-a2f464a9b6ec",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #933)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11198,11 +11198,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c2edf1ed-f45e-409d-91c1-f9dc33581b68",
+    "id": "220d9f12-76ff-4723-89fa-49c7fbd7f8c2",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #934)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11210,11 +11210,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "65391b33-82d1-4f23-ace8-b35224b1836e",
+    "id": "d3512e15-25f3-4df9-a5c4-96fc2e656ed6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #935)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11222,11 +11222,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "515aecbd-0697-4219-8ac0-e4a77c737b36",
+    "id": "dc31f773-c60b-4409-9bcc-69b2b2d9ca7b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #936)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11234,11 +11234,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d36b6a23-e2e8-4556-81f3-a6233ce5559c",
+    "id": "7467a49f-7b07-4930-b87e-9382e767ed9f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #937)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11246,11 +11246,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8393f25f-676e-4161-8bd4-571a88a1430c",
+    "id": "168b8938-0cab-4365-a82a-0aca469ec551",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #938)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11258,11 +11258,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "9fb8bdc6-eaf4-48e1-b9bb-e2a7ed58b59d",
+    "id": "4514c4d4-ae1e-4678-9a22-41659ce7a3f5",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #939)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11270,11 +11270,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e8266b7b-2c6b-4e38-ab14-70fc849607f7",
+    "id": "716df10c-70fb-4a29-bf08-2ccdd0a3d00c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #940)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11282,11 +11282,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "b0387510-63a4-4eda-aa1c-66554885f25b",
+    "id": "6c836f9f-816b-469a-a0ec-74cca255085a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #941)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11294,11 +11294,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4c6ad3d8-b947-4267-989e-0f66e3aa9225",
+    "id": "d2fe13bb-b626-49e2-9191-8a928db44d8a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #942)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11306,11 +11306,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "666b319c-4824-4815-8bd0-199d6042c1d2",
+    "id": "fd65af6b-5e3d-4cfe-a1c5-566d9c4c3199",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #943)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11318,11 +11318,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "10091146-1dc8-470f-a211-e80841b193f3",
+    "id": "54c7256f-e75f-4a2f-b05e-190c1d87b060",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #944)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11330,11 +11330,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f3fc3a8d-9e02-48f1-94a8-1c9b38acaa93",
+    "id": "05fd73c4-404b-4dc5-b664-f043990c5dbb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #945)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11342,11 +11342,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "942f6c4c-0b3c-48fc-9441-32ec35698214",
+    "id": "48cd589d-bd8c-495a-88fc-8a2f51f65473",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #946)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11354,11 +11354,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "3ec4f951-9075-4e09-a618-f167189da825",
+    "id": "b30c41ae-c1a3-40a4-bfdb-40f73c1ddd27",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #947)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11366,11 +11366,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8a21f6b3-27b3-41d6-9b13-02f4199454c9",
+    "id": "883ad5ca-a496-4b4c-a297-f303d32253c3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #948)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11378,11 +11378,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "37354c45-5625-4416-ab0c-4078107094b0",
+    "id": "1dc6e571-e32a-4607-a6f0-f5c2c2bd9235",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #949)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11390,11 +11390,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "1adaee1b-7cb5-4fa2-a887-74c64528957c",
+    "id": "1e0ccff6-f18f-483b-a268-683ec16341a1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #950)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11402,11 +11402,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "aeee86e3-d85b-4067-9b8d-3af91048e970",
+    "id": "c15db78b-b46b-4bbc-b9e9-b978ab8c12cb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #951)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11414,11 +11414,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a99e06ae-1eaa-4de2-9ef4-6b219599e456",
+    "id": "95a8c972-3610-41ab-90b5-8d2cdb6b809f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #952)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11426,11 +11426,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fb0dc2e7-d825-4236-9a71-5f24904d3824",
+    "id": "398194c8-a00d-4910-8aff-c20c659a88a6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #953)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11438,11 +11438,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2bdb9162-6cec-4cb9-ab04-9f9eb454e318",
+    "id": "5c235517-bfdf-4186-8f11-79ec119f5e05",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #954)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11450,11 +11450,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fc70a935-d2a1-480a-bbcb-cdb8eb002661",
+    "id": "34395143-46af-4417-b567-631adde89cfb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #955)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11462,11 +11462,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5751cf92-06a5-431d-a8b3-fb34443254d3",
+    "id": "11505570-83bb-4d3e-ba71-84b4cf60b032",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #956)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11474,11 +11474,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2851a4b0-c02d-400a-94ef-e48293813fa4",
+    "id": "de357055-8ba2-4bb4-95de-caa0ec1a918d",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #957)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11486,11 +11486,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7d677d60-710d-4555-b3a3-56d3ac01b742",
+    "id": "2fc0c739-44df-4e78-8624-abaeba47cd67",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #958)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11498,11 +11498,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "284db7aa-47dc-4c97-a5e2-1de6e2288461",
+    "id": "8d953c82-c288-4949-98b2-334d1354623b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #959)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11510,11 +11510,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "cf87001b-bd14-4183-8e84-9f6d8e3723d3",
+    "id": "e8f6e4b0-f7f8-4a4d-9529-a28deafd2138",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #960)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11522,11 +11522,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "77d921dc-c3c9-41ff-b286-dc341cc3d898",
+    "id": "b041d6b1-9800-4f97-b692-3eb3a1b843d3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #961)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11534,11 +11534,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "43594f03-269d-4e94-bd67-8c475d11de49",
+    "id": "4394a63f-3278-4e32-92f4-7770fdaf46e4",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #962)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11546,11 +11546,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4fde0152-7389-49b3-8414-67cee2932c73",
+    "id": "c479f4d8-776f-4d28-bd96-4925549778fb",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #963)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11558,11 +11558,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2574a2f9-0035-4d1a-a098-7d336ebf11c1",
+    "id": "40a67c2f-aea4-4994-82cd-72c5a9dd29fc",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #964)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11570,11 +11570,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6ed74592-32f1-407a-a44e-c2fc56088936",
+    "id": "8d2f0c59-3e79-4969-a5c1-f588c21d5094",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #965)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11582,11 +11582,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2ef88ebe-6b72-4205-8e02-a70d933eb86f",
+    "id": "935cf89d-8cca-42d9-90f0-14af93a6cfb1",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #966)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11594,11 +11594,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c0d19e72-b30a-47d2-9364-e7cd59d5525c",
+    "id": "1d4f016c-f460-4091-92bd-4610c835a162",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #967)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11606,11 +11606,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "6e0c456e-3c93-4eff-9867-710161061de3",
+    "id": "46076bc5-14f4-41b0-9919-a14c1833d967",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #968)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11618,11 +11618,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "c03c522f-4196-44ec-93bf-659364a66ba5",
+    "id": "6941a1af-04ee-4ecc-887b-3cf4b9ce6511",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #969)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11630,11 +11630,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5928ad5e-59e1-4da0-870a-bbbbc19bc84b",
+    "id": "8d740908-a562-4df6-9001-74cc9988d205",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #970)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11642,11 +11642,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "dca7ac44-3107-4c61-843b-90f9c3140359",
+    "id": "7373dfa4-5088-4d4e-80d5-ab22fd22553a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #971)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11654,11 +11654,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "482e4c32-d73f-41ff-a916-751b080cce0e",
+    "id": "3a17dbb3-4f8b-4c5d-806d-a9604256ef34",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #972)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11666,11 +11666,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "16cb44df-9cd5-4f5a-a7e9-fde23897ed25",
+    "id": "a5bd888c-6618-4b4f-8da3-7dc7015c9ab7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #973)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11678,11 +11678,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d3f77d01-c336-4600-9271-ad100a9456cf",
+    "id": "77bcd610-ab34-4a74-8efd-48e93e1bed52",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #974)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11690,11 +11690,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "052984cf-d99e-4efc-8fca-cef6e7c6b13c",
+    "id": "1f6cd5ed-7511-4cb2-b97e-821f2c167be6",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #975)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11702,11 +11702,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "aab7726c-15d5-485d-862f-3ca5b622d4a1",
+    "id": "7f47a2ec-d452-4583-a635-4625188af9ae",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #976)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11714,11 +11714,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "337d7199-0f61-4340-84af-34ca8c18781f",
+    "id": "3d73634a-e5f9-4683-8650-5abd7d9cace0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #977)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11726,11 +11726,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8a25b8c7-3e01-4633-930d-2f1dcde9dd08",
+    "id": "c96bd916-dd6d-482a-be5e-34735c4a2e8b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #978)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11738,11 +11738,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f5eb4d52-4b9e-43cc-a398-6accb7ddf047",
+    "id": "fa06d209-3ec3-4968-bb3c-77a34a5c1742",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #979)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11750,11 +11750,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "801009fb-01d2-4330-8cfb-7498e3854747",
+    "id": "5b8bc3b4-7f69-4e95-82c4-9c953c0b96d7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #980)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11762,11 +11762,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d8e31d74-0512-4e3f-a393-d29e98cd89a4",
+    "id": "aea03d4a-2e3d-41f4-ae33-e7aafa1cfc29",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #981)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11774,11 +11774,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "5abe1e45-292c-4e5c-b339-43dc363afcde",
+    "id": "52723310-357e-44b3-928e-94b730aac38c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #982)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11786,11 +11786,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2a625436-a126-474e-bbe8-182c997794cb",
+    "id": "08e630cf-2950-4b9b-9cef-f90dfbd01638",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #983)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11798,11 +11798,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "eba705cb-47f1-480c-beea-42fca01705ec",
+    "id": "0506617f-1f65-4e80-ab55-aa4d1e37fea0",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #984)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11810,11 +11810,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "a3854aab-7a12-4943-9180-c97cab0e435e",
+    "id": "15d1cb26-964b-463a-9ddd-f5c8c8a40d8f",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #985)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11822,11 +11822,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "f86c9f28-7d2c-4513-bf38-d49b4a60b388",
+    "id": "2715ee01-4b14-4226-ae60-9e514545f479",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #986)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11834,11 +11834,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "e33791d2-b5d0-438c-b1f9-05efe9bb06cc",
+    "id": "87024211-0619-4d53-b19b-60e3024507ae",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #987)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11846,11 +11846,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "974a315f-3bf8-4348-9a2e-72b38f696122",
+    "id": "8e77929c-a4ef-4548-b66c-352c114af027",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #988)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11858,11 +11858,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "7fc4273c-f231-49b8-b12d-1ed43d831bbb",
+    "id": "76166d75-9c55-400a-9c59-da363d5ba447",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #989)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11870,11 +11870,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "d8c4206d-1fb1-47ed-a7b4-8806cbb0fd08",
+    "id": "7f31f72d-a1e4-4cda-a136-704f3f739385",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #990)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11882,11 +11882,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "09d4de06-ad9c-4df2-9baf-c2eca7c0c2a2",
+    "id": "e7974de9-32cc-45e1-ad9f-71bd7cc9b415",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #991)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11894,11 +11894,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "fda4dd10-9c1d-4310-a912-5e3d0dcc6ede",
+    "id": "08a16553-b0b0-47eb-9693-00127eb4fa59",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #992)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11906,11 +11906,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "0a75937c-7857-46bb-a054-3b19cc93588c",
+    "id": "2f3731c5-e164-4c8a-84e4-60528aa66b28",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #993)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11918,11 +11918,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "bcb8881e-b3cf-4115-88b4-e056681e1ab1",
+    "id": "c55d7460-c142-4389-b57f-18a14bfbe85a",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #994)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11930,11 +11930,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "db06bb28-8701-41ec-bdf0-120d90f539fa",
+    "id": "d12bef67-c960-46a3-9411-0d46958f402b",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #995)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11942,11 +11942,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "4fec6219-829e-4fea-94ad-5cedf0293bcf",
+    "id": "2e73bdf6-fde3-4426-93de-03d3cae6dbd3",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #996)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11954,11 +11954,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "2f79f5bc-1704-4d39-baf2-cced489265d2",
+    "id": "c9a752f1-aa4c-43e2-b1c9-4c378afbcc0c",
     "topicId": "ulasim-ve-turizm",
-    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi? (Kart: #997)",
+    "front": "Trabzon'u Gümüşhane üzerinden Erzurum'a bağlayan ünlü karayolu geçidi?",
     "back": "Zigana Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Zigana geçidi Trabzon'u iç kesimlere bağlar, yakın zamanda dünyanın en uzun tünellerinden biri buraya yapılmıştır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11966,11 +11966,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "17197767-a24b-4514-83ed-e7af044d383e",
+    "id": "3c26b20d-9435-445c-8868-97b36b6a4676",
     "topicId": "ulasim-ve-turizm",
-    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit? (Kart: #998)",
+    "front": "Adana'yı İç Anadolu'ya bağlayan ve Akdeniz ticaretinde çok önemli yeri olan doğal geçit?",
     "back": "Gülek Geçidi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Gülek Boğazı İç Anadolu'yu Çukurova sanayisine ve Mersin limanına bağlayan en stratejik geçittir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11978,11 +11978,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "06aa7e0e-b4be-4584-bd68-fdcaa33785f3",
+    "id": "930dc352-ac2b-4a5f-afcf-b899eccdba64",
     "topicId": "ulasim-ve-turizm",
-    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi? (Kart: #999)",
+    "front": "Türkiye'nin en gelişmiş turizm şehri olmasına rağmen demiryolu bağlantısı bulunmayan merkezi?",
     "back": "Antalya",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Antalya ve Muğla turizm gelişmişliğine rağmen demiryolu ulaşımı olmayan engebe sapa merkezlerimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11990,11 +11990,11 @@ export const flashcards_ulasimveturizm: Flashcard[] = [
     ]
   },
   {
-    "id": "8c049125-3ed3-44cd-bed7-d555c04ecf25",
+    "id": "15552742-01db-47c4-95e7-4ff4834ce3f7",
     "topicId": "ulasim-ve-turizm",
-    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir?? (Kart: #1000)",
+    "front": "Pamukkale Hierapolis ve Göreme Kapadokya'nın UNESCO listesindeki ortak özelliği nedir??",
     "back": "Hem doğal hem kültürel (karma) miras olmaları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Pamukkale ve Kapadokya listedeki karma (hem doğal hem beşeri) miras statüsündeki iki eserimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",

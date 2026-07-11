@@ -2,11 +2,11 @@ import type { Flashcard } from "@/types/study";
 
 export const flashcards_yersekilleri: Flashcard[] = [
   {
-    "id": "4a0ca0a4-0236-4998-8e54-01a618c949f8",
+    "id": "467acdf2-6d1b-4258-bceb-e1ace90d2025",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #1)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -14,11 +14,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f6e50d96-65fa-48d5-9f9b-b5601ebf1876",
+    "id": "6d7f6de9-b4ac-44c4-a4dc-1b3fecd427ff",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #2)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -26,11 +26,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "36ec8c5c-364a-4243-8766-56d2f9979bf9",
+    "id": "af18e1c2-4a3b-4c52-9f42-cae67df14e4d",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #3)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -38,11 +38,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "eaa0e29d-0999-4eba-b936-a5febb35f873",
+    "id": "ca56cf6c-f3e5-4934-b35d-cb6e0542bda9",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #4)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -50,11 +50,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a7771f39-5b11-4d76-a58f-23ce23c56b57",
+    "id": "1f67a51b-5933-4ffd-867e-d67b24f70d8f",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #5)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -62,11 +62,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2ea4fc4c-964e-4893-81bf-38d30f07db69",
+    "id": "15631217-0fbb-467d-b931-0d02504be7d1",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #6)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -74,11 +74,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3f46a3a4-91ef-4ddd-a338-bb1b29c4514e",
+    "id": "df4bce4d-4f24-4f1a-b69c-0702ee71eb0c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #7)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -86,11 +86,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cd08123b-4eab-41d5-90c4-69ddd4a7fb36",
+    "id": "fb5f74a9-7ef5-4e82-9755-7f2289feb42a",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #8)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -98,11 +98,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a66a7c8c-52c7-4876-9a7c-f9548f52ab69",
+    "id": "c12b2a3e-1fa9-46e7-b729-98a64ed214c3",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #9)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -110,11 +110,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "20e7ca62-9a3b-4e2a-a61e-63b5b5ebcc95",
+    "id": "e8486a63-27ab-4ad9-a9ef-0551d9789200",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #10)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -122,11 +122,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a3277f3e-f907-48b5-8444-d7ba51d81fe9",
+    "id": "902deacc-89a2-4239-b89c-6968d0463d29",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #11)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -134,11 +134,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b62744ce-ce36-492b-8948-23866e1c1525",
+    "id": "ff218d2b-c744-4b18-8c8f-0f5e6d756b04",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #12)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -146,11 +146,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "318159ab-a752-4492-8a82-607d5ed508ef",
+    "id": "6e9e33ce-2b7f-4d60-b34b-9fbf23d45726",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #13)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -158,11 +158,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e851e3b9-512f-40b9-831b-d2db24f23ca0",
+    "id": "731189c5-c1c3-4d2e-b528-c1c23189f011",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #14)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -170,11 +170,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4fb2e449-660b-446d-85f8-43bce9db24e6",
+    "id": "079a21e3-c08c-4a17-9f2f-3b82b9f17e03",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #15)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -182,11 +182,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4780f5b6-20b2-4003-a48e-16e2c3932dd2",
+    "id": "c4f1c7f6-c9d1-41cd-b088-9d2383b20d8d",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #16)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -194,11 +194,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9e6486c9-dae8-4539-94f9-4c62a80c885f",
+    "id": "d95d9f9c-08ca-483f-84ec-fe00ba49fa81",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #17)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -206,11 +206,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "34f325ec-5498-42d4-8ff1-6eeb40a61b75",
+    "id": "036e4fa1-4aef-4277-9a37-c22f099ac6a6",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #18)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -218,11 +218,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0adbee44-8f47-4028-b49b-739cd8137cc4",
+    "id": "1efb86cc-8b84-4566-8ae1-3306cf05968f",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #19)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -230,11 +230,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "220bc862-242c-49fc-b3e2-f64eabb11250",
+    "id": "588cf35f-9478-4830-952c-b6d5c4fb4b81",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #20)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -242,11 +242,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b18e8e7b-f2a2-4de6-9a23-c0f5b2b00d0d",
+    "id": "c18df8e5-dbd9-45c8-b764-2f8312578d43",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #21)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -254,11 +254,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "122393d3-7a23-449e-bdfe-d1ddec529a3c",
+    "id": "12d3b7cd-9424-49ac-9ecb-ed504a1e9048",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #22)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -266,11 +266,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "85e2f56e-687b-4042-afad-38f412bcc582",
+    "id": "1546fb9e-6381-41e8-9163-2de41ccaf94f",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #23)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -278,11 +278,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "76ccff2d-8dd1-48bc-a01f-c74c788567ad",
+    "id": "4b1f4d12-e1cd-4db2-9e35-2a38e3fe1bce",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #24)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -290,11 +290,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "575fb0f2-78f0-40e3-a072-54561cc43f8d",
+    "id": "a681781c-df0f-43d0-bb83-622694c26536",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #25)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -302,11 +302,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "32cab7fd-be8c-4373-8129-6865e555c97b",
+    "id": "879fded7-8b89-495b-b50d-75e3c3690bea",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #26)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -314,11 +314,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "34487061-d5c4-4f46-a116-d91760b51442",
+    "id": "271f64bd-148e-4e15-9f22-03ad8f872dab",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #27)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -326,11 +326,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "dcb374f2-d151-41a7-9059-42d2366ae808",
+    "id": "6743509b-b7ae-4029-bc41-5659fc1040ee",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #28)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -338,11 +338,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "987b743d-c5cd-491c-b4c1-7a699cb71601",
+    "id": "72e89d38-482f-414d-8793-ee6d1161cf52",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #29)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -350,11 +350,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e0da331a-b5fa-47f3-b7b0-a58d9452c4da",
+    "id": "277b1f53-6815-460b-9550-6f26d8d4768b",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #30)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -362,11 +362,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7634fed0-6e47-437e-b83f-f575557308d6",
+    "id": "82dd72f9-2b76-4471-a857-bc71ecdf9fa6",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #31)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -374,11 +374,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a460533d-fff2-4794-bf75-2c71a034ea1b",
+    "id": "f363e54e-83e3-4eba-831c-19a817db607d",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #32)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -386,11 +386,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "77f2c7aa-ef9e-4d88-ab72-e58a8c0fd2c8",
+    "id": "95ff26bf-5bf6-40a6-9f71-1bbc258405ad",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #33)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -398,11 +398,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b59b8c67-d4be-4346-9dcd-1cced2a0cd71",
+    "id": "5bc3856c-694c-4855-9665-5b6da1749cbb",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #34)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -410,11 +410,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7e724585-9931-44c8-b822-7f0b15501547",
+    "id": "ff839a13-004a-4ffa-8f00-576d585d5fca",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #35)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -422,11 +422,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e1b6e64c-4e7c-451c-a280-75301da53c31",
+    "id": "3ca9d91f-e877-40cc-a576-718866a4c356",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #36)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -434,11 +434,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2d6a4d9c-4b72-459e-9193-5d775cb0e6e3",
+    "id": "9c9778cf-74c4-498d-b166-dc1e6309ed67",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #37)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -446,11 +446,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fea8c1e2-0691-4a76-b900-795cd3d42347",
+    "id": "8fdb5502-b306-4772-8f07-3ce6f2a7f275",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #38)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -458,11 +458,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "771bbea4-369b-41a6-a6ad-e4e563d3caad",
+    "id": "755f3ebf-9ea7-4eb0-98be-5c82472f24ff",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #39)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -470,11 +470,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a1556cb4-021a-418a-9cdb-3d53e6e7072b",
+    "id": "cee39aa0-a34b-45ce-9926-1ec349f5cdef",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #40)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -482,11 +482,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "06ea9c7a-9865-4ce0-9979-90642d3eb130",
+    "id": "7664a03e-80bb-47b8-bab4-49cda81b3924",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #41)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -494,11 +494,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4144974a-a862-4d48-bb4d-5db8371ac8f9",
+    "id": "1d1c4480-208e-42b3-bdc6-94e5bd5b672f",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #42)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -506,11 +506,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "00869b8b-da9d-47fd-b94b-f436b23038b4",
+    "id": "1f51c81d-6885-4a74-afb1-dcce26fe9613",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #43)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -518,11 +518,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ae067799-a135-49f0-8a40-4cd985d0b6fd",
+    "id": "5caf19dd-c209-4177-9999-e4d677c1ef63",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #44)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -530,11 +530,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2a4ec47b-4a5e-4532-b23a-5992e20a9489",
+    "id": "92742863-53ab-479a-b8d2-e82f9ee7ae37",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #45)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -542,11 +542,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c7546192-e010-485c-b655-483889f25b73",
+    "id": "16b79109-0235-4fd1-b33c-3490fc8d4143",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #46)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -554,11 +554,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "267d7020-04e5-462e-bdd5-e575f893f86b",
+    "id": "84a43870-1f03-4487-a948-926386515258",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #47)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -566,11 +566,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "23d6b8c1-0e14-49a0-bbfd-652791124b84",
+    "id": "1c6dd5e6-dee5-4d99-8bea-89af8365829e",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #48)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -578,11 +578,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a57965ae-3345-4595-9790-0e4c77720172",
+    "id": "69bf5088-af99-485d-8cfc-d865d46f3139",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #49)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -590,11 +590,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b3ff2934-3e2d-497d-b7de-1b480f2fe490",
+    "id": "f16a0c08-82e4-4bd1-8398-87e91f991b34",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #50)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -602,11 +602,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f2aff7c9-c2a3-4bf5-83c6-90bfe84cf9e3",
+    "id": "8fa0260f-74b7-4a5b-8537-e7c14c7ffda3",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #51)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -614,11 +614,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4af9d94b-e574-449b-b541-7d2c966cd9aa",
+    "id": "7f36351b-ff04-4477-b1b7-8161a65132e2",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #52)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -626,11 +626,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fec1dfb5-c9e9-4f63-821f-0a1df2f66928",
+    "id": "b70eafa0-691b-4441-861c-287af87774b2",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #53)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -638,11 +638,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4bab1828-964a-4ac5-9a86-d20fba92276c",
+    "id": "00618b17-3244-4409-afa7-3a2e955b595c",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #54)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -650,11 +650,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b01dad34-460d-4d4a-81cd-3ff7cee5aab2",
+    "id": "dc41a4e0-d8d6-457d-9207-5110d15f15ad",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #55)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -662,11 +662,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "226367cc-5588-4a9c-9633-21ca1bdca81e",
+    "id": "f96db1b9-0ed3-4358-ad6e-a0b5abe26f79",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #56)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -674,11 +674,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f377f825-18a8-4c35-82b9-1223530a7775",
+    "id": "6b80d48e-461a-4130-b63b-ec6c9a4063e9",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #57)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -686,11 +686,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "56f7daa5-3bbe-4508-b3c3-79090ed044ff",
+    "id": "9b61f38d-4f25-4b97-86e1-9122b971ad33",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #58)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -698,11 +698,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7e2c90dc-a8d4-46c1-bc8f-a308df468d62",
+    "id": "17da5267-73bb-42eb-ada1-9b97e22b1898",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #59)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -710,11 +710,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6b2b9fb3-fd1b-4c11-8e71-a3f4ac030232",
+    "id": "d84c9019-fa32-4d3d-84f8-9596c4116cbc",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #60)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -722,11 +722,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "dcd30a4e-e26b-4bd1-886c-9a0eb07a7907",
+    "id": "1f1a8aa4-14c8-4b97-95f2-ba437a8aa53f",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #61)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -734,11 +734,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0d845c4b-64c4-4c67-b357-15b9f3979b2f",
+    "id": "25b62359-8a32-4f9b-b754-5c181e05afda",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #62)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -746,11 +746,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "05d5526c-cfe5-4829-835a-67712a28d598",
+    "id": "e2938cf7-49af-4c67-b378-0961e31064af",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #63)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -758,11 +758,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "40ee757a-918f-4538-b2ca-9359e04139cb",
+    "id": "75f99861-7899-4c86-a82c-5f24cd27e197",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #64)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -770,11 +770,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b015eeca-1304-4050-9bfa-ca02f64a52e3",
+    "id": "888ccc46-e0d0-48e3-87fc-85650d684d4c",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #65)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -782,11 +782,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b9304137-12d3-4e60-80b4-5834425880bb",
+    "id": "ba9e8ac7-9111-4986-a5ce-69e15b134d6c",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #66)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -794,11 +794,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6ddae05f-84a6-4719-aa61-e2a8b02475ce",
+    "id": "9c1a15fd-da99-4d5d-9e02-ce5b3d75589b",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #67)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -806,11 +806,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8ba37b0d-41de-40fe-a5d4-741c69b966eb",
+    "id": "bb8aa6dd-2424-4d3d-b651-81d3f5303762",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #68)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -818,11 +818,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "54d48e37-3b23-40bf-ba29-70ea8a568e54",
+    "id": "7987fa2b-f943-42a4-9bdd-c3aea87e881c",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #69)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -830,11 +830,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "315a7a3e-9d8a-4c81-a20a-8cafff69f206",
+    "id": "114e4ca9-a665-4d6a-a575-62003cef9c3d",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #70)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -842,11 +842,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3b34ae2f-40d9-4e18-ad38-331c21ba4df6",
+    "id": "0907b2d2-7c42-4d64-b4f5-01690bdc23f1",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #71)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -854,11 +854,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ee60bc09-e736-476d-8234-9412fee002e6",
+    "id": "9cf30425-5744-4e27-948c-74f740c3b667",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #72)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -866,11 +866,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "aff8fcbc-2a87-4101-9999-f1eca1fa34c9",
+    "id": "14497d34-ca18-4877-9d01-e354996b42f9",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #73)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -878,11 +878,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5b8efe30-f75b-47cd-8da5-0e6eb842eb79",
+    "id": "c2d79b2e-07cc-42f7-8b40-22f80d9bd425",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #74)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -890,11 +890,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c7df8ae7-deda-408b-b2a8-7c318b0e93f9",
+    "id": "02d2427a-b7ac-4e45-a048-26feee564998",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #75)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -902,11 +902,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cd633052-6728-4457-a693-7fe05ecb7ca1",
+    "id": "5363775c-0618-4159-829d-b7be93f0f73d",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #76)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -914,11 +914,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b453837f-c0af-49b4-885e-c99fb3ca0245",
+    "id": "208b271d-490f-42de-a410-a5428ecbc0c4",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #77)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -926,11 +926,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "415e61e6-afdb-4414-b603-64c0d6e1edad",
+    "id": "42b0f837-b686-45df-b101-a24890f78b55",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #78)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -938,11 +938,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "13d31a9f-6fed-4b54-bfd1-f425507a954b",
+    "id": "ca5cb778-c776-4f4d-9fe7-7eb38d111075",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #79)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -950,11 +950,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a2992739-5a35-4494-b146-8165d1d426b3",
+    "id": "5a900de1-25e8-4c46-b26d-67bc515443bd",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #80)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -962,11 +962,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "949a854d-3a81-4b75-b53e-e7f39742ecfa",
+    "id": "679fcaa0-fd54-44b0-97de-2522678e5863",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #81)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -974,11 +974,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b15cacdf-179d-4a25-bcdf-052d9ca3a59e",
+    "id": "76ab9961-1231-4652-88f0-622ce6e54d9a",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #82)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -986,11 +986,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "942ff9c4-a4b5-4ef3-bc12-469b3ac39135",
+    "id": "4eed1174-ab68-44ab-a333-a16bfd9dff0a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #83)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -998,11 +998,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6a3ec0c6-064a-4424-a6ec-420c464d203c",
+    "id": "200aec89-9909-4b64-b272-04e9af0dde46",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #84)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1010,11 +1010,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b0bc60ab-06e9-4e17-a724-a7d442a6f276",
+    "id": "7e56cf4d-adc4-4eb7-b60f-4fc1b3163552",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #85)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1022,11 +1022,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f4910a76-a21f-4db9-834d-c9adfd0975ef",
+    "id": "2472d727-d42f-44be-bdd5-343b91ba9020",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #86)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1034,11 +1034,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ca4333c3-9d7f-4c9b-874a-2faac08d693f",
+    "id": "f40c2152-6e07-4cbd-805a-447131301e9a",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #87)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1046,11 +1046,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bd634f47-fe06-49ca-b749-bb4b9312a918",
+    "id": "c778f498-4cfc-423e-8cbc-06887e48b61e",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #88)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1058,11 +1058,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "17b229c2-653e-4594-830d-ea88601423f9",
+    "id": "02cfbd1a-687a-4c3e-aa9a-f209850fde16",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #89)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1070,11 +1070,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8deb8085-afc5-4ae0-b040-c38885db381e",
+    "id": "d37a0085-1df4-4eb1-890e-3281a85957fb",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #90)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1082,11 +1082,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "90b86fd4-753c-479e-9d13-ff50a89806ff",
+    "id": "6651823a-a18e-44c8-83f4-8c51ed77f39b",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #91)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1094,11 +1094,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "760d233e-9df0-4708-82d5-86bf55400162",
+    "id": "80ae5777-c460-426b-92b9-673db277c6e6",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #92)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1106,11 +1106,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "36c8855a-66f1-4f67-bd70-70808fbec4ce",
+    "id": "57444d07-4169-4e83-a609-7725f53e884e",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #93)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1118,11 +1118,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a9ce013b-5249-40ff-ad07-4b0c87155581",
+    "id": "a2938851-7b55-4943-8618-890468031dcc",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #94)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1130,11 +1130,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "96ddea95-c81a-4736-b315-6a19edeb4f9c",
+    "id": "84b16722-5690-484e-ad41-b6a49fd87719",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #95)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1142,11 +1142,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1f2216b9-0d71-42e2-adfa-7f29b8ac6893",
+    "id": "fb7c726f-f8c8-4d4f-ab02-2ace55788c2e",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #96)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1154,11 +1154,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "922cf090-32ae-4d46-b93e-1f83a95a6bc5",
+    "id": "3e24a0c8-2f39-4ae1-871a-856cc19468ae",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #97)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1166,11 +1166,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7d4eca61-35a1-4cd8-a8fd-6bb405fb3d09",
+    "id": "25bcb4d2-9046-42e2-ac2d-159197d69438",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #98)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1178,11 +1178,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c4417780-83a6-4a46-bbb3-ff3da2835cbc",
+    "id": "e7c48d5d-fdd8-4bf0-a4f7-98a4d8df99da",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #99)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1190,11 +1190,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c7ab6d84-b70d-4bb5-9d37-8ac77691df86",
+    "id": "c5d4d837-ce69-4a91-abac-a7b2de13d315",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #100)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1202,11 +1202,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "910f019c-0898-4b18-ad5a-33690374d05f",
+    "id": "0d3d8dac-9a27-4a4e-9506-94c827ef6b48",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #101)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1214,11 +1214,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "32f581a8-1f3c-4b93-bdf4-de06e1854811",
+    "id": "0ca4c28d-9756-4f7f-ad2f-be06b1831e30",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #102)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1226,11 +1226,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a8872192-629c-4868-93ee-c210046d4da0",
+    "id": "785b7153-7e90-4d71-acd4-b50de895735c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #103)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1238,11 +1238,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8196e6fa-af12-457d-9a1c-f0c137287a46",
+    "id": "eac35f12-7a03-4630-a2a9-db86f96f8746",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #104)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1250,11 +1250,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d950e6a4-167a-429e-a082-d6c78f971052",
+    "id": "68cc398e-3082-46ec-8c57-cd5deb06ce8b",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #105)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1262,11 +1262,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "36083c84-a190-4a02-88d2-5f40db0aa84c",
+    "id": "e2a0d1df-c4c8-4873-bef6-0c777bb55d0a",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #106)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1274,11 +1274,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2d37a3ba-05f7-4765-ac52-8b147c07d9c0",
+    "id": "31510622-b6d0-4b16-baf9-173a4bb221d4",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #107)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1286,11 +1286,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "faff177b-e5c3-4a62-8d90-7ab0de01cecf",
+    "id": "612a8745-6cae-4528-8a1a-d131c6084b7d",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #108)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1298,11 +1298,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "22c6d315-d821-439d-a958-0bd10cc39cd4",
+    "id": "61e53cc4-afc8-4db7-9b59-bfeb06e2f9c2",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #109)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1310,11 +1310,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c0333a42-c25a-4afc-bb82-dca178c1aaa6",
+    "id": "e27575d3-5c3c-4086-9bc2-48ab60e7c18a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #110)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1322,11 +1322,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d4624ade-e299-40e9-b7ae-8cc7880c86f7",
+    "id": "1b201537-e2cd-4c6c-a2e8-29f1a4704225",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #111)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1334,11 +1334,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a634d144-344f-4810-b411-6e5722744d06",
+    "id": "27106dec-29cb-4fbe-8439-3f2275006bbe",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #112)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1346,11 +1346,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "92f0287f-14b1-4022-981d-839a6381482f",
+    "id": "07020005-5a6c-4e3c-8c0d-222ea1699d2e",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #113)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1358,11 +1358,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "756a7cb3-ce1f-4982-906d-dcc71841b438",
+    "id": "c5ad0117-936f-4d64-9b5e-ac23c3bd49ad",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #114)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1370,11 +1370,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9de78c7f-7c49-44a0-89fd-4731a565b482",
+    "id": "b40e8586-829b-444d-a4d1-1f0cedbae483",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #115)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1382,11 +1382,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e7b16a02-d5b1-4454-be92-d19d77491e96",
+    "id": "a64dc3c7-c38e-44f2-afd8-56cbfe872af8",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #116)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1394,11 +1394,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1e885d07-0aff-4e37-9bb8-05fc2dc1536c",
+    "id": "855b7ac4-e0f1-42bd-8ccc-0010b57e5cad",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #117)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1406,11 +1406,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7d8a0b28-2bab-4fa3-b9ee-130459c76446",
+    "id": "12ae71dc-529f-48d3-a0fe-6a36d8821a4b",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #118)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1418,11 +1418,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ab9a061d-f829-45ab-bef9-1eafc56c9dfb",
+    "id": "cf729629-9aac-4032-8541-8c90efdd6412",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #119)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1430,11 +1430,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "739f38c5-7bcb-4234-9d1c-964ac5d0d3fb",
+    "id": "d4fcdd9f-783b-4888-8a20-a8fef0acbc5f",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #120)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1442,11 +1442,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "339e6f38-d6da-41d2-b919-2bc56ae08eab",
+    "id": "7bac0f25-5f3b-4221-861c-1806c320bdec",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #121)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1454,11 +1454,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "efead1ed-dae4-4e0f-b373-2055a619d476",
+    "id": "8d003af4-cedd-4b37-bb66-398a08ff0517",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #122)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1466,11 +1466,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "852fc451-cfc0-46a4-8431-fe5528a76864",
+    "id": "6def7da8-8c1a-42c9-aa99-8f79cdea4144",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #123)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1478,11 +1478,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c042edcf-93e5-4f0d-9886-76508aaf8388",
+    "id": "43406229-079a-4c64-a669-eaaab8981d04",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #124)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1490,11 +1490,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "576fc98b-c470-46fc-b26a-498407745034",
+    "id": "dcea8d4d-0555-4ff1-a349-dc11b4152052",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #125)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1502,11 +1502,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e1fb40cd-1b04-4de9-adea-0f2fac5d9c8b",
+    "id": "0afef5e0-9c62-40ec-80f9-3fa77460a1f9",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #126)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1514,11 +1514,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9705c68d-aae0-492f-b6bb-f07e5010d5da",
+    "id": "a78d6f30-8ec5-4f9e-85a6-6a27f0f5c849",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #127)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1526,11 +1526,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "64d68baa-5b4a-4901-aab4-770d9c6b6434",
+    "id": "cb4c1463-4f67-4de9-a3f0-f9b173497dcc",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #128)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1538,11 +1538,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "42a5b874-8211-4893-aa17-10b770b37619",
+    "id": "3a85fbdc-d3c8-4ce7-8628-b6e85b387c6d",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #129)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1550,11 +1550,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8488f617-029f-4619-bd6c-1f1d29631601",
+    "id": "7b1ed638-e0a2-4c73-93c5-dc13673280d6",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #130)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1562,11 +1562,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1a2f9bfd-4693-469f-a7dd-dd074c752643",
+    "id": "aef7377d-0866-42a9-9810-a0bbe260b619",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #131)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1574,11 +1574,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0e8e0f03-1e13-4d93-8f34-7d3280c705ae",
+    "id": "938d6a1e-ea53-427e-98a0-25bfbf9757c1",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #132)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1586,11 +1586,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "505d0659-513a-474e-9bb3-6bcf4836e2e6",
+    "id": "d39d914a-9a6e-40eb-8245-59e59e8e04ac",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #133)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1598,11 +1598,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8954a4b0-9b00-434b-96f6-ce4d111cf770",
+    "id": "c0d79b32-d26d-473d-8cd2-05c8cbdc8372",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #134)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1610,11 +1610,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "40fd82ca-c93d-4c62-9ace-e80f243fb7db",
+    "id": "de73faea-820d-43bd-b1d0-f12a6b4b6758",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #135)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1622,11 +1622,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1887aed4-9219-4e13-98d8-e1ff75b32a98",
+    "id": "1418942c-2b27-4fb9-893f-f1a179ec12f9",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #136)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1634,11 +1634,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "93a5aad4-3f80-4e92-a783-f3d886988ae0",
+    "id": "865e8aef-5a42-44a2-9ba5-187f8b78ae86",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #137)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1646,11 +1646,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4e2ebef0-64e1-4bdf-a576-a9f4fef20346",
+    "id": "78bd4a87-d9a2-416d-b064-30076fb4ff3a",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #138)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1658,11 +1658,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "761db401-1be2-4fd8-bcce-d23c0905dc7d",
+    "id": "187aaf46-8eb9-4057-851f-f1d2d0af504d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #139)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1670,11 +1670,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "dce2cf93-dd34-4024-af3a-78f969e0258d",
+    "id": "7c142720-bf46-4045-ad56-0f9b608f343a",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #140)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1682,11 +1682,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f601c086-56ee-4b42-bfed-5775be1dd58b",
+    "id": "ad5394e6-d8a0-4d04-bc3a-0fb820c0686c",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #141)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1694,11 +1694,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "29dc5c5b-d5be-4c0c-a518-9bb49a4d0fc9",
+    "id": "fca14887-5b7b-4f34-aca6-2a1f27785aa3",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #142)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1706,11 +1706,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1354ed5c-5829-4dd9-b402-bda32a4c4fe5",
+    "id": "684a5c86-5eca-4884-bd06-f3ad49ad9133",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #143)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1718,11 +1718,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "46523257-5074-4075-aa13-ed878c0ed666",
+    "id": "d9c356a1-529c-45d5-9751-3404da852fdb",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #144)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1730,11 +1730,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ef90d21d-543e-40cb-b3fa-fe71bf764155",
+    "id": "275227e2-486d-4149-bfbf-73b69725f423",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #145)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1742,11 +1742,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ad6ee61e-c3fd-4342-bd14-72af418b9530",
+    "id": "e33b6698-7620-47ab-a492-d69dad3cef02",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #146)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1754,11 +1754,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1850ee18-957b-4f92-8f66-0245e5b698c2",
+    "id": "272c3691-8cb3-490f-807a-ddb0fc215a18",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #147)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1766,11 +1766,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "884fcea8-d135-419d-bf08-dee6ff295edb",
+    "id": "af798ac1-21b0-4e8c-ae86-2cc510237a1f",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #148)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1778,11 +1778,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e81abaee-85b3-455e-9c1d-20105c975afa",
+    "id": "3ee17eb3-57c3-418b-a22e-fd8a01e7bf75",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #149)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1790,11 +1790,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b9d671c6-c2b2-4ec3-9385-6c0c64ced45f",
+    "id": "123eb896-cad2-4f06-931d-29430a6eed96",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #150)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1802,11 +1802,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "68b6abb5-6085-40f3-9f11-8eb5e9765103",
+    "id": "5204740b-f1a2-4a8a-ba17-be60233254a9",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #151)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1814,11 +1814,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f50d7391-a415-44bc-a7ee-85708dd2139c",
+    "id": "a7d5b20c-4ee8-479a-b668-c7f14032ef2e",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #152)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1826,11 +1826,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cf27a790-1fe2-480f-8210-344304beaf6b",
+    "id": "34888264-731e-4e1b-9fe0-5d38232c6195",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #153)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1838,11 +1838,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d47e894a-8b3b-4bee-a17c-2201f1d69467",
+    "id": "cd127f76-2ebd-4010-af18-3644344ff2d4",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #154)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1850,11 +1850,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6275638a-d1a8-4d99-a3b3-98c9d12d702f",
+    "id": "f21d4986-e8a7-4a86-9b82-a3ee70b7e237",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #155)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1862,11 +1862,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2f061ef9-6bcf-4426-ac8a-328f89cd94ab",
+    "id": "3bf1ff57-f19f-4faf-afb8-dbac145f5646",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #156)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1874,11 +1874,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "00427cde-a6b3-47e3-bc43-2505e7d322be",
+    "id": "c1aa263f-bbfd-4ca1-97fe-75a50c2054dd",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #157)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1886,11 +1886,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "dbd07e3a-b8e5-4e63-8abe-ed7b027e585d",
+    "id": "e2c7353f-d2ff-4435-b5ab-7af16e31bb23",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #158)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1898,11 +1898,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "46551cac-04bf-4961-9ddf-5fdd4834b1d5",
+    "id": "32f25ffc-2f2f-46a2-aed3-eb948e598d56",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #159)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1910,11 +1910,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "750c81bd-0c57-427b-994f-234ff9642f24",
+    "id": "0bdcdfef-3b08-40b2-9f1a-8af325a349ef",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #160)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1922,11 +1922,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0059d646-2a09-4bef-a300-79a472469a98",
+    "id": "a26d1cfb-dbc0-4912-8c43-8b6edd3016e2",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #161)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1934,11 +1934,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "baa8faf7-9b07-4664-9330-75b0de693037",
+    "id": "a991d5c3-bb51-40cb-a7c2-620324688c67",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #162)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1946,11 +1946,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9148538d-d549-4515-8db9-41e9c6488ebd",
+    "id": "cf46867d-d09a-45ea-8da1-59c0cd00fbb8",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #163)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1958,11 +1958,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0e9a27a1-6dfc-497b-9b23-0f2670b01650",
+    "id": "c779f607-33d6-4eda-9f11-f291a04fd9cb",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #164)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1970,11 +1970,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "03b3d3f3-7f13-455f-ac4c-6b1ec2513861",
+    "id": "4cbda892-2b2a-4efc-9599-f97b6bb76314",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #165)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1982,11 +1982,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2a2f5882-ba1a-4fcf-9e6b-ba809b81c67b",
+    "id": "99aa6dd6-ad75-42d7-95b4-57621abafa27",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #166)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1994,11 +1994,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "01ec596e-080f-437f-9b81-3c1327b899b7",
+    "id": "70a21b81-9212-4455-9150-77ecaeb1212e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #167)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2006,11 +2006,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4a19c0a5-8745-4a62-aa31-afe34ae1b4cf",
+    "id": "fcaffa7e-1b36-4554-825b-9ada49d2176e",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #168)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2018,11 +2018,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a77e3d42-97af-4b41-aa5b-eb731c19cf3b",
+    "id": "dddf27b0-0765-4fe4-ab63-f79e994c0947",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #169)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2030,11 +2030,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2d0db4a8-7093-4e01-b959-100786daa515",
+    "id": "cf1634b5-d056-4f55-a6fb-4b1041394788",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #170)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2042,11 +2042,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a8d95ad2-8ce1-441b-b47b-a500a37e0c7d",
+    "id": "55cdfb39-bc3d-4358-9744-1c7474fb3626",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #171)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2054,11 +2054,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "abe8872a-024e-4d10-b69d-2e1e5c6bd4fb",
+    "id": "cb02d6c4-4aa6-412b-86a3-68f17e435718",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #172)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2066,11 +2066,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "057c2486-e7bb-4021-8835-00c09749ac25",
+    "id": "a9f9d515-cfb4-466d-8000-b4dd9ad72b2e",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #173)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2078,11 +2078,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "adb4b130-a64d-46d2-a0f0-68be752c0aed",
+    "id": "9432cf2b-95a7-4661-a624-ab11853373b6",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #174)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2090,11 +2090,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4df1cede-9dcf-44d0-92ba-496a33c4337b",
+    "id": "e1ece5e3-186a-4936-b9f7-13d61a19046c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #175)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2102,11 +2102,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2f6a1f25-9d38-4cb3-9d08-f576fc4e1549",
+    "id": "7ad9cbfd-7139-4615-a2ae-0cfa41a663b9",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #176)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2114,11 +2114,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a42826c2-141e-476d-8213-f5cb4ae164d1",
+    "id": "67fe576c-56fc-4e51-a68e-c99345700dde",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #177)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2126,11 +2126,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b49e1f2b-57e0-4be8-b57f-69f2fcc48e4f",
+    "id": "494f2e30-70dd-4863-b0a4-649f618efaf5",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #178)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2138,11 +2138,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cca843de-7187-4696-bfd1-3dbc3f9a36e9",
+    "id": "00fe1420-bc1f-4689-a146-17e6462ad741",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #179)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2150,11 +2150,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8475b4a1-012c-419f-a3a2-a6110b13e379",
+    "id": "6995e65a-b4de-4338-b2aa-d4275008ade0",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #180)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2162,11 +2162,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2fe0c440-b86a-42b8-8769-afbc794a0025",
+    "id": "53bc8a1b-8de7-458f-97d3-f87963f06cbd",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #181)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2174,11 +2174,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ea72f956-2356-434b-b6f2-2adb441d3e7b",
+    "id": "e9e19d74-b958-4e34-ac22-d3c1375377cd",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #182)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2186,11 +2186,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "16789c4b-5b62-4734-8af5-556feec35c89",
+    "id": "8d9de873-8086-430c-baa5-beb649f9c274",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #183)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2198,11 +2198,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e436288d-e66b-4689-9784-6375339f6dd5",
+    "id": "27a114c8-c236-4ea5-86bc-ee6c73e9aba5",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #184)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2210,11 +2210,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f32bbb86-32b3-44c9-b851-4d1efe946fc9",
+    "id": "97572afb-db22-4787-9aeb-56f7f69b802d",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #185)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2222,11 +2222,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4d964948-50e9-4ee6-bbe7-74c3fd3058ee",
+    "id": "d8ee08a7-3c80-41ef-8611-3c8e2a121eaf",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #186)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2234,11 +2234,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6986b4cd-98e9-4a5f-9c2a-a0c55d406201",
+    "id": "93e7b985-a050-4f5e-932f-bea73418dd27",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #187)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2246,11 +2246,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a1c45054-2cab-4b5e-8a3c-4589a45e4e26",
+    "id": "cecf06f1-e89c-4ff2-8e45-1a9e0242db2b",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #188)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2258,11 +2258,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "48201428-9bfc-4e10-9cf8-1569c79e02f0",
+    "id": "3794dba5-10d5-4f03-a336-f327b00ea906",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #189)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2270,11 +2270,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "11b232a2-45a1-4ef9-ab08-8c4d942da6bf",
+    "id": "41d6e495-ce80-4b49-8146-59f96085c67a",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #190)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2282,11 +2282,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ca08be45-4096-4e32-9a55-deee2534ee32",
+    "id": "458d3ff4-566a-41c9-bc7d-bdb289fbfe27",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #191)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2294,11 +2294,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6b1c742c-c97d-4e5a-a956-4bd32e0113ec",
+    "id": "c4556785-fd2b-490a-9c9c-3cfaf3cfa0d3",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #192)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2306,11 +2306,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "189037c4-5908-4eb2-976e-be45662528e2",
+    "id": "d164d957-928e-4b7e-be80-b82168d8e5e4",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #193)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2318,11 +2318,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4d35025e-60fe-4fbd-8a42-b8db1aae5f7d",
+    "id": "d7162eb1-5e9c-49f1-b432-2ab278c962ca",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #194)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2330,11 +2330,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fc78519a-1bdd-460a-8201-9c0fd017c340",
+    "id": "50ef7490-c393-4785-9169-fbc61a65e88a",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #195)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2342,11 +2342,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b4724c28-fcb1-45b2-876c-fd7edccb3db0",
+    "id": "a2edba2b-06ba-4ae4-a6c3-90bbbcb99459",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #196)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2354,11 +2354,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "41bb9999-854b-415a-a4fd-86c370bf0143",
+    "id": "dc5ef0fb-1bb3-4c21-aada-e432699ace45",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #197)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2366,11 +2366,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ffeaae49-6bd3-4f16-b38b-41ca9eef5bf0",
+    "id": "581a7ac1-8270-4ea2-a2b9-866380602213",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #198)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2378,11 +2378,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "247f2ec7-26f0-41ff-9033-f12783ec753c",
+    "id": "fda8a13f-73e2-48d0-9a31-d2e5f48400d0",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #199)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2390,11 +2390,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e9355d9c-af60-47d2-9774-eb7daaa63b7f",
+    "id": "74275d1a-e48a-46d8-ae76-4cb030fd58a3",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #200)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2402,11 +2402,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fc780efa-0b90-4d07-9a7a-7f7e2f9de9b9",
+    "id": "1e449c9d-0116-4a13-b5a6-a009affda442",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #201)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2414,11 +2414,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f03819ea-0d86-47b9-93b3-d4b626bfba2f",
+    "id": "10020624-0ee8-4238-9597-73dc4b1cd731",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #202)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2426,11 +2426,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fb6a9de5-ff13-4e69-a5a3-0c8895e0c3fb",
+    "id": "73535e95-ad3b-4936-89a9-242154147651",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #203)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2438,11 +2438,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "29a364b4-0c8b-45ad-9365-af2b0ca73df0",
+    "id": "b509a013-f56a-4cd5-b2df-178c7f2c2886",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #204)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2450,11 +2450,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c13aa474-caf8-4935-8bf6-3fc2acf7fbae",
+    "id": "e50c2f2a-3986-44f0-b2a5-3d4f3e655d75",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #205)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2462,11 +2462,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "09829500-7d77-489a-bc5f-6b5a1c3ab987",
+    "id": "9748e440-8660-4cc9-93b5-2493c0aee5e2",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #206)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2474,11 +2474,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ce1cafd7-9f96-4964-8985-7721b3512215",
+    "id": "15ecab7f-2825-4f02-b1b2-0db0a145b1a3",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #207)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2486,11 +2486,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "eff2cb64-bf45-426c-9c9d-81ffadccd6fa",
+    "id": "b93030a1-3f36-482e-98ae-b4d24e5bc2bc",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #208)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2498,11 +2498,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2298fdaf-f393-4cdb-ae17-99966e2128e1",
+    "id": "29b608e2-e0fd-4f70-881f-e4591f9eb32c",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #209)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2510,11 +2510,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ca49280d-e644-45c0-bc48-8bcbcf184675",
+    "id": "18bb62a8-a6a9-4481-9956-29964e71ecfe",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #210)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2522,11 +2522,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "264a3f48-f0a3-48db-91e5-ab12dc7378a1",
+    "id": "94a72340-0483-41de-803a-d057a966b297",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #211)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2534,11 +2534,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "43ffe3df-b71a-4c67-a538-a7a3c045e4e4",
+    "id": "7155a35a-c93d-4412-aea8-37c815dbc04d",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #212)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2546,11 +2546,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "92d55bac-ba76-41c1-a0b1-9efed1fa3a8a",
+    "id": "61548cfc-7d37-4517-a907-d04fa30a885f",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #213)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2558,11 +2558,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1a709ce0-8051-4374-a20d-6bf8def9cb4c",
+    "id": "5677951a-93e6-4965-9505-4b2d8e37ac10",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #214)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2570,11 +2570,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "021508ad-15b7-4294-9f7b-606d62bf1903",
+    "id": "ae56cf60-1133-4bbc-be66-bba27c769173",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #215)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2582,11 +2582,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "10fecf3d-e953-4d7e-9ac2-020da8b73607",
+    "id": "2ec786e5-09c2-42fb-9351-733c21494bd7",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #216)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2594,11 +2594,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2a9bfc66-3196-4519-8ea8-9fbf3f4e38ae",
+    "id": "4ab7ae2d-f9b7-41a6-a742-ad9b000ed512",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #217)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2606,11 +2606,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "70a75342-c5f9-48e8-9af4-920e8f3d2be6",
+    "id": "d9fb879b-e6d4-4ddc-b51b-c93b81e53fd0",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #218)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2618,11 +2618,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c6cce028-5f0c-4fb2-a7f8-e3cf3f68bf23",
+    "id": "f6e15df4-c154-49ea-90af-c2b04a81cb3b",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #219)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2630,11 +2630,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "71b138ab-bb4a-43d7-9011-7198b2649aac",
+    "id": "6f3a9322-9da4-4dc3-9fab-b115771824cc",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #220)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2642,11 +2642,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2f6e09bf-a2c7-489f-811e-0772e30720d8",
+    "id": "14a515e5-233a-4800-968f-94e356fa5167",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #221)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2654,11 +2654,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1af4337a-549e-4146-a3f7-ecc5ccf731b7",
+    "id": "0fcf4479-a458-4b80-8ffe-c9dc9b61b1ba",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #222)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2666,11 +2666,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8058cd40-7784-484c-833e-2483b604d34f",
+    "id": "f1ffbc1e-178d-4c94-94f8-fc51e7b886df",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #223)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2678,11 +2678,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "072fa304-d5af-467d-ab0f-bac25a29a686",
+    "id": "c31442fc-cc2c-463b-9b5e-0ec9c2b97190",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #224)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2690,11 +2690,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7401636c-ba2e-438b-80af-58edc5f215d4",
+    "id": "f2745128-8b09-420e-9361-ced35912e539",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #225)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2702,11 +2702,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8f0c216c-6ce1-4645-bfdb-64f11591e568",
+    "id": "59107501-4d19-4a34-ada4-59977d0d5298",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #226)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2714,11 +2714,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "afc612bc-c065-45cb-9441-e91e8587a3b0",
+    "id": "544027a3-af41-4d3d-a9a7-d58085862c8c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #227)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2726,11 +2726,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c43cf76f-151d-4fab-a7f1-94708aff4196",
+    "id": "6bb83367-9f50-4929-bb51-64c9f75ab41b",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #228)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2738,11 +2738,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "666d8188-d255-4f1a-b52c-9b46fc21a1c0",
+    "id": "2899719c-5cee-4fa2-a0b8-00f50820c521",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #229)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2750,11 +2750,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4dd62d07-83bf-4bda-9cca-5fbc905142fa",
+    "id": "f6cbe17c-fc7b-44ea-8742-5736c5f74c8d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #230)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2762,11 +2762,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e03e1878-142c-47ef-8bea-22d18b4747f8",
+    "id": "90bb572d-c289-4ee9-a5a1-839e06cf7e0b",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #231)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2774,11 +2774,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b0176f22-c548-4b59-82ac-2815884b2088",
+    "id": "e678c50f-0d54-46d8-a572-854a3e5a865e",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #232)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2786,11 +2786,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "035c65f1-a548-48df-930c-94d8e5cb84d8",
+    "id": "740f8f37-d8ca-49d9-8899-dca81fd39663",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #233)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2798,11 +2798,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "283419fa-4219-4064-bdb8-10e64f8fc4a6",
+    "id": "845a99c6-631a-4698-bb7a-c8307e3303dc",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #234)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2810,11 +2810,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "410cef8d-36ba-46a3-8dbb-01276756cf76",
+    "id": "d6ef9afa-0e38-4ee1-9ccc-086270f6b1d2",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #235)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2822,11 +2822,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "95e8ff6c-a244-4241-b924-d37bae74753d",
+    "id": "280ea8f8-78bc-4d92-9a5e-94609cebef0d",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #236)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2834,11 +2834,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e9250022-655e-40b0-9c52-84f2d8b3117d",
+    "id": "7764b9e5-f897-4c5a-9811-731208d7ae34",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #237)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2846,11 +2846,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e3b46678-fafc-4fb1-a4e2-d153326ae451",
+    "id": "f17e6540-39fb-4482-bf2f-d50c6d4ca6b5",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #238)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2858,11 +2858,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c28de098-8d0e-4b68-8240-67abe45f91cc",
+    "id": "956dbdb9-124b-408e-8b61-c70c6337e703",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #239)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2870,11 +2870,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "497c6d3c-1456-466c-950a-f3dd43e835fd",
+    "id": "7b905021-2052-496b-be22-e3f8c6b98c33",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #240)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2882,11 +2882,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "77012d2b-43a1-47c6-a845-47290e9b3e8b",
+    "id": "8a1e217b-d08a-4e56-8af8-8c5754606a98",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #241)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2894,11 +2894,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3992b006-92fc-4964-8595-8abba618c4e7",
+    "id": "a2dc4512-8e54-40bb-b175-31ce910a8bde",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #242)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2906,11 +2906,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6a0ada45-c11b-46a0-baaf-6acb7406615e",
+    "id": "85ceea70-5de4-4931-8691-cfd4f450e063",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #243)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2918,11 +2918,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5038adfa-b811-438d-b935-ad5997b34546",
+    "id": "96095f39-340f-48c2-8f30-ea2610e12957",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #244)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2930,11 +2930,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9e21712b-fa63-475e-a082-4573ee71df7e",
+    "id": "80ef18f3-0a23-424f-b2df-50445a1c33b3",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #245)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2942,11 +2942,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9b63372c-3172-4405-b13a-f079ccee39cf",
+    "id": "af769b71-517e-4e90-9754-65aaa1669ea2",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #246)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2954,11 +2954,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f2b18f8e-e6b8-48d5-b0ba-81a00a93ebe1",
+    "id": "c1644262-68eb-4a78-9287-6c420dc28534",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #247)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2966,11 +2966,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "39da6606-91a0-4496-90a8-d0452fa4a2f6",
+    "id": "2d026428-d5b5-400d-9c38-a03497e325da",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #248)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2978,11 +2978,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "77077e8d-f244-485f-80be-fed00738aa4d",
+    "id": "25c67f82-2cfa-4b5e-bfe4-4266749b6ec8",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #249)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2990,11 +2990,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "35511a2c-4766-461d-ab1b-dc2fd95f70c9",
+    "id": "4c4288e5-f570-4f2c-bd4e-06d6ba97fe1a",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #250)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3002,11 +3002,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b7bdaf27-4429-4a72-bbef-926cb698dccf",
+    "id": "8cefef4a-d061-4007-b679-888b1331f9cd",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #251)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3014,11 +3014,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e5ccd906-e85f-44d6-8cb5-c53ca2d6ee7d",
+    "id": "2abeebbf-1ad6-4701-8a7d-eec9252f3cd3",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #252)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3026,11 +3026,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9be43338-ba4e-434b-867a-4c25dc8513ee",
+    "id": "87f8a143-6bad-4cf7-bbc3-f9c129fa5fbb",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #253)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3038,11 +3038,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ae6adaf7-d652-4235-ae83-207ec221d111",
+    "id": "649ed120-9a2c-4127-9fbd-23d0532698a0",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #254)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3050,11 +3050,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "28c1cece-fc36-4a42-9f14-dfce537ce0d0",
+    "id": "2537433e-7d78-46bb-ae2f-aceeafc9cdeb",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #255)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3062,11 +3062,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c2f87025-c133-4ce6-9aab-452ba94ba53c",
+    "id": "be2b9ade-343d-4adf-9ab0-4ade846cc5e1",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #256)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3074,11 +3074,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0bcb65aa-be52-4192-9eb3-a31d8213541d",
+    "id": "e2f6a7a9-2b81-494e-938e-31d4bbb72b57",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #257)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3086,11 +3086,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b7d4a63c-b4ab-4550-a8d3-a89fad1d0676",
+    "id": "ebfa5f59-262c-4358-9a82-08ac6ff5c884",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #258)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3098,11 +3098,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "aefde60b-6dca-472c-b3f5-46a1c46e8c5c",
+    "id": "7d8848a6-c393-46af-84e6-849a9c039f1e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #259)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3110,11 +3110,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "919f1fce-5ba2-4672-8adf-d64f3c57499a",
+    "id": "de834279-f247-4cdf-989f-8f9e584abcf9",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #260)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3122,11 +3122,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "49b4670b-955e-4607-b6b4-0058a6bcc82c",
+    "id": "6c8335bc-b533-42dd-8dab-101decda3005",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #261)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3134,11 +3134,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a4693a0d-52ea-443c-be4a-a68fd8cc58ee",
+    "id": "085f3760-7d9d-4056-860b-e76d2998f0ab",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #262)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3146,11 +3146,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "312e3403-e6c3-4cdf-9d36-6f4b01e06be2",
+    "id": "2fc4e992-37d9-4db4-8ead-c79bfa41ab8f",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #263)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3158,11 +3158,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f1e4c12d-3cbb-4f45-8c6e-e6c3e788c7eb",
+    "id": "6e94439e-120b-4918-aeb9-e91fe4817730",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #264)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3170,11 +3170,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "37c23c46-1557-4403-a269-3860dd8a7999",
+    "id": "b39d8ed2-5e27-4eb6-88e3-6eff6aab7db1",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #265)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3182,11 +3182,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f2d1e8c5-a855-44c8-8a3b-4394355e6cdb",
+    "id": "1fa7d47c-b76b-4477-9799-8bf7e37b538a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #266)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3194,11 +3194,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "18c4d98e-4cbb-49d1-8954-a04bccf484bf",
+    "id": "195233cc-3778-48ed-bfcb-73e1d4a39d6a",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #267)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3206,11 +3206,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "074852b3-7da2-49ab-b688-621e19239c47",
+    "id": "c4235aec-2235-4e12-a8e8-e21440a3ee0f",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #268)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3218,11 +3218,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "85bba1d0-e048-4dea-9d84-00454c14f665",
+    "id": "d899be0c-7d36-4de7-9c9d-67386adaf6de",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #269)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3230,11 +3230,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "607ac7b6-c32f-4c3f-9f8c-8f80a7727686",
+    "id": "968fc067-7ffc-45ff-b427-d2570eb9ee50",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #270)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3242,11 +3242,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "82925c98-2c36-4f9c-88fe-142d07993362",
+    "id": "4c4db236-ef74-43df-b63a-99bb8ae1228f",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #271)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3254,11 +3254,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e1389899-e627-40da-8564-71ccc44e1354",
+    "id": "eb4e55cf-3b2b-4fd3-9cf8-3e26a3c5eafd",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #272)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3266,11 +3266,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9851d197-3302-4120-b8a5-1792a1b98094",
+    "id": "beb9c5dc-2ab9-4ead-aa92-60beba0fccde",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #273)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3278,11 +3278,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f071c052-aae4-4a6d-af86-b11156102924",
+    "id": "106d6259-5959-40ba-b1ac-186441272014",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #274)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3290,11 +3290,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5f295e77-22d1-477a-a07a-68dc823c5609",
+    "id": "4c5e3449-33ce-472e-82f7-a21d75055634",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #275)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3302,11 +3302,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2a58cdb1-3758-48e4-bb7e-e55c921adc3b",
+    "id": "319e213a-d94a-4fb0-8d7e-c12799d90c88",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #276)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3314,11 +3314,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b1ebec3f-449c-42c4-9044-7e6be64fadce",
+    "id": "88787da8-3f3a-4811-9ce7-81bec20fc885",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #277)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3326,11 +3326,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "83a77f74-00df-4654-9f8e-4da126b335a8",
+    "id": "74b696bc-6454-402d-b370-c6d2b57fb3c5",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #278)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3338,11 +3338,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ebd54bc7-04bf-4801-a8f6-4907b8005a74",
+    "id": "f02f2a8a-8b6e-43c3-97a1-efe9147bbed4",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #279)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3350,11 +3350,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "dd7e7194-ed38-4cc9-bb5f-5a2ef292d6e5",
+    "id": "2d45ca2c-410a-4970-8859-f468c8fc11e1",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #280)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3362,11 +3362,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "30183ee9-8889-4d34-a50f-4b65c77dab87",
+    "id": "2ab7161c-39f8-4068-8ac3-4d6f6e5ebb64",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #281)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3374,11 +3374,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bf12348c-156f-4e1c-951d-50a25f9ecc2e",
+    "id": "8d011078-9e69-4a88-91e4-df62de5352a7",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #282)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3386,11 +3386,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e922e2d3-b187-4e1c-8341-5b8310e0508b",
+    "id": "e6e0d9c2-8eb1-44b0-b692-d3e29a3d7bbb",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #283)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3398,11 +3398,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fa192c16-4530-4fe9-b18c-815fab6da143",
+    "id": "a3937258-f52f-4d57-8972-1ffa6349f902",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #284)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3410,11 +3410,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "778b0905-21d3-49df-80b0-8a6ab2988359",
+    "id": "d88a7aff-9124-496f-ba92-93ae23e3e3d8",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #285)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3422,11 +3422,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "838f97e4-8400-489e-b937-3c46c7a35bd9",
+    "id": "66270693-a13a-488d-8ead-b7dbad04f827",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #286)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3434,11 +3434,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d4a7cfa9-550a-4eaf-bb2b-557188994ea0",
+    "id": "694752f1-d05b-462f-baf2-4147fa01dff7",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #287)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3446,11 +3446,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fd551538-6b7b-4369-a443-98d1731095f4",
+    "id": "d36718e3-70bf-4880-b0ba-741b1aeab195",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #288)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3458,11 +3458,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "99aabc7e-de30-4556-87cb-0192445e4b70",
+    "id": "57ad80ce-9cf7-4981-ac28-c8ef79326e9d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #289)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3470,11 +3470,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3c6f047e-5336-4929-842c-6a3b2db880b8",
+    "id": "0c9c3e79-1899-4cc3-a4af-2083bdcc99b8",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #290)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3482,11 +3482,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a0d376b2-ecd6-42ec-953f-013db87f604b",
+    "id": "876e57eb-2018-4bc1-b64f-afd2905676dc",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #291)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3494,11 +3494,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ac4750d2-48f7-45c6-bac7-51bf26c7b1b1",
+    "id": "eb025c54-2653-423d-a0e7-6031a1f7c0eb",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #292)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3506,11 +3506,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "59c289e9-f5fa-4053-b3af-73a37d1d33c2",
+    "id": "5491dcf2-b675-4f51-864f-252916305a83",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #293)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3518,11 +3518,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e6594c58-0b03-4dea-b966-c15fb98e81e1",
+    "id": "3f245ad0-6452-401c-8ef6-08490319d9f5",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #294)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3530,11 +3530,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5e6f2edd-6bad-408c-8b0d-fa18378f6e59",
+    "id": "d77d5a72-eb18-4087-abe9-7b3ceff589f1",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #295)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3542,11 +3542,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "551026be-159d-40d7-886e-fd6bc2904bcb",
+    "id": "2078358b-ae83-482c-9289-6cb3302bd520",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #296)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3554,11 +3554,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a58d245f-06d1-4d36-add8-14cbcc379356",
+    "id": "26fb341b-68fb-444d-a84e-12e6a1226656",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #297)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3566,11 +3566,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9d2bc733-a6f1-41dc-baf0-ea7b75719ec3",
+    "id": "efcae38a-fbb4-42ca-b179-3a26e05338a7",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #298)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3578,11 +3578,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "31c85750-733f-4350-8c01-b77eb951066c",
+    "id": "f381373b-5b97-471b-81a3-66a258252fcb",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #299)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3590,11 +3590,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "63cd36cc-051d-48ee-9001-aa1030f5411e",
+    "id": "27038e2d-f85d-4257-bd07-942647f2ed04",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #300)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3602,11 +3602,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9a12459d-c4a4-49de-8740-d2980057d336",
+    "id": "99980001-c234-4e8c-a477-f7977e63826d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #301)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3614,11 +3614,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "34b3a663-6505-4e0f-ae5e-5e3560b58a57",
+    "id": "222f4ddb-b189-4ea7-adbf-e28244ec64fc",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #302)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3626,11 +3626,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "205ef7b3-e5f1-4d54-a149-2d40858ddf61",
+    "id": "1077a962-5f85-4869-9cf4-a282931f1a3b",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #303)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3638,11 +3638,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0053d48b-589c-4977-b8c7-388177940e97",
+    "id": "8291e001-0c0d-490b-ad38-0041454bef7a",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #304)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3650,11 +3650,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "df1019b6-e13c-4ae7-b646-ab09e6ff8780",
+    "id": "223e4dda-56b0-4921-818e-876868d627b8",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #305)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3662,11 +3662,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "88f79b13-f647-4b07-8ae1-c68478f893bf",
+    "id": "0fb3bb82-06b9-4f51-acfa-f0200746e3b9",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #306)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3674,11 +3674,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1e0f05b1-9835-45f9-8e6f-cebaa40d3432",
+    "id": "6e8bd1be-53f1-4a34-8f42-64d42608a949",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #307)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3686,11 +3686,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "44309010-2e01-4d51-9269-97ac9aa64d1b",
+    "id": "951bbea9-68ef-4a23-83a0-1abbd2faca33",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #308)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3698,11 +3698,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6da5731a-b9d7-4632-b2ee-04e2250948ee",
+    "id": "e7d110ba-fbb4-4037-8302-0e8bffab981a",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #309)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3710,11 +3710,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "74fa0743-60c8-42d6-8507-9c20d26cb8a6",
+    "id": "988718d9-0796-4504-b8bc-e3805e4d9178",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #310)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3722,11 +3722,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "09b9a890-8d1f-44fd-bc8d-0260dd0bf018",
+    "id": "76aab412-b99c-4092-be2a-1672d3db3ea9",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #311)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3734,11 +3734,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "594f6a7f-f9d2-4cfb-ae47-ab3ff2159abf",
+    "id": "50cc2482-0cfa-4177-ab22-56814ddcc975",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #312)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3746,11 +3746,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9096c66f-debe-4548-bf5d-8978cc4f73d8",
+    "id": "f742f5cc-8189-46ee-86cd-b0549aeaf76e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #313)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3758,11 +3758,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "983008af-91a4-4160-9177-30a03b0378c5",
+    "id": "23d6165b-fab5-475f-93ae-eca3d68d07bf",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #314)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3770,11 +3770,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a91faf36-1cdc-4d43-bda0-d7310b6511d1",
+    "id": "a10d5b85-d2ea-4ec6-8d48-2a46f7673901",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #315)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3782,11 +3782,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "57aa1a86-ac51-45d3-9f0c-095413b2ea07",
+    "id": "6997fd67-d378-4871-b63f-a5085f64860b",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #316)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3794,11 +3794,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9ef7cd0f-d9df-44a4-b086-113210964968",
+    "id": "7cc6932f-4fd5-4d9d-94d6-c31df2a47436",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #317)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3806,11 +3806,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ad367f88-e80c-442b-bd86-bb20a2642e5d",
+    "id": "ccf74284-8726-42f3-90e1-10884b9b9f5d",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #318)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3818,11 +3818,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e2060387-74dc-4bc2-bd9a-f48f60c84fb8",
+    "id": "9d45b7c1-ee23-444e-85f6-d185b7cb6870",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #319)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3830,11 +3830,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "70996063-1799-4f35-a218-092dddb5402d",
+    "id": "e6db6322-0293-479b-8571-daf44a127b1c",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #320)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3842,11 +3842,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ccf53901-9f97-4f0e-b6b2-448b31ec9032",
+    "id": "b05460c9-ed6b-4d53-ad57-59ad50879c9f",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #321)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3854,11 +3854,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "78f92ce7-4a43-4b39-aa28-b1d75a4e12d3",
+    "id": "d97b61b2-44bb-49ef-a2e8-0194f5b7fad6",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #322)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3866,11 +3866,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4945fcd6-cb4b-41e1-98b4-f07138f49de9",
+    "id": "c58d1fce-dc28-4f8a-995b-ec63094b2160",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #323)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3878,11 +3878,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "681b14de-74db-4bf3-9141-c0e80476de00",
+    "id": "f272f92a-2ae7-49db-a58f-808292711df2",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #324)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3890,11 +3890,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "df0d72d2-4f9b-4a3f-b685-870484ace1c8",
+    "id": "240abd17-5c4a-4839-b3e9-e6517334697d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #325)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3902,11 +3902,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4f14f51e-4fb7-4841-82cd-f756f1888c58",
+    "id": "280117fc-e48b-4ff2-a467-a9c0eb6be40a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #326)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3914,11 +3914,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e4a8e8d3-12b1-4c8e-9bf0-a62ef05efa59",
+    "id": "56b5be45-3c64-41c8-a24b-19e7b0fca0db",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #327)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3926,11 +3926,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1f6f11a4-bfc0-4a39-a766-fcf8c79aada6",
+    "id": "b0e2e295-1747-40ff-abca-38c5c3b7fd16",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #328)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3938,11 +3938,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6a15fefd-0521-4eb0-afd5-4bae9859f7d0",
+    "id": "b783fcb8-0bbf-4173-9384-2a78e2b8ba99",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #329)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3950,11 +3950,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4ab4d7ae-c19f-4554-abed-4a9d0c4a0fb3",
+    "id": "27338661-2abc-468b-b14b-76bc84a53c5f",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #330)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3962,11 +3962,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7027f1e9-c1d4-4b59-9221-942f163d72fe",
+    "id": "a5c044fc-97f3-4168-9331-55a02cf89eff",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #331)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3974,11 +3974,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "85fe167b-fdcc-428b-a636-3b2745242cd5",
+    "id": "8b56448d-1f2c-4119-9d3b-50ee97ffaad4",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #332)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3986,11 +3986,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f7b6591b-fed7-4cc2-b3e5-702ea0a6ffdb",
+    "id": "d3907fd9-e04c-4d32-b7b6-1264bed306ba",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #333)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3998,11 +3998,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bb8802f3-9671-4051-ad86-ca20ba94181b",
+    "id": "85f18b2a-e54d-4069-8e1c-136ba12c0b77",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #334)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4010,11 +4010,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cca7292b-7484-47d4-9204-eba83ffa3cfa",
+    "id": "88aeccb7-cf80-437c-a62c-22c115ea2d6f",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #335)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4022,11 +4022,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "76cc0fbc-5c8f-4be7-974c-0835f92cfd06",
+    "id": "6d6f862e-5ce7-4105-8be5-c571e1bf4fa2",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #336)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4034,11 +4034,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "acc5702e-7d79-4a5f-96b3-97c34c301dc2",
+    "id": "e2020820-104c-4f0a-8634-5c3687ff434a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #337)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4046,11 +4046,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e0158c62-65d9-4526-9644-6b1bba898c37",
+    "id": "0da664b8-f796-482b-9430-0ba2ac044d02",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #338)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4058,11 +4058,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cc253b41-211d-4f26-a707-3d29c30d1337",
+    "id": "170719ee-16d4-44e7-9d95-0d5d5b4ba1c8",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #339)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4070,11 +4070,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "77aa1a67-a890-41cf-b201-2e5471ee33dd",
+    "id": "c38e030f-fd49-4583-b2c6-86d3bef8716a",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #340)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4082,11 +4082,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bb0102fb-ddf6-491f-875a-de2372a700e4",
+    "id": "d66d664e-dc42-42ac-93cb-3294eadbbd41",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #341)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4094,11 +4094,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3eb94d2e-bff2-4c77-9635-a512f49c66e5",
+    "id": "e0a09188-64ee-4bfe-b5b1-c99f8ed8d60b",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #342)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4106,11 +4106,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f15ae9a1-3f97-4df8-82c9-44ff5782a6b7",
+    "id": "457eac9c-abba-4cd8-954c-3e8c2eda893c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #343)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4118,11 +4118,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2e9f9b3f-76dc-48fd-8f43-4425dc4760e1",
+    "id": "7391a6f2-8335-49a9-83d1-189ec41ec5aa",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #344)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4130,11 +4130,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "29a3c326-b6c8-46c5-abc3-15b5dfbf1162",
+    "id": "a30820f3-9c89-495a-930c-9bd705a3713c",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #345)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4142,11 +4142,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b395cacf-df5a-49f5-8fcc-e68cc1490a4f",
+    "id": "dc0215d6-2e42-4b81-8650-4af0a84d94f5",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #346)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4154,11 +4154,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6fbc14ba-bcc7-462b-afca-1230aa362049",
+    "id": "149621cb-33d6-47ef-8c33-e4fc5edb3e8e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #347)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4166,11 +4166,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d1f14507-1cc5-4c40-92e1-190ddcfdfd20",
+    "id": "c7dd4360-339c-49be-81a5-2cdf2c20e2fb",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #348)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4178,11 +4178,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a7af8954-e5c3-4bcd-b461-fe3d8d687591",
+    "id": "1e1824b2-40c1-4bc7-ac0d-644a85cf513b",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #349)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4190,11 +4190,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c3df41c1-f7d1-434e-b139-8a69b300683d",
+    "id": "207276c8-c388-44da-9587-b2b184b4e6b7",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #350)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4202,11 +4202,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2a331288-6382-4549-9248-e2283bb06465",
+    "id": "84b62b98-59dd-46de-9cba-1a25db7218fe",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #351)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4214,11 +4214,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1b29236d-38f4-4252-be03-3c7c953b428d",
+    "id": "22dc08a4-1552-4fd5-9c6e-aba2ab0eff38",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #352)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4226,11 +4226,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3604f52e-f02e-4d3f-8ba9-c58f98a7dc37",
+    "id": "1a0ee307-f5d9-45d5-937d-6bd20e8afc75",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #353)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4238,11 +4238,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3cb6d02c-4e3b-418a-83f4-a13ff2d06d21",
+    "id": "284a6512-5151-4efb-a5ae-075f7cea3e02",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #354)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4250,11 +4250,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "14d911e2-7d4d-4bd7-8a06-a32b5a6bb9b8",
+    "id": "a83247d1-b919-4819-b422-a6c459530126",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #355)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4262,11 +4262,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b63e1180-d14c-4a88-8e99-5a16d6cec8a3",
+    "id": "6b5d4e4a-0bee-4458-8cd3-a9bc2eda97c1",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #356)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4274,11 +4274,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ea1ca6e8-83dd-4ef6-ac3f-f7bc7bdc9620",
+    "id": "46890e1a-d7c7-4320-9a83-db1e02d0beb0",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #357)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4286,11 +4286,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d8c1fe7b-da9c-437f-9913-88157d5c70d4",
+    "id": "1b5717ea-3268-4fe2-a7d7-a4fb4903e1a6",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #358)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4298,11 +4298,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9178b068-8b9d-45b6-8d08-f1017f865bf8",
+    "id": "36e83541-dc92-4c59-866a-4132cde55e09",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #359)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4310,11 +4310,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4d4c5849-0b55-44f1-bac2-f108e4724cb9",
+    "id": "5b2a8645-bdda-47a0-b9aa-1c3c3fd6ff38",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #360)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4322,11 +4322,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ff726f4b-9cf5-4642-8b0f-7696d2fdd879",
+    "id": "5943b43b-3dd0-48ac-a398-0f335165aa38",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #361)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4334,11 +4334,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "15e1270e-157d-4d22-b5cf-e4d191162dc2",
+    "id": "4a8304b2-fb46-4854-9c19-3818c8dea45e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #362)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4346,11 +4346,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "39cb7df9-611a-45e7-844d-7e235f3593ca",
+    "id": "fd1d0be2-1df1-4c7a-91a6-b25172f1c307",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #363)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4358,11 +4358,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f9fc3915-528e-49fa-a2a3-2760c82a7871",
+    "id": "8454efc0-1a9e-4860-b5fd-d84cfe1e6a13",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #364)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4370,11 +4370,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "57ee65a7-212b-4d6b-b117-f4b419bcade6",
+    "id": "8833e7e8-e3f1-4ffb-b28a-b3834b06b805",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #365)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4382,11 +4382,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8d2722b6-2133-4c75-bb42-0abe92244341",
+    "id": "0f38ce39-e98a-42f5-933f-30f6fcc37259",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #366)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4394,11 +4394,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7a4ba301-bf8b-4cac-878d-270ba5fc3e47",
+    "id": "d53ce524-7dcc-4f77-a4ec-680ba53a6e26",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #367)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4406,11 +4406,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a124fd6c-044d-474e-8a7c-e002aecaa8d7",
+    "id": "0afc321b-2d55-4601-ad69-6a9e5eb43557",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #368)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4418,11 +4418,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ac3af54d-4a02-4a21-a9e5-88522230c021",
+    "id": "6b8335e8-ca37-41ce-b0e3-9950d7d53399",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #369)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4430,11 +4430,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "eae90d99-52fc-4c3e-adf7-4d1723a8b56b",
+    "id": "40d3e3c1-a144-4937-a952-5878f4b5edb0",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #370)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4442,11 +4442,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c62f768f-1b79-4fe5-93cc-26d59cbd46c1",
+    "id": "ead9656d-0729-42cc-8778-c1bc990bf330",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #371)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4454,11 +4454,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "396f691c-4ac5-4ba5-a1e2-66fb2192e3f4",
+    "id": "6dabe4e6-847f-4366-a219-df6f9b5c001b",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #372)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4466,11 +4466,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ed12da46-9f56-4a5c-bd01-b59b4838947f",
+    "id": "640f4591-4882-42e7-bbcb-c9d22d7901d2",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #373)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4478,11 +4478,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d4195c9c-1017-46c4-835b-4c6c40e82136",
+    "id": "815675f5-a343-4723-b96c-fed2f2aea425",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #374)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4490,11 +4490,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c324e208-6bcf-4817-9c0b-207cc57e5f70",
+    "id": "9cedce47-5c41-497b-b8d2-31933de05fa8",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #375)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4502,11 +4502,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3a3fd880-427e-431e-8455-efe755ff5040",
+    "id": "5517eb92-a3d5-4b23-8638-62a2a0220bd3",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #376)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4514,11 +4514,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e871dad0-580c-409a-9cae-13ca4eedbbb7",
+    "id": "565f5d30-ba04-49c3-b1c3-e38348a919e7",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #377)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4526,11 +4526,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a643fa7f-2773-4002-bc2a-9b2f991e8ddf",
+    "id": "9461c4d6-7af2-4a62-99a6-510ff79eabca",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #378)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4538,11 +4538,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "588e2f27-9194-4db5-b741-6157bb8f7f4e",
+    "id": "fd1b7d35-1bec-489d-980e-5487891e99da",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #379)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4550,11 +4550,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e86cc11f-9f45-48d0-abf2-24c0f707a079",
+    "id": "2f32f1d7-7c79-4c94-bed2-48afab0bc8d2",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #380)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4562,11 +4562,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0fb36390-3f38-41f9-bfa0-305a971740d8",
+    "id": "2d36c046-7a4e-46f7-8cdd-6a27b723349f",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #381)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4574,11 +4574,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a1ada63e-62bd-4ef8-b440-163613029479",
+    "id": "8b84d78d-9288-49e9-a8bb-c223f06f7112",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #382)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4586,11 +4586,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bc4c4aa5-ffa2-463c-86f0-2a9b813096f5",
+    "id": "928edde8-5d3a-489c-bcf9-139abf95a6f9",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #383)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4598,11 +4598,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4804a355-7d46-4664-adc8-33e07813cb6f",
+    "id": "aec22c97-9b5a-446a-a748-bfc17f0492e7",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #384)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4610,11 +4610,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0385633c-daea-4678-8432-0b013009d6c2",
+    "id": "2193cd9f-aa4c-48de-b11d-82e451c57a6c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #385)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4622,11 +4622,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cbef3bd7-e7cd-4bb5-a595-0e66d2305251",
+    "id": "cb9cdb6b-0afb-4e71-95cc-08e85bfca92c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #386)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4634,11 +4634,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0fb26d6d-e1b1-496d-915d-0b12941daf1c",
+    "id": "ed26b812-fddf-4dd6-9ac7-008fd41dcaa3",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #387)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4646,11 +4646,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "29518820-d92d-44a4-bc80-7a5218603477",
+    "id": "f28ddba5-3356-4ea9-bc27-be4c049b4a9f",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #388)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4658,11 +4658,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7e54e7c4-451a-4a63-a07d-7644dcee05e6",
+    "id": "c1a0c8d6-5788-44fe-a003-62872e1ab69e",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #389)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4670,11 +4670,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8f931129-1e4c-47d1-bde0-b3d949b4dbaa",
+    "id": "270a96a6-37c7-407f-861f-695a4717eca7",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #390)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4682,11 +4682,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "675afcb4-a2ab-4bbd-b7b4-a13ac4bdb7b3",
+    "id": "2d4c0314-2469-40b2-9c86-21d3b1051fa1",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #391)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4694,11 +4694,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a1eb0847-58ee-4bbb-bab1-debffa40d6b2",
+    "id": "080a882a-b1db-4043-8119-c75465813bd4",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #392)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4706,11 +4706,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ded8cf74-b7fc-476b-90be-be4a051c6302",
+    "id": "ebda7387-d078-4e4a-bf55-04316ba3180d",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #393)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4718,11 +4718,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "00799c1d-1c62-48fb-b46c-887dd575e23f",
+    "id": "03bdecd8-d4a4-4145-9eb6-ff083bdaea84",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #394)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4730,11 +4730,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "968c673d-780f-41a6-8cd1-b7ff210776b5",
+    "id": "18e19ffb-91ff-43bb-ac35-da2142649ec1",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #395)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4742,11 +4742,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2d40261f-c891-481e-84b8-86dcf59181ff",
+    "id": "96837dc5-187d-41d2-a9a7-f8c9be80b22f",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #396)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4754,11 +4754,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bba9297f-1cda-416c-915c-495174565b48",
+    "id": "fc96a9a3-51b2-490f-b01b-c2414aa656a4",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #397)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4766,11 +4766,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0bd34cce-324c-4375-9775-214b5fe5480b",
+    "id": "6b7a1284-c30c-47fe-875f-22e075411bb9",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #398)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4778,11 +4778,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c4abef71-8926-41db-bf57-5f725c1c3edc",
+    "id": "ffe96e97-d790-4431-9bb6-0130fe15c90c",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #399)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4790,11 +4790,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1c6df84b-c489-47f1-90b2-920288d67618",
+    "id": "cdcaec1a-c669-4efb-a3ef-0a67749a20a3",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #400)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4802,11 +4802,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e4a484d3-651f-4ef2-b833-9ce99047c384",
+    "id": "adc7369d-654e-4df4-8f53-1edba1c72826",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #401)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4814,11 +4814,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4fb6e355-90d8-439c-98da-1b18b2bc6132",
+    "id": "bc85bcf8-a005-46de-9f9a-c1b0cb2f86ac",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #402)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4826,11 +4826,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2e13424a-de91-4c9e-9043-ed4ea592ee0d",
+    "id": "752709f3-613d-45a5-8034-4aa681ce818c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #403)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4838,11 +4838,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "27bea6d4-3d11-4839-a2e7-a7d98df1d1e9",
+    "id": "73f942d8-9a0c-4ccb-b599-a00860a5f9ab",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #404)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4850,11 +4850,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c5195eed-8148-40e0-a899-69c60b9547d2",
+    "id": "a061fa01-ea11-4661-9d46-ea9c54f4c6b2",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #405)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4862,11 +4862,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b19f3401-d304-4fc7-a4ee-f7647bb65792",
+    "id": "559a4a87-8315-4dcd-8b26-984e80cd2fd1",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #406)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4874,11 +4874,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "deea09ea-91f9-4e2e-b5fe-0ad711dca2a5",
+    "id": "5b59d30d-313f-4183-bcfd-9ed478c8bcc2",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #407)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4886,11 +4886,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "38edb0bf-53d2-4629-a2c4-814920556938",
+    "id": "10e80fc0-adf8-471d-9044-7f9803dedafa",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #408)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4898,11 +4898,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "eca6d2f8-51f3-4753-88e8-46beaa26d3cd",
+    "id": "23fb1997-16ba-4b43-a589-880e7c92a897",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #409)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4910,11 +4910,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0eaaf5f4-74fc-40bc-90c4-60d19356fe2f",
+    "id": "5aba2879-4a0a-46c7-bcd3-46b8685c6e56",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #410)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4922,11 +4922,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2e355bb0-9dff-4f11-a88d-9d948e9c616c",
+    "id": "a5cb6bec-bddd-45dd-a202-edda93a6fb91",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #411)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4934,11 +4934,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0ed7fce7-dc7b-4c76-8418-6ef672d19b15",
+    "id": "a0379b58-8fd4-4830-b5c4-ecc754f4c84b",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #412)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4946,11 +4946,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "993dd8cd-92ec-4580-be66-b0e617a77851",
+    "id": "69471c72-bdef-43a4-bdd8-8ad0f20b04ae",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #413)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4958,11 +4958,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fe110b6f-19dc-404c-8196-10bd7ddbea4a",
+    "id": "5fb07234-47cc-42cf-9c63-1b8481d74e67",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #414)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4970,11 +4970,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b748936c-8c68-4c53-a013-619dde9d7114",
+    "id": "84272d6a-dd0c-4e8a-bc16-93a29a4d7fce",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #415)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4982,11 +4982,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "34f9597a-1b8c-40c1-be87-2ffd882667af",
+    "id": "4e0b13e4-6d52-49d0-aa49-fdc0aa350a75",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #416)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4994,11 +4994,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d579b26c-29e0-48ba-9421-751d2d5e5b57",
+    "id": "a1e34d7d-26dd-408f-aa5d-9a82f3c474fe",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #417)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5006,11 +5006,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ff45352d-3537-4f19-815b-accb82834c6f",
+    "id": "3bf80f8b-7ec8-4a52-be3a-740eb433317d",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #418)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5018,11 +5018,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "40afb418-69d0-44c0-a1ee-8aae2520de77",
+    "id": "97835ac4-317c-448e-8d76-18aab8b13388",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #419)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5030,11 +5030,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3fa11bb6-e9ea-4eb5-a3ff-be35cdd0b875",
+    "id": "1264cd19-9065-49fc-91ac-0774f061e0e6",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #420)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5042,11 +5042,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e96bbf84-7042-4b8a-ae58-42bab3aaa42e",
+    "id": "0fabd113-1561-4915-9477-e53500bcb45c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #421)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5054,11 +5054,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4940df16-b5dd-4df3-a028-0d8e4c920756",
+    "id": "01319e4a-595e-47fa-bab2-5cd2d51428b5",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #422)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5066,11 +5066,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "56c110a9-463b-41f9-be7e-843bde7061cd",
+    "id": "42253051-3772-4674-a989-8974e2c8cc46",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #423)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5078,11 +5078,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c1ebf026-abea-4c9e-8ce9-816861b2027f",
+    "id": "a9fb4b7f-f1e6-47f1-8235-e78b1fa6d33d",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #424)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5090,11 +5090,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a53258a5-1124-4e8b-99a9-34f4521565a4",
+    "id": "3afbf0ff-6552-4353-b033-670041a72228",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #425)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5102,11 +5102,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4619af96-0b42-4c0e-ab2e-7ff0cb4e9206",
+    "id": "61b15900-ddcd-4dba-b822-651622f6c2e1",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #426)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5114,11 +5114,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7ba49307-aa7d-42ff-a434-f617d0f7b7f5",
+    "id": "f8f8fb03-b1ae-4dc2-a7a2-b87e68ddcd6c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #427)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5126,11 +5126,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "92524cfc-6152-4a79-bf53-a4b0fbc0e575",
+    "id": "33b72b1d-296e-48b0-9b8c-fcba6a6632ff",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #428)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5138,11 +5138,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8d8ffb0d-e707-4cd2-bae1-62c4312dc728",
+    "id": "03e78883-f5e1-465b-a3df-42aa79f6ed41",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #429)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5150,11 +5150,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ea51a6ec-cd38-4a34-b26c-14201f60a88c",
+    "id": "fafe1af3-9c57-4ffb-8878-d61db12cd1ca",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #430)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5162,11 +5162,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "50f38ddc-1d07-41a8-bcbc-437bc3d2574b",
+    "id": "d15a7b26-aaa9-4249-8a22-0d296fcf979e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #431)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5174,11 +5174,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "82dc41b6-ed32-4bbf-bf74-8b47f9be675f",
+    "id": "334a2479-98d7-4e1e-8ea1-cce32622281d",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #432)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5186,11 +5186,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "82cef5a0-753b-403d-a050-5e4a7d922ba9",
+    "id": "155cab2c-1794-448f-a64a-07df1ab7925e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #433)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5198,11 +5198,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b50d1c5b-e880-4867-81e7-e6675df5fc2b",
+    "id": "2605c898-4afe-4d87-9b19-3ca74c9b345b",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #434)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5210,11 +5210,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fe5e7c3e-01fc-4728-8941-ee32936afbed",
+    "id": "b17e95e0-c503-444a-80b0-d1f382b88fb5",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #435)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5222,11 +5222,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bfd3dc6b-3f9d-49d0-a04f-b228c83e3df4",
+    "id": "1f2a81a2-7154-4a9a-bd00-31a3a4aa09b8",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #436)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5234,11 +5234,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ef1533e9-1219-4f5d-b753-d639250d5b07",
+    "id": "f339f5c5-63c8-4adf-aaab-9336d27068b8",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #437)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5246,11 +5246,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2b0ed822-5ba1-4c45-8cbc-ee79f7ffc335",
+    "id": "d1922d56-9f7b-416b-b322-30b77e5a4d4d",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #438)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5258,11 +5258,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3b68820d-b15a-4406-a470-e0f39ee77fe4",
+    "id": "e524e4ed-ffd6-4c9b-8cfb-bdac80c29202",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #439)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5270,11 +5270,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "50f776dd-03e9-4985-ba16-ffff265e1b10",
+    "id": "434e2aac-2f90-44f9-8658-47685b554493",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #440)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5282,11 +5282,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "688e77bc-1923-4a05-b87e-36cbac7ae640",
+    "id": "b6e0ce70-fa5b-4d1f-a21f-1812b3553e0c",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #441)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5294,11 +5294,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c85b0cc5-f3b3-487a-b724-937d3b017693",
+    "id": "1566a8c8-4e21-48ff-b58d-730668e8e259",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #442)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5306,11 +5306,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2578c470-e3ed-4628-851f-ec30acb40c9c",
+    "id": "d82d5e11-51cd-42d2-8978-3cffc6c11adc",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #443)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5318,11 +5318,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5501ef87-3ce4-47fc-9029-9e9cc315a888",
+    "id": "4cb48738-47e4-4a75-aa9b-90bbdf5a2154",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #444)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5330,11 +5330,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1c308996-5eeb-4ea6-bf29-087728926b01",
+    "id": "381c69c2-07d8-4bcc-aa78-30756161977f",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #445)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5342,11 +5342,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "48dc79da-639c-47cc-8054-d2a7da1b76c8",
+    "id": "3de88804-589f-4b66-a06e-dbc235158a6c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #446)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5354,11 +5354,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a0dbce46-dab5-4821-97d5-7f83abe7e4e9",
+    "id": "84e8378b-cbd5-4258-94a1-1b0e073a5b7b",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #447)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5366,11 +5366,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "da296d59-e81d-47dc-a842-238b4635d402",
+    "id": "a0f53138-1c6c-472f-bb69-e2e80c1e3d77",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #448)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5378,11 +5378,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "25441848-13a6-46b1-a186-93224f47fc3f",
+    "id": "73c9aaed-2f3c-410a-b9f1-cddda9aef9c1",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #449)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5390,11 +5390,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7836eb29-c926-41bb-8ab8-c332c2e5a643",
+    "id": "2e5ccc34-ae04-4367-825f-d7d1a8fd39fb",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #450)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5402,11 +5402,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "32b4a074-9481-479e-beec-07e58d4dc7f3",
+    "id": "73c2eb89-d7ff-4aa8-8ba4-4df0d8452aff",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #451)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5414,11 +5414,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cd869e6a-5c6e-42f6-894e-a342790c4bc3",
+    "id": "c24cd5e7-9276-4e0e-9261-845dcced4c10",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #452)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5426,11 +5426,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ad8cb825-c139-4e1b-b5ef-2d9eae5b3b27",
+    "id": "6a0ef7ce-9871-4726-98b1-599f270b7ce0",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #453)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5438,11 +5438,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ac8a195e-a364-47f6-b993-2903b110621c",
+    "id": "5f188916-ddd0-4fd2-8938-7a5dd4b3d0c9",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #454)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5450,11 +5450,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "391b7f58-6ca5-4c05-89b3-a7dfc0f52882",
+    "id": "589bfa7b-7535-421b-9d27-c67d1979eae9",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #455)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5462,11 +5462,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "614c03ff-b1ce-4359-88a7-c7fd2dac7052",
+    "id": "9cce904b-30e7-4423-b417-37b418938224",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #456)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5474,11 +5474,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "eceebbc0-e4c2-4e14-a5f9-034dbbdc2c12",
+    "id": "93fdf28d-1059-4344-9001-44ec9ff7130f",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #457)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5486,11 +5486,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4ac2a86a-ea97-4779-aff7-342248f8f242",
+    "id": "a0b82d30-2a86-4545-9c95-1b77191fedc4",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #458)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5498,11 +5498,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d897dc68-98d4-41d7-af7b-dbb3c11a5b59",
+    "id": "dc09f4cf-e72f-4d93-b70f-8232d6a5df95",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #459)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5510,11 +5510,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5c4725e1-2561-46dd-abfc-0967f88d93c4",
+    "id": "093df001-edaa-484a-b2d7-d6ff04df59ae",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #460)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5522,11 +5522,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b18b1605-7d70-41cd-9e3e-6c10c59dee84",
+    "id": "91827597-8017-4c2e-82ab-dd24c6fc155c",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #461)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5534,11 +5534,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9ad3f8e7-27f8-467b-989f-c9aa78957ced",
+    "id": "df12ba56-9623-4ef7-997d-9102852d80ea",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #462)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5546,11 +5546,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9dc4869f-48e2-41b5-9048-6c4b51effb0c",
+    "id": "c2882b65-cf02-4fa9-9328-9cec7f9c0abc",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #463)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5558,11 +5558,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "00c8667d-1a81-4be9-874b-26e40cc12e58",
+    "id": "e8ff0060-0cda-4d63-98fb-39dbbef87edc",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #464)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5570,11 +5570,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "752e079e-cb2c-4f30-b56e-56b5a67d00e0",
+    "id": "fbd35dac-334d-46a8-9b21-54f7583f5e7e",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #465)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5582,11 +5582,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1b03dde8-0095-4999-a232-c48875f6894f",
+    "id": "7283b9b3-798c-4c7e-803e-a0e73284d551",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #466)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5594,11 +5594,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "039eccfe-9853-4d2a-93b3-243543a175fd",
+    "id": "e71de588-39f3-4a95-b3c4-c9c04056dfd8",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #467)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5606,11 +5606,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5add43fa-cedd-4ee9-a6e0-64e41225e6c3",
+    "id": "8419901a-2672-4755-8645-b065729c13ef",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #468)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5618,11 +5618,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "20271360-fac5-4d0c-bb20-61f72d218d6c",
+    "id": "a967ed2c-6cb6-4c9e-bb6e-7e002b20eae6",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #469)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5630,11 +5630,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0c065423-a710-43c1-806b-5d2beb5d350c",
+    "id": "42846699-4c77-45e8-b4be-0872db7dc243",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #470)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5642,11 +5642,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "73577969-4854-4074-b0a5-df3295531605",
+    "id": "bb09bb61-8f64-4dcf-9320-de04531ce12d",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #471)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5654,11 +5654,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "79210bfa-a3c4-4a9d-86ab-6a53f6447a74",
+    "id": "10ffdfb8-ab7a-43d8-be0d-ae2254a46be5",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #472)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5666,11 +5666,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "53853420-4851-4cba-82bc-d9c2667c6211",
+    "id": "320aca74-9a4e-48e9-b222-9be6ffadc66c",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #473)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5678,11 +5678,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6c3c270d-95e5-4c06-9876-c0528711601e",
+    "id": "5460715c-2fe0-4c4e-8b9f-e24dcc1031bb",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #474)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5690,11 +5690,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "96766dcc-1a77-462f-8fcb-dafc1114fcab",
+    "id": "ea2e928e-2d9a-4d79-8f51-c42dac84c44f",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #475)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5702,11 +5702,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4f1456fa-d769-496d-83c2-251c31ad020d",
+    "id": "94341fc7-7b58-408c-91b0-642614dc4e3f",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #476)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5714,11 +5714,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "883f690c-0cce-4c0a-8c0d-90a54e83b34b",
+    "id": "b9bcf4f7-29a3-411e-bb9f-fc09dab49525",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #477)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5726,11 +5726,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "19484773-13df-4ddb-96ab-2aa9bba94418",
+    "id": "22d27a3e-3bf9-4b03-81be-be7208c89769",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #478)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5738,11 +5738,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "75144df7-f311-4300-be3c-bc7174938adc",
+    "id": "064fe95b-ae73-4c4a-b4fb-87e9c9f0c4c5",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #479)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5750,11 +5750,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f39da100-a748-4c23-a137-ce0af650e1c4",
+    "id": "805f2c25-f3c5-4067-95fc-8bc2aae79b4a",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #480)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5762,11 +5762,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6d819d2c-317e-472d-951b-c38e51f7dec0",
+    "id": "b8483fc1-e8b8-4b1a-bf0b-b323dc4d059b",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #481)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5774,11 +5774,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c263aada-401e-4504-b4be-6b9a48a4d42d",
+    "id": "7a44434f-f5db-4119-831e-da8fd94d2b11",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #482)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5786,11 +5786,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4c5e6a16-2083-4678-8a0e-2229d7aff240",
+    "id": "84462091-51bb-4eca-8299-3b625161a1ad",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #483)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5798,11 +5798,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "07759615-b641-4c1a-9e0c-6b3077a4b8af",
+    "id": "2b4b8b78-5ded-4b09-a962-abec5aace7a1",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #484)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5810,11 +5810,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "afb4f303-44b4-4bcd-92b4-361fe6cd31f0",
+    "id": "b9370683-aebc-445d-a0e3-39084f6e65fb",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #485)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5822,11 +5822,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "148000e3-0550-4b66-8b37-8320231d9993",
+    "id": "019e59ff-a85b-4d81-bfc4-f12eef25cd86",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #486)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5834,11 +5834,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2e263a9c-3e8d-42bb-9f06-ee4d25ef3abb",
+    "id": "24c24ef8-b397-465b-b7c7-19a127377b4a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #487)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5846,11 +5846,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "339e3069-3431-4bf7-ae62-b7fad0487f3c",
+    "id": "f82dc19c-a4ae-42df-895c-8d91f68b32fc",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #488)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5858,11 +5858,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5757da06-3620-4f19-9a92-88db805e0769",
+    "id": "92867afa-8ba1-441f-bc42-d654f6ac1acf",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #489)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5870,11 +5870,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "24f03f61-7101-48f2-bb0a-37f31a8606ea",
+    "id": "6a6b27bb-4320-4476-a0fc-654aa0b895b1",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #490)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5882,11 +5882,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6aad1268-2ff4-4fdb-93ef-246b79cf0313",
+    "id": "5c516e9d-5e43-4c5e-a67c-b2783f073c66",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #491)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5894,11 +5894,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7e957a67-0457-4359-b91c-21aab43c864f",
+    "id": "4526191f-cfd0-4a60-a8b3-6e18b4f2e0b1",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #492)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5906,11 +5906,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4e1721f2-6024-4b3b-a979-37065e720436",
+    "id": "63db8a41-2607-46a4-979b-08f2749c3da8",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #493)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5918,11 +5918,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3fc04f45-21f3-46f7-b00c-b0b278bbbb67",
+    "id": "ffc1207d-4aa6-4f63-bb6b-3f7d55fcc030",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #494)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5930,11 +5930,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "eebc1747-4d04-4d2e-bb02-bb0113144ce6",
+    "id": "adb4587a-80fc-449b-92b8-ecd59e13e0d8",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #495)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5942,11 +5942,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d11fa46d-e353-4dca-9eab-4fa60a2536d6",
+    "id": "b22b2174-583a-4778-b192-2f653236874c",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #496)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5954,11 +5954,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6a8eaf2d-4a34-4a6a-8fc3-11e4a0331cf3",
+    "id": "8839345d-c082-4c3a-896f-e6e9f48da8ce",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #497)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5966,11 +5966,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9f8ab9c4-4d18-4aee-a1ce-0c68be788059",
+    "id": "b06da8fa-972f-4b0c-a7ac-6f75f3a76d23",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #498)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5978,11 +5978,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5810973a-6777-40e9-9a12-00cda1b17890",
+    "id": "6ac549f4-3bbc-4450-a4ef-dd2d7e849de0",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #499)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5990,11 +5990,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e561f95f-b316-473c-82a2-415aad6027ff",
+    "id": "572f0de8-a9fb-4dbb-ba5f-9720e6bd5378",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #500)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6002,11 +6002,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0ee33ce2-2a83-4382-ae35-e244717bafc3",
+    "id": "dc484180-de83-4455-bc1e-47488f84387a",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #501)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6014,11 +6014,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "19560d58-ac47-4d16-bbb0-6ccc10ae38d5",
+    "id": "4a8c023f-ed4e-4b69-aba1-b8f3fce4e128",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #502)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6026,11 +6026,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1f094731-26a5-4f6e-9d5b-545df8eb3733",
+    "id": "e1a5659e-c9f5-4e37-8245-0c21ce2bef3b",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #503)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6038,11 +6038,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bce35a33-c640-47ba-b69e-e4d413d5939d",
+    "id": "7a860f02-46d7-4dda-899b-4ac56de44c51",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #504)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6050,11 +6050,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2cf11375-9c06-42d2-88f0-d9976c8d5a84",
+    "id": "8cac38c7-8854-4d74-bc3e-2785d6edc495",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #505)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6062,11 +6062,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a9df2696-0d83-4c0d-96ca-656347ea03de",
+    "id": "5b4c0d99-11b4-446e-9ded-92b3329b762e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #506)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6074,11 +6074,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fcb00574-1019-4af2-b043-cd49719cf960",
+    "id": "8c5497fc-144b-4665-a02d-06ada0a45f37",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #507)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6086,11 +6086,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2af6550d-0f91-4cef-b0ed-d7679289cb00",
+    "id": "5d0c7978-c020-4097-9b79-e4a24ffb7cd3",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #508)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6098,11 +6098,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "479ae4ce-a71d-4fb7-a0ab-ffc4351f1712",
+    "id": "8278db9f-3a7c-40a7-9486-74d02e0a04d4",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #509)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6110,11 +6110,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b4b0b05b-5869-4775-a5cd-d7c29f3530b5",
+    "id": "176089da-407a-41af-9605-41accb58c400",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #510)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6122,11 +6122,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c2a89a96-a222-47f3-bbc0-e2c18952179d",
+    "id": "b3c0a055-afa2-40a5-b1fc-b09de9274f29",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #511)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6134,11 +6134,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "188d3f32-a2a5-41b2-b47c-8af0a02143f3",
+    "id": "4a2b3f62-0e3d-412e-bf4a-fdbc8cf803fa",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #512)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6146,11 +6146,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8c2ab169-ba78-43a0-a19f-3a5170f4ba43",
+    "id": "000fef89-7104-42dc-b437-35d4bf5b2e90",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #513)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6158,11 +6158,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2ac2ed05-9f4e-405e-8f48-695a22f3f307",
+    "id": "40d4ca6f-d8c4-4e60-ad01-31304a75a87c",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #514)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6170,11 +6170,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2a6de28f-088c-49fb-ba14-89ff1ecdde06",
+    "id": "37ce2a1d-449a-4eac-ad6d-fc2007d192df",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #515)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6182,11 +6182,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "babf9675-c157-4976-8bfc-30f3e36583fa",
+    "id": "0f5efd88-dee5-469a-a26d-6456b9ab485b",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #516)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6194,11 +6194,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "345099da-89b0-4adf-b878-a6ca0643b5fe",
+    "id": "34c23493-9e20-4188-aded-ef82f32cb08a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #517)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6206,11 +6206,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9552e097-e536-455e-bf97-f7f0cd03c49b",
+    "id": "bb6eea43-5a69-473b-a773-d857b9db2c90",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #518)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6218,11 +6218,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e1a22446-dc4a-47b3-b254-055300d9192f",
+    "id": "673d383e-39d5-4c12-96a6-8cc64fce638e",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #519)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6230,11 +6230,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d7e0ccb3-c127-4010-9eb4-8998c9caf78f",
+    "id": "6b4c32ea-3ab0-44f2-b7d9-57c09df2a13b",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #520)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6242,11 +6242,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9b75bb75-960f-46ad-bf43-41ef7743d82f",
+    "id": "e6fd8b53-3908-4300-86ea-899eeab6db24",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #521)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6254,11 +6254,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0f40db76-f30e-4289-8ab3-f6fcd6e50e01",
+    "id": "1c4e7460-4240-404b-bb25-4a4f0922ce54",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #522)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6266,11 +6266,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "990897a8-ef18-4d6c-9efe-8182b608e98e",
+    "id": "54f8108a-e66c-425f-913c-c92db63bf427",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #523)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6278,11 +6278,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "30eee432-7b6b-43cb-b62d-b9b84ceec817",
+    "id": "924d134e-5efe-4657-9031-e2798de36454",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #524)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6290,11 +6290,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "dc7ad229-57aa-4abb-8631-9fbc21723c01",
+    "id": "a918c9ff-6af3-4a22-8490-b301849cc637",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #525)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6302,11 +6302,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ccbc2780-d710-4f12-b13e-6777a893f26c",
+    "id": "e5fdac8a-15a1-460d-ba09-3fe7f1c1aa08",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #526)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6314,11 +6314,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c974a71f-acec-4c72-bc0d-bb223c9298a2",
+    "id": "0e002bcc-c502-4060-828d-b6aa068707fb",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #527)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6326,11 +6326,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3ddec07a-431c-4c16-a535-fb71b784b8ec",
+    "id": "f577e2e6-15a0-416e-a1e2-3ab95fb31972",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #528)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6338,11 +6338,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e806a486-dc4d-4d98-ab28-77057be78fb6",
+    "id": "8e038c9b-67aa-42a9-903e-4ecb1524f092",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #529)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6350,11 +6350,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1ae0bf05-7adf-4219-a6e6-f15bd66f7270",
+    "id": "f8a95509-0d12-4395-bddb-d4d5c2ef78db",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #530)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6362,11 +6362,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "89cecc0e-4451-41b5-b7c1-bf3718d5f271",
+    "id": "4e119e2c-dd79-47bd-ba17-f2bdb5faaa87",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #531)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6374,11 +6374,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "941deb2f-650c-48c0-b00d-ac7a8ca58484",
+    "id": "b4b5d50a-f8ce-4017-a217-d5f3836e0d53",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #532)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6386,11 +6386,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1bd6bcae-4440-4d79-a049-3e1ccecbd5db",
+    "id": "37d03b41-fe02-44cd-8917-0f67ae112d22",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #533)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6398,11 +6398,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9b2fc7b9-b1f5-423d-82bd-ebf2d26091bf",
+    "id": "e15a474f-fbcc-4533-ae99-3065abb0927c",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #534)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6410,11 +6410,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fd7ecd9a-f091-4357-9578-063f59aff5c5",
+    "id": "7eb2e9b1-4c84-4068-9f2d-6b3c90bcf315",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #535)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6422,11 +6422,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "21687341-80a5-46e6-828b-0b706751c99e",
+    "id": "c850f822-1180-431d-8248-044c36dff7a2",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #536)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6434,11 +6434,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2da4b932-652c-4f30-be53-8e40b5a358c3",
+    "id": "e0c541cb-889e-42c0-bc33-6400437a357c",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #537)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6446,11 +6446,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a46fb4b9-6715-4e34-91a8-f8324d956ad3",
+    "id": "c30c88d1-c4d1-4176-b31b-6f89340ba07e",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #538)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6458,11 +6458,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d59fb82b-155d-4db1-948c-c918efb26f12",
+    "id": "e7a613c8-d854-4872-8d9a-f2172b65ba98",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #539)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6470,11 +6470,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b906d358-1f3e-4ae8-9ef2-7e014c5a2f2b",
+    "id": "b8883119-cf19-4eda-a903-b588b8966d4f",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #540)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6482,11 +6482,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d014d420-66c5-45c1-b3fe-36e54e1bffb3",
+    "id": "998e9085-090a-482c-9016-9fcec3cdbaf6",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #541)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6494,11 +6494,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "66796ef3-5275-48db-8b1c-26df9b349498",
+    "id": "01fcb412-064c-4d5b-8d3c-fbbfa42164ba",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #542)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6506,11 +6506,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "01649c1a-2192-459d-93a4-513e3efc66d6",
+    "id": "e39eefec-fc36-4370-bc3a-38d01c65ebdf",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #543)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6518,11 +6518,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "668cfd84-e072-4d01-99fa-9c9b254a794c",
+    "id": "1d7c4828-ac95-475c-baae-e19182e955de",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #544)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6530,11 +6530,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8fe2861a-ec51-44a0-b519-b746c05cd4b8",
+    "id": "6c2c3fbb-c45b-4491-bacf-d67aaa16969f",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #545)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6542,11 +6542,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6d3259d8-f1ba-486d-bf79-ab0fe83e96f2",
+    "id": "df445e5f-c240-42bb-a485-68cce9d9d027",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #546)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6554,11 +6554,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a62bdbe6-37a8-45b5-bf7d-98e032827140",
+    "id": "8c34f3e5-8168-4007-add5-e39cd4dd8116",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #547)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6566,11 +6566,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "eccfbac6-2a6c-4b6f-909f-4564fdc4c465",
+    "id": "69647c68-adaa-4d31-81c8-a0d91c123088",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #548)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6578,11 +6578,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5f0010f2-5f10-49d1-9bf3-ff79b9e50940",
+    "id": "5b759ae6-3ada-4cfb-ac77-bfac86d0d9b2",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #549)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6590,11 +6590,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6b1e80de-4c41-4a70-9997-a12107191e0c",
+    "id": "7f7f8767-82a3-450c-972d-d21eca9e0ebb",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #550)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6602,11 +6602,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "46e0fde5-bd8d-4cb2-a11b-0891c8947042",
+    "id": "b222daf1-5dd3-4239-9ee1-d7a9fc573d58",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #551)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6614,11 +6614,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e797f7c1-33c6-4790-ba8b-aa4308046a2a",
+    "id": "025771e7-a45d-424d-9010-aab12e080e4f",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #552)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6626,11 +6626,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f0bf597e-0515-45ad-84b5-3571ba62614d",
+    "id": "7debe0c1-bd0f-4efb-b22b-d19273a4a85a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #553)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6638,11 +6638,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0f0463b1-fe09-489b-ba2b-8a8357a5267b",
+    "id": "bdf4f23e-7bc0-4c39-8cc3-d56466ba834e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #554)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6650,11 +6650,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7f9e47bd-7ffc-47e3-b8e8-39c5b350c318",
+    "id": "45f1e5a5-3146-4f5d-b31f-9a19f9c5b91a",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #555)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6662,11 +6662,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "20fa4cb1-28a2-4687-85f9-1fed56d38d63",
+    "id": "865342d4-a9f7-41ab-bf80-55697d65d710",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #556)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6674,11 +6674,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1fbfab6a-f5ec-43c4-b724-9fcee4f25b44",
+    "id": "c337b5cb-c213-4151-9b6d-feb3d2077913",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #557)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6686,11 +6686,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "52436141-5d52-4469-bb77-0bc2a8e12469",
+    "id": "d96dfeb7-b74e-4959-8883-241bd9a69940",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #558)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6698,11 +6698,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0859fb29-6d18-4f96-ac93-242c77d5770a",
+    "id": "154fd17f-b311-4b97-88b9-7d5321b42fcc",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #559)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6710,11 +6710,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1b5fdd18-5955-479b-9e9d-3555d34a2da5",
+    "id": "ccaa3500-95c1-4d5a-b94b-47fbd9763833",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #560)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6722,11 +6722,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fb1203b1-e8ac-4915-9204-676d67370870",
+    "id": "5fded08d-6363-4db1-bab8-d07ec111813f",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #561)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6734,11 +6734,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7fcf6207-8aae-4fb8-ab88-67ada4919e0c",
+    "id": "538fff6f-cc27-4117-b534-9f47aff824f0",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #562)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6746,11 +6746,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "66fb6269-c286-4c1c-ae6c-f96ada17b41e",
+    "id": "4c8ae288-cce2-48b1-bbcc-4eddd9ec75b9",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #563)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6758,11 +6758,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9b672699-051d-4088-899b-46879dee51e1",
+    "id": "fa9136c1-1476-497f-9a62-5f06001f4314",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #564)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6770,11 +6770,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6583480d-de5e-46fb-beea-aaff36b59955",
+    "id": "7e685c25-1654-4c54-a242-499c2e24e0c3",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #565)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6782,11 +6782,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3490eeec-ec01-4aea-99e4-58b90a04be29",
+    "id": "31efb4f8-e30b-460c-8ea8-f543bc8df9fb",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #566)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6794,11 +6794,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "86e76cd0-8646-428f-9217-09c14baf1311",
+    "id": "0644e104-1ee7-4a44-aa05-88cd27147b93",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #567)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6806,11 +6806,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "84df0b73-f3af-4673-804e-ae0c1ccb4746",
+    "id": "880338e7-df22-4236-8e49-478fda77f948",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #568)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6818,11 +6818,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6745b1f5-9978-40c2-b3a7-1d5396d0e1f2",
+    "id": "43ba1277-db6c-4591-a5ef-04324872bcb8",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #569)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6830,11 +6830,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c5ea281c-1400-4bfd-8d4f-cb28c0899c44",
+    "id": "9bf888d2-a02c-4e5d-bb58-eb7e33a38096",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #570)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6842,11 +6842,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "364e9c6b-96be-4545-a331-2e086ab62fac",
+    "id": "209f0ba6-d2e9-4cfe-9658-d5ed3ee401ca",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #571)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6854,11 +6854,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e7304d80-5fbf-421d-b351-18ed2e001b1e",
+    "id": "717b8490-eed6-4465-a883-7b67b9e20457",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #572)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6866,11 +6866,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e39eeef8-ffa8-4aee-a083-f3be6abf578e",
+    "id": "b98a572b-b65b-4d3f-8950-1bfabafdc928",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #573)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6878,11 +6878,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "39cfea7b-2445-4bd0-ab5b-aa1c30ab83e1",
+    "id": "bfb52786-4f4a-40bc-abdf-863548a7ed42",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #574)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6890,11 +6890,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6fedc0e4-78a4-46cb-a942-337c3a29a9d6",
+    "id": "2aeca0b8-7582-4a97-94ba-8b4cb031f8ad",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #575)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6902,11 +6902,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9aed9b1e-4977-4dba-b390-07e0a7647801",
+    "id": "3bea5d74-eef8-4f95-b239-eb584804961b",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #576)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6914,11 +6914,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bca2d88e-34bf-4eb0-b955-899e159010c3",
+    "id": "84f5b417-6313-488f-bdcc-43fff72d3f3d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #577)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6926,11 +6926,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ee43c623-9116-483b-9693-039be46f0101",
+    "id": "245d5db5-db7c-4094-9270-c1986376024b",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #578)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6938,11 +6938,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f8a3eefd-ab86-4768-8e94-71c7beed1f23",
+    "id": "488ffe61-f2eb-4538-a35c-6231d9105845",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #579)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6950,11 +6950,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "42d96754-5700-4ba2-82b9-f567815f3db9",
+    "id": "cd60ffbd-e04a-49e1-84ce-c1eef852a05d",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #580)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6962,11 +6962,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5baa427e-f552-487f-aabe-303433c8da2c",
+    "id": "f3868cdb-f498-4149-86cb-980c8419749d",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #581)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6974,11 +6974,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a1f23def-82e5-4fa7-9552-85183b9d9516",
+    "id": "1582a475-fe7e-41d5-8570-3ccc7ca6e938",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #582)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6986,11 +6986,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c2eef76d-8e1b-4100-acdb-c03ea68b19f4",
+    "id": "ef3a894f-cf4a-419f-a778-7122c24e876d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #583)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6998,11 +6998,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2ee8a5aa-0096-4b26-8887-c7f2f2be91c2",
+    "id": "a1545f7a-bf4c-4ae1-ae6d-0d858082e052",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #584)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7010,11 +7010,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "09f18659-f35d-43cd-86d3-59c4dcf2e530",
+    "id": "9e677bce-55e0-4f71-9ca8-ef7cfd08717f",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #585)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7022,11 +7022,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fb49575b-8419-4128-aa47-7ce14ba2520f",
+    "id": "1c40b0af-3fa0-4c03-a931-833cf70180cc",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #586)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7034,11 +7034,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a648406f-bc52-434d-b60f-3e71cb398be3",
+    "id": "d4a5cb4e-1db8-45fd-b8d5-8dd9b9202992",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #587)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7046,11 +7046,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "49540238-f647-4587-9fa3-1a9f61987d08",
+    "id": "dc6350c5-ea6a-4639-811e-bfc03d4e80d2",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #588)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7058,11 +7058,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3730df32-9b73-4142-94e2-87a9a26ae879",
+    "id": "bf4bd14a-74bb-4be6-8fe3-ad350fc6b95a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #589)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7070,11 +7070,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e1327bcb-3c97-43ad-bcbe-9176629de5a4",
+    "id": "c80cbb69-d407-4d77-b88c-8f844d00d022",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #590)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7082,11 +7082,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "51f41304-6540-498e-b915-bb971d37b1ff",
+    "id": "9e5e542f-5137-4cc9-9ff3-34868b855820",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #591)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7094,11 +7094,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9b696a11-b30e-4455-862b-a228bfd6adf1",
+    "id": "e2313896-09af-486b-86c5-006f2cf18f28",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #592)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7106,11 +7106,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e0cdbbd2-2084-4bea-b53f-184f6727bdda",
+    "id": "8f2aefb0-4c63-4600-86a5-58020d5d8e16",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #593)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7118,11 +7118,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "802cdcea-b961-4ec5-8a63-ceb55b935bb7",
+    "id": "fa56f3ab-a494-4e14-b8bc-f4e372c64aa4",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #594)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7130,11 +7130,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4b2f5088-a8ac-457d-b5db-0cb7aff54cfb",
+    "id": "1eed9e50-0a27-4e07-a4ac-5d893aa5a94e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #595)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7142,11 +7142,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b3e811a0-d11f-4bbc-944d-dadde5403d74",
+    "id": "cf384099-4d85-4533-bb3d-4f50f76d14fc",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #596)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7154,11 +7154,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "495b14bc-fba1-4145-9c5c-3203aad41ce5",
+    "id": "bc043c87-12c1-440b-9647-1e04153cc87b",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #597)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7166,11 +7166,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5b26e687-7302-4495-9b65-371935a18b23",
+    "id": "d108d95b-efc8-4c9f-9dda-33c4392a7f0c",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #598)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7178,11 +7178,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2d7648eb-3313-4fc7-990e-2c7301055bfe",
+    "id": "e19debc6-d8da-41e5-a47e-bb06cde33f16",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #599)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7190,11 +7190,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "25f1b837-dcd1-4a3b-90d4-2ac511a060cf",
+    "id": "864577af-e450-456c-a0c9-badf18f6e149",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #600)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7202,11 +7202,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "14cd0d51-6e36-41b4-99e0-574f00ea0582",
+    "id": "d1bae80e-777c-462e-9bc0-098e2e51d831",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #601)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7214,11 +7214,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b2657d70-ea25-4c20-b252-8be5d0e3b478",
+    "id": "92bb279d-6fac-4b6e-9ff9-0843a76cc0d0",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #602)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7226,11 +7226,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "40b000a4-93e3-44cd-99fd-54f3083174da",
+    "id": "e36c2d18-2930-48ca-9a1d-6ba81d2355d1",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #603)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7238,11 +7238,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "dfa93a83-cfdc-49ef-9001-c8523633bf2b",
+    "id": "f2b76590-0268-4bfa-9187-7e278bb4c885",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #604)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7250,11 +7250,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3a7374d9-1b0c-4b1b-8ef1-59c90863e10b",
+    "id": "ad7f825b-ec98-495f-a678-744994f81413",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #605)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7262,11 +7262,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "46dff649-e3c3-45a0-8d64-656eed80ee86",
+    "id": "8144ab30-ddbc-4f08-a9b3-1a0152bdd035",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #606)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7274,11 +7274,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bb9c5936-0973-423c-abef-e5774b55cfd1",
+    "id": "255b44f8-a371-42ac-b5af-28b1149f89d4",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #607)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7286,11 +7286,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "99fa06ea-c750-4d55-a878-0d930d6b9668",
+    "id": "05beadd6-6a73-4bcf-bc5a-54939727bccd",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #608)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7298,11 +7298,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c088ff60-7d53-412a-bd78-35ab757d0d4b",
+    "id": "a43c2d1f-8f7f-4789-861e-13c72eed4c67",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #609)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7310,11 +7310,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c4c4b68b-0deb-4734-bac6-ff28753dd578",
+    "id": "a4885d55-2b93-4fa1-ac44-606513a381c9",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #610)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7322,11 +7322,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bcbfdce2-692a-45c1-9991-1d7d9e5f44ba",
+    "id": "93b00ee6-4d09-402b-bf0b-d6f9f8dede9e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #611)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7334,11 +7334,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "aee4e4a6-a8ec-4fdf-bd60-0e6ee7310e27",
+    "id": "d429afe5-724b-47dd-a7d4-aaf3579a30e6",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #612)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7346,11 +7346,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9ed7f09c-1112-4181-bd51-72d71a1173cf",
+    "id": "b97c78ba-71a0-47c6-8c9c-1c62274221ef",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #613)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7358,11 +7358,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f89f1a71-5f05-47d5-8e4c-ee27f088620b",
+    "id": "6ce28568-ce39-4c1d-a4de-a090d971d5c5",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #614)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7370,11 +7370,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "342eba96-5774-47be-9409-cd700d83ec21",
+    "id": "5d7b8ee2-42ee-422e-9b5a-01efe388dd0b",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #615)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7382,11 +7382,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "19c8e038-0b33-4f4c-81e6-e4dcbb3c5f48",
+    "id": "b969939e-d90f-4a8e-865b-563a84136950",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #616)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7394,11 +7394,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "98b9d8e8-4212-4d5e-8b11-a78859950741",
+    "id": "361e06fa-1038-4bcf-9687-0730660fc734",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #617)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7406,11 +7406,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2d2edbc4-1310-42d7-980d-8cfd0bfc1e22",
+    "id": "90b8c1fa-3aaf-4f49-9c9e-036cda34889b",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #618)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7418,11 +7418,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d711ec89-ce69-466a-a14b-8182a562db83",
+    "id": "eb4d4a31-eab5-4937-9ed1-4b07c9b74afc",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #619)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7430,11 +7430,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "82176f48-4a52-4237-b7d6-6ec42e9e8309",
+    "id": "554810c2-e15c-4cfb-988c-b7e2188653fa",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #620)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7442,11 +7442,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "088f228d-adae-4f55-9882-bf02a47d60e6",
+    "id": "f17ee698-67d8-4a3f-aa25-54bf1aafd7a1",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #621)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7454,11 +7454,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "acbee400-887c-4f75-bb2d-43985f2075da",
+    "id": "5be85ad0-1dbb-4992-ba5b-f858576c210c",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #622)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7466,11 +7466,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "51817d1e-0ec2-4b13-a55f-7efe3abd01a7",
+    "id": "c7124fdc-5fa3-46b3-9329-e1eddedf6721",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #623)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7478,11 +7478,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b7e25e9c-03cb-4d7f-b354-e4caa464af08",
+    "id": "86f95526-9a83-4260-9f7a-172371d0ae96",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #624)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7490,11 +7490,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "70613a23-dc05-4775-911c-a2f389236713",
+    "id": "bdbc63af-30ea-4401-80d0-8f9a49be7a60",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #625)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7502,11 +7502,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4a12482b-8e70-468f-97af-9511128b4a6b",
+    "id": "231a0839-414c-40dd-b759-0c281d375b0d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #626)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7514,11 +7514,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f90250ec-b72f-4024-a34f-a89e1a42383f",
+    "id": "5984396c-4dc7-4f55-b3d9-65898a8477bf",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #627)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7526,11 +7526,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1cebb6aa-ddf4-4b15-be29-fd62f8fa3a6b",
+    "id": "f3784b64-3376-418d-bad9-981666ec26ab",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #628)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7538,11 +7538,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0e8b2994-f979-48b2-8bec-38298f65baef",
+    "id": "802ecf07-1e71-4a0e-af27-8fddc5532d65",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #629)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7550,11 +7550,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "66d85968-58dc-4ce1-85bf-2b428a4ffe8b",
+    "id": "8873e72b-8b2c-404f-a60d-f31c2e10ccf6",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #630)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7562,11 +7562,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fc58169b-81bb-48f7-9bbb-c89de75dd090",
+    "id": "efa86fa2-3ed1-46c6-813e-c5f8a60e1bba",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #631)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7574,11 +7574,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1e7b2fd4-27e8-4165-96d6-740559d1e21f",
+    "id": "efef5b94-4cf6-487c-bfa9-e45c0e75741f",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #632)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7586,11 +7586,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "052e8186-1ea0-4044-8124-e0cc49d2cd62",
+    "id": "21ddd2f8-46db-4217-b99b-17c55e889422",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #633)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7598,11 +7598,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7b40ddb8-49fa-44e4-9ee4-052811d964dd",
+    "id": "4005c94d-7e13-4c06-8ea5-69a1338a481b",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #634)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7610,11 +7610,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5e52020d-85a1-47b3-86a4-bc00665f6127",
+    "id": "9cfe9d5d-5e4d-465b-ad42-cf80a980482e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #635)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7622,11 +7622,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "57d23a57-df3f-4d83-b3cb-945dc8b333b5",
+    "id": "a1286f19-b294-4562-a506-7d998ddee58e",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #636)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7634,11 +7634,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "46c61ae8-6055-4135-be9d-4dd18b34e47b",
+    "id": "9db6f616-ad9f-4e54-b048-dbc173681a3d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #637)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7646,11 +7646,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4ea37c6c-a2fc-417b-a627-707eb86d062c",
+    "id": "3e10ac3a-d00a-41fe-9f7f-a781e972360a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #638)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7658,11 +7658,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "567973e1-2556-4ad0-9570-fe0ee20eb0f5",
+    "id": "d4d80087-58b0-4b9b-8f07-1c865a8c5988",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #639)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7670,11 +7670,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "76e80d25-55cf-4673-95a7-e258d8711e7d",
+    "id": "8d8942fc-144f-48db-bab8-06ef3c814694",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #640)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7682,11 +7682,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4e7661fc-a9cd-49e6-b226-772b2c870713",
+    "id": "5bf2824c-c01f-4be8-9247-c25beb369dca",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #641)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7694,11 +7694,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "60af0de8-6888-47fe-a566-1aa05091363e",
+    "id": "c41e5b09-2615-4e0e-be17-49eda6c8e670",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #642)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7706,11 +7706,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9a1a7b86-cd32-45a0-9b37-823cf1d04256",
+    "id": "f480b4c1-04fe-4b66-bc86-60ada6ac42df",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #643)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7718,11 +7718,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2fd22703-6e0e-4641-8a1b-0397004c57d2",
+    "id": "242069c9-b461-4dcd-9324-f286ca524ca4",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #644)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7730,11 +7730,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4e4d6b45-4455-4de0-8a1c-9c7945aec444",
+    "id": "f3c420bc-f104-4dd5-9474-36f7a7ee1cec",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #645)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7742,11 +7742,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e4744c2b-588a-416a-91a1-e4a76852785f",
+    "id": "4d45c143-cbb0-428e-aba9-3d2ced1af2fb",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #646)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7754,11 +7754,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f88ea2ef-73bd-4a37-9860-5d2d88227afc",
+    "id": "327b67f4-6ee2-4f77-a462-838d909582d3",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #647)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7766,11 +7766,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d6254663-c3a9-41a1-b3c1-66b927c02200",
+    "id": "c58cc077-5746-49e5-ba2c-b1b50f1ce817",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #648)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7778,11 +7778,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "23f5d183-edc0-4198-9c53-c49c4f87e6ee",
+    "id": "e2756fc4-0eeb-429d-8179-f26b04676ee2",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #649)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7790,11 +7790,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e2f4d2cd-3bca-4c31-9def-8711f5f6e2fc",
+    "id": "7e15fa88-9e31-422f-87a4-f765a89c28a6",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #650)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7802,11 +7802,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "78a262dd-8f4b-4eaa-9c41-a79b425207bf",
+    "id": "c577b78c-5cc2-4c37-aa38-0b526189dc3d",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #651)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7814,11 +7814,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "748c2cd5-67b3-4e7e-9633-45cd117d34d3",
+    "id": "7bdec288-ee09-454c-a075-02886efa04ab",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #652)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7826,11 +7826,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "23c3c692-0fb4-4eb9-962b-b13daa61467f",
+    "id": "8ad8961f-7122-471e-b150-ed5afd5a4e33",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #653)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7838,11 +7838,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bd41cde7-f715-4635-80e2-75099e4b453b",
+    "id": "94a9279e-f5c5-4dc9-b9e9-e8d8a1dc48fe",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #654)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7850,11 +7850,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e6ce3301-ea4d-49a3-a64a-86d2782bf888",
+    "id": "02b27eeb-9f84-4705-934b-a83d84c846f3",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #655)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7862,11 +7862,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5fd3c554-8255-4c87-8ab5-9c906945a04f",
+    "id": "6249366d-8ba1-4b4b-8ed6-ff49eb1c2d8e",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #656)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7874,11 +7874,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f1798332-b81f-4db1-9f55-6ebe59967852",
+    "id": "3a94699d-15a2-46b2-aa1e-0a1337bfa73b",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #657)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7886,11 +7886,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fe741bb1-5c85-4363-a67e-72b21aef0107",
+    "id": "e34d2311-4e73-49cb-a3e0-a5762e35d6a1",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #658)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7898,11 +7898,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4c1520fc-6702-47d0-a0a1-ed9f86704570",
+    "id": "2fd6eda1-1ece-4065-b799-8765f4239357",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #659)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7910,11 +7910,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a3e65599-faab-4e00-b5cd-d2b8f3ef1b87",
+    "id": "e18a2acf-3ec6-48d3-9faf-1bd09d2d49b5",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #660)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7922,11 +7922,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ba0139b9-93e4-430f-af89-519892187e08",
+    "id": "d1b9fc57-ef12-4116-b425-cc3a9a0a35ae",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #661)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7934,11 +7934,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7660899c-b4b1-435a-8fd0-ca0bc6fc8caf",
+    "id": "1996df1c-8d2b-4357-8f73-23ab9bb6071e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #662)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7946,11 +7946,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "84c0b9e4-85b7-4c62-98dd-f1d85aafa042",
+    "id": "323142a3-509e-4518-bd6b-b93e70df2b93",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #663)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7958,11 +7958,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "936cf0a6-212c-4dfe-b008-a57fe81166dd",
+    "id": "e58353ee-1dea-42a7-91df-4b1e9e2081b6",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #664)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7970,11 +7970,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "234cf320-0f5e-424a-8878-dc48fced9ba3",
+    "id": "5745c681-981a-4aeb-8823-5d02620f0686",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #665)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7982,11 +7982,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "12160074-18b2-431b-8e0b-19a09a75390b",
+    "id": "4b08358f-f3a5-4340-b327-927f8ba8fcf4",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #666)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7994,11 +7994,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5c4b92a6-9f85-4a34-87f8-8efd76a6fc38",
+    "id": "ca621ad1-1164-4d42-851f-b51fa8c8b1f9",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #667)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8006,11 +8006,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "491fc908-ffd0-4428-ad9d-f05fbaeb8e9c",
+    "id": "bbd5b3dc-30f6-44f2-8764-e6acea465c06",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #668)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8018,11 +8018,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3cdb02e3-00aa-4d56-85d6-d41340c99f97",
+    "id": "1e5fe2cc-23a1-4b11-a12e-8ed86e463b3a",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #669)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8030,11 +8030,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2ae7c568-465e-49e1-adcf-4aabbb49eb99",
+    "id": "d65751bf-548f-411e-9bec-9d301140d8ca",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #670)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8042,11 +8042,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "785ee57f-7680-4d8c-93cc-49645ad52402",
+    "id": "9c875562-d6d4-4f73-ba71-a8efb9a3c566",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #671)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8054,11 +8054,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "56308666-9553-4110-928a-50ae669ec4e9",
+    "id": "d5566a6c-7758-441b-b8a1-e09b880ebeae",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #672)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8066,11 +8066,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "729cedd1-ff0a-4e5f-b707-e620a101cc5a",
+    "id": "bd49bc4f-862e-4117-b97c-b0f009ccccf9",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #673)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8078,11 +8078,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "483f482a-a30c-49dc-87c1-acb92ababd92",
+    "id": "eef8908e-0d30-4746-95b6-afa3dcf687ea",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #674)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8090,11 +8090,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a031853b-16a5-42a2-8aa2-1f255b0204d5",
+    "id": "2bb272f0-a272-498d-a34b-5a54f39f34ad",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #675)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8102,11 +8102,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "85ff3b1d-dcd3-471b-976a-51e60f602f13",
+    "id": "825cbae0-f07f-4dd9-bd2d-6bbfdba94b49",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #676)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8114,11 +8114,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cb5017ac-17ea-485f-a88e-bd7c4ef7b428",
+    "id": "fcc8bdbf-1db9-473b-9bff-48a9f39c0cf0",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #677)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8126,11 +8126,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "32bf7e84-30fd-4dd3-b51a-78d9563f5764",
+    "id": "2523e086-7b5c-4621-8803-dc0c59c6c0b4",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #678)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8138,11 +8138,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "327e55b8-c466-4cc2-999d-4c6300beed10",
+    "id": "a942d7fd-ed04-470e-9f94-ce08daaaa79d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #679)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8150,11 +8150,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8eeb8ee4-1b3c-4b6d-bc7b-cb29685113c5",
+    "id": "90520192-9e14-4131-b50c-851706088184",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #680)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8162,11 +8162,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9d69f8b6-d167-434e-9ee7-cee25589e1ad",
+    "id": "d1e4abcf-8044-48fc-9ac8-b2b5b614c87c",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #681)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8174,11 +8174,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d32ebd0c-9026-47b8-85aa-755e56451c43",
+    "id": "f9cdaeef-6245-42aa-b90d-aa9c8ac369a9",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #682)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8186,11 +8186,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f30eb2e2-67cc-4631-aa99-73b1f6016b1f",
+    "id": "9d64f1c8-a895-4b20-be82-2b9ad0bdaf7c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #683)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8198,11 +8198,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5d45aeaf-3700-47ed-a142-15d6d2b3c48c",
+    "id": "ca382490-5f2c-44ce-a168-d34879fd088c",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #684)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8210,11 +8210,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f2b822a7-7422-4cd3-ab77-bc82b06254b1",
+    "id": "d7987b55-585d-4adf-930c-6369a80c8aef",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #685)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8222,11 +8222,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3a08623a-dc09-4d3e-84ba-f1e308f5c27b",
+    "id": "a09fd8bd-cb15-46b3-a287-36185a4e977f",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #686)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8234,11 +8234,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d89fb456-590d-40ad-956c-efeb24ad9543",
+    "id": "57b9eab2-3b28-429c-8559-9ed7e3035b98",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #687)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8246,11 +8246,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ff4dc848-25e7-4890-8c72-f4a58ecacb8e",
+    "id": "18ed67bf-d622-4501-8de2-f32360640c6c",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #688)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8258,11 +8258,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "dd873d2a-e09f-4357-8ebe-53f0d615b230",
+    "id": "fee8bd0d-b539-413d-9cba-634556026170",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #689)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8270,11 +8270,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f0754299-d95c-4ba3-8f85-4b152ccf5e57",
+    "id": "5450e28c-5546-4744-b89d-4495448ca19e",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #690)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8282,11 +8282,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e20cad15-d335-484d-ba7f-d8c5e54358e0",
+    "id": "d98ac822-3482-444e-b7b3-ca0ec723a346",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #691)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8294,11 +8294,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "27124965-1ea1-4923-91e0-cd879acecb21",
+    "id": "704557c0-02b9-4d75-b68c-52bbb8eaf29e",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #692)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8306,11 +8306,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "48e84771-da5e-418d-99ca-6272ab0369c6",
+    "id": "5bd079b0-f643-41d8-9ae2-fdffb91cc671",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #693)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8318,11 +8318,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5ef91dfe-ed1a-4232-9cf9-ffeaeb53c169",
+    "id": "afe101cf-ee14-4d44-872d-055f4f161e57",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #694)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8330,11 +8330,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0fe94e80-baa6-4d46-9d35-8282d1736a24",
+    "id": "05e669f5-f3cf-4cba-8f38-42ace0185e2d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #695)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8342,11 +8342,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ae577424-f240-4ddf-8306-43fc93e4f1a3",
+    "id": "9d679c30-f78c-4cb1-a85b-1bbb4ac77fbb",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #696)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8354,11 +8354,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f83d6cbd-d630-4de5-998d-9ead98e1cfd0",
+    "id": "019e7b0a-923c-4468-9cc8-0f3ed507b1c3",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #697)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8366,11 +8366,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "39fb9ebb-f5c7-4237-ad16-6f3abcc3be34",
+    "id": "fdc43f48-3ee2-4527-93b7-bff841cb4832",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #698)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8378,11 +8378,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "488c5dea-008c-47a4-a949-b2aa98dd8b05",
+    "id": "6e2234ba-ab30-47fa-9c49-0eb0992164cc",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #699)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8390,11 +8390,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3e6a607e-58fa-4de6-a365-8cb45380eaa3",
+    "id": "be53f35b-b17d-4fa0-b7e2-8b52a8901d10",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #700)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8402,11 +8402,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "117ddcea-5bbf-4d67-99ff-d512946d565c",
+    "id": "3d7e287a-b8ba-400f-a0b5-2b4ff9e198c1",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #701)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8414,11 +8414,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "dcec9cb7-a0be-4f38-9bfd-f2ef0dc4034c",
+    "id": "4e9b94cf-1830-450a-9f9a-36401ea62626",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #702)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8426,11 +8426,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4c787778-e4fd-4d28-93d2-38daf4cc4567",
+    "id": "4b1c3371-f903-4b50-9c82-fd8a756948c1",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #703)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8438,11 +8438,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "be913b9b-e7c4-4b98-8b9a-37e24ee0db4e",
+    "id": "2fe8b801-f3be-49f4-8ea6-bba3a4b5bc36",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #704)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8450,11 +8450,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "48e407c2-3efe-4400-8d60-79f309a2ecd1",
+    "id": "c14674a0-00ba-4b58-9ebe-f54ddc2df35f",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #705)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8462,11 +8462,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "66101510-577b-4aa2-87df-194e61719207",
+    "id": "70ee7015-ee2b-4d03-ab23-3392b5202f9c",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #706)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8474,11 +8474,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "89be9458-6312-40a2-8b1e-33f4c966a332",
+    "id": "a93ad038-fe5c-410b-9457-6b5425f3ac04",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #707)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8486,11 +8486,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f139af77-e8b1-449e-a5ad-60b6c3abef94",
+    "id": "e3ea16f4-12ad-4d1a-b042-373b2706cde8",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #708)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8498,11 +8498,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8e9b9daf-0125-444c-a7e7-d03e68136a40",
+    "id": "637b04e2-18aa-4848-a7a7-d897517aee7d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #709)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8510,11 +8510,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a607523b-744c-4171-ac50-0326ba1c21bc",
+    "id": "b1907ac6-2bbb-4801-bcdf-b78bc2d26cfd",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #710)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8522,11 +8522,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1ecd8d04-f13a-4d15-98a0-8e96e8b7bcb3",
+    "id": "fcc42515-89fc-43ca-b401-d8c5a670aef6",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #711)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8534,11 +8534,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "379f2093-9d46-42a2-aca6-8da21fde211f",
+    "id": "2a404323-df01-4cc2-bbe8-2232632c7f99",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #712)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8546,11 +8546,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bbcc874e-f487-4306-8d1c-524b0915d92b",
+    "id": "089b5af1-d378-47dd-8b41-aa3a9517fd4e",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #713)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8558,11 +8558,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6a0de1e7-3a78-4241-ae50-1a7be4566353",
+    "id": "1392d530-4bca-4fe5-a8fc-c78aa1c458be",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #714)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8570,11 +8570,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "caf6f752-4624-4951-9808-3526c9a206a9",
+    "id": "c9ac7e4a-dd2a-40de-98ce-1d0a27a5aaea",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #715)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8582,11 +8582,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "dd7ec284-33a8-4d8a-b67b-43f8bfaa7e70",
+    "id": "6bf03338-c0a8-48d1-a8ac-9db61dcd3e8c",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #716)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8594,11 +8594,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a447a866-7f80-46a3-abe0-eec7fc4add04",
+    "id": "cb7c9a54-a45b-46cb-be79-e0d39cdd6fe9",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #717)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8606,11 +8606,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5d7f6b97-5d47-458e-adf4-699d6e5277c8",
+    "id": "037c3ca4-7166-417d-bdd5-2dc31271b089",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #718)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8618,11 +8618,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7cd0699b-d6cf-473d-a813-c04e91c51cb8",
+    "id": "7c293ab0-aed7-4f3c-9f22-1e980eb35ba6",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #719)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8630,11 +8630,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2118882b-ef45-44ed-8906-86dbd92aac01",
+    "id": "97db0eb4-9be8-4490-941c-165fe7571cd6",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #720)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8642,11 +8642,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5de40dc6-84d1-46b2-9c20-aba6bb208161",
+    "id": "8f98a0e9-012e-4223-b0e1-3434d95bc043",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #721)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8654,11 +8654,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d30929a4-15f6-498b-a6d3-19688f08d555",
+    "id": "05483fd6-a60c-48de-b816-926766b78d59",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #722)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8666,11 +8666,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "de86e698-efe3-46ae-b986-1f365c4da1dd",
+    "id": "89e8d6da-f55c-49c8-a502-ca0d9d1a1916",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #723)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8678,11 +8678,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6bd7466b-f2f0-4bd7-87cb-ced0fa6cec39",
+    "id": "7c32f921-7dc4-4c7f-99ec-e118e53c8386",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #724)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8690,11 +8690,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "efe6b8be-2a8c-4c3c-b538-fa76016a3880",
+    "id": "ee20ef64-dde6-41fd-a695-0260bbee43a7",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #725)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8702,11 +8702,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7b5ba557-74fc-426a-931e-ee46738b1443",
+    "id": "9dee3c78-e82a-48ac-9324-f7183bc809f6",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #726)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8714,11 +8714,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8a148725-f24a-463f-937b-7cd5f519aba3",
+    "id": "9a35c313-a67b-4e42-af30-1255d13226eb",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #727)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8726,11 +8726,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2e38ebda-bacb-44cf-91e5-975cfb6cf3fb",
+    "id": "6e48504e-3d30-4be5-b187-904ab14af8d3",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #728)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8738,11 +8738,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bec0e987-5aa9-4286-89fa-b5deb7feeea5",
+    "id": "02199881-4143-4636-8eb8-fe96cdc19696",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #729)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8750,11 +8750,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1cd3dc47-0441-4995-b190-d9d185daba99",
+    "id": "db8d1c3c-8dcb-4b1e-bcb1-c6dd61af5bd1",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #730)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8762,11 +8762,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d31660ab-bd6f-4c14-9245-56e734c43983",
+    "id": "4970825d-3917-41fd-9c6d-4ae9cc4d6e06",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #731)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8774,11 +8774,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "aee44735-05ee-442d-b8f2-8498488c000e",
+    "id": "7c7e554b-dccc-49dd-8c56-17dbfaebfe83",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #732)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8786,11 +8786,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c1042015-1020-47f3-b75f-e3cf97c4060a",
+    "id": "397a4e6d-f603-467e-9f14-7dca03c767b0",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #733)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8798,11 +8798,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "80f01b7d-cfcc-4e35-a15c-4ba33353d51c",
+    "id": "4de77138-0514-47da-bac4-a17be167ff25",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #734)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8810,11 +8810,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8d3d6e5c-43a2-4409-9e04-7176325a70f3",
+    "id": "5f61f686-da1e-45b4-8522-010d56327844",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #735)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8822,11 +8822,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5afc7440-2a4b-4853-bf6e-6b985d4b0284",
+    "id": "c4265eae-d16d-480d-8ffc-7efad56d1222",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #736)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8834,11 +8834,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b9b724e5-1693-4da8-8534-cf27d4a46c4f",
+    "id": "4ecfb007-e47c-4e00-811a-0619429447b2",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #737)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8846,11 +8846,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d78c923e-6ef3-4a34-81f8-d7cdf1e17bd8",
+    "id": "af25d309-6b56-4cd5-9ed3-9579491b1d08",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #738)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8858,11 +8858,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "907acca7-372d-420e-87b9-a060c79eb1a5",
+    "id": "dcc1b00b-d660-46ec-83d4-e7ee6086f745",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #739)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8870,11 +8870,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "de170e37-440f-4cd3-bf97-ef36fea2664e",
+    "id": "a7701222-7e20-4f3f-bc15-f0a29a3d4277",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #740)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8882,11 +8882,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "60d569ca-e483-4ba6-89c5-9b2a1bd2a928",
+    "id": "cb347527-3e8c-4277-a693-2edde1f218cc",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #741)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8894,11 +8894,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1e8c176d-da7a-49e1-a127-79d9190206ec",
+    "id": "ebc59f5e-a3ce-4abe-8d7c-521a6da65b35",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #742)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8906,11 +8906,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f38f4b48-61f4-4423-b7cf-a1c2fbce6d67",
+    "id": "93143977-4211-465b-8d32-466f184656df",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #743)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8918,11 +8918,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b890322b-98ba-4bad-bca4-629e1fe866db",
+    "id": "4ea446af-afa2-4724-a8d4-d1e354727a38",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #744)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8930,11 +8930,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b391b8c1-3727-43ed-b51d-afa3e6c15a72",
+    "id": "a3ae0e08-a9a5-4e93-b8af-c8b1d1795dbc",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #745)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8942,11 +8942,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7a320402-5171-4c22-8871-d163e88755dd",
+    "id": "82e43449-b8a3-4f98-baaf-b688f8c38b2e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #746)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8954,11 +8954,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c92211bb-9be6-4a7a-8601-6ed1169b9b69",
+    "id": "ef78eb53-b187-4bd0-8810-ff9b06f556b5",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #747)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8966,11 +8966,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "903bc0a9-e8c3-4638-94a0-6758b0fdb6ea",
+    "id": "0b242e57-07c7-4d4a-864d-1d6d10717602",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #748)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8978,11 +8978,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b5b137f4-ad44-42a1-9cc2-17afb781b5b0",
+    "id": "799ea69c-dfb4-4a12-b941-73b922d2154e",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #749)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8990,11 +8990,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7240a520-9afe-40e7-912f-eb8f7b6cf5db",
+    "id": "384ca5e5-5f23-4cec-823f-b6bc9570015e",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #750)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9002,11 +9002,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8f3a7a0a-1d84-4c0a-91fb-c8bdd23e3a63",
+    "id": "04d992b7-37ba-477a-8e59-d1faf4e79237",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #751)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9014,11 +9014,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2a709907-93a5-4c07-a12b-ecd1ce114864",
+    "id": "b47aa659-dbf1-4cff-9f86-d372d905877c",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #752)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9026,11 +9026,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f156ad8e-5b76-4e6b-949b-b61409cfcfd7",
+    "id": "554b0981-b83f-485a-be84-bef0e551ac8e",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #753)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9038,11 +9038,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "37618e87-ddb5-47fd-b890-e7d643e5e6b5",
+    "id": "7a71a4b5-804e-4688-87ce-bfc585251908",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #754)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9050,11 +9050,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "185e12b2-4100-4e1a-b078-a921a05ea905",
+    "id": "c84a01e4-bebf-42cd-88bf-a656ddcd3f0a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #755)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9062,11 +9062,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "70afda8e-8230-4967-87be-2b1d138a65e6",
+    "id": "4d01ee7d-118a-4947-9269-2dd336059889",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #756)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9074,11 +9074,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cc1c4c10-3e6a-4183-8464-a6b7536db20d",
+    "id": "24ad44ef-eb7e-4597-b181-f5578d2d6c32",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #757)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9086,11 +9086,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "00013dc9-3bb1-4701-9b4c-18925f3786d8",
+    "id": "16e609f1-d658-43f0-8cde-0efa418f3832",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #758)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9098,11 +9098,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d5ec1513-2a70-4936-a89f-e94a72b26391",
+    "id": "74ca06e6-54b1-4061-9e67-2391f23b2a07",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #759)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9110,11 +9110,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0ed26c09-f691-4838-b888-a612dfd64bdb",
+    "id": "53dd2c4b-9110-4127-a1a3-02be1bd5fbc4",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #760)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9122,11 +9122,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a2510c6f-6857-48e8-b0d5-6d9a36ceec57",
+    "id": "ca40da8d-2711-409d-bc9d-d5fcb235fb1b",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #761)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9134,11 +9134,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bc3b6c72-3183-490a-85bf-f449c40903d5",
+    "id": "f5df0aeb-f7e1-44e2-b88c-27a7487dabd3",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #762)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9146,11 +9146,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f89ad5b9-2a91-4049-b6e9-282b91760cec",
+    "id": "7d88bd79-3c7d-4e48-a13c-1dbd1347b69a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #763)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9158,11 +9158,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8f2d0722-1cb8-435c-b1c0-bfbc80a2e1ee",
+    "id": "476c29a0-a4c2-462d-acb0-31a28a6095d6",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #764)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9170,11 +9170,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b6ad640d-e7b3-4d60-a18e-715e15d18e8a",
+    "id": "5f0863b1-b19e-432a-84ef-5f8c915881a4",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #765)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9182,11 +9182,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ff86c8ce-fbb5-4e13-8078-964487998520",
+    "id": "500c0a73-6b06-4bba-89ac-5905d39b4155",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #766)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9194,11 +9194,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "41d767c7-a0ea-4504-b211-8e4704c2099d",
+    "id": "ce4cba6d-13f0-4ee0-afdc-43d15cc14f2c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #767)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9206,11 +9206,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "20a7549e-2f91-4888-9b59-f39d3deea5ac",
+    "id": "a178ea1e-160c-40c0-8d24-5042e57ed932",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #768)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9218,11 +9218,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "918144c0-e6c8-4721-aaca-8964bb23d06f",
+    "id": "595cb238-5d69-4fab-80e8-a2f01c6ac1fa",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #769)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9230,11 +9230,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d3409f4a-2769-4eb3-928e-9f3c711ec89b",
+    "id": "cf9fb365-ca35-4cfb-88e8-703f80c2353d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #770)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9242,11 +9242,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3eff938f-09c3-4461-9fba-5c8d1a1b77cf",
+    "id": "9fbaed2f-e5cc-4e4d-aacb-89ae60dd0804",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #771)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9254,11 +9254,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8560abdc-8568-4205-9301-5bbb3df5a6a5",
+    "id": "be7d2560-cf16-4b30-a5c7-b58b99fe8ab2",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #772)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9266,11 +9266,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1e022f62-1e96-442d-9f3a-1009ecdd9445",
+    "id": "6e817e1c-5cde-4bec-9e28-3cf01c54c378",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #773)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9278,11 +9278,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "afa96ed1-65b7-4dfe-950e-3f60aee792f9",
+    "id": "88f18455-f981-4706-8f5a-b1f9b1b7e9c3",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #774)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9290,11 +9290,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d0c77e74-3041-4391-a664-8c89b92345c2",
+    "id": "c91a847e-de68-46ef-b662-d0b4f6a16be6",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #775)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9302,11 +9302,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1c1c277f-f5f3-4e94-8d23-1c3089cde95d",
+    "id": "18c021dc-8411-46f3-88bc-b5de59db4c1d",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #776)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9314,11 +9314,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6e2b68e5-cce0-4268-95e5-65f36d1cd8df",
+    "id": "d3bcba99-4fdb-44e7-8a7c-3b0d00d2dde6",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #777)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9326,11 +9326,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "11917602-8262-44d3-949c-c593aeaff24e",
+    "id": "7c9d0db0-3df7-48b1-8991-4d1a78351077",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #778)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9338,11 +9338,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ab44d9e8-8f3e-40d5-86c3-f07e18613765",
+    "id": "b4cbcb95-6797-499c-9ab2-701f90bedef5",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #779)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9350,11 +9350,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4ab7a0e1-bd99-4865-8204-ea03de229207",
+    "id": "746894c1-6c18-438d-96bb-2ddf799b331d",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #780)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9362,11 +9362,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "244e6196-dc01-49c1-bb31-369366c68b57",
+    "id": "f3c0043d-5b17-4711-918b-3b6bfbb131d6",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #781)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9374,11 +9374,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "85ace898-d6b5-4011-971f-4d198b97e8ec",
+    "id": "a6acc564-de20-4139-a27b-dcc917287e63",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #782)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9386,11 +9386,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "84e883ca-3c7e-4177-a5d1-23d35b661d5b",
+    "id": "2da19926-fd4b-4ff3-84c8-f2a46a444bed",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #783)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9398,11 +9398,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8735a142-d350-4358-9c91-6bce529464a0",
+    "id": "197f23d2-5502-42a7-8f09-a3b5091bc2c4",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #784)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9410,11 +9410,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c8901f56-5ce5-42aa-ba33-64694d2b1567",
+    "id": "f4a34933-a706-46ee-bb9d-04bfc1bb5897",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #785)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9422,11 +9422,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "af1e1ec4-3230-494f-b289-822d0d012c5a",
+    "id": "fbde7034-fab3-4a50-a58a-12a1bd50907c",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #786)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9434,11 +9434,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "568ccefe-31ae-4938-b22a-34a6d283445d",
+    "id": "2a96bc4b-498d-40b0-ae2f-09227979d7f9",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #787)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9446,11 +9446,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d87f1f40-bf40-4dfe-9029-0ad6272a1531",
+    "id": "7d2ce582-3687-496a-8421-427511d419c9",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #788)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9458,11 +9458,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "58a86050-7ac5-498e-8017-1701e78ca2fb",
+    "id": "4303704c-01bc-4093-adb0-700fbb4a3c59",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #789)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9470,11 +9470,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "03645c58-97b3-4a42-8279-af6a72f102af",
+    "id": "5fb73f93-9a4d-4ea0-8537-2eb0530bc379",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #790)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9482,11 +9482,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f2cfa4a2-51e2-499a-96d8-2f96d0b11d32",
+    "id": "79b8bb70-f7cf-4e5d-be45-9bfd088ad9e2",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #791)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9494,11 +9494,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1e2c3ef2-5c1e-406a-8ecd-f5a7964d4b77",
+    "id": "677aeca9-c308-4b02-b94c-5e221b49f61c",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #792)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9506,11 +9506,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e090123f-90d3-439e-b2e2-08f0c7c1e288",
+    "id": "64dbeaf7-0061-4794-b65d-bd5de1529236",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #793)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9518,11 +9518,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5aac2227-fa1d-4587-9c3c-b04b4efe8d45",
+    "id": "6836b199-0d1e-452b-95de-a21c14f8358b",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #794)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9530,11 +9530,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ffc4d669-6474-4112-99ac-0e9553532179",
+    "id": "7f9da322-3764-4fcd-abd9-7aba2af2ab72",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #795)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9542,11 +9542,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8e19a40f-6dda-48d9-9b57-a5ee5720c9bf",
+    "id": "db69258a-3c25-415a-ac55-614784ec61ee",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #796)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9554,11 +9554,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "08e49e95-3bd6-4430-9f3a-44b32b6e2a7f",
+    "id": "2917286c-9644-48d4-b43e-8edfd60c72f5",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #797)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9566,11 +9566,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b6ba0599-442b-47c5-92b5-dcd6eaf444d8",
+    "id": "2d9c057d-4562-4627-a05f-6d15966ecfa7",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #798)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9578,11 +9578,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d2166799-72b2-4b62-9d93-a0ccd001adec",
+    "id": "817187b1-0332-4359-ba1a-9e42a6ae3d03",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #799)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9590,11 +9590,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "19516cd3-b599-433f-ab8d-eb255d6ec6c2",
+    "id": "185dd6ac-ebc9-4b9f-a805-f37e78748dee",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #800)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9602,11 +9602,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9638e399-9e13-4bc4-bf5f-1b5d8b7dcb51",
+    "id": "a813050b-e3bf-48c0-ada9-3ea31251459b",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #801)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9614,11 +9614,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "eb22ddc1-1360-480b-adbe-c2d065be6db2",
+    "id": "ef7cfee5-85bf-43b4-bf96-95d1b3eb7149",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #802)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9626,11 +9626,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "58cc1734-7d07-4ca9-9a46-bc4d3e5c1c53",
+    "id": "3b91a08d-e8da-464e-87b9-3b617e2e6f59",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #803)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9638,11 +9638,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "81e7e216-1c92-4763-a7ae-17f1662581b7",
+    "id": "95a5c134-42f3-4676-82aa-3fd2d28ede76",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #804)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9650,11 +9650,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "862e183e-3b58-49d1-bbf3-18146a97636f",
+    "id": "b8c7f104-7fe0-45a3-8461-9dc911a6945b",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #805)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9662,11 +9662,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7177a1d1-e51f-4ca0-b531-1731ababb081",
+    "id": "447721b6-cfe5-4ae7-a078-b4a55ad1ee95",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #806)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9674,11 +9674,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "50225dc8-5dd2-451e-ac7f-2558f9f7b856",
+    "id": "01e29944-0c78-43bf-b373-2943e2f85fc3",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #807)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9686,11 +9686,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "14e5ee8e-c5ed-4146-a4c9-e2467c693533",
+    "id": "65cbb9b2-d12c-44b1-b327-5515e4f9dd64",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #808)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9698,11 +9698,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b5ee531a-c499-43bb-a4d0-af3bd7d837ef",
+    "id": "e21278ea-eba9-4d16-b29d-c3ad3de7bc5b",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #809)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9710,11 +9710,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c7b1eb9c-1d39-442a-b3c9-c282077c6d90",
+    "id": "24331c49-369a-4a2f-bdf9-e6224e99bca4",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #810)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9722,11 +9722,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6a6ba4da-7829-480d-afec-89da63b5bffa",
+    "id": "a7428b48-a3e8-4092-9765-1fb7eb66ef4e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #811)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9734,11 +9734,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ae9a7e05-cd88-4f71-a00e-11d95a6aeb0d",
+    "id": "cd72864d-98fe-4f89-ab5a-090197c18ab0",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #812)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9746,11 +9746,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "498d9e0f-33bd-4f4e-b9cc-17cbc1b14653",
+    "id": "398c775b-b81f-4299-925d-83f1152530cb",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #813)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9758,11 +9758,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "935f8dfd-0984-4c4e-b2b3-6d0dcfb9169f",
+    "id": "cc28d486-f4c2-4fc2-9ecf-33bf59bb1b5b",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #814)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9770,11 +9770,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f15923c8-b78d-4756-bf90-8aa91b86ea72",
+    "id": "0e9d06cd-91b4-41ac-843e-c21989507efc",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #815)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9782,11 +9782,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "158af89a-6462-4897-888d-a8c9bf9e3538",
+    "id": "4b57773d-8198-4324-874a-3bd3d80121a6",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #816)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9794,11 +9794,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7dc61f2e-e4c6-4755-8216-c59707c1cd69",
+    "id": "7b1d5488-9b4d-4e41-8bfd-7040f2b2408f",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #817)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9806,11 +9806,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0c6976a0-d3a7-4c21-b12f-85c2243b8b6c",
+    "id": "e8441735-143c-481b-a314-c9581bb1ae38",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #818)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9818,11 +9818,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "51da60d2-6602-45ec-a00b-24dbcf966fbc",
+    "id": "bc0b37bd-ccf8-4ebc-ad29-0282b5a772e0",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #819)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9830,11 +9830,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c9312f31-f607-4189-b854-9e0aaecab7a6",
+    "id": "8e22d776-dfad-4726-b06e-59de741a2fbd",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #820)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9842,11 +9842,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "314ad98d-5de6-424c-bbde-9724360b4e56",
+    "id": "e9561ecf-5a4c-465e-bbd9-5d6106321776",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #821)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9854,11 +9854,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "03a0a8f3-f23e-45c6-b078-20e4e1646b0a",
+    "id": "389261c7-6607-4c86-a8de-775b998aaf88",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #822)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9866,11 +9866,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2adba1b5-06e6-43e9-8e4f-b64ce0fb1791",
+    "id": "8aa36173-d20a-469d-af89-1e47a2ef32a6",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #823)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9878,11 +9878,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "be4bac35-e46d-4a4c-9ca5-533b541fd94b",
+    "id": "a3d321dd-962b-4f1a-8752-6c7ef4231a5d",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #824)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9890,11 +9890,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "758a527e-18a2-4223-ba9a-533eca532496",
+    "id": "a65137e9-f1e2-40b6-a6ce-201482889f79",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #825)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9902,11 +9902,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "749af39f-cbd3-48a7-a5e3-27faa0423bca",
+    "id": "b69fb3d2-5905-4adb-b176-0dec7b645ad6",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #826)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9914,11 +9914,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fa0be066-22ef-4b5c-8b1c-353ee3b1a4ba",
+    "id": "bfca31b6-4af6-4546-80c8-32266d15fa5d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #827)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9926,11 +9926,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "23e0f6ab-3656-469c-ac47-b0355b5a540c",
+    "id": "0360a7f0-b430-4d0e-a1b1-27254de5f4ab",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #828)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9938,11 +9938,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "82cbfeed-1250-45af-af27-aaad5ca3a106",
+    "id": "d4052eff-ecd3-4c84-967d-951fa51184ec",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #829)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9950,11 +9950,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "26104b55-65af-43c3-a5e3-8d375b422a9d",
+    "id": "91307f17-74cf-4c11-8f09-84d60ba63a24",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #830)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9962,11 +9962,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "178fa613-a67e-4028-95e9-1e08756ba9e1",
+    "id": "eb0fd6f0-a81c-4f11-abdd-451857a3d36f",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #831)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9974,11 +9974,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a10d1e56-b22e-40f4-8dc1-fe2b7dfa3fe3",
+    "id": "30be524b-f537-4cf2-bbf3-ff6cb0bd85fc",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #832)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9986,11 +9986,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "081a0b2f-2eaa-4023-bb94-5e2e53949480",
+    "id": "e29d1347-f801-4404-a734-0d5ca8ebf520",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #833)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9998,11 +9998,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "49661c1b-47ed-4d24-a560-6f57e3961541",
+    "id": "eedec276-c99f-4d61-bcae-e3a3431ec909",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #834)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10010,11 +10010,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ac28e350-d2eb-46f5-9e5d-d4f9b48699c3",
+    "id": "5fc26acf-7921-4549-b407-e6017fa9d93b",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #835)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10022,11 +10022,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "74fc381f-8484-47dd-8fbc-9bc99577b103",
+    "id": "7fd3d49b-65b3-410f-a521-5b88513264ea",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #836)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10034,11 +10034,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2875f9ef-b11b-4300-9f07-50ec3281adbd",
+    "id": "26d897db-76e5-4e05-aabf-1c487673a4ee",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #837)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10046,11 +10046,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "aeb8b01f-91da-4d22-967a-5b7f089731c0",
+    "id": "96ac35f9-b877-44a5-a20b-70559123d454",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #838)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10058,11 +10058,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "afa4a119-0e55-4346-9e2f-1ab1fca4ee7c",
+    "id": "98f34bb6-452d-4c08-84a3-46f444026382",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #839)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10070,11 +10070,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "84e86fec-3106-43f8-bd32-70b6199ad6e4",
+    "id": "8f4ae63c-3037-40bf-98b3-75a3dbff4d57",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #840)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10082,11 +10082,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "acb074a8-313b-422d-8f9d-77f5e351bfd8",
+    "id": "326bcae1-8de6-46c7-926f-2a256012451c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #841)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10094,11 +10094,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cde5e21d-2d5e-40d4-b2dd-f72d1b5f8ce2",
+    "id": "a598d9f7-ff09-4ebd-92f3-e1c10d70cb7e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #842)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10106,11 +10106,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "592c65ee-11ea-41ea-b0ad-0cebae3d6239",
+    "id": "78f0589e-74c0-4c74-af78-1ec1509a75dc",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #843)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10118,11 +10118,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "dd8cef1c-a48e-49f8-9c32-cf3e4fac3c86",
+    "id": "3fc32efd-1d33-403e-8801-3b5ea99f7865",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #844)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10130,11 +10130,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7a0d06d5-19f3-4f1f-b248-35fed8daa36d",
+    "id": "82fd4155-1e95-45df-acc1-07bf672b8211",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #845)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10142,11 +10142,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ae24facf-ea81-4992-9d61-d9ce10fd530e",
+    "id": "de2b073e-5c82-40a9-970c-946766b51887",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #846)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10154,11 +10154,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a6843368-1105-452f-9a44-2d5dd93f0dbc",
+    "id": "ed919f7c-1fc8-4124-bc63-b61819e36eae",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #847)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10166,11 +10166,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ae7884c4-4e22-4b8c-bdd2-3eb58131e884",
+    "id": "5f7d7a92-5cf5-43cc-a22e-e0b95cc8a8ab",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #848)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10178,11 +10178,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "451f994a-4017-446a-a6de-877c5d235704",
+    "id": "c01cf534-80f7-410d-8d6b-9fefca45c6d3",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #849)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10190,11 +10190,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7cc5c79c-7add-4023-b94a-a9f2de19766a",
+    "id": "77c792ed-c093-43d1-8ac5-979ebd050f37",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #850)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10202,11 +10202,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "87c59242-8e46-425c-9213-94be964990bc",
+    "id": "cf8e7517-3efc-4344-87cb-927589634f01",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #851)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10214,11 +10214,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "95ef8df4-927d-473e-b9f4-3fab7c52727a",
+    "id": "7f782b35-95da-4a39-90c8-dfccf9e6a3d7",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #852)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10226,11 +10226,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "31d63c0c-7cf7-4c96-96a0-9e65c8fef8ae",
+    "id": "349282b3-803c-42d7-ba8c-24797a0e4b35",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #853)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10238,11 +10238,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "012341e6-bd17-4426-af07-4274db51f7bf",
+    "id": "7ee3d143-be1a-49a0-a99b-d716d0163688",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #854)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10250,11 +10250,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "881f78d5-e600-4f4e-b49a-8e3f53d53701",
+    "id": "60c2d544-e021-4a6e-b546-e6a85a2b0e96",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #855)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10262,11 +10262,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1aa1e9d2-14ec-41d1-9e64-606ef762f4d7",
+    "id": "1fabdea6-c267-4a3c-9bdd-035e7c8afd3c",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #856)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10274,11 +10274,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "557c4a4c-7ba6-4700-b49d-755cfedda90e",
+    "id": "521b4aa0-91c3-497d-b056-ee9da2359feb",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #857)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10286,11 +10286,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "651463ae-7119-4fb1-8402-b68beaaba371",
+    "id": "d38dbe34-18a9-4535-b535-c372f15548e5",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #858)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10298,11 +10298,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "efec6e16-3363-4fe0-96d5-69a56a4ab67d",
+    "id": "8a811335-2e40-4927-866c-748790e58d56",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #859)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10310,11 +10310,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e2bc3d68-8eca-4bac-9635-4a9596054d98",
+    "id": "037f0ba6-b6d2-4286-bcf1-1267e9115e86",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #860)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10322,11 +10322,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0f5a307c-1638-435f-abb8-1519b1c3a6ec",
+    "id": "406320f8-d2e0-4150-bbcb-05ec8878b436",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #861)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10334,11 +10334,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "656afe82-829e-44bd-a7cc-622d7290269c",
+    "id": "41d260c2-073c-4e89-84da-3475ed10cdb9",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #862)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10346,11 +10346,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ed6c6464-5e0f-4321-b0b9-597faa3f7357",
+    "id": "550959d8-0331-4aa6-afde-48c346da9ae9",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #863)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10358,11 +10358,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ef703dd3-3d3a-4997-bbbe-de5c6d4f9582",
+    "id": "b1556f61-24f6-4566-aa0d-45d6fd9b7f78",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #864)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10370,11 +10370,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "478dd29d-4bc1-4d9e-af6f-8620e0141b6b",
+    "id": "934b5cda-7bfa-40be-af3b-5b8d6131fe9a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #865)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10382,11 +10382,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "797d1e94-009d-40ae-918e-b21df20eb444",
+    "id": "62ec0683-5549-4495-b9ae-9d6fdee33872",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #866)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10394,11 +10394,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7c3a7523-a253-4976-b9f0-c1240337a74e",
+    "id": "2c35f1f5-5bab-4ef4-9753-65e680ab7165",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #867)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10406,11 +10406,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "efaff81c-17b3-4f1c-9607-519783891881",
+    "id": "8690be54-63e0-4332-a187-9e0c927d0be2",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #868)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10418,11 +10418,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ecc64709-c48d-42f9-b6a9-d4de11549091",
+    "id": "99e3ca44-14fa-4bc6-82e0-3e16cf1c3ea4",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #869)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10430,11 +10430,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9732a19d-62fd-4340-bcef-577e389870e8",
+    "id": "f39d03f6-29e3-4300-b83f-ef5f90133117",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #870)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10442,11 +10442,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a2d7a438-826e-4d71-a088-34279cb39d77",
+    "id": "54dd031c-441e-4b8d-a623-82e6ca2d80b1",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #871)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10454,11 +10454,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cb96569d-2532-449f-9233-6ba74325ef25",
+    "id": "ae5bc4b0-2dfb-4cd8-8562-0c84e63f47b3",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #872)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10466,11 +10466,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "00493219-2f54-4327-89e2-c8b58d163411",
+    "id": "d984c003-7c22-4f0e-b028-0b309debba70",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #873)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10478,11 +10478,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c2259675-f4a4-4679-a8ff-8e7b4902b5a8",
+    "id": "83b603f4-db62-4030-96b3-0c142c50cb5a",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #874)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10490,11 +10490,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "544c8760-d186-476e-90c4-307a1b5c0115",
+    "id": "47f71d44-9ec5-4a7c-96e8-8fdaba163740",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #875)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10502,11 +10502,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a297d727-69ac-4eab-9b2f-48f98f0ffa17",
+    "id": "45538117-e528-44bf-af92-928c0e5ad97f",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #876)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10514,11 +10514,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ab6e2ade-4f6d-4c80-a137-ea7b4ab9cc12",
+    "id": "ccc5f3ed-4172-4315-a06a-924e9a17833f",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #877)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10526,11 +10526,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "64189344-68e1-4d03-a3e6-0811637973da",
+    "id": "3167f881-ded2-4e98-9ae2-552d717cc28a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #878)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10538,11 +10538,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "49d4cd3d-5e1d-44e5-8d55-1f3fbb86a128",
+    "id": "50b8387c-a565-47e0-b7ef-e81460568d2a",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #879)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10550,11 +10550,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "556d5b76-19cb-481c-aaaf-b881bace67cf",
+    "id": "33f2f65d-bbc8-499c-b114-44aef9d46388",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #880)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10562,11 +10562,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b3ee2df2-47f4-4cae-bef3-b99f428d6dbc",
+    "id": "391c3738-41cf-4a7f-8ad1-28b260057308",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #881)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10574,11 +10574,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "61629b01-858b-4acb-b13a-285b9df7bf93",
+    "id": "0e00f5b6-312c-462f-8982-c16fe0262074",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #882)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10586,11 +10586,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8bc11547-dbfb-4fb0-b6fb-d8f8a7f0226e",
+    "id": "d96862e1-303b-4b98-b503-84374b80c83d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #883)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10598,11 +10598,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7762565f-4424-48db-a3c1-0b820edd398a",
+    "id": "3c4d8f57-0aaa-4885-b672-fac40d2fe4a6",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #884)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10610,11 +10610,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9dcb5d3b-5574-4005-811b-2cfc6f4c9c72",
+    "id": "56039032-c905-4990-8321-2d030a6f86c8",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #885)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10622,11 +10622,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "dc3e568e-aea7-4ccf-b8bb-efeca3fe1f3a",
+    "id": "7bf7d72a-5cc7-4395-8a82-87518616a33f",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #886)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10634,11 +10634,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a2de5032-d89f-48d1-ae75-3ee0213e5004",
+    "id": "20ce513d-f6f8-445e-b8c2-1eacf3fa1f6c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #887)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10646,11 +10646,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "16f54de1-4499-43d5-999f-054005c9513a",
+    "id": "d04c33a3-09a0-4c9b-8737-51cb04072a9e",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #888)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10658,11 +10658,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "00cc831a-c4aa-4155-aa54-b970d1af8cfb",
+    "id": "3df51023-16d6-4230-adf0-b1487a52ed6a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #889)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10670,11 +10670,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a40f52b1-b771-468e-acc4-1acd0fbfbbe8",
+    "id": "4a40238e-4305-4e1c-8af5-62126c8a8c3b",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #890)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10682,11 +10682,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "24725670-2fe3-4127-80f6-bd4a40c96114",
+    "id": "71186f48-6229-498c-a07c-a41bdb79d49d",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #891)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10694,11 +10694,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b5e1b2a1-7e8b-4ffe-ad5f-19a89b4bc8c0",
+    "id": "55a4ffa4-d301-4fb3-a6ec-49f091839210",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #892)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10706,11 +10706,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7db4161a-be0b-4e69-82f4-b11ee17fdca4",
+    "id": "a633dd53-f615-4bf6-a9a0-4e61f9620b75",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #893)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10718,11 +10718,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "7585c403-0012-46c1-99b4-82e97158794d",
+    "id": "02c7db1d-8ff1-4186-9a3a-f46d6bca129a",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #894)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10730,11 +10730,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a24ea34a-1973-4ae9-8e53-ace6793ef526",
+    "id": "41342e4e-4c8b-44c8-a4c8-87d01588d8ca",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #895)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10742,11 +10742,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bec4e4e9-3a3e-4463-b742-15d5d09464ee",
+    "id": "5c731e36-7eb7-48e3-be27-a55f9996619f",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #896)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10754,11 +10754,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cdc71500-b359-4de8-988d-50225c02ef0a",
+    "id": "09672868-2a29-4576-869b-51dd20d940d9",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #897)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10766,11 +10766,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "41aa12cb-464e-42d5-bc2e-6efd568e370e",
+    "id": "1deffa8e-a10e-465c-a547-95d10c98355a",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #898)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10778,11 +10778,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "70781113-aa8c-4356-9eda-2b41f32cc09d",
+    "id": "d8ef1f0d-e9fc-45ca-abc4-f0e8578baed1",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #899)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10790,11 +10790,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "36e4b052-e6ab-4fa7-bfd5-5fbf2fd38832",
+    "id": "c3d7c55e-32a7-4977-ad9d-9894dd71ee0f",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #900)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10802,11 +10802,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "928e1338-107d-4e7e-a371-8f7d93f1a967",
+    "id": "b90e4ed2-79e6-457f-9a3d-9ef1d3f25b25",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #901)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10814,11 +10814,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6c123100-9014-4817-9d25-751cb1913f65",
+    "id": "a357a9b6-4d42-401b-acf0-49c0748d8e4e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #902)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10826,11 +10826,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "45c527ae-5ee5-47b7-8705-3cc4eb927127",
+    "id": "077e5811-ac1c-4422-be10-4301bbbd1c25",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #903)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10838,11 +10838,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f9a86687-f567-45cd-9c6b-34ebf21f659e",
+    "id": "3ce91508-9121-43cf-ac63-977221c4280a",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #904)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10850,11 +10850,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "98cedd6b-2201-4efc-8521-791f75b5a5a5",
+    "id": "2c1ff2fe-9172-49c0-a7e5-84e13d862355",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #905)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10862,11 +10862,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f460dc8a-306e-4e27-be38-98b3988f5c7e",
+    "id": "12871cd1-13b7-4632-8fd8-3174aa8f6320",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #906)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10874,11 +10874,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "342a0d46-e53d-425d-b3ac-4e2351397a00",
+    "id": "43eb7dcf-35e0-4141-9ab8-726cdebea4c7",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #907)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10886,11 +10886,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0060fd8f-e402-47b9-8764-db3940deb85a",
+    "id": "f4efaa0c-5c5a-48b8-81fe-458b54f20e88",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #908)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10898,11 +10898,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9d1fc535-0192-48c4-b3e7-f7bc17f1cb8a",
+    "id": "1f7aca48-fd2e-452d-83db-3f715a68a2a0",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #909)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10910,11 +10910,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2d46d64f-40d0-4b83-a5f6-13e21bea5647",
+    "id": "7bd4336c-941b-4400-a024-58e65d529fef",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #910)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10922,11 +10922,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c2ff507d-e9d4-402f-8d64-a84247ada215",
+    "id": "f704c769-1acb-4df6-b99c-fee9436c3d26",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #911)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10934,11 +10934,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "956075e8-8f4d-4926-a877-71cb2644c378",
+    "id": "07bf5be9-3c28-470d-8346-6ed12ade5198",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #912)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10946,11 +10946,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "660f4315-dc80-4068-9f5b-2d51bd203d1b",
+    "id": "0e4c1c1a-4746-4a8c-b601-3ae3b6d00a28",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #913)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10958,11 +10958,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "27426c3e-0a93-45bd-925c-4648e2fc7219",
+    "id": "aa13c58e-4d9b-4a26-a415-661b5536fc5a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #914)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10970,11 +10970,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0f7f0270-af8e-430f-b44a-4371bd7bf5bb",
+    "id": "9a14a482-a8cc-4910-84e4-7a9ecc4f9c0b",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #915)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10982,11 +10982,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cf55ebe9-70f9-4333-8b8b-cf8e1b02ef94",
+    "id": "d1bd1241-060e-423b-a8b0-f892adcad798",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #916)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10994,11 +10994,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ba4a6908-6236-462c-b3f6-77200e335b49",
+    "id": "51fa7fc5-7b50-4cb2-ada8-d5c0fc69926a",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #917)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11006,11 +11006,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f921f6d2-2c8f-4a5c-a153-c54783f7191f",
+    "id": "fb718a40-c079-4657-8a6c-39dafd957862",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #918)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11018,11 +11018,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "481263ee-17cf-4099-ab58-7636207bef55",
+    "id": "59f4cef5-e14b-4824-b39a-5a234b57af67",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #919)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11030,11 +11030,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "dbcf074d-9e3f-4880-a51d-7b8b531c3fe3",
+    "id": "6eb1f60d-4519-4f8e-b274-bb4ecbdac918",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #920)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11042,11 +11042,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b02e1c00-43d1-4b17-aca5-bd6c0c8dfef0",
+    "id": "aa7094ba-2eed-46cf-b9c4-48a68633725c",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #921)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11054,11 +11054,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9d6cb860-f145-4e08-be0f-5d192bad0364",
+    "id": "7f549f6f-86bd-4953-b015-3ea60146fb8c",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #922)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11066,11 +11066,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2563a189-4ba1-4eb3-883c-881c865a59ec",
+    "id": "0b2b51fe-845e-4220-a807-3ef35c4908ea",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #923)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11078,11 +11078,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "986e4b34-046e-4eef-89df-a358576434a0",
+    "id": "6f02edde-fd4c-40f8-8261-720171f32065",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #924)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11090,11 +11090,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "62dc3f43-76e8-43da-bd42-8daa38cea2c9",
+    "id": "753479b3-910f-461b-9997-e807804be7ee",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #925)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11102,11 +11102,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "00d549d0-7d30-4cb2-981c-c0aa0baf0507",
+    "id": "11a85f7a-f6c6-4c11-8850-889655bf9124",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #926)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11114,11 +11114,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fcd078a9-1c97-4f8e-abf3-1cb41c336aef",
+    "id": "7f77b032-e803-4067-89ee-8f80223189b8",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #927)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11126,11 +11126,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a5006700-618a-40ec-98ab-dc247fec443f",
+    "id": "709ceb00-eb84-4718-985b-4835b4fd0253",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #928)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11138,11 +11138,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "afbf0b1f-a63e-47ce-b9f6-d66527dc8e02",
+    "id": "b29c0dee-6569-4ec3-8267-f21edd286491",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #929)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11150,11 +11150,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0ba39a6d-f627-4136-848c-f42c186c21f3",
+    "id": "704a959e-ef10-494d-bc68-c2ea3f8cbbe5",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #930)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11162,11 +11162,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e8a100aa-d233-438c-a087-05a743c48c53",
+    "id": "741b46b5-e1d7-49a0-bbc9-33a0b60a14ff",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #931)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11174,11 +11174,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f86d3a35-bd28-451c-9494-a67b4be34126",
+    "id": "ace0631d-45f0-4432-87da-99485bfe11aa",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #932)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11186,11 +11186,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b41e7429-69a8-4e89-ab15-4ae262ba1ff2",
+    "id": "eb1bfd43-2eaf-4081-a8bc-4223ff6f4c25",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #933)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11198,11 +11198,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "37a13b98-7b42-4659-9418-14c8c8988de5",
+    "id": "b2c7f37b-900b-42d9-af96-785b19851dde",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #934)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11210,11 +11210,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "828d7959-7ded-4b78-ad65-1a9f48f61681",
+    "id": "53eafdc3-cfa8-4553-af96-c92da7382583",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #935)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11222,11 +11222,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fbc4ee0d-b805-4b85-87d6-2faebf0351b0",
+    "id": "9c71cdac-fee3-498a-aefd-8a26f0aea429",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #936)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11234,11 +11234,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d7dd585e-4c7f-4b0b-81a7-4db8f2e35d87",
+    "id": "ca48d822-a567-4259-b78d-341a86a08b5d",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #937)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11246,11 +11246,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fad22c8f-8cb5-47fa-9e89-03646332aab5",
+    "id": "1e89a052-46c8-4ed7-ae61-8006052d659f",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #938)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11258,11 +11258,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b052174d-bf74-4d8e-9215-585fc3b31185",
+    "id": "63dd034a-272f-4a80-91b7-7b35e3125ee7",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #939)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11270,11 +11270,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cf56fc18-827c-4b3d-b167-9e66e835d07a",
+    "id": "c1379075-f7dd-4d31-83c5-1098342f4a8b",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #940)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11282,11 +11282,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "38466cdd-059d-40bc-b05d-72c591e9133c",
+    "id": "06249498-20cd-4763-89f7-a0f387f67d75",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #941)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11294,11 +11294,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "35d09907-d80f-42fc-8e39-501416985c9c",
+    "id": "c3ed94e2-e904-4a80-bfb6-f8c5e9fec444",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #942)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11306,11 +11306,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "730d7167-d7e7-4f3a-b63c-6b2a7e2cd51c",
+    "id": "51b84912-f403-425b-8065-b70e4c3a5445",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #943)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11318,11 +11318,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "587ac7e8-a800-489b-9575-6b584f336fad",
+    "id": "d24c96fe-d016-4cda-a986-009f9eaec50d",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #944)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11330,11 +11330,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a30f03ce-af0b-416c-9d4f-4853a170316c",
+    "id": "a4dc47f1-bd08-4051-a95b-16af91a3950f",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #945)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11342,11 +11342,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c0172658-5139-4786-a432-72d386746045",
+    "id": "21287a0a-81ae-49fc-82b3-0864e4f22e90",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #946)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11354,11 +11354,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "f3016478-6016-442e-b1b6-c9fc22fbdb93",
+    "id": "1e5412a3-198e-40aa-8ccc-3bcb19190fe0",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #947)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11366,11 +11366,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c8122fea-9962-4edb-a3ad-268cc1296776",
+    "id": "8e8de5aa-20ac-490b-8b17-15b44748faac",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #948)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11378,11 +11378,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b8197cda-97a9-46fd-bf10-dc21fbeb8f99",
+    "id": "194582f0-eea3-4c22-bbec-faca59baf92a",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #949)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11390,11 +11390,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "a96427d6-c195-4e71-b171-78ba8cd4ef10",
+    "id": "48ddf505-3f9a-4e42-bb40-8a15f29cbf5e",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #950)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11402,11 +11402,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "be5e44f0-530c-45e0-b286-d3fabdcb4f78",
+    "id": "8e1ec18e-26f5-4605-b69d-bd4128d4f468",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #951)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11414,11 +11414,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ad9408e4-b56c-46f0-9ca3-06af5bdc15e9",
+    "id": "37c831cb-d885-4b7d-a569-12a1b29189cc",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #952)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11426,11 +11426,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "22632525-e025-4597-9540-3c1df2512236",
+    "id": "ef4f0e72-5a27-4a43-92df-22488b1ef6b9",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #953)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11438,11 +11438,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e7e48e0f-c1e9-4a12-9c8c-387d0a522980",
+    "id": "7b1707fb-f9d6-489e-ac26-b9c0b13ab3c0",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #954)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11450,11 +11450,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "fc14ea2b-2c85-406c-86fe-bc60b1c50180",
+    "id": "74434842-127f-48e6-8dec-1d4a08bc7121",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #955)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11462,11 +11462,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "87115c64-ddcb-4f63-bf42-b7bbbadfd4b0",
+    "id": "57c9e14a-edda-4205-9916-168316e06be5",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #956)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11474,11 +11474,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "db98e530-56fb-449b-a524-ebce442b6af5",
+    "id": "2580d09b-75ba-4bf6-ba87-b8fb1e5fbd9b",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #957)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11486,11 +11486,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "56c99e20-2927-4644-a7ca-6f88d8178c34",
+    "id": "176147f1-3d7a-4f1a-853d-8038f1e0c9c4",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #958)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11498,11 +11498,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e76bce86-2aad-458b-9937-06590eaf4e05",
+    "id": "66c16fb7-1576-4849-91d0-90cec8453fb8",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #959)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11510,11 +11510,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6def46e9-50b7-4599-b045-73d452cc9b36",
+    "id": "2f02f23f-a4b4-4fa0-9ef8-7d3014ca7975",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #960)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11522,11 +11522,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "558f6086-bd16-4906-92dd-6881e61908c5",
+    "id": "9cf2d135-8d9f-4a7b-ae70-d95707b01000",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #961)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11534,11 +11534,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "342790ee-5697-4820-993a-89d559ce6fca",
+    "id": "a128bdf5-193a-4fe3-85f3-e6357c8acbd0",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #962)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11546,11 +11546,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "135a2103-32cd-4700-b842-8f5f86aa2100",
+    "id": "0b4d2d81-5ed5-4676-a004-212893ee9f17",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #963)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11558,11 +11558,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9aaeca26-af8d-4cdc-9e63-ba9d433d1104",
+    "id": "6029c889-2525-4056-9169-1e9f0d0a0b1c",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #964)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11570,11 +11570,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0f74649d-fec0-47b3-800b-e68ba80e8c73",
+    "id": "ce391839-6712-4059-ae55-28ea103dd042",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #965)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11582,11 +11582,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "025c3b77-36d1-44d7-bbb0-0db675bfc881",
+    "id": "02dd33bf-29da-40bf-9ff1-6c7ae4335826",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #966)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11594,11 +11594,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0a64651c-a2bf-4bd4-9f41-0195d404240f",
+    "id": "e9034b30-e795-4111-b2c7-a0a411297e6b",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #967)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11606,11 +11606,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ad87745d-4136-4d51-bf87-d32918d692ce",
+    "id": "9ba1f4ea-1fa3-4ba0-8415-b5b4da851350",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #968)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11618,11 +11618,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b9cf7de4-0a2f-4e5e-85a8-c17806930026",
+    "id": "7bb21874-c431-4261-b9a7-aec8f585124d",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #969)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11630,11 +11630,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3f3d11c3-04e4-40b9-a306-70f6a87616f0",
+    "id": "06410724-249a-446c-85b0-f850820390f9",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #970)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11642,11 +11642,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5ee84d60-a206-4048-9024-42727280ea5d",
+    "id": "3edc46cc-9d3d-4e44-8b5b-ac69b27392c4",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #971)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11654,11 +11654,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "36d6b28e-45cf-4e0a-ba3e-58138ccd975b",
+    "id": "5f6acf03-72ec-484c-bfe8-80de6750896a",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #972)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11666,11 +11666,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "322dec2f-5104-40e4-8ce8-e7c3d115c462",
+    "id": "37faf409-cd86-484a-b510-4f06b3bdfbd2",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #973)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11678,11 +11678,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "32cd3dd2-902f-4a40-9231-669e90f690ab",
+    "id": "459a17bb-64e2-4404-b585-b6801a417c66",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #974)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11690,11 +11690,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "bd54a27b-da9c-4e2f-bd1f-f115e8d0cb44",
+    "id": "9d1765f2-df36-417f-a60c-f2bad9ca6d8e",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #975)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11702,11 +11702,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "8816a086-d792-489a-82f4-77e857e39d90",
+    "id": "e40dfea6-9da0-406f-a828-42cd8bd05c39",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #976)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11714,11 +11714,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "0e3b4f2f-e730-437b-9425-289006b83953",
+    "id": "50202302-7d04-4779-ae3c-31b8e8025416",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #977)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11726,11 +11726,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e0c06769-6024-46c1-b512-5b3bdb28edf2",
+    "id": "aea2c4a8-336a-4575-a436-a49a02be9a4d",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #978)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11738,11 +11738,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4a2092e4-d9d9-43eb-b7cb-c6e7dc0487b6",
+    "id": "98e13294-d2de-4f41-8294-689d9686e760",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #979)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11750,11 +11750,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "72a94cbd-2f5e-41dc-a44f-cd6d63983ab3",
+    "id": "c15b6186-bbcb-44d2-8803-073c2111cc2f",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #980)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11762,11 +11762,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6438c955-6dd3-48a5-b221-570fc63cda3a",
+    "id": "8a812e9e-eb5c-48c5-a158-1f1441d01852",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #981)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11774,11 +11774,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "2ca0b47c-f870-415c-b5ba-2d81ef54adc5",
+    "id": "5bb598c8-f63e-420d-a716-81bea442ff33",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #982)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11786,11 +11786,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "96bc8b20-8d20-4b1e-8bac-93d328bbef61",
+    "id": "370b15a5-bdd8-4090-a9c2-d4ecd4a52594",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #983)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11798,11 +11798,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "526f6393-3a73-4f3b-be48-d9daab0e8ba4",
+    "id": "cc9a862a-9793-4156-92e1-bca407635b62",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #984)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11810,11 +11810,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "b6a0484e-305c-4315-924d-80b8999f6d55",
+    "id": "c08d9feb-2d21-4ac8-a89d-02dcd27f8055",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #985)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11822,11 +11822,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "6e40e370-a470-4515-81b7-d25ab0314991",
+    "id": "dafb1061-da65-4562-bacc-a92fb1d1d3c7",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #986)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11834,11 +11834,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "1f1bc12b-0e7f-4b56-bc92-3fdb21fa0664",
+    "id": "e9253640-1734-4d2b-bd06-b26649b499da",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #987)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11846,11 +11846,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "4600c8f3-2700-4622-9833-c160ad94c6da",
+    "id": "be9d9010-b6f1-4cc8-a0c6-ef7a74e8b0ac",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #988)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11858,11 +11858,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "5ffc5430-6da5-4fe8-b2e7-8e3d5ca80760",
+    "id": "bbdbb28e-0ce5-4242-9c65-202a3896d053",
     "topicId": "yer-sekilleri",
-    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ? (Kart: #989)",
+    "front": "Ege Bölgesi dışında yer alan, Akdeniz'de kırıklı dağ yapısına (Horst) sahip olan dağ?",
     "back": "Amanos (Nur) Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Amanos Nur Dağları Akdeniz'de kırılmayla oluşmuş bir horsttur, önündeki Amik Ovası ise grabendir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11870,11 +11870,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "c0a36e5e-27a1-4bd9-8240-78f6713679bd",
+    "id": "fc1458ed-ef37-4040-947b-b4eb9d79b09e",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir?? (Kart: #990)",
+    "front": "Aşağıdaki volkanik dağlardan hangisi kalkan biçimli volkan tipine tek örnektir??",
     "back": "Karacadağ (Güneydoğu)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Güneydoğu Anadolu'daki Karacadağ, lavlarının çok akıcı olması nedeniyle yayvan ve kalkan biçimli volkana tek örnektir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11882,11 +11882,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "d16846c1-3b13-4a9a-9235-5f571f10ed24",
+    "id": "f14e8f23-aa96-4f72-a3a4-a0830cbd295c",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer? (Kart: #991)",
+    "front": "Türkiye'nin en genç volkanik sahası kabul edilen ve 'Adalık' olarak da bilinen yer?",
     "back": "Manisa - Kula",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kula volkanik sahası Türkiye'nin en genç volkanik arazisidir ve jeopark alanı ilan edilmiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11894,11 +11894,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "511a003c-2ed4-4aec-aee4-9fb12dc6e48c",
+    "id": "8d73d745-6f70-48de-83bf-0697b8cb079f",
     "topicId": "yer-sekilleri",
-    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu? (Kart: #992)",
+    "front": "Yükseltisi en az, sanayi ve nüfus yoğunluğu en fazla olan aşınım düzlüğü platosu?",
     "back": "Çatalca - Kocaeli Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çatalca-Kocaeli Platosu aşınım düzlüğü platosu olup, Türkiye'nin nüfus ve sanayi yoğunluğu en yüksek platosudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11906,11 +11906,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ae628256-c701-406f-b6ec-f741f171f9c1",
+    "id": "4cf133e8-3d88-4644-bf27-7efde1e0594b",
     "topicId": "yer-sekilleri",
-    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir?? (Kart: #993)",
+    "front": "Karstik yapısı nedeniyle nüfusun en seyrek olduğu Akdeniz platoları hangileridir??",
     "back": "Teke ve Taşeli",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Teke ve Taşeli platolarının karstik yapısı nedeniyle su sızdırması yüksek ve nüfusun en seyrek olduğu alanlardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11918,11 +11918,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "cab81f1a-9891-4c20-b902-878229e14584",
+    "id": "1720b007-272b-4b15-a3f5-57f62b0271d1",
     "topicId": "yer-sekilleri",
-    "front": "Yaz yağışları alan, çernozyom toprakların bulunduğu ve büyükbaş mera hayvancılığının yapıldığı lav platosu? (Kart: #994)",
-    "back": "Erzurum - Kars Platosu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "front": "Lav platosu olan Erzurum-Kars Platosu hangi özelliğiyle bilinir??",
+    "back": "Yaz yağışları ve büyükbaş hayvancılık",
+    "hint": "Erzurum-Kars lav platosu yaz yağışlarıyla yeşeren çayırlar sayesinde büyükbaş mera hayvancılığı merkezidir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11930,11 +11930,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "be7cbc78-cf38-4a13-8bb0-a2008753c0a4",
+    "id": "c3decb7e-b98e-43cc-9e90-f3409804f485",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'nin en büyük delta ovası? (Kart: #995)",
+    "front": "Türkiye'nin en büyük delta ovası?",
     "back": "Çukurova",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çukurova Seyhan ve Ceyhan nehirlerinin getirdiği alüvyonlarla oluşmuş en büyük delta ovamızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11942,11 +11942,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "9d1e3fba-5e9d-4cf6-9b08-fdcc207f830f",
+    "id": "332c7ac4-6f25-4772-8549-7d788ab683a7",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir?? (Kart: #996)",
+    "front": "Aşağıdakilerden hangisi karstik ovalardan (polye) biri değildir??",
     "back": "Bafra Ovası",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Polye ovalarını 'TAKKEM' (Tefenni, Acıpayam, Korkuteli, Kestel, Elmalı, Muğla) olarak şifreleyebilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11954,11 +11954,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "e4890756-ce85-4e62-a435-c0989b2f8b30",
+    "id": "5ca522bc-507c-470a-947d-368017778e50",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar?? (Kart: #997)",
+    "front": "Türkiye'de taş kömürü yataklarının bulunması hangi jeolojik zamana ait arazilerin varlığını kanıtlar??",
     "back": "I. Jeolojik Zaman (Paleozoik)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Taş kömürü I. jeolojik zaman (Paleozoik) arazilerinde oluşmuştur ve demir-çelik sanayisinde enerji kaynağı olarak kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11966,11 +11966,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "23b168d6-7312-4205-b7f6-830bed22cb54",
+    "id": "fdff6394-e610-4940-8952-67a84794a1fd",
     "topicId": "yer-sekilleri",
-    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur?? (Kart: #998)",
+    "front": "Türkiye'deki linyit, tuz, bor ve petrol yatakları hangi jeolojik zamanda oluşmuştur??",
     "back": "III. Jeolojik Zaman (Tersiyer)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Linyit, tuz, bor ve petrol yataklarının ülkemizde yaygın olması, Anadolu'nun büyük kısmının III. jeolojik zamanda oluştuğunu kanıtlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11978,11 +11978,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "3a3d2751-8ce5-4e67-9171-d5e1e28369c9",
+    "id": "deb97940-d2a8-422b-900c-7959973ab3d3",
     "topicId": "yer-sekilleri",
-    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir?? (Kart: #999)",
+    "front": "Ege Denizi, İstanbul ve Çanakkale boğazlarının oluşumu hangi jeolojik zamanda gerçekleşmiştir??",
     "back": "IV. Jeolojik Zaman (Kuvaterner)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İstanbul-Çanakkale boğazları ve Ege Denizi IV. jeolojik zamandaki çökmeler (epirojenez) sonucu oluşmuştur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11990,11 +11990,11 @@ export const flashcards_yersekilleri: Flashcard[] = [
     ]
   },
   {
-    "id": "ef4679d1-7125-4096-b5f2-4ae7eb11903c",
+    "id": "d766d42b-3dc2-446a-a7c1-8367e5c99f0e",
     "topicId": "yer-sekilleri",
-    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir?? (Kart: #1000)",
+    "front": "Aşağıdakilerden hangisi kırıklı dağ oluşumuyla (Horst-Graben) meydana gelen dağlarımızdan biri değildir??",
     "back": "Kaçkar Dağları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ege'deki Horst-Graben sistemlerini ve Akdeniz'deki kırıklı Nur Dağı istisnasını mutlaka aklınızda tutun.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",

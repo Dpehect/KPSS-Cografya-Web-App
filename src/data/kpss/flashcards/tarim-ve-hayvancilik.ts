@@ -2,11 +2,11 @@ import type { Flashcard } from "@/types/study";
 
 export const flashcards_tarimvehayvancilik: Flashcard[] = [
   {
-    "id": "922ee1f3-3220-48bd-bdd3-cf2369f2860f",
+    "id": "db003dd3-404b-4bc9-9b10-37414c4b0675",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #1)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -14,11 +14,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e7ad0a65-6c07-4a71-8e42-19b4e6ac3ea6",
+    "id": "18c56c36-e199-43b0-b77a-4bef0c7084ad",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #2)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -26,11 +26,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3c09a56b-f75f-4128-97f4-ca5a3c42e120",
+    "id": "993e85c0-2af3-415c-8083-ec5a4d2fe964",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #3)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -38,11 +38,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fb4ffb1a-8d08-4a6c-a43d-3a2e9a8bd92d",
+    "id": "f09a9615-3171-4b32-bff2-fdf6405edb12",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #4)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -50,11 +50,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4649d95b-a471-429b-ad63-773493b6f1d0",
+    "id": "07a09197-d2b1-443b-88b2-f64c274ddccb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #5)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -62,11 +62,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6af64270-ba38-453e-a0c0-abe228610fcd",
+    "id": "5d06decc-6888-49e5-be01-63eed8dc9dd1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #6)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -74,11 +74,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "29d5979b-f8bd-4d3c-b85f-dda274f8b551",
+    "id": "b07b0f2d-5e88-4295-a9f8-6bc993622618",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #7)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -86,11 +86,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "37c17657-9d8f-4e64-8419-c1d8cc12b6d6",
+    "id": "ed4c54f8-1006-4a2b-b8d2-13c610a24d82",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #8)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -98,11 +98,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c1b4d516-a6ca-4d37-928b-1b09de1ce344",
+    "id": "a096a6e7-bb13-4824-bd0e-928cf9a0e860",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #9)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -110,11 +110,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "12b82469-4908-4ac1-a61e-c954acebbdb0",
+    "id": "533eebb4-c689-4611-879f-85ce96a0623a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #10)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -122,11 +122,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bfc87e5f-dd4c-4728-bedc-89c3228e1ca1",
+    "id": "d116af79-1602-46de-8ed6-0079dbcb50e7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #11)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -134,11 +134,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "50a8e7dc-fa92-4ccb-adb3-e9537ddbbac1",
+    "id": "e59eb458-d28a-450e-9a50-5bbd6e0ca92b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #12)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -146,11 +146,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a3ff3cc7-cfd1-4190-a635-cfa592bef84c",
+    "id": "1a611cd2-dba5-420c-a10b-3ead60f1909a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #13)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -158,11 +158,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d2ea3cef-0d83-4997-acd3-c8b815217133",
+    "id": "7c6d0be2-ecd8-44d3-abe0-183f8d81d6fd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #14)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -170,11 +170,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cb085056-1bf6-4afd-8747-816824748d23",
+    "id": "96a41744-ebd2-4413-b247-2d3d6661b27c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #15)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -182,11 +182,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5e4afb24-57d7-49a5-ad16-2a474eaefdc0",
+    "id": "757d5bff-1529-4d2f-b895-07e47803f086",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #16)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -194,11 +194,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2931d7d0-501c-45fe-bc41-53286e9592da",
+    "id": "7dba3ddf-df82-43ca-ac4b-c22c5d40fbe2",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #17)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -206,11 +206,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f3559e10-50e0-402c-973e-c56d5869d0d0",
+    "id": "7b31e85b-2286-4c0a-a87d-30919537a0f4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #18)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -218,11 +218,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6e1f5025-138a-464c-8ee2-2908f0592dc3",
+    "id": "4bf10bc2-32d2-43be-85cb-6786d880f1e9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #19)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -230,11 +230,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f63a1983-b397-47d2-9d55-e39bc60a20b3",
+    "id": "362d8249-cacd-4338-a4f5-a338b32363df",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #20)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -242,11 +242,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f2a75b24-0230-4138-bff4-2bf189071836",
+    "id": "fde06084-bd53-4202-b29c-b48f65077118",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #21)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -254,11 +254,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "be145820-fe9a-49f6-b439-c2255e7decd1",
+    "id": "5b82a266-368f-40d6-9d2f-ad09c24cf746",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #22)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -266,11 +266,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9e1712f9-22bf-41d0-bd49-c9fe9652e598",
+    "id": "7582295a-1a77-4be1-9720-9c9f83252549",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #23)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -278,11 +278,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "26f68c1c-8cf2-4b6b-b734-80422a6830e2",
+    "id": "b2039b98-df23-4d01-9940-5a263996510c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #24)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -290,11 +290,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e5924511-a497-416c-aac3-36f7869a34d5",
+    "id": "65b88c9e-7eff-4c4f-b747-5fec560705f6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #25)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -302,11 +302,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "057b0658-41cf-4654-86cb-9e6b8df28733",
+    "id": "6d30a833-03b4-4516-9fca-f95ea3d3afa9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #26)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -314,11 +314,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "27174a59-1c89-4e5d-a183-5c80df01008e",
+    "id": "281818dc-13ed-4f06-a4c1-69e5c8c9fcea",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #27)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -326,11 +326,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6b1b0624-1729-40cb-8310-386dacac0f89",
+    "id": "d3e62d94-2209-43b9-a9a6-c8617f5a735f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #28)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -338,11 +338,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5867bae0-5717-4024-b003-447a57c31c3b",
+    "id": "877dbffe-1238-47b5-924a-43f37668a1c5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #29)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -350,11 +350,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "784bfc7b-7973-42f9-b3d2-759b7309b68f",
+    "id": "714e90ee-416b-4d3c-824b-1ef5715d4560",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #30)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -362,11 +362,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "788a544c-2b25-41b8-bbce-145c0215afbf",
+    "id": "2ad83071-ccb6-47c0-98f1-d42285b78eb9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #31)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -374,11 +374,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "78af925f-793e-4bed-b5cc-0a4a99249fd3",
+    "id": "62799ee2-177b-4950-b784-7e9ab8897a9f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #32)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -386,11 +386,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ebf1ee1d-2fb7-4477-b893-7a5d5fe58fef",
+    "id": "ecdd3eca-2bfc-4901-b10e-f9f928347448",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #33)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -398,11 +398,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cd0080c9-fd82-4e54-a4cd-508b5ccdb60b",
+    "id": "a4108b16-22de-4793-83d0-0fcbc6091dcd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #34)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -410,11 +410,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9a704390-72a2-4933-ae87-4dab2b586de2",
+    "id": "c7affb63-5877-415c-9d9a-af3691fd3d80",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #35)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -422,11 +422,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "576a9c16-bbdf-4f37-8e3c-12c1ddfc300a",
+    "id": "71a52dea-90e8-48cd-8833-0766ac06ebe7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #36)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -434,11 +434,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b94fe01a-9bb8-48ef-988d-2694e5d26a5f",
+    "id": "e9a5e4e2-b6f9-42a1-9db2-11009552041d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #37)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -446,11 +446,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e79bb537-60fa-4379-ac17-98cce7fccee1",
+    "id": "7d4d87b3-2203-4074-ad33-90e541173bf9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #38)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -458,11 +458,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1cbbf1af-e76b-4478-aa45-96dd54d19aeb",
+    "id": "69bd2397-97b9-471c-b440-5d2cbcf9ddff",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #39)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -470,11 +470,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d5a017cf-32b5-4bb1-afd9-eae22eb963a3",
+    "id": "cd3792ae-06b7-4328-8b7d-a94758f6f66c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #40)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -482,11 +482,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8dfe619c-923a-4e58-aa32-8417c73404e5",
+    "id": "2be81dbf-fe20-43fd-a807-890524af1643",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #41)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -494,11 +494,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "23f61f50-afc8-4570-95cf-1be1c0c53a88",
+    "id": "196ff818-4065-4b21-854a-14f10db43b98",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #42)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -506,11 +506,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e7cd49c4-c834-4113-9404-08905b52b1f9",
+    "id": "09bc6de6-2407-4a13-8bf0-f89fc1c50e8b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #43)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -518,11 +518,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8a81999e-f89d-406a-8186-f3f744b968ca",
+    "id": "638a997d-ec19-4c16-8d64-0b110507821a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #44)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -530,11 +530,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "861c2545-7911-47c6-bd75-869ee8bcf880",
+    "id": "dbd8120e-78b6-450f-80f6-ad09d22fa429",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #45)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -542,11 +542,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9af0e954-a269-4ecb-98fb-7d84f84c8f9d",
+    "id": "520c51ca-276b-405d-9c42-e15844af56dd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #46)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -554,11 +554,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ef1271c0-d022-4940-8d2c-60efd262120b",
+    "id": "13ec3d34-d1f2-4054-b6e3-baf3c7a12130",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #47)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -566,11 +566,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "11663785-51bd-41db-ab71-18fb32bfe3ff",
+    "id": "2b3067f5-c7fe-4976-8ef5-3931655a7084",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #48)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -578,11 +578,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b266e879-a503-4725-9fcd-2996f1dc4b41",
+    "id": "a64f8ab6-17b7-4e7f-afbf-1dec4a9468c3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #49)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -590,11 +590,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "27588b97-ed92-45dd-8f48-452189211d36",
+    "id": "71893749-6e69-4d5d-947d-3bef985937e2",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #50)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -602,11 +602,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ddaa6c5c-d238-4f8a-9093-18ed6359ba57",
+    "id": "3a6abe5f-e8e0-420f-972f-4d83a6115169",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #51)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -614,11 +614,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "406ed463-8c61-4387-ac14-f31fe9dce16c",
+    "id": "03d7464b-937b-4465-bc3b-5d321893416c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #52)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -626,11 +626,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a791ff94-7cf1-4a6b-b1dd-ab29a6ed1cad",
+    "id": "a06d2bc7-81e9-41c6-93e8-3cc01ad0376f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #53)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -638,11 +638,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "dc578a7e-3dfc-41c7-9efe-cdc624af2aef",
+    "id": "ef282c04-67a4-4f6e-bf55-21eb40de1166",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #54)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -650,11 +650,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0fb6e09b-3892-4e64-a46b-2821f8f19a39",
+    "id": "9ed1462a-f1c1-46a8-b7e3-e7f96d0aeb52",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #55)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -662,11 +662,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c2a9c3a4-25eb-4f6c-a671-cc1e9f141aff",
+    "id": "3308e6c2-c0b9-4f18-a7b1-c29a42def400",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #56)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -674,11 +674,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5cacffc4-7441-4a41-a6f4-4bf608c6b0e5",
+    "id": "dbb1bae6-aed9-42d2-9891-a623ba58512a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #57)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -686,11 +686,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "89a34b9f-e905-4238-ad93-8dc6b708a70c",
+    "id": "8484452d-4b76-4c6c-ab1f-baa5e19f693b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #58)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -698,11 +698,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "359d2989-8e7a-4c4a-8cf6-ac0c3d2113d7",
+    "id": "2706dafe-c010-445c-aeee-e41598aa273b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #59)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -710,11 +710,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "442b4e20-7d9e-48dc-9def-d571ae8fcea9",
+    "id": "5ebc60a6-bcb7-494d-bc87-76333302b17a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #60)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -722,11 +722,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "03e30068-4f0e-4a12-b030-14fd78377fa2",
+    "id": "12e3467d-750c-4553-8b4d-98b5abbbe63a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #61)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -734,11 +734,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "218e16bd-b913-4e5c-85b9-31f31f2894cd",
+    "id": "a3263cb8-0524-4a78-a9ce-e4c8e79b2b92",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #62)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -746,11 +746,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5238fa32-9b5f-4926-9b4e-73cebfc71239",
+    "id": "278733ed-cd4c-4587-ac41-d381bc08ce9d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #63)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -758,11 +758,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ccf21068-b2e3-4489-8e9b-6c5a3bcd6d46",
+    "id": "7a779583-2421-47a1-adc6-0f677a5ea106",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #64)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -770,11 +770,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "30798c52-035f-4212-843f-df055305717f",
+    "id": "bc6de380-46e9-4d15-9c0a-34eaf8b84cf8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #65)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -782,11 +782,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c5210567-0fbf-4d8e-8ee8-0efe0e4b72ae",
+    "id": "1a6fa0c5-0092-451b-bf9c-483c3dc5ce68",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #66)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -794,11 +794,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4c0ff0be-3e7a-4a22-b1e8-84f05dc2251a",
+    "id": "0faf3ebb-a6c2-4a27-9166-224ca14c1a0f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #67)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -806,11 +806,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "84adbe04-690c-424c-bb0c-8c7e71a6c221",
+    "id": "1ede82b5-cb0f-44f3-959f-325ed7f8f0ae",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #68)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -818,11 +818,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5f8f1883-7304-488b-8083-bb3f9ef91955",
+    "id": "56eebdae-f951-4f47-8c87-81a2a2813bae",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #69)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -830,11 +830,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a9cc410c-2b09-44ac-aa54-b424eea6d10d",
+    "id": "c405220f-7c57-42a9-a786-0df78feb5dad",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #70)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -842,11 +842,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "83ff8f51-2608-49a6-b56c-085506e3c136",
+    "id": "b6fcc413-9b56-4723-b356-68ff1e8b205a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #71)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -854,11 +854,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4a0d5eba-9fc6-487a-8262-5d9c29bd0423",
+    "id": "dba4f272-a24b-4cfe-a64e-58471d176a20",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #72)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -866,11 +866,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "621919e7-282a-40c7-9e67-526b0aa55514",
+    "id": "fda52181-1f07-4cdb-ba08-fe673092e662",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #73)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -878,11 +878,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "24b04337-fb19-4dad-a1b9-d2fc2eee2ec1",
+    "id": "bd89fd2b-0c7a-4728-b0b5-ae630d6d3170",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #74)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -890,11 +890,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "55c4df71-0945-4ac0-a1fe-46c7ad65d8f5",
+    "id": "eaa5774c-dc54-4d83-9b12-61aa6bc0ae1d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #75)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -902,11 +902,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "42c71768-b9fe-4802-839b-97f4601a8e1d",
+    "id": "7aab7211-df43-4766-99f6-73e428a803ea",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #76)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -914,11 +914,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "173d2cf3-3412-4763-ab70-44dae76a4008",
+    "id": "cad0b2cc-b57e-442f-a80d-c0e2b1ee2f76",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #77)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -926,11 +926,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d5ae0e45-2470-4788-9d6c-c0033f72a1b2",
+    "id": "10349a16-dc9f-44bc-a4e4-cdfe1649a0b1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #78)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -938,11 +938,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "10095af8-31f1-4814-a603-525ddb539981",
+    "id": "dc21d6f5-cd7a-42e6-af23-0df03f49923e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #79)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -950,11 +950,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7396743e-50ab-40eb-9363-041b0ad8eb58",
+    "id": "77e26453-b392-4357-9406-136c9c3e51ec",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #80)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -962,11 +962,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "84f9a101-ffd4-4d35-a6db-b35a06adf60f",
+    "id": "b8c5ba12-0af5-4b6b-9325-5c19f6bebd39",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #81)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -974,11 +974,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "31d7bfae-c39c-4234-8203-0f09bb5d61e7",
+    "id": "a7342d2a-6527-4a87-bb69-ebf38b5c9ea0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #82)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -986,11 +986,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e843c8c5-4d3d-48df-8774-9e915475aec8",
+    "id": "f873b75a-edc1-44de-b0ff-f3b8e489fdd7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #83)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -998,11 +998,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f14f902f-6041-4863-a7fe-f599fbd8d24a",
+    "id": "2c240782-162c-47b7-8aae-32262dbe9e2f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #84)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1010,11 +1010,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "77d2813b-1bf3-4b7c-9cae-90bc00ee4cac",
+    "id": "3836bb7a-cecf-4034-90c2-3bf079e667b8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #85)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1022,11 +1022,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7b1789f3-b8d3-46a8-a75c-95b5262b69e3",
+    "id": "67d4be1f-4e02-4737-8304-1dfcc7930c8d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #86)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1034,11 +1034,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d150a858-106c-455f-b8b4-4ffb47d4c954",
+    "id": "468a9098-dbfe-43e0-933a-e4735c024c94",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #87)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1046,11 +1046,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "acb7fae1-832d-4b5f-83d0-40574d6324f2",
+    "id": "f80be30b-74ec-4466-867c-a0c2155141b8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #88)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1058,11 +1058,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d9e18d9a-5048-48dc-8d41-97d9efe73f51",
+    "id": "dd384891-8218-4c8f-9a6b-1fd6f16f66a3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #89)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1070,11 +1070,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "379ca93b-711e-4688-ad1a-c448b2d5724a",
+    "id": "a65a0a79-f232-42bb-9bb5-3034da6a0a1f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #90)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1082,11 +1082,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0dab4985-3d4b-4fd8-a87b-7efd90e926fe",
+    "id": "5c5aa185-a0fe-4897-a817-31c9892dd8af",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #91)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1094,11 +1094,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "21d42b42-24be-4e2f-aee7-f0fe43334318",
+    "id": "5abf1441-bd7f-445a-92b4-209370d18de6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #92)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1106,11 +1106,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d3d16918-1d71-469e-8d49-43f4362f9769",
+    "id": "5e00e124-ebc9-4c3d-8da7-dd330a55913e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #93)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1118,11 +1118,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1ff81903-5d51-4e4f-b94a-6af7891d7ece",
+    "id": "cee62933-9d90-411d-bdbb-853b8c2db297",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #94)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1130,11 +1130,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "41dfb540-37ac-4029-a17a-d3dc48d8589c",
+    "id": "27d80393-8d50-4c31-9bf4-0f079b9e9326",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #95)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1142,11 +1142,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ef273588-36d3-4dd6-a204-3d66e43133be",
+    "id": "1e220627-431e-4162-bb99-8305d50e95b6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #96)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1154,11 +1154,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "18d65cf6-e160-407a-bbd3-d07fe4e4c8fe",
+    "id": "f6fdbcd6-1e35-4bd6-878a-14bf6aef2175",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #97)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1166,11 +1166,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "eebeb4b3-4681-4e63-a016-1a7eac6c9930",
+    "id": "7706c1e4-e3cd-415e-88ed-94d5fc72d035",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #98)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1178,11 +1178,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c88dcbd9-515b-47b8-bbc3-ce70d219b945",
+    "id": "54540351-0b12-4a98-9255-de8f35757d78",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #99)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1190,11 +1190,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a0e0199e-b01f-4ad8-b786-87cfaa3fb58e",
+    "id": "4dc21312-767e-42d0-af3d-bb4bc19c425a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #100)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1202,11 +1202,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9910906b-2f74-4466-85b3-f2e6b7a8f7b9",
+    "id": "093daabf-687c-4926-9fa4-7ad015be3fba",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #101)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1214,11 +1214,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2497f920-0b82-49db-a8a9-1a81a76b3212",
+    "id": "6c655654-f1c7-496e-a625-8130b4467052",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #102)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1226,11 +1226,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "74957323-bf7f-4195-b637-34e8ec4ee7a0",
+    "id": "0885a2d9-13ce-4af3-9c04-9ac64d679780",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #103)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1238,11 +1238,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7185d678-ed75-452e-9571-91022a0115e9",
+    "id": "3db31201-163a-4df4-9a03-c33980c768cf",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #104)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1250,11 +1250,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a4a1b09f-589b-4dc1-a65f-de3a30ee020b",
+    "id": "b8ea2e54-3d9f-4a93-8438-961789e23ca3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #105)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1262,11 +1262,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f8989a22-1cc3-4080-8a8a-91c4db74ad0f",
+    "id": "c1c973b3-b052-48ba-9f40-acf4d40ee9c7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #106)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1274,11 +1274,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "686db6e8-ec0f-4ef0-9ac6-f404736ab077",
+    "id": "53996c04-5587-4fca-88a1-d941cc7af833",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #107)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1286,11 +1286,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cb86c6f7-4ade-4bfc-a851-90052d0d87d9",
+    "id": "9b74d4dd-0086-4bc2-8167-3d4da305878a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #108)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1298,11 +1298,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "51098b21-2b38-4fab-9cd9-f7bb2f781f11",
+    "id": "06f4d1e6-bcf4-4939-a609-629bc0e52602",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #109)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1310,11 +1310,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4f336d1d-cf86-431b-b5aa-5050515ee4db",
+    "id": "2af455bf-a052-4d7e-8651-f45754611d59",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #110)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1322,11 +1322,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1950ae6d-9d23-41a8-ac1f-bcf91a1a7f71",
+    "id": "2882ac5f-7e33-4b4f-af47-3f04982b301e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #111)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1334,11 +1334,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0a868038-a6b0-4667-839f-f6d2752d18d9",
+    "id": "cd59a361-5960-4b2d-ad96-37b5adc88bf7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #112)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1346,11 +1346,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "55f907e5-5fe8-4071-aaaf-d03b0a85c9a6",
+    "id": "1fa4bdd0-87a3-425b-b7c4-b6918ca63443",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #113)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1358,11 +1358,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f3343625-ab4b-42f5-8fc0-ff419db10530",
+    "id": "4b9dc8ae-0372-4e08-a9c6-d37d5f850f47",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #114)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1370,11 +1370,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f63f52b3-aa4f-496c-812d-37401582003a",
+    "id": "289fa98e-0a11-4471-b5b1-fe35c083c476",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #115)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1382,11 +1382,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "001b7d11-6e43-4a7f-a85f-b3794389f952",
+    "id": "322d22af-e269-4841-bf55-2e7fddd63a03",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #116)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1394,11 +1394,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6a4afa22-ce9a-49c0-abb9-5d4e2cb13141",
+    "id": "289e72f6-1020-4605-b196-4dde58a1347c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #117)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1406,11 +1406,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2ec07ab3-3bc5-4e69-8835-3b7001719592",
+    "id": "0dd89c33-b7a0-4fda-aa3d-e1256e1a2641",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #118)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1418,11 +1418,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fdd4ca31-e233-4d52-a4ce-d8c28e5b64f5",
+    "id": "25d152a2-3b33-47bc-ab90-b03fcb57e578",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #119)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1430,11 +1430,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f7ec611f-a8b9-49d4-869d-d12459aa2860",
+    "id": "c31697ff-aea9-4eb0-85e9-0cc17277db92",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #120)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1442,11 +1442,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ccc7a817-b5c3-4f8c-b8db-6321a6cd7f79",
+    "id": "4096d76f-34f2-41b5-8c10-8adb510c7f9b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #121)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1454,11 +1454,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ba1c2b2a-2ad0-498d-8439-d53743cfc755",
+    "id": "cceb6282-8700-4479-b59a-459c1054ceb3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #122)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1466,11 +1466,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9cb4ae00-c7c8-4e00-8b46-f5f2ad88dabf",
+    "id": "4f344251-71cf-4924-b47f-df45c4227ea6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #123)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1478,11 +1478,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "48d01625-0ec4-4e2f-bb59-9d303183538c",
+    "id": "070bf55d-0e73-4881-b28c-71050312a0aa",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #124)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1490,11 +1490,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "76315b16-e51d-40d7-bd6a-c752205c13a4",
+    "id": "f0814ed8-e9bf-4854-a808-3e91ce22ac50",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #125)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1502,11 +1502,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bee65cfe-f67e-436b-bcb5-fb9bf7d8ff7c",
+    "id": "6acaeeb3-ea55-43db-9cc0-fe1c5d530775",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #126)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1514,11 +1514,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cfdebe24-7bfa-4946-979c-4d1f3fd81c59",
+    "id": "e8417b96-0da3-4e6d-8704-d06b55c319d6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #127)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1526,11 +1526,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4d5169b7-0afe-4704-afeb-5068ca3344d0",
+    "id": "4176b015-a5c9-4377-a7fc-44eb8ede0f2b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #128)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1538,11 +1538,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "49a01248-df29-4279-92a6-2e31d5b4ee82",
+    "id": "69418d4f-3551-4817-b15b-3806cf2a1867",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #129)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1550,11 +1550,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e203fc26-8e27-4241-bc0e-0f8b27f7890a",
+    "id": "fea8c58e-a755-4815-9ac0-aad499a842f8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #130)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1562,11 +1562,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5213e0d8-9127-4861-9705-f2bebd7c9dcc",
+    "id": "c718eb93-1e9c-48d8-9173-450031cbe59a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #131)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1574,11 +1574,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bd3c34bc-911e-43e8-a9ef-d1fb704c85ef",
+    "id": "bd3623c6-f4ce-445b-bbdc-c10bc18affd0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #132)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1586,11 +1586,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b96b8524-12e4-42fc-8aae-4f7e96a40451",
+    "id": "1a34727b-ec30-42b4-93a7-e418b77b8807",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #133)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1598,11 +1598,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3e558751-474d-4328-b819-207c11730536",
+    "id": "be4df608-8ba8-4188-a75f-e69a1695e019",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #134)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1610,11 +1610,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9ef2ffbf-b44e-4ac7-ad88-fa9e6fc00e6f",
+    "id": "385d2739-1338-4455-ab4e-d41e3d1459d3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #135)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1622,11 +1622,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "42ec6865-25fd-47fb-a570-769a04377e2a",
+    "id": "fb6b3933-a6e0-4e68-8e0a-a9ed8e54a961",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #136)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1634,11 +1634,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a717a0f3-d57e-4287-89c6-e6b24192d3a7",
+    "id": "f9af5ddc-92dc-4ca8-913c-e90e03d460c6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #137)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1646,11 +1646,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "51ad55db-0a09-4558-befb-3044e9b94044",
+    "id": "251e9450-75ff-4a51-b559-d479fe357bf3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #138)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1658,11 +1658,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f7264972-4973-435d-9302-ec1cf8fad952",
+    "id": "bd4b8067-fb5f-495d-9a47-381fe2fde48c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #139)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1670,11 +1670,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "767cfa76-a197-48c2-9b5e-83c44cf99f76",
+    "id": "b571d538-0425-437f-9297-ed3f32af0d52",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #140)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1682,11 +1682,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d37035f2-4b21-48a4-b2b8-563fdd1f36dc",
+    "id": "ba8574b5-6c0f-42e6-8029-1cdaedfb197d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #141)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1694,11 +1694,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "085b7b06-3336-45e3-9e8f-d0f66ca5f366",
+    "id": "39da9de8-e2fb-4037-98a9-0c153d73f1e8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #142)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1706,11 +1706,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f14e8837-6f07-4da6-b22d-5beb3c39be75",
+    "id": "20110807-11be-4194-b152-dea477306b15",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #143)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1718,11 +1718,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9366ad8a-ddc6-4f9d-9728-1510a471fcc3",
+    "id": "ceb86dfa-a624-450d-87b7-741d5ff02b6b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #144)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1730,11 +1730,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "84e06391-ec0f-45f1-9503-094410f4bba0",
+    "id": "9469332f-1ec5-4556-8325-446f729625a5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #145)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1742,11 +1742,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6b18b6d1-8b2e-481d-8ae9-6e276b9ea5f1",
+    "id": "b965eca3-3f97-446c-88e7-d5728189a7eb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #146)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1754,11 +1754,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b591c119-66f9-4f50-8add-ba0a13937103",
+    "id": "e902c88f-c887-4644-b93e-50dc8d9493f9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #147)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1766,11 +1766,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2a90dded-f21c-4312-a47b-e67e0036c17a",
+    "id": "e9b6e414-9978-4992-bab6-8316b4ff4fc5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #148)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1778,11 +1778,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4068ad57-23df-4f0f-9832-ca60ba2238fa",
+    "id": "28670ef2-0205-4585-8ae3-b9ae07b90016",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #149)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1790,11 +1790,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "41af7f6b-7d75-4efe-8925-3f5eecb317a7",
+    "id": "adf42def-22ed-4234-b170-d8eded52d8e4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #150)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1802,11 +1802,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "53fbae4e-af2b-4547-ad64-a4389efa82ef",
+    "id": "5fa02cc3-fa1d-4fd8-ac04-10ab43332e9c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #151)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1814,11 +1814,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5b64fe6b-fad8-4cd0-974e-23ad137df749",
+    "id": "cfb62a45-551c-46dc-be4f-4b55a4703f3e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #152)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1826,11 +1826,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "95dc305d-7064-483d-a856-c56afaf0a91f",
+    "id": "8a755994-8165-4252-a586-6639586889c4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #153)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1838,11 +1838,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "18b116bb-5ce6-4d7d-b5b2-f61f4d776f60",
+    "id": "16108db0-e933-4b04-8e98-235a1e155a56",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #154)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1850,11 +1850,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d61b6a92-68ad-4559-8db4-6635f1a8860a",
+    "id": "69cd9247-cded-450a-b8e9-7094f33e2892",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #155)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1862,11 +1862,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2709314f-ccc9-4119-a08a-9103b8825e57",
+    "id": "b82d3ce8-4a00-41fe-b1e3-b055e7778d11",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #156)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1874,11 +1874,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a0b1f7ba-4773-4ab0-a0bf-0bbb473f765c",
+    "id": "0981004f-c68e-421c-a5fe-85dfc4cf7d0f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #157)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1886,11 +1886,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6bcd0f78-a408-41a6-8e22-6bdebb011694",
+    "id": "7ea78204-f42f-4bbf-a489-587f5a916ecc",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #158)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1898,11 +1898,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ae6bf2c1-49ac-442e-a047-a13bc932b7a5",
+    "id": "e57e5b51-06bb-4120-b2ed-6ea78ae58ad7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #159)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1910,11 +1910,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cf8723e0-3616-4e43-96c1-c6cdc59fa43e",
+    "id": "f03e8802-9fe9-49c6-a96e-b7c1cbe43bf8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #160)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1922,11 +1922,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2a1ee141-6631-4223-91f1-f9be016cfecf",
+    "id": "df8bfa56-6da5-44d0-ba2f-de926b3701e0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #161)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1934,11 +1934,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "47f19b70-1272-4b84-a22a-4f3494e97422",
+    "id": "e576cf46-182f-446d-bb6e-d0cc853173e8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #162)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1946,11 +1946,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "aaf6a515-8ea6-4a76-8f58-2b76927f9b1d",
+    "id": "37be3c12-41a7-419e-9e69-af645b744830",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #163)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1958,11 +1958,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2272247f-10c4-4716-b5da-3ae09c2491fe",
+    "id": "5b57b5d9-0591-45ac-a994-8ece51364962",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #164)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1970,11 +1970,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "841397ee-72cd-4cab-9ec1-113a92a25909",
+    "id": "c438707c-ddf9-4547-9f1f-d6965d43894e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #165)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1982,11 +1982,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e7d7da02-3fb0-4fe0-8294-2dfa56ebeb29",
+    "id": "8f4d49bb-872e-4b51-b91e-693c00fe5f12",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #166)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1994,11 +1994,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f3ee3af0-519a-42a0-bc52-b36502670709",
+    "id": "a98823b2-ab97-449e-8df3-73fc909c9fea",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #167)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2006,11 +2006,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cf05f786-4d54-4e10-96fd-5111058ed120",
+    "id": "c3988799-ec34-4bf8-94fd-6cbb48c414ca",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #168)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2018,11 +2018,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c2b5784d-5b58-453c-808f-43ac9251dd13",
+    "id": "5682bfd0-45de-4fcf-b111-e1787dc5fa81",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #169)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2030,11 +2030,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8a7a49ee-2e2f-4684-840b-c75001ffa2d5",
+    "id": "5af3d962-f533-4c67-a721-55c5bae92246",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #170)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2042,11 +2042,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0de63d57-e402-4ade-b4fd-695ca0cbe3ac",
+    "id": "0bfcd195-8c86-4afc-8fe6-f12b894e299a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #171)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2054,11 +2054,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "725fb1e3-8839-4a18-b6cb-fcee8db1d447",
+    "id": "951f8684-cc38-4c85-8d83-d57fd7d7061e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #172)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2066,11 +2066,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d954aeec-6580-465c-b2ff-d2c7b3c00b70",
+    "id": "15525eec-2e6f-401e-ba50-7b2fffb5b62f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #173)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2078,11 +2078,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f02edc99-15e2-4d56-b3b2-9915488cb2cf",
+    "id": "0fbb7e90-c9f7-478e-814f-8caa8020b201",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #174)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2090,11 +2090,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2254029b-936c-45c6-8d11-58622f8b02a2",
+    "id": "f4b9313c-f843-4b06-923c-04285f351b79",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #175)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2102,11 +2102,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7a3ccb1e-91fe-46db-9fe1-b04fbe5bcce8",
+    "id": "f0d2ca37-6ccc-4bcf-8e8c-1786135cf4e1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #176)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2114,11 +2114,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "57a81e30-40b0-4d87-a9dd-ee6e987f3632",
+    "id": "27a7c8b5-f1ae-4004-8418-0cf213946fe5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #177)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2126,11 +2126,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6beb49a3-459e-46f4-8992-0face8ce659c",
+    "id": "2997b276-98c1-48e5-8702-f1880a59ddd7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #178)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2138,11 +2138,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "67755174-61ea-45ae-af6b-d56c6b535624",
+    "id": "b22c6fbf-55f6-4e21-be54-f8c8212fa56c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #179)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2150,11 +2150,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5f929396-253b-443e-8d9e-11694cb9f641",
+    "id": "71642ebf-4e66-40af-aa41-28f43ff0a32a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #180)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2162,11 +2162,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c6898a54-8477-44fd-94dd-68e5c0664178",
+    "id": "2c24d921-b123-4cea-9c60-e7535266c780",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #181)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2174,11 +2174,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "621b16b7-9fb4-4c14-96f0-b94fd999e9ef",
+    "id": "eceef3c0-84a8-4f7b-8498-64c5a4d19bee",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #182)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2186,11 +2186,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "473fb640-4088-47a2-8753-7f98afb96259",
+    "id": "8417515a-e94e-4a77-887d-4a41e9a3cca1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #183)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2198,11 +2198,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6681cf7f-464a-47ac-9dbb-ce5941d0d2ea",
+    "id": "722d919f-32eb-4242-916d-bbf0a8c37473",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #184)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2210,11 +2210,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2903e347-8a63-4c07-9508-c5979d25db4e",
+    "id": "5fea46e3-c44c-45f3-9f05-d741a0d4567a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #185)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2222,11 +2222,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b5b04797-a2f4-46c3-9899-6ed572a5bcb0",
+    "id": "aea3252a-7fdd-42a9-a32f-6a3dd9f16f12",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #186)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2234,11 +2234,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "464fc2d8-d6c7-4a6e-b761-78e66cca7173",
+    "id": "5c92185b-e1a9-46cd-9441-654c1e5c95ae",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #187)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2246,11 +2246,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a4b09bf3-3c1b-486d-8b1f-d5b8f6dff959",
+    "id": "b7c5324c-179e-4021-b125-44271429c9d7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #188)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2258,11 +2258,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "95b87349-cf75-43ae-9ba0-1e1e9c198855",
+    "id": "25a0098b-0912-4163-9a23-4668251ef604",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #189)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2270,11 +2270,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d8f102e3-391f-4326-8442-e469ac437435",
+    "id": "e7db6cc9-87f7-4793-9f7d-1e79f7f68421",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #190)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2282,11 +2282,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "061520ec-a028-4aa1-8256-45e0e8f37c3a",
+    "id": "ba009415-3e65-4e62-9129-4cdec7d12dde",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #191)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2294,11 +2294,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6ccb18e3-60b3-4c91-a731-bae5d1d655b2",
+    "id": "de044377-7399-4fe1-ab5b-ee19fa5184fc",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #192)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2306,11 +2306,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "86fa6cd9-ff79-4f66-9b95-350d6ffb5096",
+    "id": "07bb3ef2-43ed-482d-8304-7ac60e696669",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #193)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2318,11 +2318,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "38ddf83c-467d-4e42-9396-31b70fe5148e",
+    "id": "5b34dda2-04a2-4431-8439-cdff7382d12f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #194)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2330,11 +2330,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "aae2a3be-2648-4329-ba05-05cf2f2ef89c",
+    "id": "93761123-2529-4d79-9c8b-e76f43853fce",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #195)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2342,11 +2342,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ebdd41d9-e85f-43db-a044-8bde20676d11",
+    "id": "f31fc273-fb80-4e34-bb52-06ffa703698a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #196)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2354,11 +2354,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d988cabc-23ab-4335-8df3-11d9d7460b4e",
+    "id": "80d9a8f6-a7f3-4807-80d5-b27ecce72695",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #197)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2366,11 +2366,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6517fc7d-863b-43cc-aa58-248c1c69a9ab",
+    "id": "c0db2508-1d4e-45a1-8c41-591e759ba325",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #198)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2378,11 +2378,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "41adfccb-10c8-495e-8e07-bedd734bd17b",
+    "id": "8a3d40b7-a148-4b85-8bbc-37da6aca5a8b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #199)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2390,11 +2390,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6f149f5a-fd61-4539-a8cb-1bca122e04c1",
+    "id": "de89f861-99b7-4ea7-823d-c88ba450a87d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #200)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2402,11 +2402,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bacec8a1-0c8e-40a3-bd26-09094602b034",
+    "id": "1238a1e7-33a3-4a8f-84e3-45244eca10a3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #201)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2414,11 +2414,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fa5d01f8-0980-4c1e-af9c-bfb22c59dbaf",
+    "id": "0b8c7db3-fd5a-4d63-8a13-4c21c836b69c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #202)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2426,11 +2426,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e125d84f-140e-4c03-8412-ba9d75d94c9e",
+    "id": "86ea1b25-ae33-49b5-8e62-29d0e49cfe42",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #203)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2438,11 +2438,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "775ce119-fb0a-4930-8c30-e5c3132c0f17",
+    "id": "422511a4-84f7-4647-b13d-f41bb891b497",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #204)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2450,11 +2450,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f7b9e2a9-27a9-4611-b185-a4cca0cc1b21",
+    "id": "a1a90d92-7be0-4def-906d-8f3fc393569a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #205)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2462,11 +2462,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f26b30fa-5508-4da7-b7a2-b20aa6c3f053",
+    "id": "1102f469-281a-4b39-b148-17655387ecaa",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #206)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2474,11 +2474,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5e8d58a6-5676-4ddb-93ec-b4155c24f312",
+    "id": "7523d000-2eae-40da-89b2-dabad6dce68b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #207)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2486,11 +2486,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f8509f0a-3662-4a66-904f-125af9b70889",
+    "id": "c7f53c1c-522a-46bf-9842-017416e46abf",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #208)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2498,11 +2498,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "474fe6c3-3e5e-4a2b-8a34-02eb5342de1f",
+    "id": "da21518a-082c-4aa5-8ef7-c2b6e34c2185",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #209)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2510,11 +2510,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "37112e81-90e1-4969-9541-5efb7cf72a82",
+    "id": "ce9ad862-2d00-49ad-b197-2747ac897e0e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #210)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2522,11 +2522,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bc72c71e-8437-4ef4-a909-3c26b4907e07",
+    "id": "5a0507f8-318d-48a5-bdc6-f68ecab1c83b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #211)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2534,11 +2534,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "009dab53-f796-4cce-a774-de52d34d966f",
+    "id": "58887ead-98a9-4bb7-bd56-c1a039a5f29a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #212)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2546,11 +2546,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ee73d21f-8679-4e6e-af09-1ed0b5844e1b",
+    "id": "e131f40f-341a-4149-9865-8b4953fc431f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #213)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2558,11 +2558,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5539a5a7-1611-4f3e-a8cc-bec102d3b858",
+    "id": "228c4803-85f9-44ea-913a-f2f327c7ab60",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #214)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2570,11 +2570,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "70819500-c166-4e3b-aea0-5d911e0bffcd",
+    "id": "776933ab-ec72-4acc-9bd7-adc5cf8c5679",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #215)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2582,11 +2582,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7dc05555-e746-4293-9ae9-25535fd06780",
+    "id": "e84cffab-978b-44ac-8c23-a7d3cd9e8abd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #216)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2594,11 +2594,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5a9e96c6-9db6-4f07-b4a7-91d47a5f06a0",
+    "id": "3e425a2c-df18-4c59-9029-eb9dea4206c2",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #217)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2606,11 +2606,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3e4b70a9-5558-42b8-9226-a30b4eecf1f9",
+    "id": "d2a06595-185c-4fc3-bfa2-fd04566b35da",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #218)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2618,11 +2618,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9699fdde-6d2d-419e-a956-c134bb766bd0",
+    "id": "13036a24-9a53-4c66-b5ef-19bf864c9a92",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #219)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2630,11 +2630,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6e41be23-dfb7-4ecb-9dc1-9d2a6d1d74ed",
+    "id": "82c07582-963d-4167-bf8e-cbf83e477a87",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #220)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2642,11 +2642,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "aff67fba-8c83-4c38-af63-43f13dd4eca2",
+    "id": "389daaa4-46b0-4d1c-a9aa-0af029768e8f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #221)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2654,11 +2654,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "41222e8a-0f49-4608-89cc-fabfae414705",
+    "id": "7a37e99f-823a-4378-a60e-8c8a4e8cfe46",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #222)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2666,11 +2666,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8e935060-33f3-4308-9a94-f041a3058b52",
+    "id": "b53d9371-75a2-41b5-b051-86591a22b3b5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #223)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2678,11 +2678,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "36ef7773-a9b9-4a59-814b-e46210af614b",
+    "id": "a2d8a2fc-051e-4fcf-ab01-01152c007706",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #224)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2690,11 +2690,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "062c2b11-ff8a-457c-ba76-c05ce63fe8ab",
+    "id": "b5df1d0a-9585-43ef-bd52-3c2c5ecd663e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #225)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2702,11 +2702,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "917015ba-4eda-4355-895a-634ca86e2671",
+    "id": "22309299-01e3-4288-b3f3-c53d7c6ccace",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #226)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2714,11 +2714,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b8810740-5d2b-42d2-8819-c739d13ca13b",
+    "id": "67b41da0-d9a9-428d-af46-e5723630ccad",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #227)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2726,11 +2726,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6aaf5feb-ae65-4dcc-859b-8e40b9911b72",
+    "id": "4d0871e1-bd93-4077-ae00-078f074687de",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #228)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2738,11 +2738,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c8be2dbe-b5cc-46c2-b584-d2744eb58191",
+    "id": "75a450a5-3570-485d-86c2-1a887079df5c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #229)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2750,11 +2750,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1d31d195-ca7a-4c82-9417-8be9d2208d1e",
+    "id": "482bd673-4782-436f-8292-665906f333d9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #230)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2762,11 +2762,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fb3d35aa-0d1b-47e7-8b95-fd4de74d519b",
+    "id": "01d38c36-d753-4914-a6ed-a068aa63c40c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #231)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2774,11 +2774,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8a7f2e57-9bf9-4e87-b9cb-2e2c8c92aba2",
+    "id": "6c71a38e-15ca-4d1b-989b-2e1cb1e1e9a1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #232)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2786,11 +2786,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e276d120-512e-4520-9fe1-dd04ff721f2a",
+    "id": "122fb986-b9d7-4053-afb0-e4360a7a7576",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #233)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2798,11 +2798,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f5c8cd55-1c25-47f3-a947-f02fad6729c9",
+    "id": "63a628cc-6e97-4d26-a579-8df26eac6bbf",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #234)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2810,11 +2810,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8aa41880-7c41-4a26-8399-ec8d4330c986",
+    "id": "1540c105-e11c-4b78-86d9-2867bce8c241",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #235)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2822,11 +2822,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b62d1a3c-1d48-4c1f-b69d-d9735c759771",
+    "id": "4d002186-5696-4774-813f-55f2d20be764",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #236)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2834,11 +2834,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "426fb0bb-0ad2-4155-a8d6-52f45e289b2e",
+    "id": "e8b7222d-6857-4fa4-bbfd-880ff383b75a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #237)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2846,11 +2846,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "77e675ef-e39f-4e6e-ba66-7dc87f76c944",
+    "id": "00627993-9a99-4a79-b0c0-1135427d4f22",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #238)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2858,11 +2858,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0cddb50e-345b-49fe-b184-3b021aaccee2",
+    "id": "8c3c4059-828d-42f9-9b48-0ba07af3bdbc",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #239)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2870,11 +2870,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "226ed66e-ff18-4941-b365-3bfc05efa1ce",
+    "id": "9fe28a1b-7a08-4a38-a9d4-61c0b5083543",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #240)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2882,11 +2882,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e3b2a72c-1486-4c10-b94a-fb6c9a3cc4a7",
+    "id": "a8fcfb17-1c2f-4dc4-9eb4-0892aebe6063",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #241)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2894,11 +2894,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2194a683-f047-4e93-bb8a-b7cf707440c6",
+    "id": "78e2914f-0974-42af-90f2-adb33fd65d17",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #242)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2906,11 +2906,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "60ff690a-3456-4511-af34-7bbefe1b7c18",
+    "id": "8040ee47-28ad-4109-8c15-0fde4b638bce",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #243)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2918,11 +2918,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8549146e-6102-4cef-9b62-25c96cffe40e",
+    "id": "ca1d8a81-007b-4db3-8b67-f1af0aa273f8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #244)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2930,11 +2930,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "dbc525f6-9fb4-408b-98ed-b1d411d364dc",
+    "id": "2aee2bc5-a4f4-4b3d-9505-4e22d2f07217",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #245)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2942,11 +2942,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "54416c1c-a970-407c-b762-ffab0aead5be",
+    "id": "55f12c2f-31ee-4c95-a9c7-a6ffcd2f0669",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #246)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2954,11 +2954,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ff91c5b4-be4d-4156-b26d-cd6884564d48",
+    "id": "f84c2443-5582-4adc-85ef-87e2692dfc84",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #247)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2966,11 +2966,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c8c9a051-e344-43cb-9d1d-4dcb25b54253",
+    "id": "991b41de-e23b-443c-8709-57e3d47499df",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #248)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2978,11 +2978,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "648bb1f8-5d26-42e3-bb41-11efe621ba89",
+    "id": "631fd5cd-497c-4a86-b2ca-cf75282752b2",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #249)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2990,11 +2990,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f594fb03-e7fe-4735-864c-94a87d48398f",
+    "id": "940f50f7-5aeb-4e48-8b3e-6139902d9a6f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #250)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3002,11 +3002,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "84dce7fe-58de-4372-bdcf-78be9a3bf4d8",
+    "id": "c9e71157-6121-4ee1-85d7-44f8cc7c65cb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #251)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3014,11 +3014,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c8c921f0-ecd8-4b73-9509-381015e9b845",
+    "id": "6be2b0ca-6386-4427-bf46-d68e0cb2abcc",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #252)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3026,11 +3026,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "10bb2673-3aed-4240-9e42-249a7a36ca6e",
+    "id": "69dd8a9f-2d83-4f80-aa7f-9323d00e626c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #253)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3038,11 +3038,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "df752417-b565-4216-bfbc-027f9ac5cf58",
+    "id": "2919b5d3-d5e1-4e0a-ad3e-9a571230952a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #254)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3050,11 +3050,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "47ac8a95-c811-47cd-853a-0be05d887803",
+    "id": "c356f36c-64e9-4fe5-b144-4fa096eeeb63",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #255)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3062,11 +3062,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8f28473a-8dc7-41e2-abe0-8649dab87098",
+    "id": "bf40d9fc-9320-4c8a-a61e-fb5540c8ed24",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #256)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3074,11 +3074,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "278a0493-f564-4806-bfea-2e3885aac49f",
+    "id": "ce819da5-8342-44be-9cf8-d750867561ad",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #257)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3086,11 +3086,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f8487e87-2c8e-4949-90a7-d367f144fbad",
+    "id": "41c05f68-c23c-457e-b665-66eb9ec7a3e4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #258)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3098,11 +3098,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "40deb8e9-c856-4b0b-916e-02ff4cb8e7d5",
+    "id": "ad18656c-2655-4415-a151-779738c4ad93",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #259)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3110,11 +3110,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "668cd0c1-e552-4ce8-ac57-6ab2ed2c16f1",
+    "id": "3ff6e520-1b9c-4769-abbc-f82f50eadc77",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #260)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3122,11 +3122,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7981ab29-7814-483f-b34b-dbda2b9cb369",
+    "id": "60b7598f-01d7-4dbc-b829-ec97dd0da05a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #261)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3134,11 +3134,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c2ae23ce-2a35-431d-8876-d2be34df7a36",
+    "id": "883f9cac-0ba7-40e5-9b0e-1ebd10b48997",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #262)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3146,11 +3146,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6589a085-d607-4ee8-b0ab-5608d1d3013f",
+    "id": "040ba9f8-640c-4054-895d-b4d8530b797d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #263)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3158,11 +3158,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "598b831f-2a40-47eb-8d52-a77df13b3d63",
+    "id": "6fac91d3-f0bc-455b-820b-edc83a948ada",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #264)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3170,11 +3170,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "56ea0dbe-e5af-4768-8045-0f7a4744823a",
+    "id": "a2dd54f0-a1ec-4376-af0b-aa6478ede319",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #265)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3182,11 +3182,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e0cc800b-5ae8-409b-8031-1c8ad7a88a07",
+    "id": "440012d6-3cba-4a0c-b038-d2a41bc6b1e8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #266)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3194,11 +3194,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1b783bcf-1d0e-44d0-887b-3f248660ce4a",
+    "id": "ec61549f-3878-4e20-8040-07b745ec9b2d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #267)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3206,11 +3206,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f799f406-291f-4ed0-a2df-b2cc91f3d34c",
+    "id": "b96d2c5f-ba5c-42d3-8593-f489bfe82b08",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #268)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3218,11 +3218,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a63357c1-eafa-403e-b085-4c961aedd5b5",
+    "id": "4d5be844-d5a8-48b2-aa73-fd691e0f2505",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #269)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3230,11 +3230,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ddc29f5e-b45d-4371-8508-4893d1fa6f23",
+    "id": "3e817fee-3596-4069-8f31-a800213abefb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #270)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3242,11 +3242,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0d398bb1-1dbf-4df2-a274-dcb1bc11aa6a",
+    "id": "dee330cf-5116-4fd1-ae08-5d84c0f7c24f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #271)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3254,11 +3254,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1cd808e5-defe-4be5-8ac9-584abd363cc7",
+    "id": "c67df83c-ee73-4045-b52c-91be3902076d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #272)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3266,11 +3266,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b50ee9c5-4454-44ef-9f25-8e7eba95a932",
+    "id": "6f4f63e3-5d3f-49fa-846f-9d16690a8955",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #273)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3278,11 +3278,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4c7ba61d-10f8-4c30-ae3a-432480e3a172",
+    "id": "c465dba4-9560-4cac-8279-dc4a1cee5a78",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #274)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3290,11 +3290,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fbf05634-a6c9-44e7-a67d-82e9324eff43",
+    "id": "26a6262f-3d80-4f32-b7fa-88c3eb25692b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #275)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3302,11 +3302,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "80bb1296-0e94-41a3-b3b1-20414cf8a771",
+    "id": "67dc68ac-c4e9-4c11-92d3-9ee829cfe4cf",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #276)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3314,11 +3314,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7d7ec9fe-70f5-48f3-8950-e7c894d8312a",
+    "id": "f46f9dad-7826-4b8a-95aa-3ae275f906bb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #277)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3326,11 +3326,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8012f0fb-3169-48d6-a071-21ddeecf7d95",
+    "id": "a7e83f77-42fc-4cf7-af59-24f8a7f1b8cd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #278)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3338,11 +3338,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9c1901f3-9e38-4f2e-98dc-453cf9a03f6f",
+    "id": "81e3af62-c823-43b9-a057-8ee89dcb3923",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #279)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3350,11 +3350,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "23c1647e-c6bc-4262-af69-79098aa8d40c",
+    "id": "fc4ef84a-ea6d-46c8-8e38-f607bb80ef84",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #280)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3362,11 +3362,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6e528de6-b7bb-4d7c-881b-281ff2dfdfac",
+    "id": "af33bd80-4e03-4a25-94ae-5e3be2539f78",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #281)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3374,11 +3374,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1664857d-6033-4f26-a04a-d494bccf9144",
+    "id": "6f6855b0-8419-411f-bdae-f6bc190eaee6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #282)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3386,11 +3386,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fcabf139-7832-4e43-a38c-66645c79b367",
+    "id": "1cc729d7-35ac-4fb8-b406-7a91e3a4e27f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #283)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3398,11 +3398,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3ddac745-4d46-467a-8f39-e11456070bd9",
+    "id": "bae852e0-d7ab-4b6c-9bef-8d902ec110ea",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #284)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3410,11 +3410,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f258c1b7-ed65-4de1-b2a2-645431eb1ef8",
+    "id": "d979fcf3-4d2f-4e8b-848c-b7d5ba85099d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #285)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3422,11 +3422,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "dd6e2751-4839-4e15-a212-a87d4d00fd18",
+    "id": "179d2fcf-cd0b-46a6-b1b2-b19ca56a87f6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #286)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3434,11 +3434,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "54d4d3db-6148-4669-abff-a11d14353658",
+    "id": "d1afb1cc-8494-4feb-8177-4d8ec142c49b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #287)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3446,11 +3446,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "dc298b89-fd62-4de5-a03b-aa06f208ab75",
+    "id": "08b003f4-3925-4980-ade3-3c11f298d16a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #288)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3458,11 +3458,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "54fd286c-a6d9-4588-92a1-e2cd5f700f46",
+    "id": "b6df1dfa-c09c-449d-90aa-5a0688a36849",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #289)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3470,11 +3470,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0bed547b-c094-4586-9ed2-4238bc1d942e",
+    "id": "b3f3b61e-29d2-4a0e-b447-3a5c4915d861",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #290)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3482,11 +3482,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2b0ce917-3686-4c51-a2fd-d0863d094a34",
+    "id": "93eb9b34-dc05-4dae-b187-7d5381732b19",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #291)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3494,11 +3494,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "decf4085-b3e6-44b1-b39a-06260211a209",
+    "id": "23802212-a84c-4caa-9c17-ccee899f69e3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #292)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3506,11 +3506,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d2e93db7-80a5-4872-b260-6f12bc7d9f39",
+    "id": "44bb1d05-b561-47d6-bd7c-13032f969050",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #293)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3518,11 +3518,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "49f59c7c-d9cb-48c9-a0eb-8e64966adace",
+    "id": "282655bc-abd2-4605-a1ee-2de3e3116ca3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #294)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3530,11 +3530,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "041547b4-b2bc-49a8-bc6e-bbbb5225871d",
+    "id": "c5c77520-608d-4bcf-a472-5f4771b0c0cc",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #295)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3542,11 +3542,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "182ced68-3239-46c8-b164-29e567708161",
+    "id": "328d0bde-aa04-4292-bee1-2badd492ec8b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #296)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3554,11 +3554,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "38896937-fb43-498c-b4bf-a4c032d4103d",
+    "id": "bb39093d-9966-4116-a970-16d60953e015",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #297)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3566,11 +3566,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cf5d4aec-f5a4-49e7-8d56-13478174a177",
+    "id": "b21ac03f-02b0-4a8a-a921-c2f3b130ae43",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #298)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3578,11 +3578,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b2909b06-b33a-4b44-8269-7e8f6af30b83",
+    "id": "d3bd8964-4f74-46b5-82d0-018dce41cc07",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #299)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3590,11 +3590,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2f99b433-7315-4861-a999-ec96cb5d2b0e",
+    "id": "641705d1-d5d2-4c3e-80b7-37cafb774381",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #300)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3602,11 +3602,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d0a232e6-6094-4fc4-a2d5-f81fbbe122c7",
+    "id": "70cbbca3-5fcf-47f2-a88f-8d18c78fbb8d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #301)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3614,11 +3614,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "578535e2-d1a5-433d-b103-91a289945056",
+    "id": "22f9cbaf-5944-44e3-90dc-002d6fb63e08",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #302)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3626,11 +3626,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bb0bc378-93e8-4e28-98ad-5f1549848fb8",
+    "id": "99af77d8-7f58-4ca6-8c19-ff2ece022674",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #303)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3638,11 +3638,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "87b99d0f-ddfe-406b-a0d4-a9529b012693",
+    "id": "037200af-dd26-429a-8f66-2ab2dc190bf7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #304)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3650,11 +3650,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "10fa90eb-6621-4629-af42-09f3173e9651",
+    "id": "c2abad8b-4a5d-4a36-83cc-26ab276582a8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #305)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3662,11 +3662,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ccf4883c-e65e-427a-a3a1-c5756862a89b",
+    "id": "99541d9e-97be-4338-863d-fbf1315173e2",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #306)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3674,11 +3674,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3a3f6591-520f-4b05-8ba5-ad02b9e024d8",
+    "id": "26e1d033-ddec-49ea-bb93-1e7609176c6d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #307)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3686,11 +3686,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3def2907-1c55-402c-ad21-128c2a163b40",
+    "id": "c95ad48c-1755-4f4c-b797-2f64efc148af",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #308)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3698,11 +3698,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "03ecb6a8-3e76-4840-b0eb-d11febb1c830",
+    "id": "755b5b9e-a6d2-42a6-a23a-19ac0608f77b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #309)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3710,11 +3710,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7be5f287-2520-4241-9ba2-e21220dbf3a3",
+    "id": "b01a00fc-6106-441b-b0ed-86025b5e0145",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #310)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3722,11 +3722,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3851ea13-29a3-4523-970a-0c02e98789b5",
+    "id": "0de213d7-12c1-4ce2-8c94-11abd78e8e8e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #311)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3734,11 +3734,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5c768c6e-9f10-4878-a8d9-75db8ee9b7c7",
+    "id": "fe510f79-a66c-415c-9a33-715c216ba619",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #312)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3746,11 +3746,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8b779556-81b6-4344-ab2d-b61275f91cf2",
+    "id": "d7d32ace-acc8-4835-999f-f0f3743e2c29",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #313)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3758,11 +3758,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3bd8c6f8-446f-46cb-a15a-765227f52aa5",
+    "id": "549a2f21-c658-4db3-8ec0-31a94eca44e4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #314)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3770,11 +3770,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "469006ad-292c-4386-ba2d-9e8835b941aa",
+    "id": "045464bb-f254-40b1-b24f-3f7e27587a8e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #315)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3782,11 +3782,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ca1a7245-500f-443b-8941-fe1df1342a95",
+    "id": "7f907a1c-0827-41a8-a897-b8d3d629d8d4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #316)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3794,11 +3794,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ebb9f1a2-1d83-40c3-bc89-027a0eadc779",
+    "id": "15dbc4db-521c-4f2e-b3d1-90387f42c560",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #317)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3806,11 +3806,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e086dd23-bd3f-4e34-911f-43d5385d3c2f",
+    "id": "89d5c696-1a58-4d83-a10f-97fdb2f352e9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #318)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3818,11 +3818,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fc367ff1-3511-4809-95b5-e4cc024ce81a",
+    "id": "09430460-e699-4430-a1cd-9375e678c1eb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #319)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3830,11 +3830,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1645176b-411d-4d3a-bf97-e56f8c219d41",
+    "id": "076f9151-ef2f-4537-9239-307f61783e46",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #320)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3842,11 +3842,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "acc1af8f-d5d9-4649-a505-2cfff57e9a8f",
+    "id": "22c341a3-608a-4161-a8fa-3563c3346ff6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #321)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3854,11 +3854,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d68ae9b7-eb57-4bf5-b78b-3c90e7b19db0",
+    "id": "98c9059d-6cdb-4eb3-a930-c4944160d6b4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #322)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3866,11 +3866,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d0bfb039-0477-4ebb-8064-b4c6406620aa",
+    "id": "46ca4bbf-91e1-4996-bbe2-755eb3f1852f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #323)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3878,11 +3878,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c484a65b-6e49-4ab5-9ac7-52d72b422aa7",
+    "id": "fbe2ca4a-6cf3-4329-8871-143812ab75c3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #324)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3890,11 +3890,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "321382a0-7c3f-419f-8f52-60959a312e98",
+    "id": "499d6b14-4b47-4f9e-9914-ae0ecad11df7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #325)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3902,11 +3902,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "316fa608-c4e3-4382-aa9b-f2709fe8e9ed",
+    "id": "db68d386-604c-445c-8d05-35d055842226",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #326)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3914,11 +3914,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "28fdf3bc-8c3f-447f-bb5e-44f3c9463f9f",
+    "id": "d01244a9-a7f3-41a7-a915-844ca97fb6d4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #327)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3926,11 +3926,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9d7310a8-bd4f-4b9f-a925-6f869dfb4266",
+    "id": "4a2a81ee-6d35-4ca7-a671-c356543fdcf3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #328)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3938,11 +3938,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "865fbfa0-fa0c-42c4-9791-905e4d49ad5f",
+    "id": "f594deff-759f-4b42-ba40-2927856ce3f0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #329)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3950,11 +3950,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "12180c39-4be9-4f63-ae8c-49560da99f25",
+    "id": "60e370c7-ab22-4cc1-9b16-e484c7cea558",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #330)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3962,11 +3962,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b04c8b6b-7019-4a0d-9738-3f09f7dd2440",
+    "id": "03d5902a-c8ef-40cb-b2f6-d24781cd3756",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #331)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3974,11 +3974,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4897ef99-1085-4934-951d-f79f15b78faf",
+    "id": "035771b2-4db0-407d-b2b3-b6cd7e6a091d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #332)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3986,11 +3986,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a7fc1021-7f40-4698-871a-ac60d5c6ff90",
+    "id": "c4181f72-5857-4d40-b24e-8dd644789c86",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #333)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3998,11 +3998,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "73c64d0f-6650-4532-9ffd-be6eb45cbaaa",
+    "id": "a776c11d-61d2-4804-96f4-d704be4641b9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #334)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4010,11 +4010,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8ce30278-63b4-4d2e-8643-cc1c5ba7826e",
+    "id": "04b685e5-da39-4bf9-8bc7-a8769bcecc3e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #335)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4022,11 +4022,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "05b988ca-fdfa-4d5b-bbfc-a05be16cd055",
+    "id": "ee14cc0b-eb85-4407-934b-c71a4e2568ce",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #336)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4034,11 +4034,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "24d8e52f-52ac-45fc-80f7-506f8b4f50ab",
+    "id": "511ce7a8-ebc8-4e1c-b003-ce0452b1f3f5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #337)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4046,11 +4046,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "79a06df4-a43a-4773-ba8c-383f9fb47a34",
+    "id": "d3d4a29f-212f-4f9d-b760-e236da738384",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #338)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4058,11 +4058,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "772a7299-15f2-467a-9e7d-a05d5084fd27",
+    "id": "dff8f829-123c-4866-93e3-6c3bc8304c21",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #339)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4070,11 +4070,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "66b4dbe5-346a-4ac8-9188-b42d55047dd1",
+    "id": "bf380914-b8e6-491f-904f-fdd320f7eb25",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #340)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4082,11 +4082,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c53130c5-861f-411f-a452-b8ec19fdb0f6",
+    "id": "1ac01655-b456-4231-87f1-df06e04db3d3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #341)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4094,11 +4094,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "19498b26-58eb-48a8-945c-4e5a0d57cf7b",
+    "id": "c6c528e0-ffc3-486a-8de4-11e207e70257",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #342)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4106,11 +4106,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c3875cff-7a02-4020-86de-633a8aa9eb0e",
+    "id": "0aeebaa7-873d-49bc-98a0-88d992170b0a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #343)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4118,11 +4118,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3f3f95fc-4025-45e2-96a8-585ae595c063",
+    "id": "9fbfb922-4586-44e0-b62c-89498dba2402",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #344)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4130,11 +4130,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a539408e-9000-4be4-921b-9f4ae74d4171",
+    "id": "dcad41d1-4511-4c08-8fbe-9c74ec1f2c20",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #345)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4142,11 +4142,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0085a52a-1c16-4a42-a927-b81527611d6a",
+    "id": "6de53723-6011-4462-8c66-e9136c94766a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #346)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4154,11 +4154,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d99184c7-b605-452e-afbd-f909a3092ae3",
+    "id": "d4c2e08b-c628-4366-b142-b51f8d8bea3f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #347)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4166,11 +4166,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a2351e92-0868-4689-af5d-7888b92fc74b",
+    "id": "f5f25bdf-2504-48dc-8bd6-8c8f99de1900",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #348)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4178,11 +4178,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "681eeab1-a0e2-46f4-821e-cf071f5dbbbd",
+    "id": "e2f9e9f9-0ba4-4a15-b53a-d4683035e1fb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #349)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4190,11 +4190,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f89b4e42-1532-45ee-8f9f-ac0ed2e97353",
+    "id": "5048f37e-05ab-4dc3-a016-309a67967186",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #350)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4202,11 +4202,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "83f42485-859d-4686-937d-df8590ca659b",
+    "id": "6dbe9a1b-f4a0-4aad-9b69-42213b12a069",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #351)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4214,11 +4214,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a4a0ccab-5e83-40c3-b37c-d7e6c2ed86b4",
+    "id": "352b5fd9-7f3f-424f-aa50-42325d027696",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #352)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4226,11 +4226,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "dd6e0aa7-5237-4c2f-a73c-75529f78f4d0",
+    "id": "27167974-15e5-408e-a13e-69f508605fa5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #353)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4238,11 +4238,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "797fb404-21d0-43bf-898d-27857be67592",
+    "id": "c8f6bdf3-2926-4100-b555-b98558591997",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #354)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4250,11 +4250,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1e1e9225-a12b-4323-83a7-e049e4721f1c",
+    "id": "516091e0-1490-443e-bd53-38d331f4eac5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #355)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4262,11 +4262,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e78bab80-cad8-4bbe-839a-a25865834cb1",
+    "id": "a7db7fef-db82-4866-9f03-3c2c18d1fcdc",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #356)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4274,11 +4274,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c579b45c-6dfe-4db4-a7bf-9def4a90a762",
+    "id": "afed379c-0129-44e4-8184-6531c7e0a984",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #357)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4286,11 +4286,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "df104827-52a1-4d53-82a1-fd1cc4066e54",
+    "id": "e135eae3-16be-490e-a2c3-577cb37ceb4e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #358)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4298,11 +4298,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "45d208eb-6dc6-4969-8962-a87a562c38db",
+    "id": "ed1ee383-4a98-4799-8642-0b36ccedd469",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #359)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4310,11 +4310,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a77214cc-f0a4-4d6d-875e-9ad707b41b7c",
+    "id": "62c37df5-d016-4b04-8882-317e1f29033f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #360)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4322,11 +4322,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f800630f-6d34-4a46-a63c-4fb226b94434",
+    "id": "77e34c0e-76a2-439a-b50d-2abe78063371",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #361)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4334,11 +4334,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8961c949-a83a-4bd2-ad43-ced3121630e7",
+    "id": "37e3db86-ea02-4050-be91-d7d0b3549630",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #362)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4346,11 +4346,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "28de11b0-4ff3-4145-b844-75b321d29116",
+    "id": "feef726e-a896-4cd5-9e2d-cd9b5a617cc3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #363)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4358,11 +4358,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b605ea42-2e60-460d-acd7-fb77a3c291fd",
+    "id": "78bb37f7-fa50-4103-9975-3ef4537b6d5e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #364)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4370,11 +4370,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6a133559-9fc6-4af0-a1de-f09f475f00a1",
+    "id": "b73f6903-f4dc-49d0-a2c4-2ef59e69dc20",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #365)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4382,11 +4382,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "64969edd-bc2f-498f-9d37-fca49aa285bb",
+    "id": "61d9ffc7-a9a9-469f-ab5b-a7b19e3817c3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #366)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4394,11 +4394,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6f0bf2d1-adc3-438e-b395-2e9bb9dbe211",
+    "id": "89cccfc9-20fc-4f4c-92dd-3a8ce0c25864",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #367)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4406,11 +4406,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "649a98e3-0210-45f7-98d9-cdd477b35f4e",
+    "id": "4d4ef563-0689-4216-b309-b6f3bd809206",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #368)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4418,11 +4418,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "51fcb143-9122-4c51-a565-97280e53b58e",
+    "id": "88304b4b-598e-4d80-bd3f-d8ecd9cf8e26",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #369)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4430,11 +4430,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "749b853b-98b6-4dac-8203-fc540bbc7823",
+    "id": "01630715-a08a-4e91-a09a-1c9f07d05deb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #370)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4442,11 +4442,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "915556f3-3d78-4780-8bc5-a83dc43f3d39",
+    "id": "08eef2a1-6bef-4d34-a6fc-7b87a3d73ee0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #371)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4454,11 +4454,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8c7468fd-c4f7-4d2c-8535-cb8af69cc31d",
+    "id": "a95a0ed4-f78b-49d8-a25e-db33a3313f09",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #372)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4466,11 +4466,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5cf5b939-0f96-4d32-9a0d-5a0d078aa945",
+    "id": "67ad2771-8e99-4a84-a40a-f96a0345ee65",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #373)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4478,11 +4478,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a7d30aa3-a457-44d5-bd65-004d09b43d96",
+    "id": "adc3b66d-405d-451a-86cd-1cbd0a50536f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #374)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4490,11 +4490,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "17da0b14-abc6-43bd-9b5b-24af1941ccc8",
+    "id": "1fac1ad0-74d2-4608-ad7e-8d8db51f6418",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #375)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4502,11 +4502,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "14be100d-ba05-42cb-8568-29f54a893713",
+    "id": "6d5f4afb-b3c4-4496-b173-640d62e65124",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #376)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4514,11 +4514,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4e286ec6-e8a6-4f0e-98a0-3a9ed3ada29b",
+    "id": "4aff6e3d-2a36-4ebe-be0d-2e7b00079fa4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #377)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4526,11 +4526,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3b03737f-89ae-4514-8fad-a7d209d19b32",
+    "id": "025d4ae7-c507-4479-af9c-649d112b3ed6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #378)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4538,11 +4538,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c93e9c0e-09b4-41c1-b0f6-b37259d76319",
+    "id": "71a782f1-6941-4d95-b69d-5f38e5285e3c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #379)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4550,11 +4550,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7c53ca22-3805-47b1-ab2f-b99744e661da",
+    "id": "f3f62061-06cf-4eb5-a26e-da52f3294418",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #380)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4562,11 +4562,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a2941b69-9f00-49f0-961f-ea98f80db6e4",
+    "id": "a70f7d0a-b17e-426c-8a3c-1cf6a97114b0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #381)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4574,11 +4574,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9038886e-cc50-4f24-9c5a-0d2eec6698c4",
+    "id": "0f31b13c-8b37-4e48-bb31-308d5f6bd357",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #382)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4586,11 +4586,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f701c7d7-d68a-4a99-855c-dd072714b1f8",
+    "id": "4ddb9582-bba7-4487-a1f7-e156dd8320de",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #383)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4598,11 +4598,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "81a34d2c-9aac-4bac-8858-44d9c1b58d40",
+    "id": "9bb3e7de-0a8b-4caf-8624-310739e0c538",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #384)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4610,11 +4610,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b2fccf0c-9a38-4651-b757-a3d26f0446d6",
+    "id": "3a4f5c08-5859-4b0f-bc1b-361c7a5925b7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #385)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4622,11 +4622,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d9fc0a6a-e59d-40f9-8c19-f3f6ca73f006",
+    "id": "5fb27029-a14b-4403-ab7d-ec868bd76e15",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #386)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4634,11 +4634,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "51bfbe8e-47b9-48b4-b82c-9c1e3f9929db",
+    "id": "c5d27313-49ca-47de-9905-b9a8b44bbf66",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #387)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4646,11 +4646,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1c8fbb47-c7fe-4e44-a20e-46d07acb315e",
+    "id": "a808ec3a-e878-43b7-99b6-4642e0517f0d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #388)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4658,11 +4658,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "48116f89-df56-4f50-96a4-43316f502e02",
+    "id": "094013cd-c05d-42d4-a50e-6af74aac2b52",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #389)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4670,11 +4670,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f7c6e471-d56c-4199-aac8-f79668f1e5c6",
+    "id": "50b03e7d-b458-4312-b9cd-e893c664a540",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #390)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4682,11 +4682,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "84125fa2-bd09-4ffb-9abe-502ad96a2838",
+    "id": "019f6aab-8da6-4abe-844b-dd94a0d9b186",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #391)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4694,11 +4694,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f7201ab3-ce66-4f0c-8244-d02c05953d94",
+    "id": "72db2a17-7502-4e4d-8b16-9e70285b7c70",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #392)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4706,11 +4706,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1f076740-1540-4e3a-8bd3-da9ad9143b54",
+    "id": "1a3b9408-b77a-4c59-aeb9-c6c04dea2344",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #393)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4718,11 +4718,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f0dc7780-af3d-4ddc-bd34-e3c97b36c53e",
+    "id": "1313faf5-6293-4dad-bef0-7791b4979a7f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #394)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4730,11 +4730,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c3905e9a-d726-471d-9e17-b4db23c75a67",
+    "id": "b5a38d6a-7634-4152-a32d-11ef4366470b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #395)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4742,11 +4742,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fa239314-0352-4630-b59b-f71167302256",
+    "id": "e9172f08-035b-444b-a6ef-d270c093004e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #396)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4754,11 +4754,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2d321b72-350f-4126-a6a7-c0543e57a127",
+    "id": "619ef98c-ddba-442e-a7c8-89492206693b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #397)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4766,11 +4766,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7c7ae165-92c8-4627-8f86-b498f8dc4537",
+    "id": "533321a1-3fb8-454a-b66f-85bf6b5d7b95",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #398)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4778,11 +4778,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "23892d0b-cab0-488d-9232-1294ce94d60d",
+    "id": "7183ed78-4a3b-422f-b12d-f03a715ce4e5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #399)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4790,11 +4790,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "09aaf018-78b2-42d3-9361-7a631c3b3c70",
+    "id": "98281420-0092-4e7d-ae71-b4610fdce023",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #400)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4802,11 +4802,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ef94599f-5295-4755-a16b-5e5f161dddd7",
+    "id": "f49caf93-8054-4b45-91fb-635599ae5464",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #401)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4814,11 +4814,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e13b2194-fb5a-4e4c-b332-d9dc68c484fc",
+    "id": "5a936624-2b18-4173-a2f3-9e9f2b6e5f0f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #402)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4826,11 +4826,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "879312e3-d867-453e-aa26-871fa80d256e",
+    "id": "bd9351db-3057-4cd7-894d-91b4cf83f6f6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #403)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4838,11 +4838,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8a9c15e2-a3a7-447e-b183-15e4a20bfd6d",
+    "id": "dfcccd99-5ae2-4a85-881b-e8288fdca86c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #404)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4850,11 +4850,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8f85a6c1-57a9-45c7-aef2-3925283f1e29",
+    "id": "dfa8d7d6-6c43-4b11-8747-0fc9de4aacf7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #405)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4862,11 +4862,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d0e2a49d-8c19-459b-8692-7b1d1040b8a0",
+    "id": "7d40f405-b004-4981-a17a-b3ecae6c3c52",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #406)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4874,11 +4874,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "def7d904-6f30-4c29-b59c-2a2041c9b0e3",
+    "id": "0c3e8bec-d891-4be6-8b09-7991e9436e9b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #407)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4886,11 +4886,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "314d0f1e-3375-4d83-8104-41bba6aafa40",
+    "id": "9bf91b45-3061-49fa-b87e-86c36122cea6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #408)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4898,11 +4898,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8989c49e-63be-4fcd-bb2a-a4bc9785d873",
+    "id": "96baa74b-c7ae-429a-b10d-36937c4c2a59",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #409)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4910,11 +4910,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f627a61d-913e-484b-9795-1a75285013be",
+    "id": "185a1c1e-d6e9-44c7-bb70-ae19ae86d622",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #410)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4922,11 +4922,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f484654a-31f8-4b6f-bbe6-b7b64df9ce6b",
+    "id": "5a27ebdf-53d4-4c18-b7b3-ca2bb71f3d72",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #411)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4934,11 +4934,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4fff96b5-bdc3-4fb1-ba79-99b4bb00141d",
+    "id": "ca6fa52e-1ed2-4148-9638-81b2388ffd46",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #412)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4946,11 +4946,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3c0cbccf-9250-4f5f-9a6e-894df51c05de",
+    "id": "492d723c-7357-4cd8-b577-74dec17ee86b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #413)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4958,11 +4958,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "14b5ca66-66ab-42ac-bf70-79a0ea976a4e",
+    "id": "b660c587-c357-4d48-9c6a-0874952f33fb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #414)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4970,11 +4970,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "259fbf8c-db1c-4b38-b19a-91cc764603d0",
+    "id": "718e9322-ef3e-4e1b-9d1c-0138e5186d96",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #415)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4982,11 +4982,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c1ea9542-bae3-41e7-ae5c-977218231b41",
+    "id": "6d34953d-7d11-4d45-b367-7f9e65d7d8ef",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #416)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4994,11 +4994,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fcb90884-00e0-457e-8a5b-e976abb8b296",
+    "id": "76410676-b6a2-429f-85c7-835f1277cc25",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #417)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5006,11 +5006,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cc3682f5-378c-44ab-9777-f150f11af53a",
+    "id": "55a2a499-4ff0-4dc6-b13a-35644e54b65e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #418)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5018,11 +5018,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "55ea0468-f5f9-4677-84cc-ef4075093c1f",
+    "id": "dedcc2e6-6b46-4d65-b512-5c8db14721fd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #419)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5030,11 +5030,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cddfb522-40c1-4b3c-b55a-b1010c7bfcee",
+    "id": "f271cab7-a5ec-4744-be49-282aef8f296a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #420)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5042,11 +5042,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c26cec72-b838-48be-8269-75e519202629",
+    "id": "1543ff17-eaf1-4730-9c0e-8ac7f1d1fe8e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #421)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5054,11 +5054,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c822be4c-6445-42d8-9fbd-14063411b86d",
+    "id": "91e2d9a9-5bdd-4624-942a-e8ce794e02b7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #422)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5066,11 +5066,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6de04bef-a827-49f4-a7f5-b892d5144a8d",
+    "id": "6befb0cb-b9a4-4ca2-acc3-d4fabe532404",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #423)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5078,11 +5078,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5e6990f3-3fff-4bb5-9477-dbcaffbdcea2",
+    "id": "e282c238-400b-4a95-bdb4-e86af8250860",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #424)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5090,11 +5090,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9344e7f0-e957-430b-baad-04fc175dbfda",
+    "id": "9c03eb05-29f4-41a7-a523-51c79573d02e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #425)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5102,11 +5102,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "913e79d8-294e-480e-af63-e0ba0c411090",
+    "id": "0bb2f3c4-c6d6-4970-ba14-cd7d7af1440a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #426)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5114,11 +5114,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "948cfeea-2faf-451c-9b26-c321ea96edda",
+    "id": "9fb3c771-f905-41f7-9257-eceb3a312f81",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #427)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5126,11 +5126,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a5fcba64-93f2-4fff-ae8e-4bd0b7b9e6fb",
+    "id": "911ff061-9f77-4467-a482-0e49f36c4c6c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #428)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5138,11 +5138,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7ab36955-5621-4ca2-a844-8427ac435f31",
+    "id": "c2b494e9-8871-4cee-b329-a9b20242cfdf",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #429)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5150,11 +5150,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e7fb8f3f-63a2-4213-bc8e-296588edf1a2",
+    "id": "964ad71d-7790-45ff-8786-9b6bb97619b7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #430)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5162,11 +5162,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "51f74003-21b0-4f3b-8257-bed8ecea82d3",
+    "id": "cd17b0f1-2cde-461f-b351-b92b88c31268",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #431)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5174,11 +5174,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4192b709-90e4-4510-bab6-e2cf47b916b3",
+    "id": "4c27db7e-862a-4ff4-b063-d7e57aa601a9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #432)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5186,11 +5186,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d51392a1-c940-47d5-9d11-74fdf64afdbc",
+    "id": "169c5fa5-35a7-4c9e-aaa0-e53207d9083a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #433)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5198,11 +5198,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "18e0a2f1-77af-4d2e-aae7-4ff6afdf8959",
+    "id": "f99b09db-081c-4ad7-9537-e3ae9d58c0e2",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #434)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5210,11 +5210,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ee063478-8485-4aaa-a94a-5378c54d8c5f",
+    "id": "599bc6cb-e42a-4b18-b4f9-c9ac738d1107",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #435)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5222,11 +5222,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "98d727c2-ca81-4328-9bdd-88f15df3b546",
+    "id": "7a3f5ca4-02b5-4dbb-8c31-9e05489a6343",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #436)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5234,11 +5234,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1701cced-bcd2-4e04-b2cd-bb5909a26b5b",
+    "id": "9c4061ef-88a4-4d17-9a3c-daabb538aa50",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #437)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5246,11 +5246,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7030db66-02c3-4f3c-8f2e-c57ad10c2741",
+    "id": "008c85e1-b2c3-4d7b-8fce-9a03a0904101",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #438)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5258,11 +5258,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d4dff5af-23d9-4054-b732-8dbc865e7b5c",
+    "id": "e604fdfe-93e7-410b-b420-6369c919ca4e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #439)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5270,11 +5270,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ecd123d9-f93e-4db9-bda4-a75be35e980d",
+    "id": "a20a619c-abed-442a-b7fa-775653cbb947",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #440)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5282,11 +5282,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b640cbf4-81c8-46d3-a324-650c524a71cd",
+    "id": "1e893555-4e3f-49a1-9d06-60b59589ea4c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #441)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5294,11 +5294,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5165202d-26bd-43eb-8f77-e95455d18242",
+    "id": "843fb182-6f03-46e0-8204-5d406272a422",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #442)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5306,11 +5306,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9554ce66-9b01-4179-87e2-ba5f57c75cf1",
+    "id": "6fb615be-53e1-4d7e-af0b-faf8cf9e90b3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #443)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5318,11 +5318,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0d6cbbf6-5946-4a29-a33c-ee1fcd53fe44",
+    "id": "3e7fc963-ac11-434e-8db8-ef4e9d929517",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #444)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5330,11 +5330,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "02324732-0a31-4f6b-947b-09ee7ffd7cec",
+    "id": "791d3f5b-b082-4f10-a9b5-f6ca03c9e313",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #445)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5342,11 +5342,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1267fef1-7546-460a-8ae9-f9de56b0ec59",
+    "id": "3f6f9719-777c-4219-a2f0-2918b5ffe33f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #446)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5354,11 +5354,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ad624b45-a9f4-4097-9250-76120db54546",
+    "id": "9c2087bb-8847-4f59-8b40-b71c9bcc1099",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #447)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5366,11 +5366,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c1987d42-686a-45cc-a814-1585121f83bf",
+    "id": "fc83d91a-9bc9-42de-abad-4e872a2fde20",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #448)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5378,11 +5378,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "88a5a48e-965a-47b7-9f76-085906bae5fa",
+    "id": "42849c9c-7acc-4233-8ff1-66e40680996a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #449)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5390,11 +5390,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "05cd74a2-7565-455f-ab38-7d4d9f0749b0",
+    "id": "a46c3d1c-40c6-4382-87c0-466c3f9398c4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #450)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5402,11 +5402,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b7a1430f-2dc9-472a-bcf1-4073bb912420",
+    "id": "33d3afda-b0c1-45b9-a7ea-5563c238e71f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #451)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5414,11 +5414,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3a69724a-df92-49cb-886d-523b65a56840",
+    "id": "bd906085-d24c-40d8-adbe-a5e500f9575b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #452)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5426,11 +5426,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d64b4c36-df0c-49e7-8c7b-0482ca43fd1c",
+    "id": "ffde7e8d-76c3-4dfc-970b-f1fd368f473e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #453)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5438,11 +5438,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1bdf46da-c487-4c72-b1f0-66a89a53955e",
+    "id": "cb7578e8-f6e3-4a31-9660-26b1f5b23433",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #454)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5450,11 +5450,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ae4d6b19-8e37-4ec9-94f2-2601078d87ea",
+    "id": "db5aca21-6155-4d7e-8a31-fb56dee0df3f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #455)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5462,11 +5462,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f1d4daae-8e49-4dff-abf3-ac8661d4c18b",
+    "id": "4deb48fd-a9c7-4987-9732-a08567887e38",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #456)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5474,11 +5474,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6cee0683-b46f-453f-9718-7977bad7ab23",
+    "id": "bdb2f4fd-01ab-434e-87c7-dadb69b24316",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #457)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5486,11 +5486,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a8b7f0ba-4a62-4a1f-b30c-6786305469d6",
+    "id": "dc8e651f-268d-4a63-80f9-cf14ba118297",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #458)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5498,11 +5498,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d6a8fa8f-bc34-4d26-9a1d-0e76ab9ef888",
+    "id": "b8b14018-b42f-47ab-b6f2-05dfbae65d93",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #459)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5510,11 +5510,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "42a8bf02-94b2-40f4-92a5-350f89c03ae2",
+    "id": "9d154c88-1c35-4b91-b58e-277eb113c74c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #460)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5522,11 +5522,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "24d055fe-c356-4bf7-bcdc-fb32f22fa041",
+    "id": "c4f2c550-f16c-49e9-9f75-eeb1e5d27938",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #461)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5534,11 +5534,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f8d77f5c-1321-40fb-a4b9-547ca7dcfa39",
+    "id": "f304721c-8c41-4b17-ad58-262d33041ca8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #462)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5546,11 +5546,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6d26bf41-48c7-4984-8c38-ff422e1eaab7",
+    "id": "d765e105-b069-48eb-9ec4-6400d0550486",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #463)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5558,11 +5558,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "db58ed60-5614-4260-99e7-d76c37d2faa8",
+    "id": "91e44f45-cc58-450e-94e4-131604739152",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #464)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5570,11 +5570,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0579124e-263a-40e3-af63-4d87db59476c",
+    "id": "8d62983d-3bca-46cb-988b-f3d8e767f32f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #465)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5582,11 +5582,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5986f5ee-7c0c-4add-b16c-4e2461665c6f",
+    "id": "2021c9d5-f6ad-4356-bf9c-1af83c82631e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #466)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5594,11 +5594,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "097b2baf-0d6f-40dd-874d-d882bf37d2b0",
+    "id": "3ce5200c-397f-4dd3-b490-b6c07c40a32c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #467)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5606,11 +5606,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d1aee802-9b82-4b14-a7bf-d84bd4a71224",
+    "id": "f9379f8b-e8c8-4aa1-828f-e185bc84379c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #468)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5618,11 +5618,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "78166e6b-d472-48f8-9946-7f461b51ce1e",
+    "id": "44929144-efbe-4ae5-a48c-38da3d482978",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #469)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5630,11 +5630,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "815a7c0e-ca41-4590-bbf0-8f98b7d270b6",
+    "id": "37eca1a6-7c04-487d-840b-6f09ea476b5a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #470)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5642,11 +5642,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8a0d1f99-9b10-4012-a2f6-b908e2ef2bf7",
+    "id": "e2bbe66d-af74-4aa2-91f8-0d64b7cfbbd5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #471)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5654,11 +5654,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "193ccbec-2246-4cff-af5b-904e6ec2bc6e",
+    "id": "abfc34e8-7a71-4b8b-90f0-2ee2df9ed1e5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #472)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5666,11 +5666,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1f05d156-facf-4e85-af85-a29be0c8210e",
+    "id": "9d8988df-86f8-49cc-90ef-d0ab49842cb4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #473)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5678,11 +5678,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0fe87e28-dfad-4674-98eb-3b21bbc57a4e",
+    "id": "fd8e3756-68bb-4a3a-b24d-5da9986b9094",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #474)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5690,11 +5690,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "33ca4b7a-bf81-4f35-8271-d41352eeede8",
+    "id": "67013f89-c265-4a99-9350-e4ba108708d7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #475)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5702,11 +5702,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "edf4da18-3bfc-496c-8200-05eabee514f2",
+    "id": "d435a633-a817-48ec-a349-cf295c856ef5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #476)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5714,11 +5714,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "40b48c48-7544-4692-b963-0e98dfeb3eaf",
+    "id": "d3725336-955a-498f-af3f-88874cb5fd45",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #477)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5726,11 +5726,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "dc8241eb-7609-4d98-ade4-0985df148583",
+    "id": "97a38320-bfdc-4343-a039-f12dca70b5ab",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #478)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5738,11 +5738,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ead74601-73d6-4f54-81b2-a233e56056bf",
+    "id": "bb0b8aaa-e45d-4561-b869-15fc054b2f49",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #479)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5750,11 +5750,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d3d1228d-a2a8-4cd4-b127-e52ad4cb1da8",
+    "id": "f1aa87d1-d498-4f7f-a598-d5985b70655a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #480)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5762,11 +5762,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f36ea013-bd58-4d0a-98f0-f6956a965e4c",
+    "id": "d9bf92ae-d870-4933-aa09-d701131f4912",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #481)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5774,11 +5774,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "32df489f-2b4a-4c70-ac5d-913fda21a134",
+    "id": "90ae2b5e-21bc-4c65-af63-8782b3db5da0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #482)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5786,11 +5786,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "54473ada-c915-4ae5-9d9c-59ed3248545b",
+    "id": "a18d5e38-eb26-45c7-aafa-cbd0001d2f22",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #483)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5798,11 +5798,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "18a49f13-7e8e-45d1-a151-1502bd71852d",
+    "id": "7de175a3-c5e5-4fa2-a8ad-3d47b10069c8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #484)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5810,11 +5810,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5a388827-8701-494a-bf06-7c5178072f70",
+    "id": "e3d3bd29-9cfd-4105-803b-56f445dd50d0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #485)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5822,11 +5822,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c24025f0-fed3-459e-87c4-afd4386c353f",
+    "id": "9b6645d1-8403-4d32-b2b3-d278796d4de1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #486)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5834,11 +5834,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4b985687-a296-4117-9cee-e88c79a0fe0a",
+    "id": "feb759bf-1ab4-48b1-a2db-4c2f834d99a3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #487)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5846,11 +5846,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "57e94c3a-59f5-4c92-ab68-9a2c0fa1c9b1",
+    "id": "219b5bf5-d08f-4a79-8585-a3489d736996",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #488)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5858,11 +5858,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c7159d78-58f8-4f3b-8937-737818691075",
+    "id": "55a42252-2c82-4ae1-b613-252370023e10",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #489)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5870,11 +5870,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6cce0d7d-c46c-437b-b511-8fd3d94c4772",
+    "id": "c9b0d928-ecf1-4ddd-8634-9df1796c33c5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #490)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5882,11 +5882,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8416af6c-f163-4645-9e24-261503670036",
+    "id": "75d709cb-dc3e-401b-bae7-93d712433cb9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #491)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5894,11 +5894,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d326d784-5915-4df4-8d81-85d429044d6e",
+    "id": "fc612487-fd34-4d0c-937c-4022d7940105",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #492)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5906,11 +5906,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5f2c5d3b-cc07-4760-8d57-ea7f9d6009d6",
+    "id": "b08d20c3-bb2e-4288-828b-d78058383179",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #493)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5918,11 +5918,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "91b347a6-162e-4fd0-80a3-344429cd432a",
+    "id": "6a71b2fe-3b6d-4b3d-b8ed-730648c62217",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #494)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5930,11 +5930,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c97764d6-fe8c-46a7-b7f1-a196495d5613",
+    "id": "728d0f8d-c0ca-4e25-837e-6d85b3614e50",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #495)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5942,11 +5942,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "56ad4b90-413d-49e1-b19e-77972add2f45",
+    "id": "83af160a-7f0b-4254-8ffb-fb5d5785b24b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #496)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5954,11 +5954,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "21d351a5-b426-431e-85bb-ad9be7cb93d0",
+    "id": "fd84c607-fec7-46f1-87b6-bfb77e52fa6d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #497)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5966,11 +5966,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bfc50336-14b5-4f37-93a3-d28c78dcfd50",
+    "id": "43316a7a-4060-4ead-a945-caea96b67d57",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #498)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5978,11 +5978,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "17a7ecf1-c6f0-4600-bba6-1ec244d2b8c3",
+    "id": "40fe3162-5714-4e16-b41d-be8a663e8490",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #499)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5990,11 +5990,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "28214752-b2fd-4753-8046-e99442deb878",
+    "id": "f37219ae-f5f4-4e96-b2ab-aa8debb943a8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #500)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6002,11 +6002,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "95ceae6c-d44f-43d6-b97b-2ea7044ef830",
+    "id": "3f70a785-f761-470a-91ed-dc980950ac74",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #501)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6014,11 +6014,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "da051bd7-0abe-413e-a539-6aa4a4cd8b6a",
+    "id": "6eb3985f-a8f7-4fdc-bb1d-15c0641c2220",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #502)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6026,11 +6026,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "95e4749d-725b-42ad-a970-6c2c7780cf20",
+    "id": "b345612a-4593-4ed7-98a8-92f1a21738f4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #503)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6038,11 +6038,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a1c4a517-dd5c-4bbd-b857-2c79b5b8be86",
+    "id": "c7729335-5da8-4e1c-aec9-6758251f0411",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #504)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6050,11 +6050,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cd2822dd-9588-4810-9767-cf6ffe6ed03e",
+    "id": "426ce2a9-a711-443f-948a-efa9728fbebb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #505)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6062,11 +6062,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "82d9f9eb-df48-4b9b-8f3f-92fa1d1b1148",
+    "id": "fae66f52-d277-4ec5-869f-1d3bec3655fe",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #506)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6074,11 +6074,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c2c2746e-5a74-4c75-aff5-2074577a316f",
+    "id": "ddf99679-b8f4-44f8-8a66-13b665d4e23a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #507)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6086,11 +6086,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "332bd85b-36db-4bc1-8ac9-890ff219e161",
+    "id": "467f2a0a-f664-4a28-b7d8-88e12acc9979",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #508)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6098,11 +6098,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d4cff095-d935-4a50-8e68-a628a57f8b48",
+    "id": "e4dff685-8a94-4796-af2b-f87859571844",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #509)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6110,11 +6110,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "52b42ba4-0ea3-4f30-860a-089ab056a226",
+    "id": "096a1880-2da6-434e-8804-3c501beeed83",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #510)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6122,11 +6122,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "475bd929-f96e-4705-94ec-7e2016993d16",
+    "id": "7b56587c-44fa-4fac-8509-f336c8daed6a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #511)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6134,11 +6134,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "404de15b-69e8-4e2a-a687-cb351546dc5e",
+    "id": "a2551574-0f77-442d-8242-99193040c55a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #512)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6146,11 +6146,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cc9b795f-0aa6-406f-bc11-ebd106096375",
+    "id": "848d7ea6-c1ba-465e-a5af-00be639848a7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #513)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6158,11 +6158,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "68a045ef-fded-42e4-8225-0c80cfa06792",
+    "id": "b90a7738-38ec-4f82-bb84-bc34d51e6d77",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #514)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6170,11 +6170,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e7968f96-613c-4402-8ae6-3d104ced0c7e",
+    "id": "c10c6ee6-2659-4d75-8e5d-57a67d478e8b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #515)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6182,11 +6182,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b5586f1b-4544-4b23-aabf-61bb6ca3e302",
+    "id": "6285c5f5-4bad-46ff-9ed3-3f4b0c47f087",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #516)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6194,11 +6194,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "134329b4-bb45-4f9c-ba34-a3c7a3411f66",
+    "id": "c94bb75b-3d11-48c1-95b7-5a0c3c579ed7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #517)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6206,11 +6206,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "555e9990-ba5d-4371-954d-ca8a309711fb",
+    "id": "e6be0a50-74cf-446d-9faa-fc5442473a87",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #518)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6218,11 +6218,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6a8528ca-cf20-4a02-baf2-21b7eb966f33",
+    "id": "ff7ea2bb-887c-4bf2-af29-226a8ab0ca24",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #519)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6230,11 +6230,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "513fa4db-fcbe-46e4-876b-b932d1e41027",
+    "id": "e5b5ef09-e1f7-41df-80ea-8f88027ed45a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #520)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6242,11 +6242,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a7394a3b-3ead-4a0c-8c11-ce1c5520cfa3",
+    "id": "369ae750-45e3-4578-81cc-0559bda9d595",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #521)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6254,11 +6254,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "115e511e-781b-43ff-b57b-241dd8a828ba",
+    "id": "877b7ea1-8143-48b3-a9f9-5f31886373a7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #522)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6266,11 +6266,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9c166473-fa62-4f05-aaf8-e158847a827e",
+    "id": "b4b7b4c3-69f0-47a0-80d7-5168387aa5d4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #523)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6278,11 +6278,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f4711d9d-ff7b-4baf-93ad-23012bf06ad5",
+    "id": "2272459b-084e-4599-99bd-21392eafdc65",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #524)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6290,11 +6290,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3915cacc-8e7f-4db5-9ddc-395832095a4f",
+    "id": "9a830e5e-0ca2-4d3f-a42f-00afab4a91c1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #525)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6302,11 +6302,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d796fa35-37bb-4c35-aa5b-a1e126116d2e",
+    "id": "2af173e3-5560-4ffe-9f7f-95d73bab9381",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #526)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6314,11 +6314,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1c565d24-ba58-468d-b644-17cde69d183f",
+    "id": "953d0f29-4637-49b2-8f7e-a35cb4f8ad79",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #527)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6326,11 +6326,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fd508e2c-65b8-4d5d-879e-d323184154ad",
+    "id": "9fe2fd52-a817-48f5-b95a-69b047af1d0f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #528)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6338,11 +6338,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9b886987-7826-48f7-8331-1f60303189bf",
+    "id": "66461309-4643-4094-a6a1-f5719ea2952c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #529)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6350,11 +6350,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4e8b5d9e-5f2d-493e-863c-ee7eded9ef9f",
+    "id": "9a3e1635-d47e-4f2c-b5e7-efe059a07fb9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #530)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6362,11 +6362,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "eaebbc08-936f-4b1b-96dc-8539c48be67f",
+    "id": "d3e7a30e-c5c0-48e5-9235-e75f5ba1f7c0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #531)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6374,11 +6374,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5b8d7a76-7c58-4aa4-be80-ceb6ae0d2ed6",
+    "id": "faf7fb52-0fb1-4b8b-83a6-30cf8b33223a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #532)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6386,11 +6386,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "998ed8d4-ccf2-48da-8b72-5d218b51a0d2",
+    "id": "12428c39-0ea6-4bed-a270-08b28950622e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #533)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6398,11 +6398,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6238cb34-9258-4c4b-9ff9-e341b1933fec",
+    "id": "a26468f3-c746-4179-b0c7-61eea3f51e3d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #534)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6410,11 +6410,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c03e643b-bc5d-4631-b292-aae589fdd503",
+    "id": "193993c6-d2af-402f-a8e7-271855c80e6a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #535)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6422,11 +6422,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "03ff4ee1-3a26-4ebb-ba80-1dc3c85fdc6a",
+    "id": "d7edf07d-b1d5-4290-a00b-1fe9b6f6ac15",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #536)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6434,11 +6434,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a2af44d8-666d-49f8-b8e1-f8f3116ca62e",
+    "id": "f064f9e7-582a-4b55-a057-0c43966e403f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #537)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6446,11 +6446,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f03b44ab-e0c7-4b61-b11b-6f6e5d1899e5",
+    "id": "29af94d7-3f96-41c6-a4a9-c91aa71f5bb7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #538)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6458,11 +6458,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ca0ee87e-4c01-4dc1-a7b9-f3e6354e7a51",
+    "id": "6ee7a2f7-dc64-4de7-9eca-87700dfcf8bf",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #539)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6470,11 +6470,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4d4d2943-fab1-42e1-b887-709f880501fb",
+    "id": "025ad81f-2431-42de-ac4a-bd65472388b3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #540)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6482,11 +6482,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d4a602c7-56af-4c38-a5b1-39bedec52b1d",
+    "id": "d8dfd60e-7d91-48dd-b2c7-362a41174799",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #541)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6494,11 +6494,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "83e8d05e-da6f-46e2-9c34-aee06c24632d",
+    "id": "f9bbb199-a3f6-4471-b388-22b54bde0a69",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #542)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6506,11 +6506,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3955c98b-26e6-425b-82de-aaa90f275d7b",
+    "id": "781a2505-b330-4aad-a4df-8fc2ce871ae1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #543)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6518,11 +6518,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3f93e4f4-22d5-4caa-b9f0-ef8cdcbae511",
+    "id": "bfa88bbd-fbe8-4e16-9fe4-a5ec380aebb4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #544)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6530,11 +6530,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "369a38e1-6fd9-4334-ae19-4bdd60e43741",
+    "id": "30d7ed87-5346-4f75-9595-40aa11774e99",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #545)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6542,11 +6542,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "53adfd23-d027-4669-9c72-8c51412ae5bc",
+    "id": "26418c3e-98aa-4f09-a79f-c6e957b377e0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #546)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6554,11 +6554,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "80d9523b-4f88-43bc-bec8-6741025af96c",
+    "id": "d8eb8911-7895-4cf0-8b9d-e286560044a4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #547)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6566,11 +6566,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c4642d2c-3944-42ef-8cbc-cd69bd4572b4",
+    "id": "be83808c-075a-4beb-aefe-aea61b880c98",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #548)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6578,11 +6578,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8df02231-b06c-4e62-9d0a-e760dd257ee8",
+    "id": "2fde2f7f-656e-4ed4-bb9b-d9f53833a908",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #549)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6590,11 +6590,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f047a118-8ef5-4841-a12c-d517e395721e",
+    "id": "10459602-8811-403c-b455-8f789545e079",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #550)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6602,11 +6602,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "59a109d8-197f-4154-ab79-81b7749aca2a",
+    "id": "1a2e20f5-3299-4b61-b26a-4b4d4ed87e67",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #551)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6614,11 +6614,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bd4a83ad-8707-4082-8613-ad6e4dfdf0ef",
+    "id": "3907fcf0-ae56-4dc0-a293-adfff099e514",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #552)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6626,11 +6626,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "03ccf451-c47f-434e-a696-3ab90b406d6c",
+    "id": "04b33f53-15e7-4b26-81f7-27137b44da16",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #553)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6638,11 +6638,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "901a07f5-f2a8-43b0-b92a-202685851723",
+    "id": "f3da31a6-a172-40e2-8d52-5439a4b75e20",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #554)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6650,11 +6650,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "34ed22a9-34ad-4787-97d4-9228c5f00761",
+    "id": "e9e12179-641b-4c00-9002-7b9582043e4a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #555)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6662,11 +6662,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d0f3cb6f-6b16-4697-a401-a9f279c44ea0",
+    "id": "393589e5-504c-4adf-8d70-84ac7fce95aa",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #556)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6674,11 +6674,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2e1f7fa8-4ab2-4e84-b242-69807c6c46cb",
+    "id": "c783e44a-e7d3-4359-ba0b-0f0f251eb46d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #557)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6686,11 +6686,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "519ef7d2-5d96-431d-b4b2-ca552acd29bc",
+    "id": "c672c87a-c950-4f8e-958a-9eca6bee718f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #558)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6698,11 +6698,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0f2e6b81-55fb-42af-a20a-9e43e81ab28b",
+    "id": "876ce2e5-99fc-444b-81b0-268247bf4b65",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #559)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6710,11 +6710,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "04c82c52-c034-41b0-a406-a6a6d6eb68e7",
+    "id": "e2f589e7-ac52-4691-b9b9-c8d22f9a1807",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #560)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6722,11 +6722,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "eb91f0bf-7880-44d5-991d-65e978c1df3c",
+    "id": "c2d5e43f-d082-49d8-ae24-5f56d6ba4575",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #561)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6734,11 +6734,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "73491475-0914-4515-9498-02383ab51ff1",
+    "id": "e4d65504-a246-4598-a816-0494d918e9ac",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #562)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6746,11 +6746,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3b7549b0-fe3c-4a97-bdd7-56bb424ec660",
+    "id": "65fc34ed-4129-4cb6-9377-c1050ea12878",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #563)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6758,11 +6758,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9050a1dd-4a0b-42d9-942a-071c7c3c553a",
+    "id": "2658596a-4bf7-42b6-8f41-fa9f16e88f64",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #564)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6770,11 +6770,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e1472c95-82c1-4351-b3f4-4129bac2b818",
+    "id": "be5c35b2-8d49-40f4-823e-b137eaf4085d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #565)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6782,11 +6782,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "700c8918-bd70-44ed-a427-87cb2077b896",
+    "id": "14c5e79e-2757-48ed-8a5c-40b497ff1c23",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #566)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6794,11 +6794,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1e469af7-6bee-4f01-9c17-f6c7dd4a8ed9",
+    "id": "c06e978a-f70c-46f4-9ce0-b9d23c2e2970",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #567)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6806,11 +6806,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e7e7e4ed-8f41-405b-bef1-c3567a85c66f",
+    "id": "0598696a-7387-4222-8560-8cb4fb1ce483",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #568)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6818,11 +6818,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "45750842-3c81-4c6e-acd5-715ff54e685a",
+    "id": "5d291632-94a7-4628-8698-72c1a137af03",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #569)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6830,11 +6830,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bde15379-45f2-4309-9a70-5d2d470fb27a",
+    "id": "f5969db6-478b-49ef-8b3a-bfe044f8e37f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #570)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6842,11 +6842,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "de3d7dbf-ab8d-4ab9-8147-c24f44dfb451",
+    "id": "bbf85509-ee04-482e-b893-a17fe209573a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #571)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6854,11 +6854,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "608fb285-9591-4d32-acf2-d5d36f0d079f",
+    "id": "e03a9db2-2b56-4899-ad29-0f7d3738daad",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #572)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6866,11 +6866,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "adfca486-25e6-4f0f-b6eb-0c58916a3aef",
+    "id": "73f9cd9c-d8a0-4d3a-8563-ce26939229a6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #573)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6878,11 +6878,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "92267ce3-d332-445c-a356-4e227f9ec83b",
+    "id": "bc4ae2a3-6de9-41a0-857b-3e24f2b823f1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #574)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6890,11 +6890,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "da0b9ba1-040d-4ada-b31f-7080e07d8f2d",
+    "id": "4efdc031-7177-4472-8541-035b731b109f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #575)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6902,11 +6902,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "aebad100-a71d-44a9-81f2-71f74722a7c9",
+    "id": "1a39c1e3-4502-4af8-b938-40baa726c88d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #576)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6914,11 +6914,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "76b15322-dde7-4163-a619-f4d9af3155fc",
+    "id": "b9c5dc65-d605-4e2b-83c6-ef4e586329c6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #577)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6926,11 +6926,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0db72b9e-bba0-4bf7-8bd2-90bf581d9d8d",
+    "id": "29516f9d-6d16-4545-a9d3-9296e93375c5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #578)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6938,11 +6938,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4c5c3951-77ef-4691-a88e-7be5c5f6f6bf",
+    "id": "0ab0a4ce-c5bc-40b1-a0ad-af8b762d2e3f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #579)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6950,11 +6950,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e83a1703-e8ec-46c7-a7c5-521fa28df5b0",
+    "id": "c8282647-5f4b-466f-bd54-0c7b9f3ee422",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #580)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6962,11 +6962,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3a9d8279-47f2-4b9a-aadc-6e912f97f8be",
+    "id": "126c418d-a026-4a62-9ac4-32b5cf97fc93",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #581)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6974,11 +6974,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2bddc7e4-bbf1-4347-b927-6dcd3105c37b",
+    "id": "b02ee0ba-8938-4c64-b8f9-56a48d1af369",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #582)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6986,11 +6986,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a60e60d5-d197-4564-8235-6ff2c20ee698",
+    "id": "bda11c84-df11-4e34-af14-aece042f27ef",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #583)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6998,11 +6998,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b3407912-0fe1-4f3b-9aab-02a2c635ff63",
+    "id": "4b777397-c49b-40a4-8f76-7e072c27afc3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #584)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7010,11 +7010,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "82614b4b-c6a4-43a2-8a40-af979ad8a03b",
+    "id": "283b593c-43bd-4a49-a6d1-08f42b385cf8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #585)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7022,11 +7022,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ad63ef07-d094-47d5-aeea-9e65030a03a9",
+    "id": "4627ebf6-065e-493a-a96a-d04e77ca02bd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #586)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7034,11 +7034,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "eedcac08-036f-441a-9217-4fd3b606c999",
+    "id": "a48bde70-2177-4c2b-abe3-ed5d210e96d2",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #587)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7046,11 +7046,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "263c195a-b305-4cdd-9526-5a8955f3bb31",
+    "id": "6b05614c-6c5a-4385-846c-d4715814c759",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #588)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7058,11 +7058,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4dfa1a4f-9983-4440-bd2f-e6da4b11dcc5",
+    "id": "4c2babb7-ebd1-44ea-8203-7aee59da50df",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #589)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7070,11 +7070,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cde2c27c-574b-429a-a85a-29c3421c95c2",
+    "id": "0f26e6fa-ce32-401c-8c5f-e7296e061e65",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #590)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7082,11 +7082,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "18787efe-4034-4266-b653-37a8cd5da6b4",
+    "id": "80aac6d9-047a-4130-b387-28b9ca00d1d4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #591)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7094,11 +7094,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b98dd673-3aa1-45e9-bd7a-5c0b506e79a5",
+    "id": "feae618b-5355-47b7-a143-1092a7c1ed9c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #592)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7106,11 +7106,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3d75da67-cc63-48b7-ac66-b1ced9f08091",
+    "id": "510d519b-8132-4a7f-9c62-399141ad3b52",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #593)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7118,11 +7118,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b84c2e0c-ae83-4316-8c0f-ecd4c1359e15",
+    "id": "027269aa-aaae-4e28-ba5b-d466d6ea5b51",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #594)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7130,11 +7130,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4c3957cc-027b-403c-a240-90aa1fc33c21",
+    "id": "50f42b0b-1afb-4c63-97ef-efde6fd8c930",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #595)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7142,11 +7142,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "03f09c65-3994-4462-a265-83a6692bcefe",
+    "id": "fbcf8884-1810-4439-90d3-de3f6eabd91d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #596)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7154,11 +7154,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a7a2a514-4768-47ab-91e0-f6ac19185a15",
+    "id": "e76950e7-6ade-46b5-8801-018819727f97",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #597)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7166,11 +7166,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f396a1d7-3da1-4c12-9ef5-a1ede832a784",
+    "id": "89932a5a-0dff-4dd1-8f84-1fcaa68bab10",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #598)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7178,11 +7178,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b8a760ed-a09e-41ad-89c7-35a3b79605d0",
+    "id": "1e335a92-1616-4358-b351-140a26b630d0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #599)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7190,11 +7190,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9c1bfaf9-e96b-4a81-b37a-e6f1f0d85ddf",
+    "id": "c91d63c4-65ee-482e-a429-41ff22521de8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #600)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7202,11 +7202,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1fb75311-7e5d-46ef-a7a0-d5d772c8875c",
+    "id": "26156936-8c4e-494a-9a9c-1398e31d94cd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #601)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7214,11 +7214,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "82f33c0b-b7e9-4399-9394-328859e27f21",
+    "id": "ef09e2ac-c30d-4eff-ba82-836d7cf6a13c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #602)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7226,11 +7226,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b242a12e-2b2f-4afa-9eb3-bab9f4260713",
+    "id": "2067419a-bbbd-439a-a6f7-cc7e911b9a4f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #603)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7238,11 +7238,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6294a83a-aa7c-4ade-9525-9ea86e5835e9",
+    "id": "896f1284-ea10-4c2b-b256-d1b61618d467",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #604)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7250,11 +7250,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e8119731-d0da-4f6a-b171-d9cd66c90de1",
+    "id": "bc66c521-b89a-4d99-912e-fff14eb7c14d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #605)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7262,11 +7262,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0c4708fa-227d-41ab-b3fa-387fceca14cb",
+    "id": "3dae14f7-dddd-494d-96b6-bac477a10239",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #606)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7274,11 +7274,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f427e3ae-8883-4888-820d-12514a486e1a",
+    "id": "1a98e337-4826-4659-9ead-99f3365e6d7d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #607)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7286,11 +7286,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1c3078b1-aa15-4190-9008-368cda31934e",
+    "id": "c562219b-d9b3-442f-a28a-d3e88f4f8be7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #608)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7298,11 +7298,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c9ecb4c4-7af3-40fa-b691-3d113ec1f29a",
+    "id": "5d31f0f2-56d2-4a5c-984c-5c821ed9e5a7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #609)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7310,11 +7310,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8c64bf77-ab07-43a6-a9ce-2399cc76e3b3",
+    "id": "fc4ff913-61e2-4a8a-b4f2-69f0e775637f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #610)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7322,11 +7322,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bd41c316-351e-4780-a7a4-bc919edd072f",
+    "id": "f608a580-824a-4376-b1ad-637f1e30fce6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #611)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7334,11 +7334,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "acf9a8f1-db19-44ac-afc8-5c778e230f71",
+    "id": "bb42f402-9ac4-4604-b3bc-139af9adbcd5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #612)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7346,11 +7346,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a8016d86-ae4a-47e1-ac02-d3a03b39a839",
+    "id": "8dcdaeb3-5739-43b0-998d-82cbd692eb23",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #613)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7358,11 +7358,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1699d748-326a-40a1-956a-d6f394e4fdb3",
+    "id": "ed6dde28-6558-4c33-8fa3-a00b73732e49",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #614)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7370,11 +7370,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e1585859-9b8c-4370-b463-2e304f840490",
+    "id": "15c747d1-ecda-4a24-bf02-c9ada94258c9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #615)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7382,11 +7382,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a2e2206f-c07d-4df1-99ec-c492569336b1",
+    "id": "49d90fc6-d65c-4b5d-979f-5058a03bd7c0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #616)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7394,11 +7394,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "493c8a2c-36b9-4de0-b9a5-5afc86a68dbc",
+    "id": "205c7835-7b2f-45c8-89ec-0022ea153e7d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #617)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7406,11 +7406,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b6c7f3f0-1dcc-46b6-93d2-a3045e7a3905",
+    "id": "2ed1e0d9-f215-4f3d-ac74-4885bcb73b83",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #618)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7418,11 +7418,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "da2002d2-b1bc-4ccd-b332-bce20e761b36",
+    "id": "17e4bd0b-9152-41e9-b173-e1c050e3b461",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #619)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7430,11 +7430,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2d06f170-3812-487d-99ad-816ffca7f937",
+    "id": "05982030-47ff-4ac3-97c3-870e67b25211",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #620)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7442,11 +7442,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8c2be6ee-2398-49b2-91cb-66e3631229a3",
+    "id": "d0c89840-18ae-4c1c-8d0a-7e1b4af1fba1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #621)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7454,11 +7454,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a0a3357d-046e-4e67-91b8-ef0875b8ca59",
+    "id": "2530d6e8-da96-4693-90d1-c9448a08430e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #622)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7466,11 +7466,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1d4dd750-2bec-404f-918b-1fa5a6d72b8a",
+    "id": "786b0ce1-a096-4eed-a249-5b9064eacd1e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #623)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7478,11 +7478,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e2fb8e6a-7f3f-42dc-9796-2159c174e8ea",
+    "id": "7bee585a-d6e9-4aea-b8f7-e0055d8e7073",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #624)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7490,11 +7490,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0d979cc5-9611-4007-bd77-fa3a86a4a2c1",
+    "id": "91d5e1e7-4820-454a-a7a5-143ebc826cf2",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #625)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7502,11 +7502,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "04dd7fb1-5909-4a80-8a59-c7598b9f3ae2",
+    "id": "a6310c60-f488-4db5-9ef2-a4852e2ec4a0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #626)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7514,11 +7514,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "38b7f64b-ffcc-456e-8e97-76832d060ccd",
+    "id": "0534bda1-5466-4be1-8725-6def8a51321e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #627)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7526,11 +7526,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a777f25b-b0e3-4e56-a183-45ab0e0cc260",
+    "id": "0a97e781-52c2-45be-ac44-3c9b436000eb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #628)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7538,11 +7538,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "604c3cbc-c341-4783-9a31-3bf1c2e698d6",
+    "id": "def480bd-5fb4-4cc8-b165-e9f7584250f6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #629)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7550,11 +7550,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "17f535f4-3bca-44fe-8aec-c5aabcc499e7",
+    "id": "d626794f-663b-4312-ae5e-07973d2ffa49",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #630)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7562,11 +7562,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cf563349-fc64-4009-adfb-c46bfc896073",
+    "id": "3062c7fd-9576-4c2a-b604-f328c8806d2b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #631)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7574,11 +7574,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8d24c9d3-a467-42cb-bbd4-aee85834c261",
+    "id": "4df15e22-1d5f-4ddc-a6b9-aec195306243",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #632)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7586,11 +7586,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "624f6343-c4f5-4d67-8f35-d214dd2e90d0",
+    "id": "54bccae3-08e2-426c-9ace-d470dfc53cb7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #633)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7598,11 +7598,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6f5712f8-73ba-44e3-a0c3-c09693a10eaa",
+    "id": "4c5cb781-86b5-478c-b9a1-09df69bfcb28",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #634)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7610,11 +7610,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "dc358751-db25-4d02-b3ed-c641cf2e0926",
+    "id": "f03f7459-97c8-4881-99f6-43802961555a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #635)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7622,11 +7622,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "97404421-58a4-4247-9467-5980fb9a9232",
+    "id": "ff672d1a-d94e-49b7-9419-7ba750171940",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #636)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7634,11 +7634,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8f268f3b-54ca-4ffa-917d-28019b49a976",
+    "id": "a6bb54b2-3e4c-44bf-9b0d-4440c79957d9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #637)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7646,11 +7646,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "61f4d0c0-dbde-458e-a6c6-e752387cb51c",
+    "id": "aeac65fc-159a-4b55-9bdb-47e91a85ec20",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #638)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7658,11 +7658,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2c96b5eb-b7cd-46ec-a92c-d3aff9655ae7",
+    "id": "cdbb55be-549c-4167-ad34-e3b585c6f77b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #639)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7670,11 +7670,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d7ab0169-0583-439e-bf91-58d1104c3294",
+    "id": "20e17f23-e815-41d3-8ca7-952658606a8c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #640)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7682,11 +7682,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8716d9d8-1b47-4ded-bb8c-dac68e02db7e",
+    "id": "77f9c000-2238-4313-b7e3-578bf3759e71",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #641)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7694,11 +7694,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "933e1b7f-2771-404a-bc93-05d02d0299ee",
+    "id": "0a895314-6261-4397-a320-86eaf68a8b5d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #642)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7706,11 +7706,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "682ed9e3-23c3-4833-b43e-9b103aefc207",
+    "id": "b4d97795-9374-4297-8e9c-1328158f96dd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #643)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7718,11 +7718,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f860b3f5-e954-47a0-afe3-9b0e0699de49",
+    "id": "6584aa99-ff01-4b74-aa6d-0c6b448cbf81",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #644)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7730,11 +7730,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "723f7022-b6b1-4471-971d-4f8a0686292b",
+    "id": "9b9b881a-7e50-4acc-bdc7-b46d8fc4f29b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #645)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7742,11 +7742,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "688024fa-0c48-4c62-9e5c-7c939264febc",
+    "id": "183d3fa7-561b-44d5-852c-de6bc538d314",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #646)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7754,11 +7754,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "95d72924-af8e-49b1-9d7e-6e8b6daf859c",
+    "id": "a3047212-44bb-4d49-9ac5-488a18a6dd95",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #647)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7766,11 +7766,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e3796bc5-f962-4bd2-bb39-0f3e78fae9c7",
+    "id": "ff3ed2b6-3ea8-4e9c-9285-9e5cc0754656",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #648)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7778,11 +7778,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3398ed8e-aedf-482a-a4d9-970dba692f2c",
+    "id": "98bca4c2-5012-4199-8278-88f990b42809",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #649)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7790,11 +7790,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "aa4e893b-d8e4-4197-82c7-24332af2a936",
+    "id": "2eed0233-6d19-469c-86d3-e8bb7e900a99",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #650)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7802,11 +7802,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7bdaf79f-1fc3-4618-981f-523d48dc594e",
+    "id": "6deb3d4d-6b89-4245-b7e1-42993c118cfc",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #651)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7814,11 +7814,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b04873c8-1ccf-4df1-aea2-c6af3bfb75bf",
+    "id": "8781ab83-231d-4971-b46f-3d1005948f44",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #652)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7826,11 +7826,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d260ba44-2c94-4e2e-92db-a67222f4ce77",
+    "id": "56225618-e975-4625-a90c-6908bc307779",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #653)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7838,11 +7838,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c6c5b0e7-7abf-4245-9546-781c24bab558",
+    "id": "ed3f99b3-1f23-42eb-8e57-adc248f65dd1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #654)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7850,11 +7850,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "724e03b2-f6c3-4877-a37f-8c40874d0244",
+    "id": "2a53463a-7886-40b1-bde0-bdc4459df2b4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #655)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7862,11 +7862,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "af6acb1d-776d-472b-9123-65a440f8d3cb",
+    "id": "6e392f77-e10b-4f01-b169-fb3d33070bd6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #656)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7874,11 +7874,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2c93dd51-1bdf-4ca9-8184-b4f2c88357f4",
+    "id": "4752ecb8-23ed-40cb-b857-15621edd9a95",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #657)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7886,11 +7886,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "da223cbe-2590-4553-9100-8976be324471",
+    "id": "2b9a00e0-ca95-42e2-857d-8c0d1831d086",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #658)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7898,11 +7898,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d9f7cffd-a219-40b0-88ec-fc2fb3175f07",
+    "id": "280d481d-97dc-410e-9265-58d2181a131c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #659)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7910,11 +7910,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "035b8d6b-2e20-4e9b-b5ed-d5c7e6fe350d",
+    "id": "cf8f9610-a762-4799-898b-70f5bc03814a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #660)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7922,11 +7922,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d39fdb4d-dc54-4dc6-8504-76577837a05e",
+    "id": "2f8a1fdb-d5ac-4ad4-8fa5-ca6dcb7c0c77",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #661)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7934,11 +7934,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0ce804c7-01e3-4c66-9c94-bfaea3895e95",
+    "id": "5acbfa91-993d-4854-87ee-e6b30aeb8941",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #662)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7946,11 +7946,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "71496a60-0a3c-4121-9f1d-b799ee2e1bbc",
+    "id": "e6ec88bd-53ec-4c99-a8d7-5468db3aab07",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #663)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7958,11 +7958,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c9ca8a2c-ca4c-4743-82a8-96c411197a2e",
+    "id": "2c4c23f3-2120-4e0f-9b5e-41127e893a97",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #664)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7970,11 +7970,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "98bc9f35-a7e4-4c48-a8a0-78fa5fb02a45",
+    "id": "f52bd53f-ea28-4ca2-b566-0ba0ae944026",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #665)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7982,11 +7982,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "47a308a4-4068-4816-b264-0d447dafa124",
+    "id": "e08fde2b-2220-4300-b97c-d21df0ca0f0c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #666)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7994,11 +7994,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fb73abac-0af2-4351-aecb-5df885ff8a5c",
+    "id": "b35c5684-67af-4fbe-8003-4fc8ea77137b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #667)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8006,11 +8006,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "19be3be0-12e8-4702-95bf-334c01736ff0",
+    "id": "aef23fcf-ab4f-4e1e-b179-b2e7d00ab3d0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #668)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8018,11 +8018,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "70059ecd-0797-422b-818c-66259cce1603",
+    "id": "817b5955-28fc-4434-9f8b-4b9e5777ce65",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #669)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8030,11 +8030,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f7f842b2-b384-4e1d-ab31-913b75eee17d",
+    "id": "94d80f8b-fa6b-4d40-8a3d-1d8f4cf91e07",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #670)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8042,11 +8042,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4f6c9755-f718-4aff-ba7d-a6bbc2173dd5",
+    "id": "8ef0f142-0da9-444f-a11a-086779868efd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #671)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8054,11 +8054,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9c144c58-34cb-44ac-ab09-4951bf0e926c",
+    "id": "030046c5-a3b8-40ea-8ee4-6f1ad4c3a20e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #672)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8066,11 +8066,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "afa19108-f013-4185-80b1-5ec130529b22",
+    "id": "5f47795a-57e4-481f-8da6-bb7e434334bb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #673)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8078,11 +8078,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ae8370ab-1404-4da2-8d90-1c1093ca1c98",
+    "id": "f277d0bb-8c9c-4ad0-aafa-7c9252b07f9f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #674)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8090,11 +8090,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0cd906e6-95c1-4cfc-a398-73f75a0db9fd",
+    "id": "a317ade0-ffc7-4385-b020-4cf3b3fb28cf",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #675)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8102,11 +8102,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "378432b9-f7c0-4e71-886a-54e7cde9949e",
+    "id": "32e5b392-0afd-4858-ab77-bd87bd1a44e4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #676)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8114,11 +8114,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cf6a1cc6-881f-4a00-aa6f-8a6aeca040d7",
+    "id": "3f0754bd-173e-40c7-842f-63e6eadd6f49",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #677)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8126,11 +8126,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d6c0f7a0-9775-4c4b-ab0d-722c646d21d4",
+    "id": "d0bb77ca-0c45-47df-a07b-e0f2cdbb3604",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #678)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8138,11 +8138,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f832b2da-21ca-4c0b-9428-296b8839a084",
+    "id": "4b71d75d-4016-4721-92a4-ebaa1034c3af",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #679)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8150,11 +8150,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f71ea4f3-f42a-489a-9001-9b3e64cc1550",
+    "id": "04177584-7f2c-4d3e-a030-901721725bcd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #680)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8162,11 +8162,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "261b96d0-a05b-4ec3-b726-6dcac69e4455",
+    "id": "d71b4972-e046-406d-b24e-38c9cfb16846",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #681)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8174,11 +8174,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "741a04f8-8565-4e2a-a196-a87cd919ce86",
+    "id": "8ca9cb3f-8b56-4225-93bc-212c337a29a5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #682)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8186,11 +8186,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4f89b45e-ee61-4ca5-94f3-16b4fabd3446",
+    "id": "028e4772-2f85-498b-9613-d0b0eb8a32f1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #683)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8198,11 +8198,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "40abb096-4028-498d-a786-d7f64fd4f181",
+    "id": "b5cd5d77-8764-49df-89a3-f4c05c6c637b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #684)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8210,11 +8210,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7d0a6298-1174-477e-b070-d6619e6fe1af",
+    "id": "cc847377-0148-43da-b5d5-0e9ffe07eace",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #685)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8222,11 +8222,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "50337a6a-f5b7-41c8-b7c8-c14de0e8e9dc",
+    "id": "d4b3c3a8-1eff-4293-8722-038b18daf592",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #686)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8234,11 +8234,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "10b698a4-a4d6-4703-86f4-df2d31b50f95",
+    "id": "b1812f36-b1f0-4b4e-a189-628c5ee16401",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #687)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8246,11 +8246,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "19e98092-d169-459b-a5d0-315fbb3201ac",
+    "id": "e6fed1a5-cf39-435a-8cc1-ac2dda89870b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #688)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8258,11 +8258,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0e0a98c4-1998-40ca-b77e-28ea38c5970c",
+    "id": "37d64ac2-609c-466b-adc2-c939ec503170",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #689)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8270,11 +8270,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0b75faaf-4b76-4cc9-8e86-4c87befe0cfe",
+    "id": "4eb37e9a-f800-4d48-a988-bf7e461b9632",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #690)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8282,11 +8282,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6f7f009a-0a45-49ab-9895-4c5d703a7cb7",
+    "id": "c56f2950-e0ef-485d-a44d-50c898975df1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #691)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8294,11 +8294,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fd54d25a-b2fc-4269-804a-8ef5ffd3ac9d",
+    "id": "dd8a9753-3c3f-4768-b32a-8eede9ed5d3b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #692)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8306,11 +8306,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cbe8eace-c35f-424b-b2dd-64d6c379a26f",
+    "id": "b0c7bc0e-53d4-4019-9b41-dcf7990f5060",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #693)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8318,11 +8318,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "27610c3f-939c-4600-aa49-88a3598b545d",
+    "id": "877a8a37-5d3b-41f7-a3aa-e398dbf544b8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #694)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8330,11 +8330,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6b742448-cfa9-4b28-a4c3-64d2951d56b2",
+    "id": "6b05b30b-02ff-4d39-9594-0cd41e3fada9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #695)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8342,11 +8342,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2d911a70-67b1-4789-8df9-4ad4e34534b5",
+    "id": "bdac0c2a-68ae-4a8a-8de5-2131c5a4f705",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #696)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8354,11 +8354,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cfcea625-0b80-4ac6-8e10-47ef4d089544",
+    "id": "694ce6c6-5ded-465a-a252-3daa3f6e1660",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #697)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8366,11 +8366,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c2682cd4-108b-407e-a80c-ac615a4d4ccf",
+    "id": "34f88d50-5ed6-4c96-9423-4445d44f7fe6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #698)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8378,11 +8378,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7447527e-84e9-49f7-94de-e3243586ea3e",
+    "id": "6769e2d2-82e2-497a-ae60-ba938026e3b9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #699)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8390,11 +8390,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "99a6888e-2672-4bbd-9f61-24b1a3859bf1",
+    "id": "048de549-ab8f-49fb-9d87-32bfd640ae11",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #700)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8402,11 +8402,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6d995414-ec00-46bb-b5f0-508a996f7161",
+    "id": "11592c6d-6826-47de-9eaa-cb4a8019fcac",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #701)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8414,11 +8414,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "530fdabe-4f10-4db8-8ac9-80a0d64f372e",
+    "id": "824ddefc-0190-4759-b27d-11f58d5dfdea",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #702)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8426,11 +8426,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f24b5eac-027c-4b0a-83ed-979fb74c07a7",
+    "id": "3382f51a-a744-449c-962c-77caddc72566",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #703)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8438,11 +8438,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "087ebfc4-c474-47fa-b5b7-cefbddf6adfd",
+    "id": "089cbbf0-b432-4906-b952-30cf52c5977a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #704)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8450,11 +8450,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ad1b0679-bd8d-4c40-b725-4a662f96ca60",
+    "id": "51f459ab-6a3e-457e-96d5-1c883e95e345",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #705)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8462,11 +8462,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "910f2278-d88a-43fa-b8a9-38451be4d07e",
+    "id": "ce4efd37-f556-4843-a0b9-670d4c14144a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #706)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8474,11 +8474,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b43c6c8d-0682-4f9e-a8bd-8dad1a4c3bca",
+    "id": "7096322d-671c-4706-9aa9-3342822d41db",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #707)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8486,11 +8486,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0cf5bbb2-0aee-460b-839d-f652d152c739",
+    "id": "7b88e24c-8939-4d5c-9660-7f5fcf7bb3be",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #708)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8498,11 +8498,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "299bc21f-a61d-4dbb-bc22-113596a81005",
+    "id": "0abc7762-646f-478a-a435-ab53ed9ac73f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #709)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8510,11 +8510,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "09e1619d-b49f-4360-9c27-242907f7067f",
+    "id": "2a0ceab3-eb1c-4257-b5e0-5e5f6b4631ea",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #710)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8522,11 +8522,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ed4631d9-e23b-457b-b3ac-a9050c3338c2",
+    "id": "4000e02e-1014-4d79-a873-8d2cdd93e7d0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #711)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8534,11 +8534,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "35bab0d3-733f-485d-ab55-6991e697b4fe",
+    "id": "b928d570-7584-464e-b838-d2ac7eb439cc",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #712)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8546,11 +8546,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f89c65d0-4bf7-47cf-bd9b-7ad44749e818",
+    "id": "576960ea-b283-4015-8efe-dec0c5891f50",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #713)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8558,11 +8558,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "60bfda65-095a-45ec-9d9b-382ebc5be05a",
+    "id": "b4a122a8-819c-466b-bc8a-c7ec6cd43736",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #714)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8570,11 +8570,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b011a3c2-a657-4f3a-93d7-2956bdb2099e",
+    "id": "312e9ad2-7a7d-4c0f-904b-1bf971b13caa",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #715)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8582,11 +8582,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "eeb530e2-f142-49ed-993c-91c4c50647e1",
+    "id": "b2d62c1b-9c81-43da-9b42-6b7b29263df6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #716)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8594,11 +8594,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "611145e4-ccef-44d7-9847-94281e3ffe2a",
+    "id": "67290cd4-13e0-43dc-bb07-a98d35335751",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #717)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8606,11 +8606,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c19a64b1-6529-43ce-8154-b5aca2ad049c",
+    "id": "7a568c14-4fa3-4a12-ad93-e87c326da6c3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #718)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8618,11 +8618,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "93b2b4b1-f99d-4c8f-ba12-c7786db7f1a5",
+    "id": "e7ff0fda-aabd-4ac6-b8e8-7eaefa9effcb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #719)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8630,11 +8630,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b6249fb4-ab8f-4cfa-8985-fb10205d9cc5",
+    "id": "b4e42723-1597-4949-9c41-144bfab554e5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #720)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8642,11 +8642,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cd94ea82-42da-44ed-b3f6-57da13e84b3f",
+    "id": "bf91aeeb-1b31-455b-ae02-cccd9e9c349d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #721)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8654,11 +8654,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9b2b43a1-6ef2-4ed6-adf9-31f40131979a",
+    "id": "b320b430-769b-4513-aff6-1d8758269a10",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #722)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8666,11 +8666,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "18ba5bac-16ed-4ecf-bd93-ce77027d76cc",
+    "id": "6567abca-db64-4eb1-95b8-2600abf39fa0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #723)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8678,11 +8678,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f731ad0c-6591-4596-91b6-bc56ee994f11",
+    "id": "3f955eee-17cf-4115-89d2-baa282d84ba0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #724)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8690,11 +8690,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5e0d7d60-52da-4ef4-b26b-e3c5f6accedc",
+    "id": "800d8b2a-91fd-4995-9b78-13f86a3f02eb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #725)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8702,11 +8702,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c42169ed-01cc-482c-b7e2-1902515093b2",
+    "id": "5a0674c0-825d-41ac-bf98-8aa4811fd6a5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #726)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8714,11 +8714,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "49f595be-e34a-45f2-a52c-ab15cf23d69a",
+    "id": "72664bf8-bbce-4e4a-922e-2cf96702ab08",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #727)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8726,11 +8726,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7fb40800-6e93-4817-b972-1a068a898f29",
+    "id": "4d08dca5-cb52-4d26-a43d-4d99e184064d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #728)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8738,11 +8738,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d0c5ae4a-c444-4e4d-a68a-9985a305bf8d",
+    "id": "be1bf569-8b19-4c56-af78-6e563d9b6897",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #729)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8750,11 +8750,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "219d13fc-7c2d-44b7-9f06-da0412313883",
+    "id": "096a07d7-5dcf-4a35-bc42-980d0add0eb5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #730)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8762,11 +8762,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8fe827b3-c115-4d67-944f-5bcd54220e09",
+    "id": "17d62b6c-2854-416f-a0dc-f52d8006ff5e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #731)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8774,11 +8774,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "525a9b00-a093-4f0e-8a97-4a2c8a47988b",
+    "id": "7a2e1484-b3f3-4a09-8fdc-66f1a1fd5c39",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #732)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8786,11 +8786,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e00087bd-e33b-49cf-859e-c5ff8b9b3433",
+    "id": "321e50bc-f3cf-498c-abea-51acc2e3ecd9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #733)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8798,11 +8798,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f765bae2-9050-4fe7-bd80-6402b43026e3",
+    "id": "97fa2c9e-3897-44da-867a-1b954f228f77",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #734)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8810,11 +8810,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b2373e31-8140-47cd-beca-1aff063ed80b",
+    "id": "1d96f074-27f1-496d-88f7-ddd50943201a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #735)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8822,11 +8822,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c0cf52c6-d648-46d9-9868-7080891f481c",
+    "id": "f9d2ff9c-b6a1-49c6-baee-f37e70807eae",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #736)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8834,11 +8834,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ccfcb0ea-5d22-42ca-b262-fe3d2f77b63c",
+    "id": "efa60308-6e48-4d0c-a9f8-f1d5505ff8ba",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #737)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8846,11 +8846,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8a8a7c90-7fc6-40a6-a469-65bc5d446050",
+    "id": "001ffe51-d7c6-4255-b19f-e912c1d40d4d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #738)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8858,11 +8858,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f84a2591-f872-46e5-8d46-a65f88c88b05",
+    "id": "fae36193-401d-4870-9913-938074126236",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #739)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8870,11 +8870,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cd478717-f74a-48e3-a6ba-e5b59fbfa3f0",
+    "id": "31d8ad62-9dfb-40ad-a157-8db88f67839a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #740)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8882,11 +8882,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6eddcbf4-fec7-433a-828a-e0e2a2e428c9",
+    "id": "65d87185-98bf-44f2-a81d-060c0faff4e4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #741)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8894,11 +8894,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9cb8d62c-8f1f-4fde-8829-9e48474897f9",
+    "id": "602091ff-6cab-45c0-996b-32f1cf7034da",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #742)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8906,11 +8906,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8ba68f48-e91f-4b6e-a000-da7c6bf42ac8",
+    "id": "d0a09c07-a0b1-4959-9066-e3107d8b1c3c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #743)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8918,11 +8918,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6eea75f1-d63a-46c4-ac71-01c5a08ba212",
+    "id": "8c12c82a-5c36-406e-9f18-778a2f805495",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #744)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8930,11 +8930,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e35cddb4-ea88-434a-8f2d-528936a8010e",
+    "id": "99d9c82f-2e93-403b-b96d-def1d83a4495",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #745)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8942,11 +8942,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ca473bd5-2c16-4fb0-9e81-fdb3fbfa52cb",
+    "id": "a2f2f94b-e926-4f5e-b3e8-d1260c220c0d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #746)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8954,11 +8954,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "66160cf0-1f8b-45c2-8f82-88ce665373b1",
+    "id": "cb2a42f3-6bb0-45e3-8df6-dcc49486e479",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #747)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8966,11 +8966,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ebb0d2ab-20ff-42c2-8b16-d3c81473806a",
+    "id": "d24609e6-a3ec-41e9-ae7c-3ce8d693e9a1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #748)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8978,11 +8978,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e58ecbb1-7bf7-4f28-844a-462fa1d1d735",
+    "id": "9a56250f-6c79-4537-ad74-823bf302154b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #749)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8990,11 +8990,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f60c5326-a94b-43b1-a846-daf52d4c026a",
+    "id": "dcf7e569-3582-486f-9054-8cb69b757d9f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #750)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9002,11 +9002,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e7d73eb0-2cd8-40f8-9f6a-2d906b3b0eb7",
+    "id": "5395e452-8b51-4942-9037-8dc9269af101",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #751)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9014,11 +9014,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "08b63b65-e941-4989-9aa4-9a418d1027df",
+    "id": "5427d639-783e-4b7a-a6c4-458e01722845",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #752)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9026,11 +9026,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "45ca7617-2aa6-4783-aff0-a204906facfb",
+    "id": "163542d4-1e6e-4ce7-bc99-76c515359749",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #753)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9038,11 +9038,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "33eceb57-2a54-41f3-931f-00b35d337214",
+    "id": "37a7a065-116b-4c32-bc94-9e24c95ea866",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #754)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9050,11 +9050,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0bf0fd5d-21bd-4de6-8342-b953027abe56",
+    "id": "b318b3ce-4391-441a-b917-3d1cfb8792bc",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #755)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9062,11 +9062,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f478107a-82dd-46e4-aec2-aa2368c55191",
+    "id": "729fb2ed-ec2b-429e-84c7-03a2129322e7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #756)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9074,11 +9074,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ae6a5b61-79fe-49cd-9dfa-744c5ceb3fb6",
+    "id": "08ecd82c-6116-4e56-8aaa-f9d3d2589135",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #757)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9086,11 +9086,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "18196696-8209-4d86-b4cd-0d33f7b0ec07",
+    "id": "799cfb57-0a22-4e14-8730-3469b4977b34",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #758)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9098,11 +9098,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4748d805-31fb-4a35-a7cd-5908fe42953d",
+    "id": "1b0c5277-0b9d-43dc-b85e-d3f2aa176883",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #759)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9110,11 +9110,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a98ce022-c733-423c-9009-4da9161d153a",
+    "id": "9acc8c5c-e450-42a8-b430-2b0dba0d3470",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #760)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9122,11 +9122,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e1be498d-999f-4f3d-ba8a-0db6070275f8",
+    "id": "741d8665-1960-42b0-917b-a6c12ef41b50",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #761)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9134,11 +9134,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "acc30dc7-7c1f-4ffe-96a2-30d062e3eaf4",
+    "id": "1adc5494-ef33-4fde-8b2f-352770b1e2d4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #762)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9146,11 +9146,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "106d2c2f-1ee6-41f0-8f45-8ae2bcd65ef9",
+    "id": "3d87b45c-5ac8-42fb-933c-a4a9603be897",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #763)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9158,11 +9158,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1cae4a78-571f-4a58-bb88-4c89733da350",
+    "id": "abe94e43-c56f-4c8d-8de0-a9e77bcf2ffe",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #764)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9170,11 +9170,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "54296296-d300-4790-a1f8-00054ad76368",
+    "id": "b07ff47e-9706-4e89-b056-7a4c525519c7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #765)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9182,11 +9182,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ac8b2284-3de8-4464-93f7-802ce617b445",
+    "id": "79612239-5038-4669-9425-71e61b5f8e7a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #766)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9194,11 +9194,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c1f49aae-ea05-46a3-9997-c5065852eda8",
+    "id": "29514148-1fcf-45ef-aa31-e70b322e2ac6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #767)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9206,11 +9206,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b66f6925-cf4a-43d9-9b04-a1352c4bc2e8",
+    "id": "2e97526c-ee49-4b52-af80-1bb28aa615f4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #768)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9218,11 +9218,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e2a1a55e-4b81-4f33-8de8-1c8abf8ab14c",
+    "id": "beea7ae4-59f3-4c8e-94d9-ea19bcbdece4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #769)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9230,11 +9230,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "28d999b2-fb0e-419a-ae2f-45bac4c2d5f4",
+    "id": "c6b9520a-1792-4f31-a309-e333257dd927",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #770)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9242,11 +9242,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2ca95127-5959-4407-ae37-016a5bc8ba40",
+    "id": "1dfde46e-6847-4a92-856d-c1238fe24e3f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #771)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9254,11 +9254,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c41ea9a2-bf0e-40d7-ba0e-fae523e4f79a",
+    "id": "00836a4a-9830-4892-855b-61cfe8e53430",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #772)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9266,11 +9266,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "839115f1-ac8a-476e-a8ee-ab9d0b84ff41",
+    "id": "e438b4a4-81d0-4bbc-8be3-1d869c01e3c1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #773)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9278,11 +9278,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d3421d3a-a374-480e-a585-a1666786db5f",
+    "id": "7cc6d86b-2861-4d13-9dbf-997a18d5f6cf",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #774)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9290,11 +9290,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5a84112e-0cf0-4059-92e1-5b149546e48f",
+    "id": "3e97ca6d-e127-438f-bc84-db27cee7a862",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #775)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9302,11 +9302,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e3c84a30-9ea3-4073-89f9-683482e572de",
+    "id": "d3ab4eae-be99-42f0-be9b-ab8aa6b82613",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #776)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9314,11 +9314,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "78a99f7c-ab74-4112-ba9f-4d9a72a089f5",
+    "id": "ffcc797d-8bce-4b8f-ab80-78b431df4f34",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #777)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9326,11 +9326,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8eff9b6f-60ca-413e-a13b-3f7ca320c4e5",
+    "id": "32a1b5f2-1f2a-42c2-a497-fa15a127e527",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #778)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9338,11 +9338,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "78d06783-8e83-4a79-8a50-fa14e4303dcb",
+    "id": "78a4ba77-6ba2-4a99-8b79-2e3b63978d38",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #779)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9350,11 +9350,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b1d90205-23f8-47bd-89c9-5be491558bc6",
+    "id": "dc9e2d2c-6c9c-42cc-8cec-de4ed702ae84",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #780)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9362,11 +9362,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b4338000-a2a3-43e6-aa1a-88b1e5186c08",
+    "id": "4b2c66f0-5b91-412b-91e8-c8237d9ab191",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #781)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9374,11 +9374,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4f77913e-aeb1-4b5d-b097-d2c05e63e4a2",
+    "id": "d25ff0d8-4a7b-42e5-957a-5f10e7e90dd3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #782)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9386,11 +9386,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "af848e17-35a9-45ef-b1bc-89d1cfea85d8",
+    "id": "ed46a6dd-c153-4744-b5b6-7dde3bcff106",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #783)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9398,11 +9398,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "eb07cbaa-4b03-4de3-a13f-341fc198416c",
+    "id": "36175d67-8902-417e-87d9-f1acfaf1195a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #784)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9410,11 +9410,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "aa326ceb-fe98-49a3-95db-99458001ec9c",
+    "id": "1ff5c3f2-a742-4a6d-aef6-c434a87cfbd5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #785)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9422,11 +9422,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "03434e9b-df12-4b02-859b-ec69f73516a7",
+    "id": "b618f069-84da-43c4-95a9-023a0a791c67",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #786)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9434,11 +9434,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0ac98dfd-ea2b-4714-b458-06ee2abed8d0",
+    "id": "74d5311e-96e2-42d0-95e3-d0e787788021",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #787)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9446,11 +9446,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2cd7d244-a540-427d-99e9-646ec9cc5124",
+    "id": "6cb5ac62-544d-4f64-a9d7-f5aaecaf49c7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #788)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9458,11 +9458,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "836f36c4-3606-4cd8-94bf-9f772b6119f9",
+    "id": "071b6339-b28b-47a4-a597-a2768a4a7d0a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #789)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9470,11 +9470,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e765d108-caba-40cc-a73b-ff3703f0a26b",
+    "id": "aa16b3e3-806f-45cb-9cbc-a71d58c77bdc",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #790)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9482,11 +9482,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "442c4658-821e-40ea-8675-44a2f59e7a65",
+    "id": "83ccae7a-3640-4d96-a231-ba0fb32118ab",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #791)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9494,11 +9494,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f8e246c2-5538-424a-8a76-79bae572d3a5",
+    "id": "7ee721bb-150c-445e-b15a-214e2d308ac2",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #792)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9506,11 +9506,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "14c0f977-bb4f-4fcd-ac96-2547e89fa2f0",
+    "id": "0c50285b-9e81-4796-b690-68a097832fc3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #793)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9518,11 +9518,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "89af2cd4-8659-47c4-b975-6a83f0b3dca6",
+    "id": "eda08a46-eef1-4ecc-97df-20baa94e18d0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #794)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9530,11 +9530,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9334437e-e6e5-451c-8391-eec10e14c91a",
+    "id": "261861c1-d08c-4ff5-84a5-c8806e655cd1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #795)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9542,11 +9542,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "74c8f535-924d-43b8-be2a-a2f6011dcfb1",
+    "id": "cd62f4eb-a275-491e-8a9b-a514193c6a09",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #796)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9554,11 +9554,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c2b9b6c7-8444-478b-9e3a-ef9ee27f0280",
+    "id": "62327784-3719-4e3e-b76f-e2bac136a5fa",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #797)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9566,11 +9566,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "16c245d8-4368-43ab-b635-8381dcf5dd79",
+    "id": "a1130d3c-cdd8-4977-949e-60450aa84322",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #798)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9578,11 +9578,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "21e99047-8563-4064-9e06-39af9cd1f22b",
+    "id": "400945cc-610e-4c99-b666-7e11c6fa68e7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #799)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9590,11 +9590,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "340ea347-e956-4461-a5f8-743c238a0a0d",
+    "id": "44528350-6f6f-4ac3-8be7-2d7edfba16d2",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #800)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9602,11 +9602,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3d3444f3-9816-474e-8732-51f67b4717cc",
+    "id": "4e62988c-8d77-4bf9-88b0-175155194aa6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #801)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9614,11 +9614,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e17dd7e8-8068-43a6-b5c5-adf754710d14",
+    "id": "ecdbf73b-85fc-46d2-9e5c-543494137b4f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #802)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9626,11 +9626,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1e031fb7-d51d-4618-975c-1a2d7fc4dc55",
+    "id": "b223065b-175a-496a-b15b-c8129b88b4bb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #803)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9638,11 +9638,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "162f56e9-8847-41b9-ae96-7f82bd18b510",
+    "id": "bc78d780-d16e-4d3c-abf4-3669e12df878",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #804)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9650,11 +9650,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0a58adcf-fbcc-4bf8-82be-b9b3855e75c7",
+    "id": "784271a8-9e4d-44f4-a399-fdae847bf928",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #805)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9662,11 +9662,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5c36f39d-4453-4c6f-8b91-30dc83e58ebd",
+    "id": "12477265-d688-4c03-a77c-08983e57e968",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #806)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9674,11 +9674,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5ebd45f5-c316-4efa-b037-491741929665",
+    "id": "b0cea18f-36be-47fb-8a2a-76a7c75d02b7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #807)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9686,11 +9686,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "11d81f06-337b-43a1-aecd-3480de9db68e",
+    "id": "542d72a9-ed6d-4698-b41f-5595a3696ce4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #808)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9698,11 +9698,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "183df282-74a4-47dc-872f-e695c7acacfd",
+    "id": "ab1d88e9-e2f2-4428-8c10-5cfb7a781ce9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #809)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9710,11 +9710,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cfb5a86f-a2bc-424a-9d8a-20494076b377",
+    "id": "f6fc73b8-d2b1-4e88-9298-6241daae7af4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #810)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9722,11 +9722,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "51db6de8-40ec-4f66-a502-c0258887634a",
+    "id": "b3264b78-78f2-401a-b9b3-3ac21f42effb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #811)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9734,11 +9734,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5e6b9913-cbe5-4af1-8ed3-57466491a4c5",
+    "id": "c3572894-ef5c-4b5f-8466-6fcb31a87b25",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #812)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9746,11 +9746,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "05cd55d0-5bb7-44b2-b079-7180f6f15e5b",
+    "id": "bfc612a9-7806-4284-963b-e9c6ad357cea",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #813)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9758,11 +9758,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8bd1ec2f-9cbc-47f4-9a5a-890d77fcf4ac",
+    "id": "630d8cb4-6f4d-4eb0-8099-7e2a4ddf206e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #814)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9770,11 +9770,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b143daab-04cb-4f2b-9437-0e61f888b7fc",
+    "id": "fa0c744d-8cbd-4a69-9cff-855942a3cfad",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #815)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9782,11 +9782,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9102175d-8bbe-49af-ac77-fa7a072be7d5",
+    "id": "18ed4684-1aff-4112-8663-8ac202ad00e7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #816)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9794,11 +9794,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5ac6b114-89d1-4cc7-bf98-0d1118fb63f3",
+    "id": "340f80ec-4281-452d-90a9-120b30d0b0ef",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #817)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9806,11 +9806,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5139468f-5803-4c1f-be9f-e5cd90c9e122",
+    "id": "7d523f22-19dd-43eb-b447-4256fe20e1cc",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #818)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9818,11 +9818,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "09f9165b-0f33-477a-9f88-541d660baaad",
+    "id": "68a119f4-9583-49ca-9e07-c26b6de86401",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #819)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9830,11 +9830,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "852d879b-674e-48d0-9e06-ae7cbe31a209",
+    "id": "1a5a1238-6410-46e9-a5cc-89c33805b959",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #820)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9842,11 +9842,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c47fd725-07f9-4438-a60c-937ec21e542e",
+    "id": "63d9d4d8-740e-4908-9ea4-f4b02c77098f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #821)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9854,11 +9854,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e0393c85-c01e-4dde-9995-11aba7deaa43",
+    "id": "6ab42471-920b-4f50-9031-a01642874cff",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #822)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9866,11 +9866,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "500ba896-3206-4e7f-bfc9-40a4488462ac",
+    "id": "1ce5d5eb-31e6-40d5-b5b7-1a0196d9dea0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #823)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9878,11 +9878,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a2d9fc7c-ea75-4417-a0cd-b75bc40fb44b",
+    "id": "703313c2-6651-4e03-9d1b-323c1edd559b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #824)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9890,11 +9890,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "74e9dc1c-6117-434c-9853-b409fae76ec7",
+    "id": "e9f47413-6d7f-4732-9401-fa2901a58380",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #825)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9902,11 +9902,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a12f9301-35ed-4559-860e-b7a01cbd82ca",
+    "id": "2ad010b3-dccc-48c9-8806-b73ce4916232",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #826)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9914,11 +9914,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e950304b-e0df-4787-bd5a-ef0cb8979ffc",
+    "id": "5ae003e3-9ed1-4a0f-bb59-8e6f254ad3d0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #827)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9926,11 +9926,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "23b29fcf-5e15-47c7-88e0-45c677ecea62",
+    "id": "90142453-f405-4043-b7fa-823ed78be523",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #828)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9938,11 +9938,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "832e0c3b-e283-4199-be43-09ac80ec3331",
+    "id": "1feb79af-d78b-41a7-bbbc-4e278c52770b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #829)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9950,11 +9950,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d8b46a9f-bfaf-4d6b-b316-baf021cd6c28",
+    "id": "4435d8ee-3ae5-4347-9a9b-3e669893bc99",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #830)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9962,11 +9962,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6bc4d229-f0be-4d0f-9a5b-db42b0aec7bc",
+    "id": "28504634-824e-4850-8b76-89c593838ed9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #831)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9974,11 +9974,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2e2486e1-97bd-4e3d-bef2-9d228987bf73",
+    "id": "6adfc866-c109-4a8f-9689-f02ca99fec00",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #832)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9986,11 +9986,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f2048c1f-5fba-4f1d-ae9a-ea254e50ac9e",
+    "id": "bfc1138b-42b7-4e5a-b067-423d3979d72f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #833)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9998,11 +9998,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c277ec0a-7709-409b-a608-422a3b20105f",
+    "id": "0b10b744-2fa8-437e-8a8b-82cafbac96fa",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #834)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10010,11 +10010,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2ff27fa7-8af2-45e8-8aab-7e4730329e34",
+    "id": "274e6535-3002-4c5e-9e09-97e75f76ecfc",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #835)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10022,11 +10022,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4babfa78-f1b0-40e6-a764-5728b5160b34",
+    "id": "9a1efbb7-5c0f-44ee-9364-b7264c5cd693",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #836)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10034,11 +10034,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "81db6091-b5cc-487e-a8d3-eb1970e64c89",
+    "id": "4e1c946d-dd8f-4512-8de5-9b937bce79f9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #837)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10046,11 +10046,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a47d48d8-35db-4fdb-947c-6d97a0b9c87c",
+    "id": "6c8786c8-00d1-4678-be74-51edbf9798b9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #838)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10058,11 +10058,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "65af35e0-9d17-42ae-b5c4-3bb586f96a0e",
+    "id": "9ad77897-b0c1-4411-9b78-b73d9793110f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #839)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10070,11 +10070,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6921dd60-40ba-4ce4-b22c-a22e019b07c6",
+    "id": "823c2de3-442b-4845-a01f-721e75151d8b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #840)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10082,11 +10082,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2c142ffc-cbfb-47c7-93e7-8ecc543e9f17",
+    "id": "5b595612-10e7-4569-a0a1-f3dd61dabcf3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #841)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10094,11 +10094,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9d1f7531-b0ad-4021-b958-1b986905468a",
+    "id": "fcae221d-1712-464b-9d0b-341f3662dfd5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #842)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10106,11 +10106,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "522f04ce-f00c-454c-8f38-d104aa3ba4dc",
+    "id": "c848d6ed-5405-4b63-8867-dbe4a0ed7957",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #843)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10118,11 +10118,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "999f3e5f-8cc0-4c15-a321-e20c53d0b38a",
+    "id": "c7dd46e0-ba2d-4023-91ff-e01f0add10af",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #844)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10130,11 +10130,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d0a4a345-b767-42ac-9e2d-11aef8a1e9d8",
+    "id": "a3b690c1-d5e0-49d1-b23f-a81c23503590",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #845)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10142,11 +10142,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9febb5ce-ae7f-4bf1-bda5-ebd481b0bb9b",
+    "id": "fcc662fb-9ec3-4be9-b8a4-db73f8adfdca",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #846)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10154,11 +10154,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "787328a4-6ed8-411b-81fd-ace6b3c4462a",
+    "id": "228ad88b-0b40-4734-8133-3ac7cec47940",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #847)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10166,11 +10166,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ae7f922c-d21b-45f4-98e1-5fc6435ce1fb",
+    "id": "0a023f27-e973-45fd-a06d-fe9f778608d4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #848)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10178,11 +10178,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "72e1fb4a-d034-412a-b6e4-d94413b05549",
+    "id": "817bdaa9-9b79-45ae-a3f9-195a161c7278",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #849)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10190,11 +10190,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "285ace4f-30d4-4ab8-8ee4-d130a240a4ae",
+    "id": "b36de536-85b3-416e-ad68-c50656f87116",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #850)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10202,11 +10202,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8888cee7-a208-4dec-83ef-9d8a16105d01",
+    "id": "75a373f1-9216-4ab6-b5c9-08c33fcb7008",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #851)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10214,11 +10214,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b7088ed2-7d9d-46c7-8e02-2a44a7e01b4a",
+    "id": "aa23e6fa-bfac-4835-be2e-609bacfee016",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #852)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10226,11 +10226,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6ad9579b-c720-4adc-a3a4-b575fe6086fd",
+    "id": "4e696831-3dc0-41d0-8385-262372046a36",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #853)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10238,11 +10238,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c6b3a2b2-4b79-4e53-a242-90915df24c66",
+    "id": "a08f7d14-4a10-458c-9c4d-1ef7042d602b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #854)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10250,11 +10250,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3e974b81-789f-4311-9a75-7c20e64f83eb",
+    "id": "acd0ca1d-ab23-47cb-9c2c-57e73ee4695d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #855)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10262,11 +10262,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f7b7e5f4-655a-4aed-982f-043066b9f550",
+    "id": "5224cf83-aef9-4478-b564-5b065382d254",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #856)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10274,11 +10274,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "dca2e3c9-de93-44c9-ac86-f0863a360af4",
+    "id": "6d5e5e5d-654a-41a3-b034-ec22a5e2b569",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #857)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10286,11 +10286,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a621a668-bd20-45a0-8c56-2a9dff5e9d4d",
+    "id": "9030fca0-17c9-4b3d-99f0-a54cd31144d6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #858)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10298,11 +10298,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "344fb0d3-e105-4956-9291-e9fc75f6a573",
+    "id": "9968d585-2952-4ca9-8aa6-7617b2e59dc2",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #859)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10310,11 +10310,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "96ff88eb-b65a-4f52-b37c-622da3f21065",
+    "id": "87298b33-70fc-451a-bf29-d7226cc79e16",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #860)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10322,11 +10322,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a7931d49-98ed-4874-88a6-ac803e21fa96",
+    "id": "60f314da-cbfb-42c7-bdd6-51f9b1cc9615",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #861)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10334,11 +10334,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a544a0d0-06b3-48f4-b74c-75149176c34f",
+    "id": "3cba16ee-6f40-4e67-a6a7-458e3f215644",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #862)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10346,11 +10346,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e262d701-b1c8-4707-863a-52de77ba7bac",
+    "id": "db0ec9d7-8c5e-4948-bfc6-29541fdf503b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #863)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10358,11 +10358,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "dbe33f00-aea7-4b63-add6-461f766bf381",
+    "id": "0b7a7b52-18d0-4732-9cc2-62583cfc39a2",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #864)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10370,11 +10370,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6ec5c46b-bc8c-4d83-a44b-b300d9544ee7",
+    "id": "56675d27-8e06-4adb-9a8c-74de874cef4d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #865)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10382,11 +10382,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d34dc127-e9ed-427e-aef3-a917660484bc",
+    "id": "8c41cae9-b52e-4080-8fa6-75d65395ce91",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #866)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10394,11 +10394,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bbce5710-f077-4ab8-80f2-7356c2be6e28",
+    "id": "5aaa48b4-e124-4bc1-9d01-8c1ec9a89845",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #867)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10406,11 +10406,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "200882ea-099c-49b5-9b7d-d40df672b03b",
+    "id": "82695e95-e973-4caa-bdf1-de4b233a0010",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #868)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10418,11 +10418,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8df3cb90-4f03-4e16-96c5-4ac7964f0c5f",
+    "id": "f93a0438-8c6b-4a01-92a7-02bee51568a7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #869)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10430,11 +10430,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e818faaf-97f6-4a76-9994-60ad9cc9661b",
+    "id": "9efe344d-6f7a-43d3-9d66-58b12f33c442",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #870)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10442,11 +10442,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c7d586b8-f4a2-43af-8966-3956dfab3448",
+    "id": "20c9a7c6-bd91-4f61-8908-a06daf7996d7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #871)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10454,11 +10454,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5cc75e49-2ff3-43e6-93c2-354291093c73",
+    "id": "c4fca21b-9b27-449d-b842-159bd4684191",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #872)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10466,11 +10466,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c94b42fe-f9bd-4b5a-979d-db9ac8ca1bb1",
+    "id": "0c23cfd3-104d-4e8b-92e4-e73f0d3cfd43",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #873)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10478,11 +10478,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b17c88ab-3aed-4e6f-b6b4-ca4cfd958a42",
+    "id": "71581f1b-5e28-40cc-8dcd-c1d9684ce4ac",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #874)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10490,11 +10490,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d4171398-16f7-4943-b03a-941ae31ac003",
+    "id": "9d2bcf38-db08-4518-8811-ced1b4d470c6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #875)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10502,11 +10502,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2c2491c4-e463-47bf-bf3b-acd460997fbd",
+    "id": "e7e565fa-8701-480b-88f8-804db0cbfd0f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #876)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10514,11 +10514,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "272abb80-e15f-44a8-8d87-f679443ac47d",
+    "id": "d6a7c3a6-a7e4-4d33-82ed-bbf3bfa0a511",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #877)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10526,11 +10526,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8a005b05-d27b-4887-a783-2ce0b45b301e",
+    "id": "4a735b1d-1efc-4524-9c38-752b84bd36d7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #878)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10538,11 +10538,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1beebaa6-0afa-4917-85dd-c8019c0da728",
+    "id": "8b2a0ff0-12d7-41ea-bba8-11826c95a082",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #879)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10550,11 +10550,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2904153b-63cf-4c8a-b49e-8c7303b71e11",
+    "id": "a7f39626-cf73-43dd-8c6f-3f1d420d953e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #880)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10562,11 +10562,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2092761a-68fe-454f-9e68-3200c49061ab",
+    "id": "5821c56c-f561-412f-9fb7-5b9d32db1780",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #881)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10574,11 +10574,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "354da009-ea93-461a-a2e7-686d5c5ea945",
+    "id": "d2dd2ba5-f875-4e23-8093-50f838e814b6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #882)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10586,11 +10586,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c18ce23c-dd7e-452b-a52a-36bd7966f1ab",
+    "id": "dfdcc17f-24f1-4b8f-9d57-c1258a774be3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #883)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10598,11 +10598,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "56d27791-44a2-4125-ab89-b739ee31f522",
+    "id": "bbeccf7c-43e4-455c-9546-cc97928cd191",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #884)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10610,11 +10610,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3fcb35db-e7ee-4c00-89de-9965058e5ae4",
+    "id": "69c37358-5537-46f5-a29e-a169f93e6121",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #885)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10622,11 +10622,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4d52a6c5-e0c9-43b8-acbd-931103ce3b43",
+    "id": "d53495ad-078a-4c28-89ec-77b95ca94f6f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #886)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10634,11 +10634,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7bb546cd-f893-4bc0-a824-93c70073ff9c",
+    "id": "723be6c3-096c-4ae1-90e0-562b635f9aa8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #887)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10646,11 +10646,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "df5ee462-a04c-4782-997c-fa667f8bba3c",
+    "id": "baa416dd-7155-47bb-8de5-f784a248e27a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #888)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10658,11 +10658,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "598bbc05-095c-4146-9a46-caf66b06bdad",
+    "id": "67ad556f-b51f-451c-b462-81729dcda028",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #889)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10670,11 +10670,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d9631517-7d76-4844-a14d-08b585c70809",
+    "id": "34a2e002-8545-4ea5-8b8f-9981fb8d583a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #890)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10682,11 +10682,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "43b25e65-4e6e-4a21-8310-7af7a8e20766",
+    "id": "ae9486c9-b49b-422e-ac42-018cacbab2a0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #891)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10694,11 +10694,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "39dd46d9-0f7b-4274-b279-ea1ec9935297",
+    "id": "09de3ee1-5c74-4151-863d-f805fb046d75",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #892)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10706,11 +10706,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "998fb476-1766-4a74-a51d-a017a61c82d7",
+    "id": "beb8d58f-f1af-454b-a434-93d042b2a513",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #893)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10718,11 +10718,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "73b1bba5-5345-4782-aa09-89e145bfe097",
+    "id": "8e8f1b83-8caf-4a3c-9969-4aace1e2f16b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #894)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10730,11 +10730,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2014da3e-d076-488d-8a84-e482d358f0d0",
+    "id": "555bc3d4-d04c-4a43-9085-ea3e458c0f0b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #895)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10742,11 +10742,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bc22a2c3-cee6-4226-8944-facf114d6f5b",
+    "id": "92f97f52-0441-484f-a600-c1443f23cddb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #896)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10754,11 +10754,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5f593496-57c1-406c-b0cd-d9554232b3bf",
+    "id": "3dca414e-4e03-4bda-8629-0d74942dc5cd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #897)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10766,11 +10766,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bb35f0ee-f50d-4ce5-b5eb-343bbe37ce4d",
+    "id": "7e2835cf-514d-4705-b3be-9defc09635bd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #898)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10778,11 +10778,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f6e170db-d5c7-4e1e-bb18-87cafe7294be",
+    "id": "7b2c0833-890b-42aa-b374-797f6d9b8cb4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #899)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10790,11 +10790,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9fcde8e5-ea6d-4f98-819f-8bb8885c7a09",
+    "id": "17df04fc-e27a-4407-8c43-256138911cfc",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #900)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10802,11 +10802,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "341685ae-6ef7-4cc6-813a-b90a0d5af907",
+    "id": "dbe78229-fa23-415f-b825-ddfdecf69fd7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #901)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10814,11 +10814,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9d8980e8-9a07-4d3c-909a-f4fd955b6c3f",
+    "id": "4f7f25d3-e07b-4321-8f1a-324ef4cb65e1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #902)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10826,11 +10826,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3ade86e9-1e87-4140-b386-977dcd480d16",
+    "id": "5888a2a1-e2a2-4ddb-b2ee-f8280b478e1d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #903)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10838,11 +10838,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "37ca6db9-19a1-46e8-9ae5-396293b1edff",
+    "id": "db834659-360d-4025-988a-5af2964dcf04",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #904)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10850,11 +10850,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c3a4fd4b-057a-409c-a4c2-f033b25afade",
+    "id": "2f93991c-04fc-48d3-98c9-8a253e27f707",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #905)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10862,11 +10862,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "954d20fb-b100-4efb-9cab-5c90801dfb0d",
+    "id": "f6358543-d962-4d3a-828a-a13ac13478ee",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #906)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10874,11 +10874,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1bcb2c97-0d3a-4270-bcac-2caba0026a62",
+    "id": "b2b8b836-40b4-4423-998f-1514a93b7185",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #907)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10886,11 +10886,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a0f281ee-3c79-4407-83a4-8ab16523608f",
+    "id": "a6dbcac3-2113-4c22-97d6-579ebfc2d996",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #908)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10898,11 +10898,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8bda3642-b43a-4710-a934-99a79480b4a4",
+    "id": "70b89615-6c08-4e1a-a8f8-572e0592630d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #909)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10910,11 +10910,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "637c17d0-2957-4b82-b203-a9bf044e048d",
+    "id": "0f4dc215-f3c8-4bea-b4c6-af527b790111",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #910)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10922,11 +10922,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fcb47b14-60f4-45f2-9b5f-590ef9d25ab5",
+    "id": "21ec1eb4-54b9-49b5-a81f-a78652794ce9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #911)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10934,11 +10934,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6cba87b2-73a3-4abe-8225-b7f839a8c06a",
+    "id": "51a6797d-7917-4457-8695-f7b3d4473e04",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #912)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10946,11 +10946,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fba2adf8-f714-48db-b446-f9f3904b29b1",
+    "id": "cdeaecda-a7bf-4af6-8352-1e53caea334e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #913)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10958,11 +10958,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6e315348-48db-4468-b0dc-f7f076e6fffc",
+    "id": "b04e9ee4-5e1d-46fd-aa80-0e5c30b6a555",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #914)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10970,11 +10970,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7ac02dce-6ca8-4a94-af30-495d0266ce5a",
+    "id": "4a0320d9-58ea-4d2c-bbd2-b93ae6007115",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #915)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10982,11 +10982,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d6f37823-8c94-4df4-b295-bc9276be6ae6",
+    "id": "369cc18b-8dbe-4c38-bb45-dcba1493ff9e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #916)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10994,11 +10994,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5a31f9e5-7ebb-45aa-88e8-2212a731263e",
+    "id": "c33902ce-7dad-4674-8913-f1faedbec3e0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #917)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11006,11 +11006,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "74eba7cb-cdc5-4b32-8ec7-c7971857c140",
+    "id": "07e46e98-3a29-45c8-81b3-6cbd0ad309c4",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #918)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11018,11 +11018,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "536a797c-76e7-401e-8802-eed5a5c583c4",
+    "id": "cff3d712-dddb-457a-bd43-5ad234a3169f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #919)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11030,11 +11030,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d4808ed8-7bab-418e-b344-2926ee94fe33",
+    "id": "e7934734-367d-4e29-934e-e10a500d528b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #920)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11042,11 +11042,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c78db5e7-4071-4320-a35b-7cdb7e6171ab",
+    "id": "8fc65cea-a4b2-4e5e-918a-663eefba0a1b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #921)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11054,11 +11054,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "9d1717e8-8e5a-4ffe-80c4-d24aeb5fd290",
+    "id": "0f8f8d09-911f-433f-86c1-71f406d2d94f",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #922)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11066,11 +11066,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "36624829-5854-4b43-a6c3-35696626545d",
+    "id": "71e9cceb-4f0b-4550-8672-eb34e9f10609",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #923)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11078,11 +11078,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4a97dc73-f91a-4a77-84e3-9246854d40ff",
+    "id": "806c21dd-50ad-458a-ab81-9d73652dba23",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #924)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11090,11 +11090,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "478d7496-8fbc-4ad7-bde0-3500cbc17a8b",
+    "id": "ce2c67a3-20eb-4fcf-a780-2e9f17bac290",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #925)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11102,11 +11102,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "f355ddcf-d844-4110-9604-41c070ba6a60",
+    "id": "4b407cc7-a8b3-44c8-9e57-b3c0f8815c6e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #926)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11114,11 +11114,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "fcd0349a-ecb9-41ee-ba0d-9ec80bbd419b",
+    "id": "c271049e-c6ea-444c-b01e-b94566dc165e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #927)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11126,11 +11126,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e9c6cfde-5a66-43ab-9580-ce162d7baf19",
+    "id": "51255253-3412-480e-9430-a0f72c54c3b9",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #928)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11138,11 +11138,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e930f82f-3e95-4628-8894-b80d17a01607",
+    "id": "0fd36bb3-1a97-45e5-9ac9-c5a929034e95",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #929)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11150,11 +11150,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a9f9ccec-24e6-4c99-9355-31f85854aecd",
+    "id": "928c8fb8-bd2a-4415-8fdc-d236d68e3938",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #930)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11162,11 +11162,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d3a4305b-77b4-4c2c-8606-511894289025",
+    "id": "c0b68917-a657-48e5-9d1c-84b7a10a77ac",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #931)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11174,11 +11174,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d6afb12a-440c-4a76-8010-f709b533a116",
+    "id": "87a82e81-144a-4ecf-9ecb-e4b8786b86ef",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #932)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11186,11 +11186,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1fcc3a61-05d3-4aed-bafe-a812fe5fa5d8",
+    "id": "3cd900f2-0ff5-42fc-9e8c-930998d15833",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #933)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11198,11 +11198,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c9dcd1f1-9079-4b19-8620-4bea259aea3f",
+    "id": "4b69547e-0663-4889-8ca7-227e1e9ad251",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #934)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11210,11 +11210,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6b77e792-03a1-4dbb-b9cf-34dce308ac27",
+    "id": "880a871f-c456-400d-bcd8-8cc21adcde16",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #935)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11222,11 +11222,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1fc0959d-47d9-4f3e-8afb-e865a68b3dc3",
+    "id": "bbe0c3a8-ac40-447b-b4d1-1c1d64005f6e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #936)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11234,11 +11234,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "e516ee7c-fdf5-4fe3-9214-dfb56008707f",
+    "id": "e9184f53-297f-400c-b541-cdd943e913e8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #937)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11246,11 +11246,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bf5a76d7-9f95-4bb9-81ac-edc003bde554",
+    "id": "50e4b77a-1fd8-4ae0-a815-d3d670b05c50",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #938)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11258,11 +11258,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1bc9d275-1bbd-4294-b83d-46eaf934a177",
+    "id": "80a85d16-6e7f-44bb-937a-5fca33cbef39",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #939)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11270,11 +11270,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b3158c1d-3dfc-4c80-a7ae-6481c81a3b60",
+    "id": "a585bf99-e8bd-496c-8492-29afa3d1381e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #940)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11282,11 +11282,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "af224718-c4b7-44d5-8a22-89f43707e8a0",
+    "id": "268cb7a2-5128-4abf-99b6-4a0abf374b67",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #941)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11294,11 +11294,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "71108f85-2699-4664-8204-82deb12d4fa2",
+    "id": "db97198c-1838-419c-8c1d-b5797e5ec555",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #942)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11306,11 +11306,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b9a32311-5761-48c8-a3a4-cbdb757bea51",
+    "id": "0808856f-8428-4406-96ca-04ad4f27db6e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #943)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11318,11 +11318,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a87caef5-80d9-49e5-b056-8d571d6986de",
+    "id": "a33b8a24-2acd-4d32-9c9f-7825c445d517",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #944)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11330,11 +11330,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7913c638-a7f4-4f95-b2e7-3b74b7ca6944",
+    "id": "c5963d65-2bde-47e5-a1ac-8101a4cba11b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #945)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11342,11 +11342,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d118b819-4ff2-4620-982d-df6a1163e378",
+    "id": "1566540e-8d23-42b0-9ee8-cdf0dd9db0ea",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #946)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11354,11 +11354,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "018af048-2b84-45db-a574-d49d92252a60",
+    "id": "c83f784b-ef24-4a2a-879a-2f45e5c32301",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #947)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11366,11 +11366,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b59fb924-d24f-4fc4-bfd3-894cd3cbe004",
+    "id": "02aa035a-689b-49cc-86af-d8d3ccd83fa1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #948)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11378,11 +11378,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a3a5bd93-200b-4470-9665-929bc0f36eff",
+    "id": "5bd0decb-b295-40df-8e90-82f836640971",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #949)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11390,11 +11390,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cb2f54e4-5bf8-4a8b-8f11-25679dc86c4f",
+    "id": "7af04eba-40c5-4575-aa69-436db474aca6",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #950)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11402,11 +11402,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "31cd4cbb-3957-4ccd-b5df-3573d8f9cc14",
+    "id": "712353d7-1897-4897-8589-4b9273e499df",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #951)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11414,11 +11414,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "343142f1-9080-42b5-8d93-71059fa13ec7",
+    "id": "a96c470c-f62b-42f7-81e4-b629ccb3637e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #952)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11426,11 +11426,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "748c82bc-2aae-4c49-9a86-089503114cfc",
+    "id": "3e27e63d-94dd-431c-a167-4c9d532af2c8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #953)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11438,11 +11438,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a7190c2a-32d3-4783-877f-f5af67cc7296",
+    "id": "7f7b7843-57a4-448a-86bd-dd38ea48fabf",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #954)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11450,11 +11450,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "234ad948-57d0-4e02-8dc4-11bb128dee21",
+    "id": "0b624841-c9d3-4ad0-a604-3fc17cd5e3a8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #955)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11462,11 +11462,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "89d8bcc9-1ced-4165-9e29-479aee62d704",
+    "id": "61e6a842-2b17-4c45-b87c-924ed05a06fd",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #956)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11474,11 +11474,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "29eb78a2-a4f4-4808-b4c1-f3c3612feecc",
+    "id": "441aa548-4951-41d3-b842-06c14820e35d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #957)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11486,11 +11486,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1c97fdab-7ce1-4b45-989b-6c05bc065b2f",
+    "id": "bbb4ca78-4c2c-4885-a630-c2fbeed9377c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #958)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11498,11 +11498,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "1e18e8fc-4098-4244-8fd3-606ecd4aaa4e",
+    "id": "07514288-fe11-4d8f-9ec4-159b49f26d67",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #959)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11510,11 +11510,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "b0482d58-3a8e-47bd-97e2-b99857307ddf",
+    "id": "b41974ae-1a3b-44d0-9328-c2b337a642b1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #960)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11522,11 +11522,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "862c34bd-bbca-4d1a-b671-93f0107cafac",
+    "id": "241cbf4d-dec6-4a4d-a287-23c2e4895310",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #961)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11534,11 +11534,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "59ce8eb6-700c-4a51-9d9f-2e5a8a225ee5",
+    "id": "979f291c-fd58-494b-8a19-4e9288f82910",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #962)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11546,11 +11546,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7482a215-efdc-4016-bcf7-4df99124829a",
+    "id": "83809033-093e-47b7-9c58-f346a0c9567b",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #963)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11558,11 +11558,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "98bd0206-27d5-4d85-af04-a21dc17cf0a3",
+    "id": "f0405148-1559-4011-95ab-632d4e13eaf5",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #964)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11570,11 +11570,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4a446fc0-e4ce-4e2d-b6c1-9692dd0330c6",
+    "id": "0f719b53-e513-4c46-88b6-e654add2ded7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #965)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11582,11 +11582,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5984672a-20ad-4e29-835d-f52f87c573ea",
+    "id": "2c7985d2-6b05-4dde-8671-7868e5ef9a06",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #966)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11594,11 +11594,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cc7c3878-9ffc-4955-8751-f085d1cedd98",
+    "id": "825bde10-7976-4181-8e62-34ed335d0b55",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #967)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11606,11 +11606,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "a8c67803-b538-4275-8c9d-e85b37db902a",
+    "id": "290c7489-b014-4c4f-9066-7800da6358b3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #968)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11618,11 +11618,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5a898450-ce0c-4705-9053-9162c294b00d",
+    "id": "d2361fc4-065e-4de1-ae27-12f5535a8165",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #969)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11630,11 +11630,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "222e23b1-07a2-470f-be5f-0419eb928593",
+    "id": "89408e0b-5051-48b4-b984-70da69cb5aaa",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #970)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11642,11 +11642,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8dc098c9-5705-4564-bc23-25610d325d86",
+    "id": "56126361-c4ce-4ea9-a7df-7516b8b7f695",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #971)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11654,11 +11654,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "24a10ccd-27cd-4226-a4b8-220c61fc0a6a",
+    "id": "32071b12-a6a9-4afc-be9c-42aa57f854c8",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #972)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11666,11 +11666,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "698eeae1-e8d0-4f27-875f-d6be0509eb8a",
+    "id": "4ae352c1-7783-49ea-baec-d7df2fc1f9ce",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #973)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11678,11 +11678,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "7082027c-867b-4042-a39f-66d1c92bc821",
+    "id": "62e6d7ee-a715-46e0-9164-673c81376a0c",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #974)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11690,11 +11690,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "c784e128-5bbc-4acf-98cf-65543579e39b",
+    "id": "79539a2e-ed08-4a88-89f1-1f19085dd8ff",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #975)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11702,11 +11702,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ce98056d-f090-450e-976a-a2d982d210f6",
+    "id": "70be3ef7-d158-43b6-a0ee-a5de42116f4a",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #976)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11714,11 +11714,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "17c82fc1-9464-4615-9dfd-2d35404a27de",
+    "id": "e39d1b75-da1a-4662-a830-8e9c071a0132",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #977)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11726,11 +11726,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "ae2d6215-ea4b-4b82-bc80-a8edd8d4d2cf",
+    "id": "36a01a73-42dd-40c6-b899-5762f8f57f04",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #978)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11738,11 +11738,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8bb4d7e8-187b-456d-b6df-4a2d2a3707a8",
+    "id": "aab90fe9-a929-42aa-b8f7-115e47c9442e",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #979)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11750,11 +11750,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "6a7ff654-4d23-4416-b054-2fe60cd32014",
+    "id": "2287a110-e1d3-4dee-a688-c0bf1e6c4443",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #980)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11762,11 +11762,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8c2efc65-24f3-4d26-8d98-e1ef10740285",
+    "id": "5a53a497-53db-47b3-baa9-ac91b73eba4d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #981)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11774,11 +11774,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "0e5a68c8-51f5-4234-9833-a6bcb208b367",
+    "id": "0185c9c3-1386-43f8-b9ee-45efb6b1da42",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #982)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11786,11 +11786,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cb34ab32-6d53-41e2-b95e-26d27bd6bbf3",
+    "id": "4c98ae66-03b5-4ed2-beef-000e99f84c60",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #983)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11798,11 +11798,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3a828cb6-76dd-4e55-879c-09d7d14bcf8a",
+    "id": "81162def-db77-4d3f-a8ed-c6365b08b853",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #984)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11810,11 +11810,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "4218fa1d-33ee-4969-a55e-64c108a2797e",
+    "id": "d9d1beda-11d0-4209-95bf-b425797fe748",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #985)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11822,11 +11822,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "58b4cfc2-6a9c-446a-9cc4-73b76f195c5d",
+    "id": "c38c905d-20e0-4725-9166-6842dd6326e1",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #986)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11834,11 +11834,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "254f40a8-713d-42f6-83a6-868d9908f1fa",
+    "id": "c75f2d94-3739-4dd0-a4d6-71491708ea42",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #987)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11846,11 +11846,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3d429ede-6e14-4da9-ab00-26a21552ea6e",
+    "id": "6783f9cd-d039-4199-800e-3fd5d5443585",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #988)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11858,11 +11858,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "35e81d18-e756-4024-a940-273051984aa5",
+    "id": "6fcadf18-e041-43a5-921e-691257a4f5d0",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #989)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11870,11 +11870,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "87bb680c-2bba-4c91-867f-04af940f8741",
+    "id": "60f04817-a966-4d01-81b0-009a07f90bfb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #990)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11882,11 +11882,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "bacaa7d3-d008-4734-b7fa-fac16c2030ed",
+    "id": "1907a174-bbed-4a14-b169-186f19e4f113",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #991)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11894,11 +11894,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "643d99f9-17b8-4d90-9899-3cb7d6e1644e",
+    "id": "067d664e-de8f-47ac-89c8-fc3d5a2325eb",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #992)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11906,11 +11906,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "5a41188f-b74f-46a0-b5c6-10eda248ae1f",
+    "id": "abc4acfa-3d41-445f-8fcc-bb73fa5ba773",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #993)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11918,11 +11918,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "cc14867d-9e08-456f-8c38-4db1f2764432",
+    "id": "1169cc9a-0b6e-4569-8ba8-060ff6f74e7d",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #994)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11930,11 +11930,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d2e1d74d-b65c-44b6-bf12-86ccd9e26936",
+    "id": "e91b8f7e-5167-4925-8133-b961f85bdf70",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #995)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11942,11 +11942,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "8082fb4d-5af2-4f09-b03a-1882d643ae37",
+    "id": "501504a9-38f4-4e8f-937f-bcea1d066252",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir?? (Kart: #996)",
+    "front": "Toprağın nem ve mineral kazanması amacıyla bir yıl ekilip bir yıl boş bırakılması yöntemine ne denir??",
     "back": "Nadas",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nadas toprağı boş bırakmaktır, erozyona yol açtığı için yerine nöbetleşe ekim önerilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11954,11 +11954,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "d08455ac-ac85-4d8b-870d-a01ab162a5e8",
+    "id": "9d277d46-54ce-4d2c-a1e2-803fdf9b52fe",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü? (Kart: #997)",
+    "front": "Ekim alanı en geniş, üretimi en fazla olan ve Karadeniz kıyıları ile Erzurum-Kars hariç her yerde yetişen temel gıda ürünü?",
     "back": "Buğday",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Buğday ilkbaharda yağış, yazın ise mutlak kuraklık ister. Karadeniz kıyılarında yaz yağışları yüzünden yetişmez.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11966,11 +11966,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "2407c87e-7f16-4d7b-9b45-3617449737f0",
+    "id": "3a778925-01dc-42e7-845c-4f7dec8815be",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü? (Kart: #998)",
+    "front": "Sıtma hastalığına yol açan sivrisinek üretimi nedeniyle yerleşim birimleri etrafında devlet kontrolünde ekilen sulak alan ürünü?",
     "back": "Çeltik (Pirinç)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çeltik bataklık ortamda yetiştiğinden sıtma riski nedeniyle devlet kontrolünde akarsu yataklarında ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11978,11 +11978,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "3986de66-6327-4141-9d52-cc706201e59d",
+    "id": "b5d56ed3-7858-4471-815a-ecf610543bf3",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün? (Kart: #999)",
+    "front": "Uyuşturucu yapımında kullanıldığı için ekim alanları tamamen devlet kontrolünde olan ve en çok Afyon'da üretilen ürün?",
     "back": "Haşhaş",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Haşhaş kapsülündeki uyuşturucu hammaddesi nedeniyle devlet kontrolünde kotalı olarak ekilir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11990,11 +11990,11 @@ export const flashcards_tarimvehayvancilik: Flashcard[] = [
     ]
   },
   {
-    "id": "938a327c-d749-4101-a11d-aca283b8e20b",
+    "id": "f7db5b90-1a33-4e00-8d82-133ee10dc8f7",
     "topicId": "tarim-ve-hayvancilik",
-    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü? (Kart: #1000)",
+    "front": "Yetişme alanı en dar olan, bol nem, yıkanmış asidik toprak ve bulutluluk isteyen Doğu Karadeniz ürünü?",
     "back": "Çay",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çay asidik toprak ve yüksek nem isteyen, yetişme alanı en dar olan yıkanmış toprak ürünüdür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",

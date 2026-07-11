@@ -28,7 +28,7 @@ export const turkiyenincografikonumu: Topic = {
       "Yıl boyunca kullanılan ortak saatimiz 45° Doğu Iğdır saatidir (+3. saat dilimi).",
       "Aynı boylam üzerinde yerel saat ve öğle vakti her zaman aynıdır ancak güneşin doğuş-batış saati sadece ekinokslarda ortaktır."
 ],
-    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
+    imageUrl: "/images/topics/mavi_vatan_1783727834384.png"
   },
   {
     heading: "Özel (Göreceli) Konum ve Jeopolitik Önemi",
@@ -38,7 +38,7 @@ export const turkiyenincografikonumu: Topic = {
       "Kısa mesafede iklim, bitki örtüsü ve tarım ürünü çeşitliliğinin değişmesi özel konum (yer şekillerinin hızlı değişimi) ile açıklanır.",
       "Jeopolitik önem, Türkiye'nin boğazlara, kıtalararası köprü konumuna ve enerji nakil hatlarına sahip olmasının bir sonucudur."
 ],
-    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
+    imageUrl: "/images/topics/sinir_kapisi_1783727826782.png"
   },
   {
     heading: "Türkiye'nin Komşuları ve Kara Sınırları",
@@ -48,7 +48,7 @@ export const turkiyenincografikonumu: Topic = {
       "En eski kara sınırımız Kasr-ı Şirin Antlaşması ile belirlenen İran sınırıdır.",
       "Yunanistan sınırı Meriç Nehri'ni takip ettiği için akarsu tabanlı doğal bir sınırdır."
 ],
-    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "En Önemli Sınır Kapıları ve Ticari Rolleri",
@@ -58,7 +58,7 @@ export const turkiyenincografikonumu: Topic = {
       "Habur Sınır Kapısı (Irak), Ortadoğu ticaretinde en yüksek ciro ve tır yoğunluğuna sahip kapılardandır.",
       "Demiryolu bağlantısı olan sınır kapılarımız: Kapıkule (Bulgaristan), Uzunköprü (Yunanistan), Kapıköy (İran), Canbaz (Gürcistan - Bakü-Tiflis-Kars hattı)."
 ],
-    imageUrl: "/images/topics/sinir_kapisi_1783727826782.png"
+    imageUrl: "/images/topics/turkiye_golleri_1783727842204.png"
   },
   {
     heading: "Enlem Etkisinin İstisnaları: Mikroklima ve Çelişkiler",
@@ -68,7 +68,7 @@ export const turkiyenincografikonumu: Topic = {
       "Rize'de turunçgil, Iğdır'da pamuk en çok sorulan KPSS mikroklima örnekleridir.",
       "Bu alanlarda üretilen ürünler genellikle yerel tüketimi karşılar, dış ticarette payları düşüktür."
 ],
-    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
+    imageUrl: "/images/topics/fay_hatlari_1783727849459.png"
   },
   {
     heading: "Değişen Jeopolitik Konum ve Mavi Vatan Konsepti",
@@ -78,7 +78,7 @@ export const turkiyenincografikonumu: Topic = {
       "Mavi Vatan, denizlerdeki ekonomik haklarimizi (balıkçılık, petrol/gaz arama) koruma kararlılığıdır.",
       "TANAP, Türkiye'yi Doğu-Batı enerji koridorunun en stratejik aktörü haline getirmiştir."
 ],
-    imageUrl: "/images/topics/mavi_vatan_1783727834384.png"
+    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
   },
   {
     heading: "Sınır Güvenliği ve Tarihsel Anlaşmalar",
@@ -88,7 +88,7 @@ export const turkiyenincografikonumu: Topic = {
       "İran sınırı, 1639'dan beri değişmeyen en kararlı ve su bölümü çizgilerini takip eden sınırımızdır.",
       "Suriye sınırı, engebeli dağların olmadığı, büyük oranda düzlüklerden geçen en uzun sınırımızdır."
 ],
-    imageUrl: "/images/topics/sinir_kapisi_1783727826782.png"
+    imageUrl: "/images/topics/ruzgar_haritasi_1783727857236.png"
   },
   {
     heading: "Türkiye'nin Üye Olduğu Önemli Uluslararası Kuruluşlar",
@@ -98,7 +98,7 @@ export const turkiyenincografikonumu: Topic = {
       "Türkiye Birleşmiş Milletler (BM) ve NATO'nun kurucu veya ilk üyeleri arasında yer almaktadır.",
       "Türkiye, Avrupa Birliği'ne (AB) üye değildir (aday ülkedir) ve petrol ihraç eden OPEC üyesi değildir."
 ],
-    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
+    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
   },
   {
     heading: "Ulusal Saat ve Enerji Tasarrufu İlişkisi",
@@ -108,7 +108,7 @@ export const turkiyenincografikonumu: Topic = {
       "Yaz-kış saati değişimin kaldırılmasıyla kışın batıdaki şehirlerde (İstanbul, İzmir) sabah saatlerinde hava daha geç aydınlanmaktadır.",
       "Aynı boylam üzerindeki noktalarda yerel saat her zaman aynıdır ancak ekinokslar dışında güneşin doğuş-batış saati değişir."
 ],
-    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
+    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
   }
   ],
   mustKnow: [

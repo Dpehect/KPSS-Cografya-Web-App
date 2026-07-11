@@ -18,7 +18,7 @@ export const madenlerveenerji: Topic = {
       "Karabük ve Ereğli Demir-Çelik fabrikalarının kurulmasında hammadde değil, taş kömürüne (enerji kaynağına) yakınlık belirleyici olmuştur.",
       "Maden çeşitliliğinin en zengin olduğu ilimiz Elazığ'dır."
 ],
-    imageUrl: "/images/topics/maden_enerji_1783726561347.png"
+    imageUrl: "/images/topics/fay_hatlari_1783727849459.png"
   },
   {
     heading: "Diğer Metalik ve Metal Dışı Önemli Madenler",
@@ -28,7 +28,7 @@ export const madenlerveenerji: Topic = {
       "Bor yatakları, Türkiye'nin III. Jeolojik Zaman'da gölsel tortullaşma süreçlerinden geçtiğinin en büyük kanıtlarındandır.",
       "Asbest, ısıya son derece dayanıklı lifli bir madendir ancak kanserojen yapısı nedeniyle kullanımı sınırlandırılmıştır."
 ],
-    imageUrl: "/images/topics/maden_enerji_1783726561347.png"
+    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
   },
   {
     heading: "Fosil (Tükenebilir) Enerji Kaynakları",
@@ -38,7 +38,7 @@ export const madenlerveenerji: Topic = {
       "Batman Rafinerisi Türkiye'nin hammaddeye yakın kurulan tek petrol rafinerisidir; diğerleri ulaşım ve pazara yakınlık esas alınarak kurulmuştur.",
       "Doğalgaz santralleri çevre kirliliği en az olan fosil kaynaklı santrallerdir ancak dışa bağımlılığımızı artırır."
 ],
-    imageUrl: "/images/topics/maden_enerji_1783726561347.png"
+    imageUrl: "/images/topics/ruzgar_haritasi_1783727857236.png"
   },
   {
     heading: "Yenilenebilir (Temiz) Enerji Kaynakları",
@@ -48,7 +48,7 @@ export const madenlerveenerji: Topic = {
       "Jeotermal ve Hidroelektrik enerjisi iklim koşullarından etkilenmezken; Rüzgar ve Güneş enerjisi hava durumuna bağlı olarak dalgalanma gösterir.",
       "Karadeniz Bölgesi, yıllık yağış ve bulutluluk gün sayısı en fazla olduğu için güneş enerjisi potansiyeli en düşük bölgemizdir."
 ],
-    imageUrl: "/images/topics/maden_enerji_1783726561347.png"
+    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
   },
   {
     heading: "Nükleer Enerji ve Türkiye'nin Enerji Stratejisi",
@@ -58,7 +58,7 @@ export const madenlerveenerji: Topic = {
       "Toryum rezervlerinde Eskişehir Sivrihisar yatakları dünyada ilk sıralarda yer alır ancak henüz ticari nükleer yakıt olarak kullanımı Ar-Ge aşamasındadır.",
       "Nükleer enerji, karbondioksit salınımı yapmadığı için temiz enerji kategorisinde değerlendirilir."
 ],
-    imageUrl: "/images/topics/nukleer_enerji_1783727864452.png"
+    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
   },
   {
     heading: "Stratejik Madenler: Bor ve Toryumun Gelecekteki Rolü",
@@ -78,7 +78,7 @@ export const madenlerveenerji: Topic = {
       "Demir madeninin Sivas ve Malatya'dan Zonguldak'a taşınması demiryolu ulaşımıyla ekonomik hale gelmiştir.",
       "İskenderun Demir-Çelik fabrikası ise kömür ithalatı kolaylığı ve deniz ulaşımı (liman) nedeniyle kıyıya kurulmuştur."
 ],
-    imageUrl: "/images/topics/maden_enerji_1783726561347.png"
+    imageUrl: "/images/topics/nukleer_enerji_1783727864452.png"
   },
   {
     heading: "Barajlarımızın Enerji Üretimindeki Yıllık Dalgalanmaları",
@@ -88,7 +88,7 @@ export const madenlerveenerji: Topic = {
       "Fırat ve Dicle nehirleri üzerindeki barajlar (Atatürk, Keban) en yüksek enerji kapasitesine sahip tesislerimizdir.",
       "Akarsu debilerinin düştüğü kurak dönemlerde elektrik üretiminde doğalgaz payı artmaktadır."
 ],
-    imageUrl: "/images/topics/maden_enerji_1783726561347.png"
+    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
   },
   {
     heading: "Rüzgar ve Güneş Enerjisinde Lisanssız Üretim Modeli",
@@ -98,7 +98,7 @@ export const madenlerveenerji: Topic = {
       "Güneş enerjisi yatırımlarında Konya, Şanlıurfa, Kayseri ve Antalya en yüksek verimlilik oranlarına sahiptir.",
       "Rüzgar santralleri (RES) ise Çanakkale, Balıkesir, İzmir ve Hatay'ın rüzgar koridorlarında yoğunlaşmıştır."
 ],
-    imageUrl: "/images/topics/maden_enerji_1783726561347.png"
+    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
   },
   {
     heading: "Doğalgaz Depolama ve Boru Hatlarının Jeopolitik Rolü",
@@ -108,7 +108,7 @@ export const madenlerveenerji: Topic = {
       "Silivri Doğalgaz Deposu, Türkiye'nin ilk deniz altı doğalgaz depolama tesisidir.",
       "Bu tesisler kış aylarında konutların ve sanayinin doğalgaz kesintisi yaşamamasını garanti altına alır."
 ],
-    imageUrl: "/images/topics/maden_enerji_1783726561347.png"
+    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
   }
   ],
   mustKnow: [

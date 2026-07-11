@@ -28,7 +28,7 @@ export const sanayiveticaret: Topic = {
       "Tuğla ve çimento fabrikalarının hemen her ilimizde bulunmasının nedeni hammaddenin her yerde kolayca bulunabilmesidir.",
       "Dokuma sanayisi pamuk üretim alanlarının yanı sıra pazar potansiyeli yüksek olan İstanbul ve Bursa gibi büyük şehirlerde de çok gelişmiştir."
 ],
-    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
+    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
   },
   {
     heading: "Türkiye'nin Dış Ticareti: İhracat ve İthalat Yapısı",
@@ -38,7 +38,7 @@ export const sanayiveticaret: Topic = {
       "İthalatımızda en büyük payı enerji hammaddeleri (mineral yakıtlar) oluşturur, bu durum cari açığın en temel sebebidir.",
       "İhracat yaptığımız ülkelerin başında Almanya, ABD, İngiltere ve Irak gelir; İthalat yaptığımız ülkelerin başında ise Çin, Rusya ve Almanya yer alır."
 ],
-    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
+    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
   },
   {
     heading: "İç Ticaret ve Serbest Bölgeler",
@@ -48,7 +48,7 @@ export const sanayiveticaret: Topic = {
       "Serbest bölgeler ihracata yönelik üretim ve dış ticaret odaklı kuruldukları için genellikle büyük liman kentlerinde konumlanmıştır.",
       "Kayseri Serbest Bölgesi, deniz kıyısında yer almamasına rağmen İç Anadolu'nun sanayi ve ticaret dinamizmi sayesinde kurulan önemli bir karasal serbest bölgedir."
 ],
-    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Savunma Sanayisinde Yerlilik ve Coğrafi Dağılımı",
@@ -58,7 +58,7 @@ export const sanayiveticaret: Topic = {
       "İHA, SİHA ve askeri gemi üretimi, Türkiye'nin son yıllarda en yüksek ihracat artışı sağladığı teknoloji yoğun sanayi alanlarındandır.",
       "Bu tesisler üniversiteler ve teknoparklarla iş birliği yaparak kalifiye iş gücünün ülkede kalmasını sağlar."
 ],
-    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
+    imageUrl: "/images/topics/mavi_vatan_1783727834384.png"
   },
   {
     heading: "Organize Sanayi Bölgelerinin (OSB) Coğrafi Rolü",
@@ -68,7 +68,7 @@ export const sanayiveticaret: Topic = {
       "Bölgesel teşvik yasaları kapsamında Doğu ve Güneydoğu'daki OSB'lere yapılan yatırımlarda vergi indirimi ve arsa tahsisi sağlanır.",
       "OSB'lerin kurulduğu kentlerde (Örn: Manisa, Çerkezköy, İnegöl) nüfus artışı ve göç alımı hızlanır."
 ],
-    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
+    imageUrl: "/images/topics/sinir_kapisi_1783727826782.png"
   },
   {
     heading: "Dış Ticaret Hadleri ve Cari Açık Problemi",
@@ -78,7 +78,7 @@ export const sanayiveticaret: Topic = {
       "Enerji ithalatı (petrol ve gaz) cari açığın en büyük bileşenidir; yerli ve yenilenebilir enerjiye geçiş bu açığı azaltır.",
       "Markalaşma ve yazılım ihracatı dış ticaret hadlerini lehimize çeviren en etkili unsurlardır."
 ],
-    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Sınır Ticareti ve Sınır Ticaret Merkezleri (STM)",
@@ -88,7 +88,7 @@ export const sanayiveticaret: Topic = {
       "Sınır ticaretine konu olan ürünlerin listesi ve kotaları Ticaret Bakanlığı tarafından belirlenir.",
       "Komşu ülkelerle yaşanan siyasi istikrarsızlıklar sınır ticaretinin hacmini doğrudan etkiler."
 ],
-    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
+    imageUrl: "/images/topics/turkiye_golleri_1783727842204.png"
   },
   {
     heading: "E-Ticaret ve Dijitalleşmenin İç Ticarete Etkisi",
@@ -98,7 +98,7 @@ export const sanayiveticaret: Topic = {
       "Lojistik merkezlerinin yer seçiminde ulaşım yolları (otoban, demiryolu) kavşaklarında bulunması (göreceli konum) belirleyicidir.",
       "Dijitalleşme iç ticarette nakit akışını ve faturalandırma süreçlerini hızlandırmıştır."
 ],
-    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
+    imageUrl: "/images/topics/fay_hatlari_1783727849459.png"
   },
   {
     heading: "Bölgesel Teşvik Sistemleri ve Sanayinin Anadolu'ya Yayılması",
@@ -108,7 +108,7 @@ export const sanayiveticaret: Topic = {
       "6. bölge teşvikleri en yüksek destek oranlarına sahiptir ve Doğu Karadeniz, Doğu Anadolu ile Güneydoğu illerini kapsar.",
       "Yatırımların Anadolu'ya kayması, metropollere yönelik göç baskısını azaltan en etkili beşeri çözümdür."
 ],
-    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
+    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
   }
   ],
   mustKnow: [

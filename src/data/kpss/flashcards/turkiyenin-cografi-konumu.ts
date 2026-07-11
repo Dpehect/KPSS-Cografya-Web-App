@@ -2,11 +2,11 @@ import type { Flashcard } from "@/types/study";
 
 export const flashcards_turkiyenincografikonumu: Flashcard[] = [
   {
-    "id": "a49e56f6-69a6-4b5f-9e2e-40f749d60956",
+    "id": "16022229-323d-4345-a661-407edc2404b1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #1)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -14,11 +14,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f7fc301f-9fc6-4cf6-9082-351bcbcf825a",
+    "id": "aa050e96-19e8-4f62-a021-c80de49f9202",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #2)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -26,11 +26,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3a32dae7-0352-488f-ba40-4907d0133253",
+    "id": "6575c8af-91b7-439a-9596-e52b31b19f85",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #3)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -38,11 +38,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "35713796-fc93-4837-b49a-3c3af922527f",
+    "id": "6584f357-79be-4d0c-a034-66bc0ea64717",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #4)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -50,11 +50,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4d4eef9f-32aa-4c67-90bc-8884b3d9b338",
+    "id": "b160ccaa-4cfe-4d8c-8d6d-c9860f402b03",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #5)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -62,11 +62,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "df6a5552-e254-4b3c-aa31-5a8ac97fb3c0",
+    "id": "e9af8b87-f1c6-4a76-adbb-39d8fa71d779",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #6)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -74,11 +74,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "77b73042-6b55-4008-9a3a-6624e83f2f95",
+    "id": "11d5c506-554e-4ff9-91f4-83a38e0574fa",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #7)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -86,11 +86,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f694cd90-5230-47cc-b1c2-0af1748a77a3",
+    "id": "1d86e0be-14a8-48fa-a63b-bada11f03199",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #8)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -98,11 +98,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "08d13532-9e4f-4872-a7a5-96c69aa7a705",
+    "id": "4f0e97a7-95bc-4525-838f-429e93ce51b8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #9)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -110,11 +110,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fe167e60-0082-435b-9a6a-d35b328ca478",
+    "id": "e0d47253-4414-446d-85db-99191b6f94d8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #10)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -122,11 +122,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5722528a-52e6-4438-9150-40d52cb00f82",
+    "id": "d4e2806e-aa4d-41a8-a942-48fdb6cc5ca9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #11)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -134,11 +134,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "13531569-151d-4166-ba96-933cf118ef03",
+    "id": "8d172f0c-8c05-4af8-b96f-aeebf9fb94c2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #12)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -146,11 +146,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c9acee6f-56e6-4189-bac5-2e08907e037f",
+    "id": "22ebd022-1a1c-4bb0-b0ac-56ac75a44497",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #13)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -158,11 +158,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c0f2d2e8-c287-400f-8ec5-d50ebaf6aa65",
+    "id": "77869ac8-0d8e-43ce-b335-6eb6505fea38",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #14)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -170,11 +170,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d30e5b21-d39c-47fe-abad-ba7c1fd09cf9",
+    "id": "00f285a4-0853-4414-9bb6-f05ad264adc0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #15)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -182,11 +182,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "07d23b88-a4c7-457d-a98d-ce92f26ac8f3",
+    "id": "ba4e54c8-5a82-4a6a-9773-7eead69d894f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #16)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -194,11 +194,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4255ca92-e7e7-48e9-8ca3-5f6bdd94bb96",
+    "id": "f6981020-de0a-40d9-af60-4d2a8a1e5c75",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #17)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -206,11 +206,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fb7fc09f-b56f-40a9-9367-00a60f8ec66f",
+    "id": "47c2088b-a483-4c5c-8b0b-b1978245e879",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #18)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -218,11 +218,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5590b60f-b346-4e1b-a14b-45805cbe0fcd",
+    "id": "c1add24a-8d14-42fb-bcb0-16922d1048b3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #19)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -230,11 +230,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "618b3004-89ef-41b7-b0cd-cae615c762ff",
+    "id": "c04efde7-6fd6-45a3-8cc1-f0ab4fbbfcf0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #20)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -242,11 +242,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3faa7086-680b-4dbc-a9e7-36a34af23f0c",
+    "id": "7ac5922a-eb79-46fd-bc27-29a71afbef43",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #21)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -254,11 +254,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "608da552-e8ed-4a48-9f7d-dcd3871f2cbf",
+    "id": "1a764b45-f94e-4dca-9872-8db046856551",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #22)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -266,11 +266,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "22219937-7541-433d-88bd-381e4d91d061",
+    "id": "c8a8b85b-2198-4406-a116-dec639527fb6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #23)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -278,11 +278,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5d8bd55b-d2ab-4722-aff4-9b522be00cbe",
+    "id": "2c3f45db-fad8-4125-bde7-b03b902a5c3a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #24)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -290,11 +290,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "334c0cf7-78f8-459e-8af7-af21e4ab6574",
+    "id": "3532ba1f-5fb1-4746-8fd2-31bb3d824497",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #25)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -302,11 +302,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d20334a8-39a1-4471-bfee-d4cec69c5d8f",
+    "id": "5384467b-703f-4c7a-93f1-16a9dcd6ec6b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #26)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -314,11 +314,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "951e01fb-a163-4630-b690-a73728e33c55",
+    "id": "da13c7ed-ef3d-4fac-b94d-303da05c896c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #27)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -326,11 +326,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c59e475c-9a3d-47af-b526-17d85c6c3da9",
+    "id": "5df20c88-2657-45e2-a371-96f2ed1b199f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #28)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -338,11 +338,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "98105c43-159a-4a56-bae2-bff21c1962da",
+    "id": "8109639c-197e-4dbc-9850-5f8bc8b6fe36",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #29)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -350,11 +350,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b3c71054-e854-4f4d-9d31-bc2f801abed0",
+    "id": "66104785-71d1-4a6d-94a4-45116116e609",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #30)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -362,11 +362,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6059b110-1fbe-4568-9360-4cb80a75b6b7",
+    "id": "de43ba49-a23b-4f09-963e-2ba0d59d0b7b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #31)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -374,11 +374,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0c300ddc-2dd7-41a7-98f0-ddcb3c1fe34e",
+    "id": "f6cf9439-a93f-45b8-8947-791c9ab000b7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #32)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -386,11 +386,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b543af1e-6998-4598-ae06-ba22add6269b",
+    "id": "98528d02-72de-4dad-81e8-a0e18c9582fe",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #33)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -398,11 +398,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8b493b59-a437-4683-a8d9-33e6678211dc",
+    "id": "ab9579e1-e129-4105-8a3b-bb1271b3e45a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #34)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -410,11 +410,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d91802f1-9121-49cd-a8f6-64c72b71a200",
+    "id": "8f29a5b6-a6a9-49c8-96dd-c96d21546595",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #35)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -422,11 +422,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a619421b-63e7-4525-a685-0f3a4467eea3",
+    "id": "1421933c-ed9a-4672-99f3-ab1490fd99ac",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #36)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -434,11 +434,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3c599148-d86d-4801-8394-67dd2fa053bb",
+    "id": "7cdeb513-5f74-4e50-ad25-26180cddcb87",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #37)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -446,11 +446,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3caf86a4-4a16-4574-88aa-984d62696ded",
+    "id": "4935ce4b-31a9-4805-8b02-cfc899e419d9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #38)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -458,11 +458,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "26d4f13c-aabf-4ac7-8983-f5a37a16f7b3",
+    "id": "716a30d7-30b4-41ee-a15e-5e682596e214",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #39)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -470,11 +470,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "eb79d74a-ff13-4f1e-b236-b5f32570e0af",
+    "id": "ef5233f6-5399-4e9f-87bf-3873dda53166",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #40)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -482,11 +482,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e6b411fb-0013-4f50-b8fe-80d648c42444",
+    "id": "a2aaed20-2384-4c8d-bc7b-c26abfd829c9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #41)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -494,11 +494,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "20e9e057-4229-4763-b3e8-c53153029b7e",
+    "id": "45f2cace-56ff-4c82-a85b-77af182b8461",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #42)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -506,11 +506,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e501e68b-5fa5-43ae-9863-c5c395dc9b26",
+    "id": "698590a8-7264-4515-bd78-3b57f860180d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #43)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -518,11 +518,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "17c50ade-bcb1-4df0-9b63-4f6ab35d0d19",
+    "id": "3abf21d5-732d-4d59-99fe-11fe11f4ebd5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #44)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -530,11 +530,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "edbfb760-a663-49d0-b076-7c5f4a114f9b",
+    "id": "77a7960a-07fb-449c-80f5-da679f2d3507",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #45)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -542,11 +542,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f0027a9f-92e1-441f-b4fb-0bc3a26ae67b",
+    "id": "513da14a-eb50-456e-bf6d-bc233920ed4e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #46)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -554,11 +554,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "403fa6b3-cf25-4ca8-82ad-d7b72e899614",
+    "id": "239714de-f8e3-421e-9e61-e105473dec5c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #47)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -566,11 +566,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5a9361fb-93fb-4595-8b59-32b415549c41",
+    "id": "f54b2caf-f865-41e9-84eb-64fa5d2756ce",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #48)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -578,11 +578,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2e70ff4c-acec-427e-96f2-d49d37c0f297",
+    "id": "09a5a4f4-a139-4a6d-a774-bc7d8d95d874",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #49)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -590,11 +590,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6d86090c-d92f-45d5-b377-6991b870426c",
+    "id": "0bad93bc-3e23-48d0-86f7-0048582d81a1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #50)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -602,11 +602,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5bb20483-c20d-4964-9751-7c945a570eb4",
+    "id": "a88bad52-2552-4551-86ff-b1fa78f71e46",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #51)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -614,11 +614,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "da82723d-e429-45f0-959c-33f823b7ab67",
+    "id": "b06a386e-19b9-4d1c-9275-716ca9cf7595",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #52)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -626,11 +626,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "73358a4e-b9bb-4190-a8bd-e5c1b0462b37",
+    "id": "e1f34e86-9aef-47be-89d4-5b4ad5ad4a8e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #53)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -638,11 +638,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0ca0e14b-f002-460e-8847-38bca77668aa",
+    "id": "432e435d-82a8-4333-b928-e32d41d4b1be",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #54)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -650,11 +650,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dde454ab-1703-45e1-98a8-7bafb9e1e9e5",
+    "id": "b14b5247-254e-4882-9d0f-0363700d7e1d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #55)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -662,11 +662,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d6a2003d-c068-4a2e-8bb9-a8f599e50bbc",
+    "id": "a794e1fe-b157-4803-a544-dce7ca54d80e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #56)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -674,11 +674,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a391fd45-d114-4541-8af4-93403d120601",
+    "id": "e485f167-9f11-4773-ae7b-19e3fea764c3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #57)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -686,11 +686,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6f135914-5102-4177-9b6d-d66698bbee32",
+    "id": "df1aa243-191b-461a-9ca3-8df8fe5df816",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #58)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -698,11 +698,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6d92a914-3c46-43a3-be69-bb4db1a15a1d",
+    "id": "65dcd4da-c7c0-4c4a-b679-c9bfd466a444",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #59)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -710,11 +710,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "76fe3d18-670e-4869-be59-3c4aea5f1720",
+    "id": "7ae99444-5b41-4127-981e-f8cea92e4cbe",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #60)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -722,11 +722,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "438bdab8-8b74-4bb2-a82a-7d4a1098a8b2",
+    "id": "ffd10b51-496a-46c7-87d0-a1fbe6641b99",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #61)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -734,11 +734,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f4108a9d-655c-46d3-99df-bc43337cecb5",
+    "id": "cc2dc3d9-e3a7-454d-8e7e-f54aee8f85ca",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #62)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -746,11 +746,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "042b4329-6cfe-47c6-b7f7-2c8fa7186f6e",
+    "id": "a833638f-83bf-434f-bdb4-95f72a13d388",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #63)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -758,11 +758,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7fd2a732-0242-4c2c-a44b-c44786c263a9",
+    "id": "0f18127e-c40b-4772-a344-3289cb9a85a4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #64)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -770,11 +770,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "cc4c23ea-4e5b-4a4c-8ab0-50a0004c3489",
+    "id": "3b13dc79-a1db-4dcd-8547-1efb9092c316",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #65)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -782,11 +782,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "33a526fa-c64d-4e57-9011-2b8e9a7a1603",
+    "id": "be4e378b-1132-4ebd-827f-043985c7ab15",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #66)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -794,11 +794,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3b7d3cfd-9065-4496-a25e-6a7c109a2776",
+    "id": "80b05444-247b-43ff-a29d-8deaf90f5fb5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #67)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -806,11 +806,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a0af16ee-152a-4567-8c2a-797b4e81501f",
+    "id": "aa77ffcc-8ed8-4848-a580-1fef437569b4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #68)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -818,11 +818,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d565d283-a91f-4fe8-ba17-c79d09e6372c",
+    "id": "e3555843-1fa4-450c-99f4-6c64377c65db",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #69)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -830,11 +830,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e814ad55-1335-4bd5-8cfa-7afd5bb1a9d1",
+    "id": "7bdb6b99-9287-4b77-984f-85885181251a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #70)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -842,11 +842,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4f98f1c9-c259-41c1-94eb-413653b59f2d",
+    "id": "96320e02-eea8-4c03-8168-3a6568907d7f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #71)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -854,11 +854,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ddfa473b-9409-4e24-8588-2d3a3628dd5b",
+    "id": "ae6727dc-0d45-45fe-96db-3fd11fc5a346",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #72)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -866,11 +866,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3136e613-5008-4a51-87f3-93505e7cf78c",
+    "id": "d31c3f59-d7c5-4080-a5e2-d7e9604231b6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #73)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -878,11 +878,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "906ab8a3-2489-4455-a9f3-407f4026872e",
+    "id": "4c6a6a01-62f7-488b-86f5-37e498cc0b25",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #74)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -890,11 +890,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4b17a1f0-5489-4f99-87c0-f99f88cf0c4a",
+    "id": "ed5fdb39-b1d6-4cf5-9923-56e955930a25",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #75)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -902,11 +902,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c4bb0681-63fa-4fa7-b808-6ac2c883904e",
+    "id": "e92be24b-c00b-45ff-a2fd-c1f86dc1a03b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #76)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -914,11 +914,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fe83e223-c39c-4fab-b6ce-1fadefcbca67",
+    "id": "8ab6e4bb-5ea1-4932-8412-cd27826da259",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #77)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -926,11 +926,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c8f1c5d2-32fc-4326-9c38-d3b548efc920",
+    "id": "ce1b40fa-6968-4b64-8af0-b1c9b8bdbc95",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #78)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -938,11 +938,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b42052c8-1acd-4a3e-8850-bf1ea877322d",
+    "id": "e7b47289-9825-43ca-9d67-6e6d377bf98b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #79)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -950,11 +950,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b09d18ce-a151-44f8-a3a4-7e6398d7552a",
+    "id": "321a3666-aa69-481b-bd19-933301d5ce15",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #80)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -962,11 +962,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2b63c8f3-2596-440e-a2ee-0f0654a4d1f9",
+    "id": "27b3e2d3-78b9-4704-92f3-2218169338ca",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #81)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -974,11 +974,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bde80b7b-78f3-4a39-a7c4-d17f00927294",
+    "id": "7391d657-c20f-4da1-bdf1-963ca228d872",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #82)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -986,11 +986,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c7f81a3b-ef3b-4f60-a7b0-123b60653a85",
+    "id": "4cc7a4c2-67b5-44b1-adad-8506ec744b97",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #83)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -998,11 +998,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "cefce091-88a1-4d58-9bc4-952a1d02b2b8",
+    "id": "8216b3cb-280a-4c22-8a0a-d774d4327a63",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #84)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1010,11 +1010,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1c708d15-fe60-440c-a9fd-f844b796a270",
+    "id": "c7dde300-0bec-45ca-9c36-1b3063694970",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #85)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1022,11 +1022,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3f5723fc-9288-4605-8516-07b0241e037b",
+    "id": "8128a531-7b51-4480-a2e4-04d7654c996a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #86)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1034,11 +1034,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6c5f8dbb-a8fd-4b66-a5f1-f7239b0e8e6b",
+    "id": "6763c2fa-9c11-4873-bdd2-0dd8747392dd",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #87)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1046,11 +1046,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "887b2c9e-7043-4076-95dd-cecb3ee3a378",
+    "id": "930a27ec-c879-4496-9359-79af83a2221e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #88)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1058,11 +1058,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6d3cd49a-305c-48be-a391-2960d353c79d",
+    "id": "95f73919-775d-4365-a880-f11bc76097c5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #89)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1070,11 +1070,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2bca865c-ba1d-45a9-a4f7-7ff4f5de9f70",
+    "id": "6f38f81b-dfb0-45db-82a5-3a9bd27fa4c8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #90)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1082,11 +1082,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3fc283c5-a43e-4a22-8015-a780cb356f98",
+    "id": "ca4fbcb1-6c51-4c90-92f1-473802ed3587",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #91)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1094,11 +1094,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e39f863a-1fb8-48ad-b334-2f2cdfde8ddc",
+    "id": "6cf3a0fe-d9c8-4314-926d-85e70cd113ef",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #92)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1106,11 +1106,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7730d49f-0ab3-4efa-ba85-59908ebd094b",
+    "id": "f6150eaa-e87f-45cf-935b-899956601f8e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #93)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1118,11 +1118,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fda61fcd-0dec-4e89-870f-76698b04cd5a",
+    "id": "97ec5218-20ca-4661-9781-0e7aac556681",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #94)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1130,11 +1130,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4ed64731-93de-48ec-bf7a-5223400b2598",
+    "id": "e8df8a4b-7745-4183-8863-23237b63d863",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #95)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1142,11 +1142,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6f4fe5cb-e5d5-4c88-ab0f-eaf18bb4a28f",
+    "id": "fe303b93-2857-46a7-ae58-67dfec5d3272",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #96)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1154,11 +1154,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fffa7dd7-8963-45ea-876c-c95492542754",
+    "id": "dd39c307-e0be-4886-9143-cee21e623b0e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #97)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1166,11 +1166,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "45edce40-997d-4825-8916-d246da03fcfc",
+    "id": "2ce49916-e910-49e3-b55d-1fa75ce01621",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #98)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1178,11 +1178,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bba9a99e-f0ac-410b-bcf1-318bfaa179b7",
+    "id": "70cb3319-260a-48e3-a41b-5928826020f9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #99)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1190,11 +1190,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6bb40240-61fb-4f14-828e-94de95acd983",
+    "id": "efafaab5-c653-4406-a4aa-2c34dca5866f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #100)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1202,11 +1202,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "586acaa9-fd4b-48b9-8f71-58acba16950c",
+    "id": "42744816-633b-4a68-8ed9-54e14fd3e8a8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #101)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1214,11 +1214,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "36dc98a6-58fa-412f-aca2-55a0a0d95a40",
+    "id": "9fbe8257-3809-448d-bb0d-84194db57672",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #102)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1226,11 +1226,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a589b151-b30b-453f-a6ac-4396a1b53147",
+    "id": "bcbf19e9-4411-48a2-8c4d-7c9e21670d9e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #103)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1238,11 +1238,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a792592b-0c7e-413c-8686-152225518fc1",
+    "id": "b7540438-aaca-47af-8bf7-6723f3a58841",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #104)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1250,11 +1250,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "45d005b9-10b3-4a56-972f-bcdaefe2c455",
+    "id": "d601dd69-ea80-4860-9521-8ebfdf474971",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #105)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1262,11 +1262,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "77878430-a7e8-48b4-a068-163c7192f3c1",
+    "id": "6ad291fb-9714-4e58-a2f4-6c2c0c026be6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #106)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1274,11 +1274,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ce25adbc-efa2-4443-80fa-ead6ee0dcde2",
+    "id": "1f26a8b6-ef15-4352-bc36-8622607d9993",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #107)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1286,11 +1286,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b72d5875-07d1-43ed-abf0-b607de39fa8d",
+    "id": "77c71b15-5694-4ec1-892a-e5f794c1e9a7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #108)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1298,11 +1298,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8eca177e-ba30-4bb8-98b3-0a6f5e03750b",
+    "id": "fa9b5c91-15a3-43db-a2b3-ab8181e6f4b4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #109)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1310,11 +1310,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5e65d740-7c3d-41a2-9580-49ace7329070",
+    "id": "7575f4cb-4cf8-4ce9-93d5-42480abd0f74",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #110)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1322,11 +1322,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "cede0303-c23a-48aa-980a-adfc0dda2cf0",
+    "id": "e8ebcd7c-8165-4b50-b7d6-f46655d4e057",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #111)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1334,11 +1334,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "296c3c7e-a547-4b56-bfcb-7000afca4ec6",
+    "id": "1e8c58c1-9fcd-4eed-b8b7-091fa6102a9f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #112)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1346,11 +1346,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a632fcbf-4f55-4ad5-82c3-5a9ccb58552f",
+    "id": "5a6ecbb9-0882-475b-8fca-fa873fb0f23d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #113)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1358,11 +1358,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e7b72b5e-28cc-4d65-a38f-aa569680f3f2",
+    "id": "b5e91ab8-c642-4fe1-ae32-3843747510f0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #114)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1370,11 +1370,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3ca28c5a-8888-4890-9c3d-abe0158d3cc6",
+    "id": "94b64bac-1e44-4f74-a6e6-39fcf495e2df",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #115)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1382,11 +1382,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "75f71ac9-71b0-4e40-a771-ce57e31e1eba",
+    "id": "3ae975a1-8ad7-4e41-ae37-46d7ad57072b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #116)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1394,11 +1394,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1fc69327-ff9b-4405-be35-cc28880d9303",
+    "id": "f3e1ce7c-c1e9-4ef6-8673-23448ec5f201",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #117)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1406,11 +1406,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a611e0c8-a8e9-4c9e-aef3-fd1f6acd0446",
+    "id": "c9cdd286-d897-4608-a741-d78c83777faa",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #118)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1418,11 +1418,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a3fd38d2-d669-4c7b-8514-7e1c269d9954",
+    "id": "aaa37e0f-d342-42a0-977a-760f52368449",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #119)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1430,11 +1430,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "59ffbe8c-4810-47fc-895b-525f0429600e",
+    "id": "b7d76f50-01eb-45c6-8694-65a3e0c8f5c9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #120)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1442,11 +1442,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a3e0030f-4095-4b73-8a26-508e96601a78",
+    "id": "cdec44d6-371b-4f38-b310-c3b0485e71a6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #121)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1454,11 +1454,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a49a3d33-39b7-43fe-baf0-1183e3f7aa9f",
+    "id": "6578a5e8-01d3-4e2c-880c-a04d79b4cf46",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #122)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1466,11 +1466,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e219c5a3-0453-443f-81e7-b348e2071fab",
+    "id": "ca3f82e1-83e6-44be-b084-1823e5982bec",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #123)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1478,11 +1478,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "95f09b65-b08a-460d-8bc3-81b446ff28f8",
+    "id": "52008ed8-cacf-4830-92fe-4ac252927c8f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #124)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1490,11 +1490,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "45d6922f-128f-421f-9282-db3611446387",
+    "id": "457be766-8d7f-4acb-a3b3-e187bb607134",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #125)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1502,11 +1502,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "51e22c97-4e0e-48c5-ac3c-db0ba99564af",
+    "id": "8f46cb5a-b45a-496e-91b2-bc0c2d5ec3f4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #126)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1514,11 +1514,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "21687d66-a632-4598-b41c-129787351b90",
+    "id": "abf7dc20-12f4-42e1-9ebd-ff1f8e65e2a5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #127)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1526,11 +1526,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2e8de29e-dd4a-48ad-bb33-0320ba879ac3",
+    "id": "5109db13-5b3a-42c4-ad53-63e4e7342448",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #128)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1538,11 +1538,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c2495b4e-f65b-44ab-a87e-df982b43fd27",
+    "id": "5336e858-bf4b-43f5-9af9-ceed258faeb9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #129)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1550,11 +1550,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3b1f53aa-0ad0-4e25-9d48-6a28d513dda4",
+    "id": "5c8d59a9-635a-43e2-987b-4c0b454fbf60",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #130)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1562,11 +1562,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6f571fd7-e915-4f08-951e-12a166f78c95",
+    "id": "9f86377e-b000-497d-b417-180282d0d320",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #131)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1574,11 +1574,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3c0ca8f4-2618-402f-acb4-185f4e03655a",
+    "id": "f9529f10-57b3-49df-9951-0a1387ca181a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #132)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1586,11 +1586,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "74c18249-e159-4575-a96a-f377c22536ce",
+    "id": "3a439b48-9855-4bf8-8d61-4c0d53b1e16a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #133)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1598,11 +1598,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "acfa6801-cb47-4ea7-bad9-6ed19f1a161f",
+    "id": "0815909d-ebf9-4856-a4ef-155315bcef4e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #134)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1610,11 +1610,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "122a4322-b380-4d78-9620-297cf0b3e901",
+    "id": "6789f0a3-4918-4a50-aa9c-5c0a1cc75621",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #135)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1622,11 +1622,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f9c0ecd5-ec56-4dab-b560-819d6ddfcd41",
+    "id": "93e13cd7-961c-49c7-a8e8-6884aada7f5d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #136)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1634,11 +1634,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5efda7f8-7da4-4879-a864-4342c69a4da4",
+    "id": "8467e80a-9ea4-46cb-9fb7-b726bdb57d77",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #137)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1646,11 +1646,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d5066628-fd15-4105-8e92-b2ee12175b2e",
+    "id": "fb0a9f41-d4bf-4bd8-8ba9-ee1d4dd38103",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #138)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1658,11 +1658,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ca2fa8af-9b19-47ce-b434-a4b5f05c5948",
+    "id": "ef1ea884-4b75-414b-8a1d-235b3aa62274",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #139)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1670,11 +1670,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "98092266-c373-499d-b794-f33f1c885fad",
+    "id": "21f25721-34a7-4b5a-acdf-724ae4f8b1ba",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #140)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1682,11 +1682,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "293b3bd6-47c5-422b-be7f-343300801856",
+    "id": "f44dfe2e-0235-4963-b749-88ce1dae4cce",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #141)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1694,11 +1694,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "325dc1f6-19c2-4eef-9cde-f81c6b5c8f05",
+    "id": "f5690a79-fada-4167-8e3b-4d926b1ec093",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #142)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1706,11 +1706,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "23234ada-4c5e-4020-8d03-1c49409982cd",
+    "id": "24f359d6-895f-42b4-a8bb-3371f99b85ff",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #143)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1718,11 +1718,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "86516e0e-505f-4d39-849e-11a3c578943a",
+    "id": "c56c28b8-f036-412f-b4ce-d75ed991cfb6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #144)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1730,11 +1730,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1bd52880-f7f1-4beb-8445-c2c51546678e",
+    "id": "2b140d24-27df-461d-b29f-18ebf20ee125",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #145)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1742,11 +1742,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "47e59109-f3e3-4699-85c6-cc73e48a01b1",
+    "id": "e64135f6-e785-413c-9109-49cf8234cf1f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #146)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1754,11 +1754,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e4169a1c-b21d-4eef-ac52-75bc0428cc48",
+    "id": "92354476-fb9f-4e21-a3d1-5bb0b94ebc31",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #147)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1766,11 +1766,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "276b0ea2-f149-4cfd-b60a-3c1295973d65",
+    "id": "79a01d36-3279-4dbe-916b-5ba269ac272b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #148)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1778,11 +1778,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b12ff164-c382-4e98-8621-db89f6f7ea00",
+    "id": "a2164247-497d-4419-9177-2510caef51f7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #149)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1790,11 +1790,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0fcc4b29-2fda-4608-86d0-0a78c1d8f516",
+    "id": "38257d17-0b25-48ca-9bc4-c8dadf80cb0e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #150)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1802,11 +1802,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3cc7a0c9-e191-4a71-ad73-b97a9f79b331",
+    "id": "90c62c21-de30-49a4-b033-4b6e14cb2ecb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #151)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1814,11 +1814,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dda61726-24c9-473e-86a0-b74f5bd4ec7f",
+    "id": "90608721-9360-4d40-8917-811b155fc15b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #152)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1826,11 +1826,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "531225f1-9746-4473-8292-72a57129bbbe",
+    "id": "ec420c5a-e1d4-4c0f-bd89-81a761e6adaf",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #153)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1838,11 +1838,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dce8c3ad-cb0d-4f86-bc31-2b886c7a94f4",
+    "id": "e428dc00-9690-4a2f-9d38-9b0d9e31c120",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #154)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1850,11 +1850,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7e90c5c2-c1ed-4ae2-bb66-73a8cb40fddd",
+    "id": "361c7e16-9f6d-4be5-ac5b-e3ec0c4985ec",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #155)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1862,11 +1862,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fed821a3-6d7a-4307-89a0-1443fb70a4be",
+    "id": "0bfb44e6-e422-44e4-bb6b-6ba941dadddd",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #156)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1874,11 +1874,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0d418ac3-d4db-4414-84ab-0c40242783d1",
+    "id": "697c7480-c570-4a6d-beda-a7978129fa54",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #157)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1886,11 +1886,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "500bd0a5-4565-457b-baab-ee4114d549b4",
+    "id": "7a75f124-305b-4873-a9fd-61775950f955",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #158)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1898,11 +1898,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9a3cae3c-0197-4725-99f1-8268efcbec01",
+    "id": "0549d891-637f-476d-a612-5baa15e04fba",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #159)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1910,11 +1910,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1392edce-9da7-4059-9384-350432e8b7ec",
+    "id": "65ca53f9-a8c0-41c2-beeb-84cde787caee",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #160)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1922,11 +1922,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bee68976-7872-451d-b23d-15678e348135",
+    "id": "8f1739fb-4686-43a2-9aff-e69a3849ae6c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #161)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1934,11 +1934,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ee5c68fd-8ae5-4b31-9047-a178f9a95dc9",
+    "id": "974b3ac4-e319-4d14-b3ed-7242ea10cd32",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #162)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1946,11 +1946,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c6445eee-fc39-40e7-a662-44eeec774b14",
+    "id": "35915237-8f69-4935-9f49-3df88288f160",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #163)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1958,11 +1958,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "17d8d3ca-685e-401c-9d43-89948a2bbe57",
+    "id": "47c596ba-1b96-470c-a402-18c3c0645d7c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #164)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1970,11 +1970,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "06024635-ed45-4acf-95b6-2deb4b60ab95",
+    "id": "fd798df7-ed30-4b19-9d82-04c46d2da00a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #165)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1982,11 +1982,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7857f75e-d0fe-4596-beb3-e7b092ff7c47",
+    "id": "193a3cee-e9b8-47e8-9010-e00bc40c6397",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #166)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1994,11 +1994,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dba1df8c-3803-4d3e-a1c8-99702e3109ed",
+    "id": "409b0669-8d3d-4894-8629-b3b1b7f196c4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #167)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2006,11 +2006,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b487c791-0349-4eda-9e1d-2135252169e0",
+    "id": "0c00a9e6-35c0-4f1f-8327-3b52d16a0b33",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #168)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2018,11 +2018,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b134e23c-d6a8-4d35-a074-d1a5fab689dc",
+    "id": "06c05582-1d12-406b-b5a3-12b20a093091",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #169)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2030,11 +2030,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "08155e3d-ab00-4be7-8753-ad8ba84b93e3",
+    "id": "6e234dec-e7dd-44d4-b03a-2a8ef4c048c4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #170)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2042,11 +2042,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "227cd6cd-b8d4-42d8-8fd2-456c27c34826",
+    "id": "ec966bc7-0f43-447f-9a13-06a04971ef8c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #171)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2054,11 +2054,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "19f1837d-2f53-4857-9cf5-0bece5dc917d",
+    "id": "5809decc-e8e8-4268-b363-3fb0b0c6c4c8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #172)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2066,11 +2066,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "35ac162a-7f99-4f87-9f53-c685743d0031",
+    "id": "76a7855e-10f0-45cb-a9ac-80dcbc9b4439",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #173)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2078,11 +2078,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "900c639e-b612-4942-bfa8-4ed90ca1be48",
+    "id": "dc6cc843-cbb4-46c8-89c5-655c4a362a03",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #174)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2090,11 +2090,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7ae224eb-1b90-4b72-aff4-0aef92a2df2b",
+    "id": "d09af74a-29be-4658-9c9c-0e4ede497d9a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #175)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2102,11 +2102,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d07478ab-b01f-4ceb-8ed7-8dc2aecc2294",
+    "id": "a47c88b0-629e-4f2e-8037-e831dc29cd2e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #176)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2114,11 +2114,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "94b761f3-2ce1-477b-b3dd-0085e66ccd8f",
+    "id": "c7d5ff95-9669-4499-a7ba-f98ab19c2335",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #177)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2126,11 +2126,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "cf14bb08-9312-4982-b860-aed3f4fb35fd",
+    "id": "a6690c16-6991-439d-819b-d072b4cdedf0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #178)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2138,11 +2138,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c196572d-19b1-4844-8bda-3500b38125b8",
+    "id": "8e0ca38f-231c-4ac9-92ac-49caa9ec11e7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #179)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2150,11 +2150,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "489d5159-2747-4bc1-8883-d11218c42148",
+    "id": "5fc5883b-57f1-42d1-99bb-30820ea02ee0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #180)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2162,11 +2162,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0d7c0f44-3f54-4bf3-b587-224c0a611c5e",
+    "id": "bbd2f3dd-d959-4ecb-887d-acbc2ce01ca6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #181)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2174,11 +2174,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7142a675-850a-4384-8e58-c77b3391c280",
+    "id": "ed9af99f-dba7-47de-a799-f95a9425bb4a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #182)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2186,11 +2186,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8097bc75-085d-464e-8966-ece6628064b3",
+    "id": "b55b5e4f-b5b9-4e78-b2ff-abe711d382ff",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #183)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2198,11 +2198,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "907dab89-9faa-4622-9669-51658ba1314c",
+    "id": "3de070ad-a52a-4345-a74d-1ecdf530f2a2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #184)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2210,11 +2210,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "82fe7c3f-9ee3-45a4-9fec-e0b37b80d873",
+    "id": "4aa21430-8b00-4b3b-a92c-b4d65b54e189",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #185)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2222,11 +2222,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b75069c6-5192-4377-8e45-6c1ce9ed5d38",
+    "id": "a28c91c8-5a85-450a-bc6b-d11eba9707eb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #186)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2234,11 +2234,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8603f3ae-198d-4be5-8ad8-c0a9450c4d8c",
+    "id": "b0cf2624-df12-4909-8312-049ff818bb4d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #187)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2246,11 +2246,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "482d000d-9cf5-47d7-aa08-f6101b84156f",
+    "id": "80493d67-76ba-4300-8673-c1c812948fb1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #188)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2258,11 +2258,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "df4d5aae-0ab8-4d2e-81cc-bf095f153a8b",
+    "id": "bfbd2bd5-f32c-4c6f-80b0-a4b5e1ec6685",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #189)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2270,11 +2270,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "943f0f9b-64f3-48bc-a9c4-87cfbcf2d835",
+    "id": "144efdc1-6418-4731-877b-827519dcaf01",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #190)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2282,11 +2282,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8e23e8b5-2bc5-46b2-baa2-61be9a93a884",
+    "id": "26fb47b7-79e5-4a24-acef-3c4d05e7c938",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #191)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2294,11 +2294,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a976cb5c-29cd-490c-86da-8fb70ee6c902",
+    "id": "18c2b357-4b2e-404b-b2b2-44320975191a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #192)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2306,11 +2306,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9a1863ea-343d-4193-9403-3b3b536c9cb5",
+    "id": "74d2c615-9f85-4c70-bb7d-1429f5472df8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #193)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2318,11 +2318,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "65f8df9d-3311-451e-bad8-77bb3ad0fc86",
+    "id": "eb6e98f8-ebd5-42ab-bdae-52853289e12f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #194)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2330,11 +2330,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f4bfbacc-9a2c-4543-b6db-59f97eb2bddc",
+    "id": "84fbfc4a-3cdf-49dd-9ca7-13bdad8e6324",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #195)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2342,11 +2342,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "72d70777-dd56-412b-89a0-e45c332bde93",
+    "id": "bf6917cc-0bc5-48e7-afc3-f2f8a57499a1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #196)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2354,11 +2354,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4399257b-2da6-4fa2-86c1-26834a816de2",
+    "id": "509ae283-5430-4918-970e-97ec2ba5b06f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #197)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2366,11 +2366,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "04d819e4-f4eb-4243-aa85-743ebda941c1",
+    "id": "901c2188-7fb1-41e4-b79f-5e52eeeae7b4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #198)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2378,11 +2378,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d5b50b83-8ad5-4774-b8e6-f6a4eb4818e2",
+    "id": "a510e0f3-ae51-4b4f-91ab-6d78a79df6fc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #199)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2390,11 +2390,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f50bb69a-5fcd-413e-8852-e66e12effd6a",
+    "id": "d9198300-db7a-4ba6-a6f1-96b875ce8827",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #200)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2402,11 +2402,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6883c2ca-1303-4789-82e8-5587f59b40e9",
+    "id": "93193321-7c2d-4c2b-b041-cbd36ea4f967",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #201)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2414,11 +2414,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "97123437-8189-485f-9e41-78489a981057",
+    "id": "4117604a-2104-4eb1-b5a5-27941dee43c7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #202)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2426,11 +2426,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ca039261-817e-4ff5-8302-a5381329b9d1",
+    "id": "83d8edb4-6db4-498a-8071-d09c4e34adbe",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #203)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2438,11 +2438,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d2a7ce2a-4bb5-4c77-969f-d8ef6d333b53",
+    "id": "4e42e526-4640-41f0-a3b3-a3f3dcf8ae63",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #204)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2450,11 +2450,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "830a2ce1-f0be-4e0d-b9f9-5d225b3c54e3",
+    "id": "dc55e869-9edd-489e-bdc4-c1f03a5a04d0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #205)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2462,11 +2462,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a9bf253c-2e92-4761-bfbf-71c7a3de7867",
+    "id": "e8c5c0d8-140a-4b67-b7ed-83092b5bce72",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #206)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2474,11 +2474,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "74ef5a34-0a37-495c-81cb-86a468dc68b7",
+    "id": "8ddd1017-8f10-484f-a583-9a6e602e7590",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #207)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2486,11 +2486,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1e076af7-b32d-4d55-bf15-da8d353b9e2c",
+    "id": "f509a3f9-e318-40e9-80de-ab7c7fa5ea34",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #208)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2498,11 +2498,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f10f96ba-caea-44b1-939e-daaa8359e989",
+    "id": "adbc7f14-9b43-4bfb-a913-5be85f361c01",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #209)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2510,11 +2510,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f73a53f2-b329-416d-ae4e-c2125003e935",
+    "id": "48d52c56-8004-4cd7-b7e5-1c47e8b2a97e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #210)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2522,11 +2522,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "73c504a9-4dee-40f8-bddf-50c7e1bd8c3b",
+    "id": "a8cec82f-081a-49da-b565-4cd0b2a93a35",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #211)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2534,11 +2534,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3f68a4d8-59cc-413c-bed4-79d55169c8cf",
+    "id": "91fdec8b-243a-44d7-9c68-77e4a336030a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #212)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2546,11 +2546,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8a65fb92-c962-464b-bd1e-4b4285e97790",
+    "id": "96fd9663-5cdf-4f07-848c-bea2e184185a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #213)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2558,11 +2558,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6c1b807b-c4f4-445c-a07e-311f98fdf06d",
+    "id": "15e83c3e-f35b-430b-9504-3cf0857fab41",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #214)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2570,11 +2570,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "63086293-785d-4f70-929d-26e99633496a",
+    "id": "5e9f757f-fc76-4e1e-ae94-842fe6676089",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #215)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2582,11 +2582,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ef351589-90ab-4681-8d0e-69f36f3317af",
+    "id": "72833e6c-c1ca-4e57-8c2d-3a0fe021fbae",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #216)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2594,11 +2594,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "15932b2d-35f3-423a-a51c-66cd8816cb5e",
+    "id": "467c0d3b-68b3-48dc-b6e7-19c6a1e6b15b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #217)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2606,11 +2606,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "36914bb4-8a6d-476d-9c42-909729b38e13",
+    "id": "e1ea4ea9-3fca-4149-a4eb-fee40f314083",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #218)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2618,11 +2618,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fef8d967-8676-4be3-aedf-f4a67332fad5",
+    "id": "ae58baf6-6679-4e2d-9936-c9df0125927f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #219)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2630,11 +2630,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "eef4e5cf-cc7b-47da-845c-8b1ec274f7a0",
+    "id": "c8bd68a6-3cfa-4f7a-8300-3d1ab7981eeb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #220)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2642,11 +2642,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2d4018ac-9d1f-452e-afec-f0fb7da235f8",
+    "id": "c130236b-c3a1-41fa-8f2b-06f657ffddd4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #221)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2654,11 +2654,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3d49b2e1-efbb-47c4-93c2-575b68bdd447",
+    "id": "69fccb83-0d36-4463-9dc9-1a5b9ba479bd",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #222)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2666,11 +2666,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fcc80227-eb37-4e69-af96-c576dab1705d",
+    "id": "b05fa205-078e-49f0-9261-5ce7df19de8c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #223)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2678,11 +2678,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a13d98ab-8692-4580-805e-9d82d4736f61",
+    "id": "ce0b18da-287c-4605-8103-a5c7730c270b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #224)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2690,11 +2690,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d1690cd1-33ab-4af0-8df1-92176e6212df",
+    "id": "afdf152d-1275-42d8-9ebc-c3bde3043a84",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #225)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2702,11 +2702,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4219767f-c0c6-40d5-bb22-a8789b47d9a5",
+    "id": "bb10af73-40b8-4439-928f-4dd544ee9f59",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #226)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2714,11 +2714,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "287b46d2-87b5-43d5-acff-59a1d5a9c355",
+    "id": "9be70a2f-bd9c-473a-86c2-1b3bf0b22401",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #227)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2726,11 +2726,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "14553e33-c9cc-4cff-ac66-be46f4427c2e",
+    "id": "74c162a9-5d2c-432f-b88c-8b75a1d92be2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #228)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2738,11 +2738,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "329281a4-64a1-4ffc-a635-3e8560026c56",
+    "id": "5f90de91-75f5-4d35-a19f-c1dc9c815bdc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #229)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2750,11 +2750,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6ef99e53-6b4c-461e-af93-16c83e5d1b6e",
+    "id": "b5acc9c0-5655-44a1-a48a-bd9134e3b0f7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #230)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2762,11 +2762,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "de311984-c09c-4b4f-b54f-0cfea899cbd5",
+    "id": "0b280020-6ad3-49cd-8dd0-244807ba0b37",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #231)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2774,11 +2774,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5b023c65-cc64-48d2-8d87-df569bb9a091",
+    "id": "6554f650-6c66-48e6-87c2-ec040c29a861",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #232)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2786,11 +2786,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ab05d731-5c5b-4783-b96d-200d32d76dc1",
+    "id": "87dbc164-3f1d-416d-b23a-49eaf16bae72",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #233)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2798,11 +2798,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c4ea26d1-128e-48dc-b8dd-c99f45f5eb39",
+    "id": "566d330b-a32b-4962-a9e4-7bd48a86fa45",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #234)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2810,11 +2810,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "abd69398-15d0-4d68-b928-88d08c8fa59d",
+    "id": "d0be80e1-9fb3-4951-b715-a07814aaa6fc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #235)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2822,11 +2822,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "31f133ee-cb9d-4f37-b410-961eadfaba56",
+    "id": "098bd521-40e0-4543-8693-9889a39b3a6b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #236)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2834,11 +2834,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b25f3199-0dfe-4136-8cd3-b3a326f35ad2",
+    "id": "a3853581-e1e1-4f4f-af5b-9f0b4081d48d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #237)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2846,11 +2846,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fa549c73-1fae-46ab-a5f4-195469769d30",
+    "id": "b6c44a78-a54a-4644-a7d5-26f6e7280934",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #238)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2858,11 +2858,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "85b7d6ce-2e33-42d9-a643-dc4239b2f09a",
+    "id": "227a2ac6-69cb-41db-8b81-a554590a1d56",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #239)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2870,11 +2870,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b6a633be-693a-45e6-9574-635f06ab9f0a",
+    "id": "8d60362f-8af5-4e16-b96c-28e4473b2984",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #240)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2882,11 +2882,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "af2c66e5-9238-4277-b3ec-4dd6ec4a93ec",
+    "id": "6872e214-6213-46ed-b65e-e9957db49e27",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #241)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2894,11 +2894,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "235c6178-0cd6-4abb-a2d3-6ec20f42a449",
+    "id": "8e07c41d-ca5f-4b31-a08d-4d9c16665b83",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #242)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2906,11 +2906,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3e589dbf-e63d-473a-a9d6-fc54f35ef836",
+    "id": "8b5d3015-0627-447b-a813-7cbe7e02ec50",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #243)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2918,11 +2918,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "af1ad830-3913-4e7c-8704-acfc3bc60caa",
+    "id": "2d19fd91-48df-418d-a010-b40b72408839",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #244)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2930,11 +2930,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dbfd6c64-e58b-4584-bd82-60a89ba0d0c8",
+    "id": "570e12df-8916-4d5e-93ae-bc4301275ed0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #245)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2942,11 +2942,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "12457246-6f77-44f3-9bc0-702c8bef218f",
+    "id": "03f0246c-889c-4d13-b10d-693f359d177a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #246)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2954,11 +2954,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b3058880-a6f8-4a38-a8e1-1f9a8c95e95a",
+    "id": "4a9dc668-3cd1-433e-83e4-13334ccfb195",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #247)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2966,11 +2966,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9526086a-9a4f-4a6a-8ee1-bd075c78602b",
+    "id": "848ec104-b037-4914-baf9-f1fea2eb8626",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #248)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2978,11 +2978,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "84b89726-659f-449e-8eef-27f7aed8a775",
+    "id": "e4cfa6d3-3765-4fe3-a5ab-ad331faa7e40",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #249)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2990,11 +2990,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "51d13265-2c0f-41cc-b6b5-2f8707932014",
+    "id": "2cf2276a-d503-4634-b305-4fb85b46655f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #250)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3002,11 +3002,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "013ca579-cc29-4419-a4c2-4108df0e55c8",
+    "id": "1e8d7dcf-4e18-434e-a4d4-e5504cefba8b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #251)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3014,11 +3014,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b9a68a31-a639-4628-8437-f5d25f3a29e0",
+    "id": "c873d153-f9e2-4646-8715-600e78133576",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #252)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3026,11 +3026,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7746ee38-9f37-40be-8480-ba89e901810b",
+    "id": "d84c52cf-c7b0-48dc-ba98-630121e21cb9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #253)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3038,11 +3038,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dd9ad524-2a43-4d70-9a75-79e774a4320d",
+    "id": "fb3f7335-4ffb-4004-8705-aaba61fe519d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #254)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3050,11 +3050,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ee45f2f0-f6c3-4c08-9f86-0407022cba03",
+    "id": "ae3ad0ba-3a57-4954-b062-823780e0e24d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #255)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3062,11 +3062,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9e8f50f7-0a02-49fd-83db-959f11412127",
+    "id": "f5846ad4-c6a8-4265-9ca3-5abc9ed105a6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #256)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3074,11 +3074,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3d55c85d-4f9d-4abd-8b86-e484549ed60f",
+    "id": "8c20d784-22b4-43c9-95eb-fe7d3a28d0cb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #257)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3086,11 +3086,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1ad38ce0-3959-4b0c-a54e-643d3b211335",
+    "id": "4da0fd7f-3f43-44c2-a527-53f9b2425abe",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #258)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3098,11 +3098,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a8d6a811-536a-4f19-9b81-1c642d2da810",
+    "id": "624fe675-b6c6-4249-82b3-b55923202356",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #259)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3110,11 +3110,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6abe8e75-db82-4007-bb0b-ade1ece9e251",
+    "id": "2f849001-6a04-4cc2-94ef-e40f57b51a20",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #260)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3122,11 +3122,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ac3c0fb9-1c11-4da5-828d-41436f6e341f",
+    "id": "73ca179b-785d-4393-91fe-add767e54fbb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #261)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3134,11 +3134,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "adafcf16-35d0-4c91-a383-f0fe77ac6bfc",
+    "id": "f4eea8f4-8407-44bb-bbf2-3411021dcb82",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #262)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3146,11 +3146,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3f795ab8-5c83-4b9d-8e92-9833aa4cc4c9",
+    "id": "a259b0b6-fb0c-45a2-938e-fa903af7ab93",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #263)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3158,11 +3158,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2644c6a6-5acf-44c2-8828-200f44e4ccc4",
+    "id": "e487d5e1-7d91-4fdc-bee9-13ee9d39c26e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #264)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3170,11 +3170,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "52e2c9ae-8262-416c-84d9-9c5747b7fe2f",
+    "id": "bf0ba426-032d-4561-8df2-423334bc7acb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #265)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3182,11 +3182,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1f6f132a-7d5c-4dfb-aea1-6c069ce1227e",
+    "id": "47c6e34b-7db0-4426-8449-56e2e78e24ef",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #266)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3194,11 +3194,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4af60894-b1f4-47d3-b0c3-20001342cd7b",
+    "id": "53fa37c5-ada3-4158-91a2-4fb544bce802",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #267)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3206,11 +3206,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b7721a9f-c4a6-4b38-9b74-0e1d4f507f63",
+    "id": "23de77c4-a01f-47f1-bba8-31d09b89e688",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #268)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3218,11 +3218,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "31ea43bc-8570-4efa-8e9c-7733de59b84c",
+    "id": "c8702b18-3e6e-43c6-bd91-f630494753b1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #269)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3230,11 +3230,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ec29b8a8-1158-4b35-bd8c-8eeaa8dac41a",
+    "id": "cb743142-fb32-43e7-b306-5b4959e95826",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #270)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3242,11 +3242,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0e505954-7bae-4f0d-8aae-b46871aebe3b",
+    "id": "500245bf-b92d-4db9-98a3-4b49984c8dbf",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #271)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3254,11 +3254,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fe93cfc8-75ad-434c-aedf-cf3a0e5b96d7",
+    "id": "71a0186e-c2c5-436a-ac58-96f22228f6c5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #272)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3266,11 +3266,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2cf13716-b9f0-4d5d-8175-0fb9d376598d",
+    "id": "746219bc-a714-48e1-a8c3-e43caeba7ccb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #273)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3278,11 +3278,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "89732978-396b-43e5-adb9-70adf52b9adf",
+    "id": "3496593d-c2d1-490b-b6e8-52372759d54b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #274)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3290,11 +3290,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2c37a95c-8644-4fc6-a2b9-4d2d088535b7",
+    "id": "9a5da4ee-9a8d-471c-b307-bf60a00a3f64",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #275)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3302,11 +3302,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2efeff72-056f-47b6-86dc-c8db60baac7c",
+    "id": "ec8d128d-497a-4e02-8411-c1d404257ab7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #276)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3314,11 +3314,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d01c1709-eec9-4fd8-a2fb-2a020ebd3991",
+    "id": "d3f17212-5448-471d-a9e8-089c06aba202",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #277)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3326,11 +3326,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7437e0b9-ada8-4476-9399-4e3a77cf3414",
+    "id": "0f58c78d-fe97-4cee-b778-feaaf7b604a3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #278)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3338,11 +3338,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "18173186-aeda-4ec2-8eca-f2f9c4ac441c",
+    "id": "5765ac7b-8af3-4211-9b58-af33307966ef",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #279)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3350,11 +3350,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "942d4694-eaf0-4dce-b91f-7b4b7eef340b",
+    "id": "84099952-5445-4462-8a63-32d1fef3bd09",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #280)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3362,11 +3362,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fd6aad64-209e-4584-a8d4-d7a509bbdf55",
+    "id": "41c7bb7e-e00a-4ba5-857c-e915263da27b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #281)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3374,11 +3374,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "eb9430f5-d209-4753-9c1e-fcbd1f73f26a",
+    "id": "7416367b-8b72-4a5b-ab9b-3f06e3349456",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #282)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3386,11 +3386,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2107ed5c-9e43-4ef0-92a2-fac8307b0ddb",
+    "id": "2683ce98-3def-41a5-83fe-f0f1be9e79c3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #283)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3398,11 +3398,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "53cf0dd3-d83b-4f21-a208-b05988064718",
+    "id": "e085dcce-ac9f-4041-b4bd-cf5f6da45658",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #284)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3410,11 +3410,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "132f1fb9-9b21-46d0-8195-21e84b02863c",
+    "id": "7040a795-b78d-430a-9954-c3b936035090",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #285)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3422,11 +3422,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "77a88e02-9957-47e4-96d4-cde7810ff6f0",
+    "id": "eeb1cbb3-18e5-435c-9f66-c19844a64ab8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #286)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3434,11 +3434,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bcdaf5a5-13fb-4d98-88d7-68aa32185547",
+    "id": "56f02872-2a7a-4285-b2c7-bb751a99c7e2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #287)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3446,11 +3446,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3cf90826-b511-4926-8c30-006462cd225e",
+    "id": "df79a560-e020-4ed7-98ed-9e7f5240c917",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #288)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3458,11 +3458,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6cce8a5d-873e-4d16-b342-4ca73559acf7",
+    "id": "d8be361c-baaa-4b2f-9aa8-b7cc72e5171b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #289)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3470,11 +3470,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "46ad1a84-0c54-4d94-a6cc-4aff9ad7d77e",
+    "id": "41813acd-eedd-42ea-9ccb-0338f7329233",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #290)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3482,11 +3482,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7d590645-0b0c-45c5-b95b-6450810f8b5f",
+    "id": "87ecd1f4-3f18-4081-83ef-61db388fc605",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #291)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3494,11 +3494,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4a9f662c-d7b9-4f84-ac69-15901cef3ed5",
+    "id": "be050f30-286f-490e-ad50-1e81dc937e79",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #292)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3506,11 +3506,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c1531b0c-5cbf-400c-95bf-7abcb2df96be",
+    "id": "71ccf9d4-dd54-48d1-88cc-55e9e46b5195",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #293)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3518,11 +3518,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d59f2901-2986-4c83-8f58-2e7ccc507a69",
+    "id": "a169a408-873a-4d3b-9417-53ea636c20d5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #294)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3530,11 +3530,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "61833df4-f7f9-4f90-901e-f9429ab8e9e0",
+    "id": "ac88eb67-0029-4f89-aad1-163eb4e5fe0f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #295)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3542,11 +3542,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fe35ec34-7f76-4628-8780-904b37d49097",
+    "id": "4ac423e6-65bf-42a0-9b1a-72014921052b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #296)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3554,11 +3554,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "34318d55-f29f-4583-a155-359d01cf439b",
+    "id": "e53ed750-27b0-4b1b-a22f-a1d14757b0c3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #297)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3566,11 +3566,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3cb639a6-5ae1-466f-ade5-167402f1ebfa",
+    "id": "d8b1dde9-bfbc-4862-9763-f0198ed8ae1b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #298)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3578,11 +3578,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "eda8065f-d2e1-42ea-8797-66e88fe65c30",
+    "id": "75f81eaa-660b-445d-9543-582bf76ab361",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #299)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3590,11 +3590,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9a00ecc3-c874-48af-a348-108ac88262d5",
+    "id": "1e22f816-39dc-4c61-87e3-1a8f8b0a6eaa",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #300)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3602,11 +3602,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "26aed139-2736-4351-af76-73565396427c",
+    "id": "30c0e5c3-1bbc-4e2b-b17a-2cdbb2dceadf",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #301)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3614,11 +3614,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ae509528-85ce-4eb4-b288-9e96bebc4b18",
+    "id": "60a57461-19ec-4218-9a0f-9201e1e5bdd5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #302)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3626,11 +3626,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ebc3576e-0ecc-4ea7-8eda-4a6230583bb4",
+    "id": "742a9b65-ed66-4ced-b906-830ddcf11b94",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #303)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3638,11 +3638,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "40ea6099-5e18-460a-a515-7f393c3d8834",
+    "id": "b44d7917-83fd-47d7-9892-cf1631d091b7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #304)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3650,11 +3650,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "51c0eaa5-00f9-4827-b05c-daaec8b0730e",
+    "id": "a3ed3eda-986f-4ea1-92ec-a8698a523b21",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #305)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3662,11 +3662,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "57d5ae37-11b9-4a70-8f40-b7c0acdd7bd2",
+    "id": "6e395ea2-e82a-4e54-84f1-3340fd92f706",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #306)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3674,11 +3674,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "693a8168-a63e-46c4-9323-0928e8d3c021",
+    "id": "c49d0cc6-559b-46b1-86c6-f73bf40c72f8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #307)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3686,11 +3686,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "01bf5e7e-87b4-42a8-9085-14625a7da97f",
+    "id": "18027d76-6233-43a3-ba37-b2ffb3046f05",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #308)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3698,11 +3698,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d4db94c5-b83e-4bb9-a157-4dfbed937841",
+    "id": "61f7355c-e560-4d08-b76d-f5a0ab406144",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #309)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3710,11 +3710,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "744ff999-01ac-48fb-8c36-9b49596c796b",
+    "id": "bc4c986e-f6d5-4239-8dca-2aac02903e63",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #310)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3722,11 +3722,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c90c42c7-388e-4d57-aa9e-69d9f1a4cd1a",
+    "id": "547f97d2-c9f6-4cf6-8ee6-9b4d84e76d28",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #311)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3734,11 +3734,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ed021cd0-7a98-4e7f-8f01-4ac4744cf6b7",
+    "id": "afc0a7cd-7bfd-4406-8ea8-b23b6a56b498",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #312)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3746,11 +3746,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6b0208fe-c68e-46a6-b459-d6c04c60f1d1",
+    "id": "50c619b3-8620-4b08-aeb4-6c2d26152225",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #313)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3758,11 +3758,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ddca494d-d6f8-4c2b-b757-af740883a1de",
+    "id": "89961d50-ddd4-4f63-ac0e-72e6a56b61a7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #314)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3770,11 +3770,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "51cfdae7-ef19-4304-9b45-46363ff84f52",
+    "id": "f80882b6-7a08-4424-9e8c-1ecc27c7ac50",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #315)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3782,11 +3782,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ef41e70e-1b9d-40f8-af2d-398391224132",
+    "id": "31360328-ed7a-49e9-ad01-d3b65419e71b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #316)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3794,11 +3794,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e87ad89a-3e61-484c-975c-8435a44e0c4f",
+    "id": "4a9f39b9-6be1-413c-8e34-997810ecfbde",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #317)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3806,11 +3806,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "81dcf691-b1fd-4eb8-873d-48537550bb02",
+    "id": "a3219738-1135-4312-b7b7-635b7849a00a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #318)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3818,11 +3818,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bb972d47-041a-4ad4-bcf6-14a27dfeaa8d",
+    "id": "8b8a87ee-3577-4c90-a072-e3f9029cd6e2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #319)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3830,11 +3830,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "661a4401-aa91-4fd8-b6c3-6c5708bbbf0e",
+    "id": "777289c8-719f-4b54-b193-74e9327051c0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #320)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3842,11 +3842,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6597d78b-f450-4c70-8c44-d16edd8e7975",
+    "id": "b17847ef-3f2d-4f38-ac46-efb53f9cb351",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #321)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3854,11 +3854,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ff5b09bb-22cb-4512-8b47-bbf8432858da",
+    "id": "679e9bff-c033-4908-84e8-f1c87bdca075",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #322)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3866,11 +3866,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2fb31fad-45aa-4b88-a7ab-3a0e91871940",
+    "id": "e421f25c-44ca-4ddb-949d-767ca7279ad7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #323)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3878,11 +3878,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "98dbd5d5-a7cf-453b-8ae1-89e50751f896",
+    "id": "18a2d618-bdf2-4639-80a9-9da5136a51d3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #324)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3890,11 +3890,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7f7be040-2050-41bc-8692-b55795150b5b",
+    "id": "c319757b-7245-4e91-b0ca-3542c99c2907",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #325)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3902,11 +3902,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f18263f4-295c-44e9-ae1f-6fb73a48ce07",
+    "id": "9f8ff635-4d0e-4804-8908-7df3737c2dc3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #326)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3914,11 +3914,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4dd20b7c-903a-478e-8ccc-9a9d16126a3e",
+    "id": "2c0bb4d0-591e-47f9-a855-51f2bb8215f2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #327)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3926,11 +3926,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "521bbeaa-786c-4fb3-9650-87278e6fac43",
+    "id": "f48db8f0-22b3-4ba7-ba5f-eaa79476d183",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #328)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3938,11 +3938,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8f56fb1c-7775-4b6c-b4b7-2735123746ab",
+    "id": "4e93a070-646b-4e41-b3db-35f759b2b250",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #329)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3950,11 +3950,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d753a9cc-3a6d-4518-af35-f1b57ac397d8",
+    "id": "945c2b1f-faad-439f-939e-a91d9196a055",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #330)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3962,11 +3962,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b498cd31-5f4b-4f9e-bc1d-8369b325bc1a",
+    "id": "00fbf665-8057-49c6-aabf-aa82046b8e93",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #331)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3974,11 +3974,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0e04457f-800a-4f68-914a-6964b33ec2df",
+    "id": "b4ffbf7d-b844-4b62-9a95-16e5c2f545d2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #332)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3986,11 +3986,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "de996ffe-f987-4b48-81f2-a8aa35aac0eb",
+    "id": "307cd216-139f-4fa0-a992-d6348f328054",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #333)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3998,11 +3998,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ab72e864-daad-4385-b211-904d65267b2d",
+    "id": "816c1499-7ba4-49eb-a7f3-f0b4ce4d929c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #334)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4010,11 +4010,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "90868ce0-00b2-4ad8-a34a-564b6335bb1c",
+    "id": "42eb09bc-7c45-4614-93db-57416c3595cc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #335)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4022,11 +4022,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "34a572fc-f41c-4671-a370-689e339b5c01",
+    "id": "85458b53-548f-42b8-8729-4362cf3c6000",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #336)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4034,11 +4034,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "77e09be0-bd68-4b58-a469-2a38b892f003",
+    "id": "adaee01d-c5e2-47ca-87f2-4678ec6f981d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #337)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4046,11 +4046,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0bff7ba9-1e43-45ac-9afd-f5309cc3bde9",
+    "id": "0b88ec72-722e-4f50-a6ce-73a6b67fcd46",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #338)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4058,11 +4058,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6223d856-fe12-4ed7-8ed0-d1c14a4a49c2",
+    "id": "517175d7-e8db-42bb-bf58-351a62a1e14d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #339)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4070,11 +4070,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ed678e2f-c0c1-4c10-9584-16b1bb54d887",
+    "id": "cd923f22-a6e9-4a39-b913-ef13167d15c2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #340)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4082,11 +4082,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9db46e62-bddb-456f-b9fd-6a4bc99ee192",
+    "id": "34314a1e-1388-48e5-b5bc-1caa73e514eb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #341)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4094,11 +4094,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "65b6590e-cb0d-4ce8-9d6e-0e0adab5b7cb",
+    "id": "e03f6902-e3dc-487b-b85e-6e223b7c2e47",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #342)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4106,11 +4106,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e110bbf6-9d58-43ad-9654-8612fe02fa92",
+    "id": "6a6c2e0d-7e49-4851-8398-8bddd1175c21",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #343)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4118,11 +4118,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4945ade6-9352-4995-88d4-14edc20cbf12",
+    "id": "b03e300b-b6c6-423e-af16-172c85c8c9cb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #344)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4130,11 +4130,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a2cba7ca-d96e-45c9-9daf-6f288e5954b3",
+    "id": "2d3998e4-06a4-45ae-9dc2-6e6391277b78",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #345)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4142,11 +4142,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f18ed9c7-9f0e-4cba-b792-2055f6f4c838",
+    "id": "08ab0789-aa15-48f5-951f-f42f88ab0e70",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #346)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4154,11 +4154,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e862bcc7-224b-4965-a860-fb77594f8039",
+    "id": "b1434ef4-2fdb-4f1e-818c-e8f1da5f39bd",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #347)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4166,11 +4166,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "820533eb-f029-4cca-bafc-d1c792497feb",
+    "id": "eeb4af63-d9d7-490d-ab6c-45e30552eec5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #348)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4178,11 +4178,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "56bd7123-f0b0-4c31-8084-b49c63a6faf5",
+    "id": "7d95bce3-af67-4145-a67d-fa0d8db52bff",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #349)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4190,11 +4190,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a92e046a-bce0-478c-9c0e-aa2757aee281",
+    "id": "f8599f4a-dece-46f6-a7a0-b5b775394c4e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #350)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4202,11 +4202,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "70eac343-56fa-46b1-b89c-f6f9d4297fe3",
+    "id": "ae81ee88-b055-49a6-a35d-27126ff4e443",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #351)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4214,11 +4214,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "558e0b0c-346d-4e58-b91e-f1adf34eaa3e",
+    "id": "06ad836f-c4c5-44ef-a30d-4ba12f9ccc8d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #352)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4226,11 +4226,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3030e279-f5e1-44bb-beba-43bd8d1444fb",
+    "id": "d7067da3-6a28-47e9-9331-6374259ca892",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #353)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4238,11 +4238,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "cf9b678e-587d-4ba5-9b75-a915f4d1921f",
+    "id": "2f9f0ff9-eaf3-4e8b-a6b2-955f5a42b764",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #354)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4250,11 +4250,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c5dd5c2d-e784-424f-8139-07b7439626a1",
+    "id": "62747da4-4c1e-45a7-afab-f538829822a9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #355)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4262,11 +4262,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1dae9766-1d28-4a32-9991-8ae80af59e73",
+    "id": "8787bafe-b478-49a0-8556-5314d6ec89f6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #356)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4274,11 +4274,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "956547ca-c7cd-4f88-8a56-cf683ba2160e",
+    "id": "e85db374-fa9d-45d4-b407-8c27ba69ff8d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #357)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4286,11 +4286,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f2849af9-625e-487b-9e7e-61bd995d0749",
+    "id": "16e62a9c-477a-4472-aea4-4dc6914fc3a9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #358)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4298,11 +4298,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "08bf6c85-f43a-4bd8-b5cf-2a94b6371883",
+    "id": "6e3239e7-7a5c-448c-b666-8d88acb331f3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #359)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4310,11 +4310,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b18c6be0-f011-4fcf-bbdf-8f2bfda7497e",
+    "id": "cbc704bf-f065-4ab9-838d-604e157a9813",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #360)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4322,11 +4322,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1e65a1de-a410-412d-b07d-c76c8fdfc6b9",
+    "id": "4c5c2c1e-cd1e-4339-b228-78639728f308",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #361)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4334,11 +4334,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5819972d-17e2-42f2-8c0d-5b464ec4ddf1",
+    "id": "d43abe7b-4398-42f4-8ea0-7ad1bb6de167",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #362)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4346,11 +4346,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f42f6c82-6024-4789-b5b5-fd9782ba049c",
+    "id": "9280673b-557f-4cd5-a99a-19f026d29154",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #363)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4358,11 +4358,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b3635af5-5b74-433f-a2ec-836a7ad36acc",
+    "id": "d1dcf5a6-352e-4840-b56d-a222f1681846",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #364)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4370,11 +4370,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a958d5bd-9b58-486b-abff-9b45321fdf9d",
+    "id": "cba31e1b-b3c7-4b5b-8275-dad987399bbb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #365)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4382,11 +4382,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "45eb1368-9b66-47bf-ba31-6a221d8c8d48",
+    "id": "78563954-7807-4da5-b330-76557bbe1e56",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #366)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4394,11 +4394,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "12e3f2f4-7cdd-4f3a-8ee4-1c0458097c4c",
+    "id": "0297f30f-ab09-473a-911e-172e07b6b829",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #367)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4406,11 +4406,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "57d2cb13-6d5f-4aa8-8a31-24623aeb9cbe",
+    "id": "0a2309a4-5959-4a19-8a1d-850e5973a228",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #368)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4418,11 +4418,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6d978a5f-f2cf-4db4-920b-12144f6b11fd",
+    "id": "04ecc752-1d7a-4e46-b2ae-f88657cd7842",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #369)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4430,11 +4430,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ab9a49d8-d1f3-4a32-b2f3-76d98c2fa1b9",
+    "id": "9cca6ea4-5787-4c07-af4d-ab7c61da0c1a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #370)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4442,11 +4442,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fe3f30f2-99e3-40b8-9b5a-06dc988942c8",
+    "id": "33f79285-1711-43d6-860c-6582cbf60fa3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #371)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4454,11 +4454,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d3c3895a-7df0-4472-a953-489425d7bbad",
+    "id": "7311bb07-aba3-46d9-81f7-c2263c428614",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #372)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4466,11 +4466,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bacb4b3e-bba7-4f65-af0a-3f05c3e0db38",
+    "id": "adf4a67d-3c50-4903-9fcb-096ed6230568",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #373)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4478,11 +4478,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "25e20b52-90f8-4e4b-83f5-d668ee1c86f5",
+    "id": "bf326cda-6ba4-427d-a0c2-6ecbead13e97",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #374)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4490,11 +4490,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b21389f4-96a9-4efc-9f4c-586a46f29657",
+    "id": "545c1885-d06b-4919-b10a-09c4f1d1b0d0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #375)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4502,11 +4502,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8a4bfd46-6afd-43a8-8681-e826fb8d878b",
+    "id": "0d38fc49-beac-4ec8-863e-0a22de01e135",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #376)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4514,11 +4514,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "67fda024-dc44-40cb-9f8e-cf6571517fde",
+    "id": "f332184c-7e73-431f-ba12-0103f8120a86",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #377)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4526,11 +4526,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "81c33678-e893-437c-9522-0e878b4dddc1",
+    "id": "a0b09d1e-03c7-444a-a9ec-66ee56cafde8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #378)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4538,11 +4538,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5cc2c0db-9769-4c53-a5c1-35d5204cfcdc",
+    "id": "2021b548-46bf-43b6-9962-ea6caac43c4f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #379)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4550,11 +4550,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ed04566b-fc4b-442b-88b0-b715ff72db1f",
+    "id": "520f45ad-bc8b-4d3f-8861-c42934d497da",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #380)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4562,11 +4562,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7105167c-a8a0-4b4c-af5c-207401124f8f",
+    "id": "8c0dae10-9992-4d85-b1ee-5d5819acb5b8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #381)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4574,11 +4574,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "77e90908-957c-4c5a-939f-d05edc1abbd3",
+    "id": "0707ad18-794f-4a86-a7cd-4c3425b99423",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #382)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4586,11 +4586,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dcba6034-d538-4c0b-aefe-e26094459b78",
+    "id": "d5522f91-885c-4b10-9a4b-46b2befcc568",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #383)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4598,11 +4598,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3a585e05-a0b7-4781-989a-8cc9c71ae019",
+    "id": "790820c5-10d2-4ab0-9fcc-e0da6991870c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #384)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4610,11 +4610,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "76a2bc81-6554-4406-9e83-fc68c08b9e0f",
+    "id": "354865d5-0972-4fd3-9eb0-ea2a67bd1067",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #385)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4622,11 +4622,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3d363bd5-31a1-4e5e-94da-098218afb78e",
+    "id": "16dfee1f-7a23-4cd3-a558-fe3d1179013f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #386)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4634,11 +4634,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a7de52a5-6c42-455a-a7ae-12dfa960fa76",
+    "id": "627713e4-09b1-462d-858d-1f07dfbba913",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #387)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4646,11 +4646,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d39729cf-1eec-4efe-8d94-ba52f57e5ea2",
+    "id": "158cf4ce-390a-4d43-a59f-e0a0b927bfb5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #388)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4658,11 +4658,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "24fade14-98d9-471c-9831-931356db843b",
+    "id": "5549e4d2-6080-4680-9b00-f5ba7590c388",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #389)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4670,11 +4670,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "192e3968-d21d-45d6-97b3-9818f2c89369",
+    "id": "a56540c9-452f-4c84-a6b3-47ee11a569bf",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #390)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4682,11 +4682,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2a1d7437-2252-42cd-ab76-32ff07ecd3bb",
+    "id": "bdb20a55-4a46-4362-97b3-353fc8923dff",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #391)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4694,11 +4694,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e960b49c-5c56-46ab-b275-7434a88c7537",
+    "id": "97bacc9c-2ad7-43de-915c-e1cbf81a97bf",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #392)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4706,11 +4706,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3bd54d6c-8017-4b7e-9070-37b49a4e8741",
+    "id": "08ae9d8c-f78a-4171-9204-7cf4a106b79a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #393)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4718,11 +4718,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6c3022b8-554c-402e-a0d1-0539144c77d4",
+    "id": "4573663f-095b-4fb6-9744-ce971374c545",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #394)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4730,11 +4730,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b4a1b6c4-9045-402a-a048-ab12632422c8",
+    "id": "a73fe41b-a897-4487-9aa1-4bacf78bb19e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #395)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4742,11 +4742,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4490ef1d-cec1-44ac-937d-2e70a45c8308",
+    "id": "f1f3501e-685c-460a-9138-f4225b1ee5d2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #396)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4754,11 +4754,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "cfd8e4e4-97c5-4248-89fc-c65774a9b88b",
+    "id": "a8dbff37-0d77-4849-a0ee-055ad01c72ca",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #397)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4766,11 +4766,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bc0080c6-ce28-4807-9b78-7af9f5aa97ed",
+    "id": "4eb82174-44f8-4a5d-bf5e-abb643cb6c02",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #398)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4778,11 +4778,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "10062aa9-274b-4353-ba0b-c202d2cb84b6",
+    "id": "cd85b106-0838-4beb-a17c-b85cf16c65e5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #399)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4790,11 +4790,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0f961037-853d-4f81-9e02-d2fba2206a29",
+    "id": "4d02c339-0f5c-40ca-b635-28220c9b6eeb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #400)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4802,11 +4802,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "305b5e57-5758-4a7c-91c1-340fc6151717",
+    "id": "dca54ff7-5631-482e-9b2b-1c6d11dd29ff",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #401)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4814,11 +4814,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c2f877a5-01f3-4aff-84ba-b75562076e44",
+    "id": "a6dfe926-c222-4695-9295-d012fd21382a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #402)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4826,11 +4826,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2ed25d52-0bdb-4d09-be97-f003ccc5cee5",
+    "id": "9ca67045-b839-4763-822c-ecf8f7247799",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #403)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4838,11 +4838,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "46849c37-b4da-4476-a7fd-32bc520bc342",
+    "id": "db115061-e443-45fa-9bc0-b65f8c87495c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #404)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4850,11 +4850,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fca278fd-a168-4a26-a66f-ab50dca9d84a",
+    "id": "77cf0f25-3100-4bd2-9cde-215f3ce5458a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #405)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4862,11 +4862,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "18195e56-a7ff-42bd-8faa-d772e23f467a",
+    "id": "a16a25dc-6643-4ac6-8cf8-fb01ca67d397",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #406)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4874,11 +4874,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0f12a10f-268b-45b8-98ed-645d2e01caf4",
+    "id": "4f76eb73-afb2-4ca5-9d16-6d294b2e46b4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #407)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4886,11 +4886,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6416ded7-b2af-4701-966d-1fd10f11ca6f",
+    "id": "89b36d6a-934b-4a65-a10a-083088470673",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #408)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4898,11 +4898,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "16c394c6-1c25-4ffb-a48f-fbb18ac62ad9",
+    "id": "78351c82-edc9-4371-9f23-1fbe2176ff08",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #409)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4910,11 +4910,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e533424e-9644-4a95-85b9-5285a887e952",
+    "id": "b4ec1c06-81b8-4c2b-9923-c97ee7c621d5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #410)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4922,11 +4922,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a94ca321-c960-487d-b7b0-eac59d1ad072",
+    "id": "72e60fa3-abc3-4fec-8789-4f744ec3d690",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #411)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4934,11 +4934,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7de0c5da-5607-415f-ad4a-1c1971f393eb",
+    "id": "ac252346-5ef6-4b1b-b5ea-a4ec508c5bfe",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #412)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4946,11 +4946,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6b10aca4-8d97-4e13-bd6f-c7ee634eaea4",
+    "id": "bebd26b7-e6c3-4f3d-8e67-1c9491adc029",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #413)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4958,11 +4958,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "cf525ce3-16c2-43be-8b56-34d8573bde5c",
+    "id": "dc48e9c0-fb10-4ed0-9ed0-fe628394689a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #414)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4970,11 +4970,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "eecf8d84-3f19-4506-8fe5-46f09b127547",
+    "id": "b3a5a057-9710-492f-b55d-f1b34ef2edec",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #415)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4982,11 +4982,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "17748209-846c-417c-bd10-656ba8694b2c",
+    "id": "03ed2b06-5692-4ba3-ad5f-9d4698381d40",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #416)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4994,11 +4994,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "06b82fd0-7631-4535-89ba-772201558d61",
+    "id": "c5ef1cdf-b2ba-406e-98c0-2a563c016d22",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #417)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5006,11 +5006,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "707330bb-34e3-4156-b791-26ff430b39a1",
+    "id": "a5e9e199-e045-4d73-8444-f613cce6198c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #418)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5018,11 +5018,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dc88d18d-bdab-436a-a095-4304221bc5a4",
+    "id": "dd4184e3-abe5-4a1b-95ad-de69fa7fcb08",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #419)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5030,11 +5030,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d32cb9dc-b922-4624-9423-3559d2f91e35",
+    "id": "2a4d22ac-10ff-43dd-8c80-24b446d6c835",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #420)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5042,11 +5042,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "11a8a78a-1368-4039-a064-ecb93feeed87",
+    "id": "e31c5835-172f-4ccd-8e10-334f75423baf",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #421)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5054,11 +5054,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9c74deca-eebf-4996-830c-c503eb0a8001",
+    "id": "ae96e23a-c82a-4852-aa26-775fc94e9556",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #422)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5066,11 +5066,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "91fb49ab-7efa-4715-92de-51b57932d2b6",
+    "id": "88f466f8-855b-47b8-b799-ad9dd4a4eea0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #423)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5078,11 +5078,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "060426f2-d0d9-4042-a517-8704204f8d18",
+    "id": "2ae6babf-ee26-4754-b83d-7e807dd0e5c4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #424)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5090,11 +5090,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "77322431-b112-4e85-9c12-4b4ef83233e9",
+    "id": "276bb9d8-370c-44bd-ade1-b47adc3be156",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #425)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5102,11 +5102,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5ac8d2f8-6b4b-48e8-b844-9a0d33229377",
+    "id": "83e72ed6-9d03-48d4-8e2a-a1713a408e7e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #426)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5114,11 +5114,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "01505ec1-6e71-4bcd-ba2a-512a9ac36d08",
+    "id": "edf9c4ec-4400-4fec-a6b2-2df0d01b3c24",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #427)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5126,11 +5126,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9e22e836-31c1-426b-b2a9-153e88406f3e",
+    "id": "6bf3adda-a975-4fa6-a533-2d1cb3373976",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #428)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5138,11 +5138,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "65053243-9ef9-49f7-b259-5e8e94e543d5",
+    "id": "8a7665fc-7bee-43fa-aed7-5b82c3327af6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #429)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5150,11 +5150,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "73feef7c-1563-43e0-92fd-6e58454fd9d7",
+    "id": "3df710f4-0895-4d4a-a5ad-cbc07ac4c5cc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #430)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5162,11 +5162,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "35fc435d-5621-4b8f-a9af-1508721ae090",
+    "id": "d0145d0f-29c6-4f8e-9118-0365f4a99b73",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #431)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5174,11 +5174,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a86c1f3f-4a8f-48bb-bbe6-5792b7c53778",
+    "id": "fb77e209-0b5d-4081-a911-2e8e92ca846b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #432)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5186,11 +5186,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "809f76e2-409f-40a1-ba5c-f27c616f2e04",
+    "id": "97098960-9a72-4114-a668-6e9d0205094b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #433)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5198,11 +5198,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4f8ce6c7-f57a-475a-a730-76a547afac4e",
+    "id": "1f471c05-faff-459e-a116-cced4c4a8b19",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #434)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5210,11 +5210,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6746fd44-c141-4e3a-bf06-55d7b1e10a77",
+    "id": "a7c1f2e2-f5ac-4faf-acb5-c7273d38e988",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #435)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5222,11 +5222,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9d1fc18c-b0c0-43a6-ba0b-f3d448d799b2",
+    "id": "43c0c313-c63a-4a79-9259-8a5affc9dc6d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #436)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5234,11 +5234,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "346f89c9-bb8f-4d83-acd2-cb0a32c31151",
+    "id": "d300208e-d8b4-4ede-a720-5a6ea1f4eb82",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #437)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5246,11 +5246,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7a51ca30-bfbb-49f7-8739-fae5ea1d2cad",
+    "id": "6ccdb453-a201-4bd8-9a2e-154f33367175",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #438)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5258,11 +5258,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d3cae772-6798-4d2b-ad35-dd6843c243b1",
+    "id": "1480e43f-c7d3-4b6d-b99f-1c0fc0eea58b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #439)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5270,11 +5270,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6f173c66-4b9d-40a4-a6fb-26a644f3864a",
+    "id": "cec6a119-03f3-49c9-bbc0-09f3fb69cb10",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #440)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5282,11 +5282,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "990216fc-7348-4102-bacf-c3873b923ba8",
+    "id": "8cdb45c7-3b7a-440b-990d-4a846dfed44e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #441)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5294,11 +5294,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "12c9f940-efc8-4bb0-ae6b-4ecdff3f9ec8",
+    "id": "afe1c9b0-22ca-4f45-813a-2114c4d47f24",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #442)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5306,11 +5306,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "50917804-57c0-4c8d-b9f3-4e194ba2c718",
+    "id": "49c19799-fdc9-4c69-9bb7-c39fbb95f4ff",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #443)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5318,11 +5318,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a52c35bd-dd86-4080-875a-f657be25d1e3",
+    "id": "786854c5-560d-42a3-b942-e9997b84632c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #444)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5330,11 +5330,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dc7b3b7e-ab89-48cb-b275-51063f5a1d67",
+    "id": "5f1461be-6c35-4443-b0d1-2384ffab7fa3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #445)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5342,11 +5342,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "07dbeefd-4168-4f25-82f9-332f6b5d5d05",
+    "id": "c20e9088-c86f-43f7-95be-53c86b197919",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #446)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5354,11 +5354,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "61ea5629-d903-4ec2-8313-69b3d8d8d68d",
+    "id": "a9d2564c-06f0-4f6f-8328-1de256300335",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #447)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5366,11 +5366,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "63dbcf0a-1f3c-4c11-bebe-629bc965242b",
+    "id": "4abaadc0-4da8-47be-a63c-50c75bcd5d7d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #448)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5378,11 +5378,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "cb9c7fd3-6cae-46c8-bda7-cded486c3045",
+    "id": "624126b6-1744-4471-97f3-292b286d217f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #449)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5390,11 +5390,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0afc8521-5735-48af-916d-69e1808c1b3c",
+    "id": "23451d1f-5738-45f4-9f03-0dd656a7a35b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #450)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5402,11 +5402,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "63c9011d-6b0a-46c2-b118-7fa641e61ae7",
+    "id": "9e715937-b873-4bae-8ed3-e8877b3ed163",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #451)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5414,11 +5414,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "beb3270f-f5b5-425c-beb6-986d717bbd99",
+    "id": "c63a10f9-02d5-4818-9663-9c2e24bb558b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #452)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5426,11 +5426,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "75dfe8f5-fc3b-4a82-a94b-f38357697309",
+    "id": "e77881bc-b328-40a7-bd7a-91cb8f7ef455",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #453)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5438,11 +5438,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "20b5e7b3-c733-443e-9e1b-1f421cc880d5",
+    "id": "c9cd2ed5-9a7a-4df4-9558-315d36b9cfa1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #454)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5450,11 +5450,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b4c3f831-a455-4f6e-a44a-5b93f3c40afc",
+    "id": "4d5b7061-b1e5-4c83-8273-276f75b1df00",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #455)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5462,11 +5462,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "676cef74-8e43-4d49-b25e-7585e67ca944",
+    "id": "e3db4d25-d685-4c28-9619-4979dec21448",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #456)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5474,11 +5474,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a49ebd7a-abb6-414c-813d-45456a3ee2fa",
+    "id": "3951264c-429b-4c86-90e9-3642c5e22f4e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #457)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5486,11 +5486,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "cec5ed2d-4db4-4b28-80cc-a04c1c126408",
+    "id": "a4f94e19-6276-4c17-86ca-730509ca9d36",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #458)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5498,11 +5498,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "620cf37c-965d-4802-8607-880dd21fa443",
+    "id": "47531952-5ec6-4cc1-a53d-1c5b6ec1864b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #459)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5510,11 +5510,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "798e5bc4-e561-4f67-af71-1e8078994f4b",
+    "id": "668f0c2b-bf26-436a-9446-9681f5ea078b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #460)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5522,11 +5522,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b51f99ac-a9da-4862-92b3-7df75a0e889b",
+    "id": "0137ce1d-daf0-43ec-aa5c-96e614ba1194",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #461)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5534,11 +5534,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d651f28d-f331-402f-9029-42e42e47cf31",
+    "id": "d591f591-06a5-475a-b4ae-a2491313b9d8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #462)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5546,11 +5546,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8f3ad80f-305f-4470-8ff4-c647501c2f19",
+    "id": "49f5b2d5-e3e5-4483-8180-b074e9dbe86d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #463)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5558,11 +5558,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "775741dd-2cfd-4ea5-8af0-714079ad6441",
+    "id": "6e313410-84dc-40f4-956f-7cec34529aea",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #464)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5570,11 +5570,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e8631cc6-d3d8-4b5b-b01c-40e26c582eab",
+    "id": "db80b32d-29ba-4192-a73c-26095bf52978",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #465)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5582,11 +5582,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f046e7ba-d696-463c-9ae7-e98783b55164",
+    "id": "9a727b3a-3d5a-46ea-9797-9107632409f4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #466)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5594,11 +5594,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4f52930e-df4a-4ae5-afdb-a3716492412f",
+    "id": "85fe1f49-79bd-4881-98b9-36033c60c199",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #467)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5606,11 +5606,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8e4c58a5-053c-4199-b6ab-e280a2117e21",
+    "id": "3c151038-1cfc-46e3-8a4f-f5beef486633",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #468)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5618,11 +5618,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "17d41ef2-4d3d-4c8d-a157-1f7fc8be8c62",
+    "id": "32933556-dd95-4d68-914f-db05e786ba2d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #469)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5630,11 +5630,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9a8ec282-6698-4040-8eec-f2ef5f9e486a",
+    "id": "7f7572bc-f51a-44aa-9ea2-d4e8a4ac1672",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #470)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5642,11 +5642,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "263d2842-9944-438b-a728-3ab2e56eb92c",
+    "id": "7116e515-6320-4981-a75b-31b790905eee",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #471)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5654,11 +5654,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "21085550-7e03-43ec-8e02-3adc05295d0b",
+    "id": "e4e2a978-fe0e-42e7-91fd-201ba574f28e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #472)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5666,11 +5666,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f0d74762-2cb0-4cb8-874d-ef77bd484bee",
+    "id": "3ff366b5-2f94-4b09-99c6-4d0134e6a912",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #473)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5678,11 +5678,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1479931d-146f-4feb-ac89-0b9efeba4762",
+    "id": "331ea36f-fddd-4229-bed8-115040a2ba75",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #474)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5690,11 +5690,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "726b70ee-c61c-4b51-b80c-e1ae974bb4bd",
+    "id": "06488a7d-98f4-4fab-87e2-294761bb4840",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #475)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5702,11 +5702,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f6660384-2fd0-4cc4-8e4d-19d745f6474c",
+    "id": "c67a0fd9-8063-41c8-8037-61bcdc62c658",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #476)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5714,11 +5714,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bed71680-e41d-4860-9479-8fa512242728",
+    "id": "efdfdada-78e6-4043-b3c8-a1dd60d4ac48",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #477)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5726,11 +5726,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "092b5e58-035e-4203-97ef-86d786fe6274",
+    "id": "80b61d40-ad8f-481e-8c5f-0b0035980d8d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #478)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5738,11 +5738,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a8ee963a-cc73-46e5-bb8d-e82b4eac030d",
+    "id": "911b9549-e2f0-41ff-8e59-9e5ee707204c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #479)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5750,11 +5750,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "de6175ce-4044-4b21-af50-d66db00f6af2",
+    "id": "0975d4ef-7e0e-44ba-a6ad-69d7b7d6faa5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #480)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5762,11 +5762,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2193c8ab-f502-4ce8-819b-87b6aabfb9fd",
+    "id": "67276392-7d05-4038-8f24-eb24e036dbb2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #481)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5774,11 +5774,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c371ff63-8683-40d6-9219-83967b0192ab",
+    "id": "4a69bf76-4b13-4a5d-8958-26ce6e6d6b1d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #482)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5786,11 +5786,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8bd2f55f-50f4-4f61-91a6-a068fca24eed",
+    "id": "a2c86a5f-ccc9-4131-b8ba-f4d71132af75",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #483)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5798,11 +5798,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7667b415-f42a-417a-afe7-70abfb63828a",
+    "id": "917a323c-19cf-4b73-98d0-0d1026f7f940",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #484)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5810,11 +5810,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1b5dfc8a-99c6-4623-aba0-82316cba5d12",
+    "id": "11f8c031-eae2-4527-b1f9-315e093c7b12",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #485)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5822,11 +5822,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "336dd5f9-e256-4690-b8f4-4a62c950dfe1",
+    "id": "e5c28ffb-164c-4b76-886e-3496f242965a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #486)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5834,11 +5834,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ae3a24ac-ec08-4086-9e62-4e2b14628305",
+    "id": "cee26d50-22b9-452d-91a9-f0869775fc8f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #487)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5846,11 +5846,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9beecf1e-c394-41a3-9a4d-a71e49d3547e",
+    "id": "852c7fb5-07ff-49e2-aea9-142efa260f5c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #488)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5858,11 +5858,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6f68bf7a-f3e0-473f-a6dc-e00ee8515862",
+    "id": "eb63cb30-a906-440a-bd8c-af6c25a7062c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #489)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5870,11 +5870,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b4e11bc5-1b6a-47b5-a615-071e7dace51d",
+    "id": "9ceb0bbd-6400-4bd3-bff5-ea59592c01b1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #490)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5882,11 +5882,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6a54c5f7-026a-46b4-b972-4739af96232a",
+    "id": "0f1de429-1192-4645-8b93-4c7330fc090a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #491)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5894,11 +5894,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f321fd8a-f0f8-44b0-947c-4ff824726271",
+    "id": "c48ce92f-d538-49e8-886e-dfc5ddefdbac",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #492)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5906,11 +5906,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3a33a68a-a56e-4c0a-aaf8-8f0bd4add30e",
+    "id": "c25f1600-cb8f-4c6c-a8b7-ade5ac586331",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #493)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5918,11 +5918,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2c077736-6700-4892-b3a4-8aa86206c29c",
+    "id": "38553e6c-de82-4de8-9f12-d0f883b02328",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #494)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5930,11 +5930,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "656b595e-cc2d-49c9-93df-afce0ae5850f",
+    "id": "ef8c55d7-044b-417d-8b5a-c8c29b35c22d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #495)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5942,11 +5942,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2e486d16-bcc7-4e39-87b6-cbe713440b52",
+    "id": "6a2a3948-6613-4070-a65b-b494fe3822ed",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #496)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5954,11 +5954,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c1100ca1-dcf9-427e-a544-284178dc0cd3",
+    "id": "554e1530-ef25-474c-ba51-1caa92961ce0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #497)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5966,11 +5966,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e3cf20ff-3dd7-46c7-8e7b-717d3c1061e8",
+    "id": "f6cb3d9e-00c3-4bff-a628-486c91f1ebe8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #498)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5978,11 +5978,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9d9725ce-4956-4152-8ee0-50b610df9037",
+    "id": "7ec5d0d6-96fe-41b5-8721-6ea3e6d0a075",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #499)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5990,11 +5990,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8cba48c3-2860-4456-b900-0000454248e7",
+    "id": "da7dac94-c9fe-49b9-bd77-64559a22052e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #500)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6002,11 +6002,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7c0113e8-edd5-43e4-984f-23b38bc7b880",
+    "id": "d0bed0f1-b252-446f-9f7a-1af6b92a8076",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #501)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6014,11 +6014,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "adb9e211-af82-46e4-b502-681dae162a8c",
+    "id": "2068d110-c635-47d9-ae8d-86a5dcd552f7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #502)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6026,11 +6026,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a41152fe-aace-4954-9616-9528f84b8b98",
+    "id": "33392473-5cc0-4dee-a360-10727daf8823",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #503)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6038,11 +6038,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "47853b02-2720-41d7-b977-53403f771ebf",
+    "id": "09c2667c-f506-4fe2-89f0-e1e7a9c29367",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #504)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6050,11 +6050,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "17654a1c-b467-4b41-af30-43e55bbd4614",
+    "id": "572cc7ad-cb55-47aa-ab1f-d167a8f8e67e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #505)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6062,11 +6062,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0c09d036-98d8-44f3-844f-798a8a77198b",
+    "id": "46fc9e95-e189-407e-bedf-9e940bbe0f8d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #506)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6074,11 +6074,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3e500244-3d21-43a4-8832-0f3c07f575ed",
+    "id": "d3e614b0-94e6-493c-ad18-ff32de4f5a37",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #507)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6086,11 +6086,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7ba75554-b5c5-4b99-acc3-773c14531675",
+    "id": "332ef2f6-5861-4358-bc2d-3ecc04171890",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #508)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6098,11 +6098,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "cbede727-e414-4e51-b6c1-d66947b5eed5",
+    "id": "f19771db-6896-45a4-9448-951f811f8159",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #509)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6110,11 +6110,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e6620b94-27be-4489-a294-074375339f5d",
+    "id": "31a2a398-96a1-4e4e-acd1-05e1a8a12243",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #510)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6122,11 +6122,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a98cdb07-bb18-4ce6-acef-745d37bd5389",
+    "id": "487361e9-1b6f-4b3f-bc19-d8e783aeb746",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #511)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6134,11 +6134,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8a4ca5cb-3bce-4ab5-bdb6-14ac325ddd7e",
+    "id": "be459e72-d385-4095-9835-a8166d464941",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #512)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6146,11 +6146,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9aa954ca-6860-448c-a314-3b5356084522",
+    "id": "306a38c5-4648-412d-9956-8e5f2a8990d7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #513)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6158,11 +6158,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a615072f-1a06-420c-8c77-17c18e27236f",
+    "id": "3acc03b7-6b1d-48d1-9f1d-5c2e91cba905",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #514)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6170,11 +6170,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4fff4c5c-c14f-48de-b0f5-2e178a01450b",
+    "id": "d4238446-0120-4071-ae08-c9e501173c3d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #515)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6182,11 +6182,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9bdc5eaf-04de-44d0-8fdd-f2ae0e26a0e7",
+    "id": "97f299a4-50c3-40ea-a18e-96a8a8dd5d29",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #516)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6194,11 +6194,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bf0ec5e1-ed69-44ea-9b28-849e904be91b",
+    "id": "4e202853-f79e-4820-9921-c79d19733a26",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #517)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6206,11 +6206,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0fc19b6f-7f3d-4c7d-8e6e-89e7cc29a504",
+    "id": "453c01dc-dc3c-4278-a4b9-abc6a15b5a7c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #518)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6218,11 +6218,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "49bd8f5e-af32-4c25-aa31-7fdcda0dc215",
+    "id": "019e6b2c-3549-4174-a7ff-8dd12869a52e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #519)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6230,11 +6230,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d9d543bd-b1eb-439f-b53e-0ffc8b02141b",
+    "id": "949091c3-8ac4-4ef2-a510-ec08bfe6ba2a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #520)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6242,11 +6242,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0c35c8c4-fda2-4980-907b-00fd3845102b",
+    "id": "7bac27ee-434e-4f1c-9b2c-5dcfcba4c544",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #521)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6254,11 +6254,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "22d7c706-a7f5-40f3-b4c7-47549ce830c8",
+    "id": "760020c9-7b60-47cb-b4ba-b16bfa1fba79",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #522)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6266,11 +6266,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e3dc0ffd-7c8b-45da-b490-83036e25d225",
+    "id": "9b4b79ab-ffe5-4849-bf57-9f30fe5ef2b2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #523)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6278,11 +6278,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6e5c56a1-78b7-46ce-9c2e-a7d1ef1aab8e",
+    "id": "e27119c8-0f81-4c7c-8e06-a47d7283487d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #524)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6290,11 +6290,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5b42ebc2-b378-40fe-9549-0cc1ac8081da",
+    "id": "5351702e-289a-42d8-823d-e185a83db38e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #525)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6302,11 +6302,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bd7fa0d2-877a-4923-a81e-95cd27fb8cac",
+    "id": "f518c32e-e76f-4b9f-bb15-f82e3d928695",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #526)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6314,11 +6314,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "abf36e54-148f-42a8-a9f1-62516320d562",
+    "id": "df920268-1da7-444e-a504-891c71a12f84",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #527)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6326,11 +6326,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "12a94601-a6ce-42b9-8ef7-6335f0dacc11",
+    "id": "1318556f-b5aa-4372-925a-bfb3b172b077",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #528)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6338,11 +6338,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "83f9799a-fe9d-403e-8d9c-94ac1034452a",
+    "id": "e2a15106-515f-473c-b97b-f33cd79fdde1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #529)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6350,11 +6350,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "04a6d756-51f7-439b-9680-0d65e8e2ed3e",
+    "id": "d34589c4-b7fb-4010-98d0-74bdc953e5a5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #530)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6362,11 +6362,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8b1259fe-c9b9-47f9-8b3f-54de721eabc8",
+    "id": "96d01fd8-8004-4fea-9ddb-7e86e08cbec0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #531)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6374,11 +6374,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3bd99a41-0242-44fa-8126-4678a75a87f6",
+    "id": "d7ed02a6-c394-4823-b623-8f7b43830837",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #532)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6386,11 +6386,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "440b6cd3-9325-42ae-8a87-2cf53ac0ba97",
+    "id": "dc098e55-ba2e-4909-8cfa-6a53cf65c4e5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #533)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6398,11 +6398,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "01644111-b8e2-4c20-8d3b-6ec5c8b10347",
+    "id": "d6bd1a3f-f07f-492e-88b5-d992f080b691",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #534)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6410,11 +6410,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c27e8d3b-d8b3-4f61-975c-6056ebbbe8fd",
+    "id": "b485382b-3903-4b4a-8de2-af9b80ec4c9f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #535)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6422,11 +6422,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ecab3af3-0205-4aa2-b218-59bc61afc577",
+    "id": "fc084f82-9cc5-412e-ba98-5b50c36fba70",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #536)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6434,11 +6434,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "70334b54-0c23-421f-9ea2-59109d1654d6",
+    "id": "9300c16e-81e1-45c0-b423-a56d3617324e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #537)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6446,11 +6446,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3de697e3-d169-435b-ad9b-5a10d9a63dbe",
+    "id": "8fbfbbc8-a997-4232-ab05-aad97e68efb3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #538)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6458,11 +6458,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a9fcc36e-824b-41a0-bbd9-c2ca969f268a",
+    "id": "c29b6274-2046-4f3f-8919-84bfca35ad8e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #539)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6470,11 +6470,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "633fdc5b-b5c9-43a4-b671-fe595fb8ed7a",
+    "id": "396c3946-dbd8-4ae6-a076-fa01cc91ab10",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #540)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6482,11 +6482,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5e0fcc30-056a-4ebd-82ed-087e0d6126e6",
+    "id": "d1e7309c-9417-4c12-9e8b-944d3244ae73",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #541)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6494,11 +6494,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8dd98f3f-ab7d-44e2-8c75-2feecd92dee8",
+    "id": "5e68f9a8-6a37-4167-930a-011790d58369",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #542)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6506,11 +6506,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f776ef63-cc19-4510-bfa0-66eed95b87d2",
+    "id": "2b7a87c6-45a7-4476-b36c-6074781c792c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #543)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6518,11 +6518,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "15a52e4e-4272-4d90-aaf0-80b2ff1e2578",
+    "id": "f769203a-fb84-4c27-a9ca-d3e4e1a496e6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #544)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6530,11 +6530,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b17fa073-dcd1-447b-a433-77c8fc0cbe72",
+    "id": "f406dd05-39a1-416c-82e4-d9374af3e06a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #545)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6542,11 +6542,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e9529ec9-5386-4669-973a-f9a327692a11",
+    "id": "c4deb4d3-90b0-45f6-b0a2-00420ee0aacd",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #546)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6554,11 +6554,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e123a04f-b693-4a72-97fb-1759cb43ad7f",
+    "id": "b1cc03a3-4ade-44dc-aab0-b78ad5b48f48",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #547)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6566,11 +6566,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d0f3bdf0-3788-4086-bac1-2aec0a4be16d",
+    "id": "ea400df5-80bc-448b-a3d4-a5dda03c5b38",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #548)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6578,11 +6578,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f7ba6250-ffdb-4452-ae27-6b92f9ee8960",
+    "id": "908dab6a-1d5a-416b-bdaa-1daa3d45108f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #549)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6590,11 +6590,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "da20c3b3-5563-43d5-9099-97e46e0e08f4",
+    "id": "bdb22980-4b05-4096-adc5-705de5dcefea",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #550)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6602,11 +6602,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d641fb70-2eec-4ef0-8d5c-39253a7831f5",
+    "id": "9ed4fc62-8fdb-4379-a80f-0d7b6dae7f7e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #551)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6614,11 +6614,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b32a7088-e66b-4ca0-a770-4c21c45fc25a",
+    "id": "d8696d55-9b63-4250-9af0-eb13c21c86a4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #552)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6626,11 +6626,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "64294336-b03a-401c-a23f-5042779a2cb4",
+    "id": "ca2b5dac-f34b-4607-be59-b5c2636e9529",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #553)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6638,11 +6638,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "632f5a74-3282-4c19-bb5e-fecdea901a4a",
+    "id": "0396845b-e1c8-4000-ac8c-348f7b299f0c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #554)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6650,11 +6650,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "33b05888-6f0e-4159-9037-a381185c3563",
+    "id": "b8d7f022-dc57-4e87-9fd1-abec0f5e0b3f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #555)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6662,11 +6662,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f1fbb669-adef-478a-93af-f09939893d1b",
+    "id": "3e3075b7-3e06-4b65-af21-081f5466739f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #556)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6674,11 +6674,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "64b0c2f5-8588-4dfb-bd64-6b307088350a",
+    "id": "b380f241-df63-4d97-99e3-953ca7e77323",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #557)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6686,11 +6686,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "579f21ee-2407-4713-9b53-51ab8e33cbe3",
+    "id": "fe3e10a1-cff4-4868-b387-0768b5dbdf76",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #558)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6698,11 +6698,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3978a641-758d-48d3-a51b-2c2b42f9befd",
+    "id": "49593277-40f5-4336-b6f3-2044332bde51",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #559)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6710,11 +6710,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "45c4a0c0-c955-4321-b2ac-c21e2f80cf7d",
+    "id": "44e53389-41a5-429c-bafa-85b93647052f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #560)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6722,11 +6722,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a83d30aa-4b83-4811-9a9e-ef54251391b1",
+    "id": "2d99b1eb-cd0c-4e60-b3d7-24daae058b87",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #561)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6734,11 +6734,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "357092e3-6649-41e7-8067-d550bc99c69e",
+    "id": "ca5d6d23-d457-4893-b7f7-9fcd93c4eca5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #562)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6746,11 +6746,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "012e1b74-096e-45f0-b591-ee3d14f68f82",
+    "id": "2e59ae42-3ccf-4435-a490-f35cf0bee3c4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #563)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6758,11 +6758,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "96af5b4c-b326-484c-ad38-c7a9d9327c81",
+    "id": "6e02a153-ed60-4ff8-845e-8947a9759f5a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #564)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6770,11 +6770,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a83a4dda-74ee-4a31-961b-001b0f739017",
+    "id": "442a9276-8444-4822-8c22-e6d2c6360c1e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #565)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6782,11 +6782,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "15945323-5959-4267-a857-ce481957f7cb",
+    "id": "b96eee0b-0bf9-4b22-bad0-f04082923369",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #566)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6794,11 +6794,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "59595b54-a9bb-429d-a13d-5af0f17349be",
+    "id": "ac17fad0-dd05-44e0-9d09-fc117b54a98c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #567)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6806,11 +6806,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "eb91894d-2d15-46f8-a372-d90f75ac3311",
+    "id": "7e9a1b95-4998-4273-b109-2154ce6df9e4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #568)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6818,11 +6818,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c3f3e379-8be1-4618-82fa-3b9edfab01b0",
+    "id": "17c342e8-ae4f-4987-8f1a-2fe06cab224b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #569)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6830,11 +6830,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e490e737-3691-47d5-a7dc-ab762fa20a0e",
+    "id": "385224b2-d11f-4662-a887-ccc6d29ba8cc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #570)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6842,11 +6842,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "17228bac-3df3-446d-a4d9-588cdd694037",
+    "id": "8f4c3aed-aa0e-453b-91a8-bc73c2f813fa",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #571)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6854,11 +6854,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "becfb092-726c-4d3a-a32d-7a377230d9b4",
+    "id": "4ad003dc-28a1-4da9-93e2-1b8c2c3a5ad2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #572)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6866,11 +6866,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d3fc767e-c539-4d98-beb2-34010bf01f08",
+    "id": "3d5fa924-1d89-4ba1-8873-926b269d0a60",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #573)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6878,11 +6878,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a0898c5b-f0df-4078-ab0b-0caa6813c260",
+    "id": "054fa047-a31c-4aff-a323-c9634efb9f8e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #574)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6890,11 +6890,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7ededfef-04fc-4981-8ae8-7c9bfbcbaf22",
+    "id": "ef2529af-f6a4-4fd0-8b21-4a153c3776d3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #575)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6902,11 +6902,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f59214c9-1cc6-4cba-ba72-9aabe95119ca",
+    "id": "8dbcc8a2-3d21-42b1-84c5-bcaf54d862cd",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #576)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6914,11 +6914,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "19471548-acb5-4135-a341-7e02c0bf7626",
+    "id": "b321bcc9-2379-473c-b884-ed9ee764a3ac",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #577)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6926,11 +6926,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c60153b8-93f1-435a-aaf4-c1663a07845f",
+    "id": "ff97e305-80da-4d11-bfa5-d4d7737de0c4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #578)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6938,11 +6938,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f40b4230-fa6f-4d63-bc5e-d23372716ef9",
+    "id": "c4ef1fd2-1cb8-4b10-909e-458d8dbc31d7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #579)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6950,11 +6950,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5b8a9b65-d582-4801-9650-301584c0f5b5",
+    "id": "af628d56-430b-4be4-8ccd-99442ab098d8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #580)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6962,11 +6962,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "106786a5-e1b2-4c57-8dd3-3cdc6370e827",
+    "id": "22457df3-0ad0-440c-918a-9835b9d330ed",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #581)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6974,11 +6974,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3ef32be0-7f9d-49fc-a977-d087bc8d8773",
+    "id": "706650de-48ec-4fa4-a0e6-1475d56e32f1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #582)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6986,11 +6986,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f17b13b4-e829-4951-9736-215d9d479d72",
+    "id": "538be8e0-e03a-474a-93e2-bdf04533c4fe",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #583)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6998,11 +6998,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "31bcc39c-851b-41cc-a373-ca1fa7388c64",
+    "id": "f4175a4c-e582-4cb1-a151-6534b03c9407",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #584)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7010,11 +7010,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fb9efe25-7074-49a1-b55b-e8a2bc88380e",
+    "id": "484d4a90-7bf1-486e-8cc4-7a0f57678dde",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #585)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7022,11 +7022,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "866471eb-f5bc-44d0-895c-4eede9825099",
+    "id": "5345254b-0841-4984-a486-626a49da9e23",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #586)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7034,11 +7034,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f70f3a34-6574-4837-a042-b339dec26213",
+    "id": "c02c00ab-0403-487a-89d8-1c4aaee8fec5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #587)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7046,11 +7046,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d15b331e-1d90-417c-bbd1-1407239504c1",
+    "id": "1ed61934-f0a5-483f-ac6f-02bfd236208d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #588)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7058,11 +7058,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5cc45a77-2f4a-4320-97af-48e1dbdf4481",
+    "id": "07d2081e-b79c-4176-943e-e29b561bed98",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #589)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7070,11 +7070,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "454699b3-eb13-42c0-9531-e40b7f12adeb",
+    "id": "e70bb8f9-b643-4af7-9f50-18360ded03f6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #590)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7082,11 +7082,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7bd126d1-dd03-44d8-968a-2bcf3282c69c",
+    "id": "4221c8bb-273a-475c-9de0-cd42f69b8c8e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #591)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7094,11 +7094,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4b86df40-2b9d-48bf-b440-7e92c2fb77b6",
+    "id": "eea163be-7b24-4263-b58b-fa957004d930",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #592)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7106,11 +7106,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "90017a85-fbdb-4829-afc7-c9d94cfd3e28",
+    "id": "e3005009-794c-4897-9c32-5b57cc422566",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #593)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7118,11 +7118,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9320351d-36d5-448b-aa17-f2a2f84647df",
+    "id": "e5f8d580-516d-43c6-a60a-e4239783f35a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #594)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7130,11 +7130,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "37721f49-0805-4b25-8e28-c26f35117319",
+    "id": "21863f89-b03e-4ef0-915c-9e4c09c04546",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #595)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7142,11 +7142,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "908df310-4bac-4b73-b695-2141ac4d6821",
+    "id": "9aa9ae92-9f43-4694-8c65-23187f08143d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #596)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7154,11 +7154,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a37c08bc-8ac8-4066-ae89-1a748b334034",
+    "id": "41f19441-619c-4406-b2b2-b7bcdf71bdf7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #597)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7166,11 +7166,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "99bea473-9b14-44ac-a72e-213ef165f1b9",
+    "id": "6d12a7dc-9a20-449b-b9e1-2090b708445b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #598)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7178,11 +7178,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a7452a9d-7aad-404d-b2bc-2a16c864e9d5",
+    "id": "65489b32-843d-4691-876e-f24cec8c198e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #599)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7190,11 +7190,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2209d4a2-45c5-4a27-a6eb-4f85d11bf727",
+    "id": "279c98fb-1c44-4d62-b289-e7d905d10bdc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #600)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7202,11 +7202,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c99c41b3-9414-4f23-9402-61a69f5e051f",
+    "id": "92e3bbcb-df6d-41f1-9028-0ce2362672c9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #601)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7214,11 +7214,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d47927c5-0670-4185-8c5a-16584e95715e",
+    "id": "bf0cf839-e60d-4ba6-8ad1-88bc25f9df0e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #602)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7226,11 +7226,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "da3a1540-ea13-49e0-84b8-526d47b50f23",
+    "id": "04d96484-f876-4cb9-861b-fdc99d43794c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #603)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7238,11 +7238,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fe013f9d-d6e4-451c-a01c-b79d7398fad0",
+    "id": "bef9118b-6af3-48c4-ac19-b44c0d79a1e6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #604)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7250,11 +7250,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "630bd07b-d0e7-41ec-b593-da3c0f433a4c",
+    "id": "b34e9051-53fc-41c1-8a54-f3afa853b1c5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #605)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7262,11 +7262,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d7580e58-b195-4470-afd6-63b3f0e352e6",
+    "id": "ebe5d994-8abb-4389-86e6-0b60ed5452b9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #606)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7274,11 +7274,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "72a57026-a4a9-4f33-a6e4-731d2a6c6b3f",
+    "id": "9a4acde4-13ec-47a8-bb9c-e49225b22934",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #607)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7286,11 +7286,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8dae67b7-35e1-4d6b-8002-61ccbc7eb553",
+    "id": "ef9b00d4-b8cd-4338-b171-2bc5004e78da",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #608)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7298,11 +7298,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "93385657-129a-4b1d-92fe-4cdecf5af480",
+    "id": "1313870b-43a9-48c2-9ff0-5e660adcd85a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #609)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7310,11 +7310,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f8780c4e-7223-4793-812c-e56d77ea432e",
+    "id": "84bcd1c9-d6a6-4c63-9701-a70064e71b88",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #610)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7322,11 +7322,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c491b5a5-d0cb-49f0-858f-ee99e78ae66b",
+    "id": "7ab4e82a-a568-4619-9542-b238b26fb0bf",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #611)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7334,11 +7334,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "275458cd-8fbb-458f-9859-19f0aed3e3d1",
+    "id": "38cae71d-2571-4c4c-898b-66109d9f742c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #612)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7346,11 +7346,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dac96a33-eb8d-4a56-ad97-d9e328b27288",
+    "id": "cb446022-080b-4ec0-81be-e5430b19ea37",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #613)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7358,11 +7358,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bcf1ee17-3e5e-431a-9450-b38566d7777d",
+    "id": "ff87286c-dd77-41df-b46b-80e61434176f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #614)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7370,11 +7370,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1763791d-c78a-4dfe-b3e6-589c8671af67",
+    "id": "03df5483-2286-43d2-b98f-8eb2f0c959ce",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #615)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7382,11 +7382,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9dcd2142-8f7e-4abb-929c-6da58909c807",
+    "id": "f65bbada-d0c6-4ae5-a78e-d310fb51fa6e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #616)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7394,11 +7394,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "29320f07-72b3-447a-a91d-4ad8ecbdf184",
+    "id": "c414546b-3aa1-41ea-82a2-f8cdf8c6d9ef",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #617)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7406,11 +7406,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e9f22c5c-6ed6-4615-b836-f1672f1e6150",
+    "id": "dd06098e-2d5d-47f0-8000-f5dd989d1231",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #618)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7418,11 +7418,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d0ad2072-f84d-4297-9b7b-9c263c76a73a",
+    "id": "67721b3b-c6a1-496e-87cc-bc6499a22b51",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #619)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7430,11 +7430,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6704d0c6-2161-4d64-b20e-ff5034b83679",
+    "id": "73709f86-2131-46f2-935c-197839092e88",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #620)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7442,11 +7442,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3a34c69b-81dd-4386-9114-87fd1154a59d",
+    "id": "83f7f627-cb6d-4181-b020-fa64470339c8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #621)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7454,11 +7454,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c73ce28e-7bc0-4dad-b310-e4077262682e",
+    "id": "1d69645e-edf8-48e9-be3d-5c1fc468bb98",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #622)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7466,11 +7466,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "21ab8ba8-c5c3-40d2-bb36-4f567c258f1c",
+    "id": "ee818d53-d687-4f8f-9fbf-a3d90e972b30",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #623)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7478,11 +7478,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d3452064-ba72-46a4-ad36-c38ff94ac9a1",
+    "id": "4caa9a05-e52e-44a7-a886-386cf700ca1d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #624)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7490,11 +7490,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "750bad27-4445-49ec-af3a-377e7abba077",
+    "id": "0e41f584-1215-4015-977f-5d5789b5e4f6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #625)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7502,11 +7502,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "acaa91ef-9808-4e75-b1b9-3d88c726ec5d",
+    "id": "f0492fec-7a84-4be3-9966-32204cbedc93",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #626)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7514,11 +7514,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3d68df30-3046-4156-83a3-913caa82cd26",
+    "id": "2ab45e47-252e-4154-a7a4-930924e5560a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #627)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7526,11 +7526,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "55439e16-1437-4ae6-9bf2-003f4f9b066a",
+    "id": "54c63e76-2bb8-43d9-b102-2e540861b5e7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #628)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7538,11 +7538,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7c430a86-fb32-4cfb-b069-e34858b062d0",
+    "id": "ef199bea-f9f3-4fb2-83da-78348b66da9b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #629)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7550,11 +7550,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7c57e4e1-96eb-4c9d-bda2-a8f221bdef7d",
+    "id": "b81daaf2-f1d6-4ef5-9f90-84c2189f63cf",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #630)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7562,11 +7562,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "69ff2c40-cac1-4738-b8d2-65342135218b",
+    "id": "1e4cc8a8-3010-4269-baca-0481a464ab65",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #631)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7574,11 +7574,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "387f948b-7668-447f-ac69-26d22101b8f4",
+    "id": "d8d541ab-af64-4f50-9b02-a42223c2a691",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #632)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7586,11 +7586,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5182d5c6-4cd7-4c02-8db0-dd0a3a83ecf6",
+    "id": "e6714a3e-76a0-4273-a59b-a3c13bd1be83",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #633)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7598,11 +7598,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "701ea77e-081c-4b1a-9531-5c3ac808bba8",
+    "id": "a7a27e40-36d4-41a9-b932-5042eaa73d5e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #634)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7610,11 +7610,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b51c8001-cb5b-4042-8485-a65d85dd20a6",
+    "id": "c1837302-948c-4f22-9682-941e1f9af35e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #635)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7622,11 +7622,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f951977e-88b4-4c72-a68c-b581c4ab128f",
+    "id": "a6581e1f-b1f0-4fe7-a24a-4b0d5a35b093",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #636)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7634,11 +7634,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "becaaf52-978f-4781-b590-2eb6c6b27094",
+    "id": "8267b6a4-ed4d-4363-9dd5-96420d6951f8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #637)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7646,11 +7646,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bfbdb54d-2856-4771-a025-c9e52b4f614f",
+    "id": "7fa67db2-70f8-4cb1-8f9a-2e1a2db50728",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #638)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7658,11 +7658,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "61724e69-af98-437a-bf65-00780c3f9896",
+    "id": "c16fc1d6-7a56-491b-8db4-643490166be5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #639)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7670,11 +7670,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1a026199-73f3-43d9-abeb-9540cee48770",
+    "id": "0b68dadc-d6db-4041-8035-c6e8ca928943",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #640)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7682,11 +7682,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1587f076-28de-49e9-bb2a-c3b996cea4bd",
+    "id": "fe154865-d821-47f4-ad68-bce0e88565c0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #641)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7694,11 +7694,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c57228ea-8674-4e1b-a45c-2112d39b6d4e",
+    "id": "73ab2f52-0ea2-49c0-a6e6-3a34b1ed2414",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #642)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7706,11 +7706,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e2205644-f4d2-48c8-9070-a7a25745227e",
+    "id": "372edb42-8b84-4f09-9a94-04cab76de2d4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #643)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7718,11 +7718,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e2f38956-95eb-4011-ad56-b9c89d23ae0b",
+    "id": "00a483b5-47bb-40fb-8b41-9e42e1fa1bef",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #644)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7730,11 +7730,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "af4d8568-f6e4-4004-96a7-12d4bc2d770e",
+    "id": "9abd5fe1-01ec-4cf9-80ef-59490c9b955e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #645)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7742,11 +7742,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b93e80aa-cf5c-415a-8132-64a9186c229d",
+    "id": "7e62749e-7c34-4982-b41f-6fcaf2c828f3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #646)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7754,11 +7754,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "53aa285d-e1a4-426f-af2f-3a7ee8fb15b9",
+    "id": "13894290-dd39-4d2e-837b-60a7ea2a2020",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #647)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7766,11 +7766,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "420493b4-85ea-496e-aec1-881b6321aae9",
+    "id": "e7141480-8fb0-4b0c-b87c-3800cb2786c1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #648)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7778,11 +7778,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "129c3a8d-b04d-4d29-86f1-4404fb603f62",
+    "id": "2d6938ad-5fd2-4079-8b58-8486ed7b21b7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #649)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7790,11 +7790,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "512fcb50-20f3-47d3-aca5-347920bc325f",
+    "id": "14a7ce1e-f2e7-4d8a-89fc-283e7918a35f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #650)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7802,11 +7802,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "82865f3e-0760-4ca9-b4c0-343ee881a092",
+    "id": "052df802-66e5-4a93-95da-99712a10f2c4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #651)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7814,11 +7814,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5266ef35-62ef-4aa9-b9ee-32f63a28ac99",
+    "id": "b8821a82-67d2-473b-af05-c74197023ac7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #652)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7826,11 +7826,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "34b3b2b9-572c-4230-b312-9837b9c844ab",
+    "id": "4d142977-e55f-46e2-b471-e8ccdb8dcf99",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #653)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7838,11 +7838,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "09478d7b-4bc3-4e3f-896e-458b4c88f58d",
+    "id": "94c52fc1-684c-4fbf-a48a-5e55f3f32870",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #654)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7850,11 +7850,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7af46673-a98c-4898-b7a5-700421eb2f81",
+    "id": "2ae43450-b8cc-4a1c-bedd-0de2f720f036",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #655)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7862,11 +7862,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "095bb16e-7938-4729-9ca6-c2474cae8317",
+    "id": "6e6bb5ac-926a-46f6-9479-e3a2869f6acc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #656)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7874,11 +7874,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fc099c98-e33c-4aec-95a1-373505a1c389",
+    "id": "70e6823d-c4cb-4f0c-b575-6a11641f8ace",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #657)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7886,11 +7886,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3a47fa88-9846-4002-9368-b1bae036560a",
+    "id": "afcacf7c-f52e-4794-a3d5-5b87662209d0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #658)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7898,11 +7898,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ae628015-aeeb-455b-85bb-53b7dfde8792",
+    "id": "49193168-4c0d-4794-8217-a50b444e04fc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #659)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7910,11 +7910,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5d59c265-c94b-4291-8d43-38e2005b365c",
+    "id": "f34457c2-f6b7-410c-b6d7-95b86451762e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #660)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7922,11 +7922,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bc53aa7a-64c5-4312-b229-ddf6b82cd967",
+    "id": "95495fc3-8883-44e5-ad77-791af8dbcf75",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #661)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7934,11 +7934,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "64f806ce-3a04-49be-ba46-1533d8ede92a",
+    "id": "34680442-e301-44ff-a068-f41d35363bf2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #662)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7946,11 +7946,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2f4ea9eb-dd9f-4a7e-b75a-99ed8a51fc35",
+    "id": "1d30fa1a-a0ea-47e1-b770-6b5c8fa0d52e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #663)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7958,11 +7958,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "34cb9758-e101-4a86-9738-7aadab3ff91a",
+    "id": "6c70f256-6123-4c65-a93c-398d2d9c65e9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #664)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7970,11 +7970,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6a799f50-7e6a-41a4-9501-f9b38e8a3382",
+    "id": "a150ac49-59cd-4135-a1ee-1f00a94a9f1f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #665)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7982,11 +7982,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "85894c71-d274-4d9a-a811-5b1f724151bc",
+    "id": "d5ea32ea-0b90-47ad-bc47-f9558ca743f1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #666)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7994,11 +7994,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2fbdf312-a033-4408-87be-38c5ffe14630",
+    "id": "5a275645-e10e-4335-859d-c488f103bdfd",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #667)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8006,11 +8006,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "35388b68-ea02-47bd-82ab-bf7925ece792",
+    "id": "b4a8e5e2-a3af-4ff4-b86f-07b4a7a2d840",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #668)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8018,11 +8018,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "158ecebf-7ad8-4f2e-a50f-0a3c5280a556",
+    "id": "d295cdbe-056c-4f73-a943-34ac0b00917f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #669)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8030,11 +8030,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "457619aa-36f1-4139-b7da-46c54acbe321",
+    "id": "3cad81ec-9346-4408-8f24-89ba8b3f8fc2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #670)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8042,11 +8042,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "55353bb0-58d8-46c1-9e92-79d436db09e6",
+    "id": "1e0cee47-c375-4ced-b6b1-6319e993e646",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #671)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8054,11 +8054,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5adcf292-8366-4a94-a587-546a86f1f4e6",
+    "id": "7372fd55-28b7-4acf-b2d9-ea5ce38321c8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #672)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8066,11 +8066,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "657d327c-d66d-49f8-a9dd-36f7324bf27b",
+    "id": "07927383-dfd4-4504-b41c-bf081579a9c7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #673)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8078,11 +8078,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "462aa3ee-0db6-4477-9329-3eb95e22fc5e",
+    "id": "5dda601d-a8a5-42b8-a079-2c16227899ca",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #674)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8090,11 +8090,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "477de7be-991c-4034-ba29-8076a7d9b768",
+    "id": "b0d43b78-cdad-47be-a6bb-2ba064aa7162",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #675)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8102,11 +8102,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "871d9cfe-525e-4d1c-9b83-b8900c59bfd6",
+    "id": "66d33fde-8eab-4177-8eab-8cdf1853d3e0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #676)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8114,11 +8114,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "abe5c9f1-3c00-4c76-b8a7-08ee772e777a",
+    "id": "bbdbf173-d84d-4fd8-ac97-38acf1b9b066",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #677)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8126,11 +8126,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "69b41961-5dbb-4fb6-91d6-8e9f969204c3",
+    "id": "562cb297-0ee4-4e5a-b280-e126b0071e64",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #678)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8138,11 +8138,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "82c37883-abfb-4a76-8f48-18b605c39010",
+    "id": "de9477fc-5742-49fa-82a6-1a9ca74815e5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #679)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8150,11 +8150,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "83a21508-2a8c-44a2-ae44-9858858f5579",
+    "id": "22b03fb6-78e8-4f38-b651-fcc24c199e5e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #680)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8162,11 +8162,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3905c15b-39d0-4361-b356-0ca0cd35d0f7",
+    "id": "697f640e-fe81-4cfb-9fe0-14c6e0adcf56",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #681)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8174,11 +8174,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3c683d5d-bd29-4dff-8063-28f36d45fec8",
+    "id": "f446679b-fac0-4d73-8aea-3dd270cce89c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #682)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8186,11 +8186,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1f5ccf99-cb07-4283-9364-fc0b6c7cb4c6",
+    "id": "d0bbbc68-27df-4b99-8806-40881fbead49",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #683)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8198,11 +8198,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "adf74a7e-d822-41a7-b285-90d0a62667e6",
+    "id": "cb73c65d-4653-406b-88d0-e35e43fae3b0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #684)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8210,11 +8210,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e2e47dd1-231c-4754-9db4-a4e6e03a12ff",
+    "id": "528f3405-f910-4b90-a3e8-322f4c7a8ccd",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #685)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8222,11 +8222,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "835722b3-1592-4b99-8b7e-b09fd3775a80",
+    "id": "cdf34315-a113-45b5-b07a-040fbdeeb22c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #686)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8234,11 +8234,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5ce2e15e-9f30-4373-a70c-547089d2df02",
+    "id": "3a3093c6-c182-4b3f-a010-d5fecdbf922c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #687)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8246,11 +8246,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3ce7f5fa-57d2-43a8-8a90-5082666b3ef3",
+    "id": "9f58dc52-400e-47e2-a78a-478f2c909430",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #688)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8258,11 +8258,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "007f6e62-ed7b-4b1e-b6ef-5284dd1b22ea",
+    "id": "9ee2df64-4c29-431a-bc33-792045745fa5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #689)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8270,11 +8270,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0ee7157d-46fc-4d69-8eac-81cb7f48a577",
+    "id": "0ac67a62-e716-4eb1-883a-a11347aebd12",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #690)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8282,11 +8282,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4f2f821f-f399-4ae6-acb4-13cf6750dbdf",
+    "id": "179c41f6-b008-469d-ba5b-7fa8e83383f4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #691)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8294,11 +8294,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bc9e5c05-dc67-4352-833e-498cd1220dc2",
+    "id": "87b7e17d-6372-40b8-898e-9ed20cea19d3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #692)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8306,11 +8306,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c4a71ee5-661c-4ba4-a316-20f15b71560a",
+    "id": "b4025fa8-5733-4b16-92aa-421ce7f6f41e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #693)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8318,11 +8318,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c23111c4-4a77-4023-93dc-4ce1732f91b2",
+    "id": "f0c53efd-63e7-44b4-aa03-25c040d2283a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #694)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8330,11 +8330,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fae858f4-c6ee-4cc2-8c01-7b618c893c5a",
+    "id": "96945313-17dd-45cc-b255-69b3827f0d0d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #695)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8342,11 +8342,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "de03c219-4518-4181-b78e-c078db8d7990",
+    "id": "3fbe9ffa-a847-49d9-b688-468f48c36ee5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #696)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8354,11 +8354,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2f6f480a-e3ff-4c0b-acad-392b3679ea18",
+    "id": "6fd19f3d-ac9a-40d0-9ccc-1b706da49893",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #697)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8366,11 +8366,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3381a8ad-f979-4cca-99b0-948ab6737bea",
+    "id": "86b66c04-1696-4746-afc4-30a5a8d7f049",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #698)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8378,11 +8378,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "55eafd73-5a18-44d7-a8f8-f72feaadf6bb",
+    "id": "f1cf1204-5409-453d-af37-7448cca1c03d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #699)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8390,11 +8390,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "42285a95-0910-46da-8c15-9984c7f37801",
+    "id": "8dd3b522-e5b7-457c-8bd0-e94f62c7a30d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #700)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8402,11 +8402,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a55a249d-fd6d-4cd4-aa18-f590fd07794e",
+    "id": "40a4cd35-b432-4496-ade5-3df5524e7210",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #701)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8414,11 +8414,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e070b7e8-1ae3-48c6-a67b-b87c6d641e7b",
+    "id": "3bf12d1d-cad2-41d5-a2e1-67da62fd18f8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #702)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8426,11 +8426,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e5a7db5b-ad31-4d19-8a2d-d35ba35e9d5a",
+    "id": "fd8f8423-ca16-40d8-9ce9-b2f34890a0d7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #703)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8438,11 +8438,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "32d221d8-8e76-41fb-8ef0-03d5968bae6a",
+    "id": "7e51a987-e3aa-4222-b5cd-8058ee8fecd9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #704)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8450,11 +8450,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f81c1967-826d-48d7-96b5-5ded857609b9",
+    "id": "4e6bfdcd-91f8-4649-9c4c-72ebc93fa341",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #705)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8462,11 +8462,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ada3bf00-3381-4742-a902-bdb68286af23",
+    "id": "8cfe5c4c-4b7b-4381-8102-0e9ea16b3965",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #706)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8474,11 +8474,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7a99619f-ab84-4db4-9b77-fbf4cd756d60",
+    "id": "5e95db28-6e62-4fbb-8952-fb7e96d9d5d9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #707)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8486,11 +8486,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d622b6e9-61ba-4278-87f8-5398816f87a6",
+    "id": "8a11b06c-ce53-4230-82a5-76a7062a2ceb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #708)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8498,11 +8498,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "96d86787-09a4-4e59-a3d0-6b82d0726429",
+    "id": "b0f90d60-1e3a-4999-bf69-fc84c7955eff",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #709)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8510,11 +8510,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "863189c9-c089-433a-a9b8-cd5569227267",
+    "id": "dc0c0d55-7e7a-42b7-b1fd-87568c2b3f12",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #710)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8522,11 +8522,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a9979a38-3935-4ffa-90b6-3a3e12f47cee",
+    "id": "50b3ee62-9f12-4c8d-ac90-e2f3897220f5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #711)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8534,11 +8534,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b4299926-e003-49e4-a150-9544b9a8f463",
+    "id": "b0583261-d93f-4ce3-841d-9757f1727b3f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #712)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8546,11 +8546,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d9b6d344-d6ae-41fa-8d27-e0f23a6c49b3",
+    "id": "75236a09-8ce2-4dbb-bb2c-fabc8d273d68",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #713)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8558,11 +8558,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b7817b9a-244b-411f-a40a-e17f285c330b",
+    "id": "057df761-9dce-4fb8-8d79-8d3b719c8a21",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #714)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8570,11 +8570,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2a1bc4c7-1d32-4555-ab24-5acdba3cb13a",
+    "id": "8de32557-b9eb-44f6-8cfd-46dd56c6424a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #715)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8582,11 +8582,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8e21d3dd-5532-4545-9d0d-162b678f6ab2",
+    "id": "2900e217-7554-4a67-b3f3-1c26abeff91d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #716)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8594,11 +8594,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "702aaeb9-b2ec-425e-beca-01cd4777f83e",
+    "id": "432522a4-b5cf-44f5-ac61-a7d1bff5cdc1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #717)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8606,11 +8606,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0b3ddbf9-e6f2-43d6-8e2e-0839798a033b",
+    "id": "4a747b4f-b912-471d-bf92-d4456b537101",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #718)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8618,11 +8618,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "72627e83-f7ee-4ac9-8164-a0d4254a446e",
+    "id": "06cdb11a-5c55-47f9-bead-598fc421543d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #719)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8630,11 +8630,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e5ebc90b-e7c5-4b2e-91e0-f17c086658ed",
+    "id": "9204327f-b0b9-4e57-8ac6-48d50c9fcddf",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #720)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8642,11 +8642,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8354ee83-05cf-4d15-9621-009b48f582a1",
+    "id": "105234e8-f026-4cf5-bee9-559670c6d331",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #721)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8654,11 +8654,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2f8414c4-8264-4b36-814a-1bb7fd3c2256",
+    "id": "f182ddf6-5e0a-45aa-9a6e-f025dac265f0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #722)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8666,11 +8666,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4840bb3a-7755-4d24-acb2-12850a729307",
+    "id": "9d1fc3ef-0ced-4a5a-b55e-7bbae52caaa4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #723)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8678,11 +8678,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a80d9c63-e181-488f-bdc9-fe25557f3d80",
+    "id": "0a8ad4f0-6d3d-4a2b-a842-a2fa47b965ea",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #724)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8690,11 +8690,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "67e6c3ff-8afe-4d3f-9f87-e83c263adaad",
+    "id": "c311b01e-64e7-46cd-9737-54b5385f4afc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #725)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8702,11 +8702,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5dc58c32-5c93-43e8-9f47-ca1e924ab169",
+    "id": "18c2b506-db0e-4c62-afec-54c1c7041231",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #726)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8714,11 +8714,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "eb25b9e6-8d4a-4890-ac88-5b8e19a54336",
+    "id": "fddd0150-fdb6-49c0-93dd-f8a671d94d73",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #727)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8726,11 +8726,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "44c58b79-c5ed-4de4-927f-01c3a9c6d58e",
+    "id": "503976ba-fcb8-460c-a5b3-2922495fd5bc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #728)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8738,11 +8738,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8c2c8005-9e94-4deb-b5dc-cfd3793f75e1",
+    "id": "b0b039ca-a0ff-4286-88ba-a02d5fae1966",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #729)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8750,11 +8750,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "59be9b9c-aa05-4416-abd0-44d4a2541e7d",
+    "id": "fe086884-f010-4bd9-8f26-babc113b6123",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #730)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8762,11 +8762,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1ffe9a63-6fc4-477f-b5a6-9e34c7c668d5",
+    "id": "fc8df569-1758-4955-9847-87469c29a8cc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #731)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8774,11 +8774,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "67e30832-2d61-4866-8912-92b09392dea2",
+    "id": "664e259e-33e9-4bcc-8fa3-70a4afb204dd",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #732)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8786,11 +8786,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7b2b0426-1bd9-4daa-ab73-f1cb065425b5",
+    "id": "b7496201-348d-4770-aeb9-f7ec0f609da9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #733)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8798,11 +8798,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2768fef7-e6fb-4107-95e6-a326382c76e3",
+    "id": "c7e13e14-a432-483b-ad3a-467b5f64e574",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #734)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8810,11 +8810,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "434d6c5b-6ff2-412b-8e44-982ef6df6dd1",
+    "id": "e7623826-4347-4241-b5fe-666ef50f8193",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #735)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8822,11 +8822,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "04a94ff4-dd9f-40c3-8f56-cfcdcf27a18c",
+    "id": "73384cb2-0014-4a6f-bb6e-33f4548602a4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #736)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8834,11 +8834,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6c8be613-e2bf-43bb-a875-ceea9b4ff7d3",
+    "id": "e1c6d916-2448-44f5-bec1-16c9b16c022c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #737)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8846,11 +8846,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7caf5186-fb8a-4395-85d5-84053aa8e4ab",
+    "id": "0301da0e-f163-4edc-9335-1defda6129a1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #738)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8858,11 +8858,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "476c39f0-6936-4942-a45e-2d578423d8a6",
+    "id": "4ff5a235-ba9c-4558-b70b-645fb324705e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #739)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8870,11 +8870,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ffa0ebc4-49f1-4769-8080-544d31d52615",
+    "id": "4601406c-99d0-4c02-8a7b-5094cb02e986",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #740)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8882,11 +8882,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ac4a2b83-b79e-4842-931f-325ff01331d4",
+    "id": "8d67b65d-a7fe-4855-9f42-d1b3c55838cc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #741)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8894,11 +8894,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5becc9db-3dc7-4d46-8761-583cbedc9697",
+    "id": "064aaf6a-6b5e-4ab7-a885-2c56ae03eadc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #742)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8906,11 +8906,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d0b76b4e-0f2c-4425-bdd5-31927381cb91",
+    "id": "1e0a8bd3-315e-4fa7-b78d-b639766f176e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #743)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8918,11 +8918,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6ef7a56e-2908-4700-908d-5a9cbe8ef0bd",
+    "id": "66e46c21-7fa4-4e78-a68a-d38bf9585031",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #744)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8930,11 +8930,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d50935c9-e014-4882-a68d-1dd14e37e920",
+    "id": "101ee1b5-27cc-493c-b942-cff38cafec6f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #745)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8942,11 +8942,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "56f51419-e07e-4053-857c-23e44d67353f",
+    "id": "a4b4236a-0aac-4163-9627-040a777caad0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #746)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8954,11 +8954,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6739c412-81d4-475a-8be3-21f5a35d3831",
+    "id": "10985cd4-3342-44e9-9b4f-71ae682064ea",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #747)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8966,11 +8966,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "146a0317-2f57-4cf7-ba6d-895067c4ce7a",
+    "id": "73c00127-db47-4b0c-9e7e-1996ed6deac1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #748)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8978,11 +8978,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8cbeadae-843d-442e-9838-5f27761a84da",
+    "id": "69097950-d84c-4c97-85b5-6bba9436dc40",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #749)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8990,11 +8990,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f2832444-3961-4bc1-af48-fea4157e0aa3",
+    "id": "70a05633-5ff9-43f5-9bba-217629c97988",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #750)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9002,11 +9002,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9562ba9e-3904-4a9f-8182-c382fcd6c1b1",
+    "id": "a43e5090-99f5-4223-8bbf-3244fe854899",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #751)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9014,11 +9014,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6f346d4d-0271-48c7-96be-5555bb866fde",
+    "id": "beab9d36-ddd5-4cf4-8008-9fd22cfbd625",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #752)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9026,11 +9026,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "eb9c63d5-7f2e-4bb2-8889-d66cb85e8762",
+    "id": "1055c564-7f49-41b6-bb1c-78d16656ceab",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #753)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9038,11 +9038,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b6431b68-12f8-4e9b-a71b-5482783c2302",
+    "id": "6dee5d04-39a5-4b44-91a7-faf9a70373a1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #754)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9050,11 +9050,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5f3ab90f-a316-49e4-89f9-3b43eef1b8a9",
+    "id": "2f4ab4fa-96ce-426c-a078-458051c5891e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #755)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9062,11 +9062,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6f0c0f0d-97ea-49c7-a821-2ed4d5fde053",
+    "id": "3b240272-143f-4c3d-bc73-3023a8f4a7c0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #756)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9074,11 +9074,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "28bd12bd-e4f8-465c-a939-36b3fd2e566f",
+    "id": "c35e292f-cab4-4426-8cf9-9386eeba09de",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #757)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9086,11 +9086,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3c985bb2-f1b2-4010-b3d4-1da5429efa08",
+    "id": "ff0c8df4-85ce-4eea-8adf-53b06313ceb3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #758)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9098,11 +9098,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "644689c2-7cc4-488b-86b9-062e75d86a56",
+    "id": "1e544d82-9fd8-4b4f-b772-240ceedc602a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #759)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9110,11 +9110,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fc91fc13-88d4-4be5-b4f9-c182f4b75754",
+    "id": "0b861284-a9ff-4083-8e81-75faa6718620",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #760)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9122,11 +9122,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "116f2174-8813-4736-8a2b-662e42926b75",
+    "id": "c9233423-83b9-4a33-99c7-371d285fa846",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #761)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9134,11 +9134,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3df966e2-da23-4832-8f4b-dd868b1de3a5",
+    "id": "b7fc2020-75db-412f-bafe-2b4d677449c0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #762)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9146,11 +9146,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9266222b-6678-4dfb-9506-9592e4d62ac2",
+    "id": "6a7b8e1b-93a2-4aac-83c1-6b3443daaa16",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #763)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9158,11 +9158,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6ed50818-bbf1-4c66-b772-e17272208c27",
+    "id": "c8a4814e-9278-43fe-8541-6ecee6e6ab8f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #764)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9170,11 +9170,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "089e1591-9dc6-499e-8d34-f1d07423585f",
+    "id": "b72cad2c-fe1a-41df-854f-5ade95141635",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #765)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9182,11 +9182,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "00e682fd-33b8-4ded-b7ba-e72c3b9b0c45",
+    "id": "6db5f027-64ec-4e53-a574-04bac993b27f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #766)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9194,11 +9194,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d66ccd2b-64a2-462c-9651-db59411a0304",
+    "id": "a6e3f146-e441-4adc-99ed-2ff73c0e238e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #767)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9206,11 +9206,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "96a2ea22-7efe-4edc-9b9a-1c699d1e9864",
+    "id": "d8d5d1f0-1fcb-4218-aae0-967b8264709a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #768)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9218,11 +9218,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f642ffe6-7f27-4e8c-8ce7-a12feff9349c",
+    "id": "53172d86-aba3-45a8-8604-1fc42c1dc5ac",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #769)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9230,11 +9230,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "196108b3-432f-41fc-83ed-7da0d20e583d",
+    "id": "e73f68a6-1500-4137-9fa0-17470fb5b554",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #770)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9242,11 +9242,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0017e98c-e3ea-4713-b522-e370641ea257",
+    "id": "8f9f668d-6951-4765-be92-b168b6a4b245",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #771)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9254,11 +9254,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d051523a-0459-4a87-b903-9d9022e29e03",
+    "id": "a53a64aa-7a7e-4e76-b6ca-aad038b82881",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #772)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9266,11 +9266,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d5ae025e-7934-4930-9221-0029ebb737d3",
+    "id": "258019e5-ae83-4e4a-b87d-0eef73e10f2c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #773)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9278,11 +9278,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6da285ea-bd61-48a5-bc6f-2493a295f151",
+    "id": "710e8351-df54-4b87-9fd3-a124de760bdd",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #774)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9290,11 +9290,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b8650536-643a-4ad6-92e2-34c18f461a47",
+    "id": "dfa8dd7e-1294-40ec-8f5c-e4746503196f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #775)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9302,11 +9302,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f3343d91-1d77-4f3c-a7b4-61837c54d196",
+    "id": "2494d66c-fc6d-4188-b65d-4bde16ccabaf",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #776)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9314,11 +9314,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8ec0e36c-7a02-48a1-816c-6136a6d402a7",
+    "id": "8822901f-77e2-4bd4-b500-1b86a7c75395",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #777)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9326,11 +9326,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "30accbdc-050e-460b-957e-676546a58515",
+    "id": "60359576-bf09-4cc0-a56c-efa3c84088bc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #778)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9338,11 +9338,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a99a671f-ac32-4477-81b1-462a6165fc19",
+    "id": "b7fd7e96-a1b9-476d-a278-2fa3b8addc3e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #779)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9350,11 +9350,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ef6358fa-5c65-4092-a3c1-dc63d52fe1d9",
+    "id": "0eb8b2cf-094a-46fb-b5c2-e73202d844b1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #780)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9362,11 +9362,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5ba2e514-635e-4978-b215-c36f89570d7c",
+    "id": "7bc9ecf2-046c-4bad-9e79-bacd97523a3c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #781)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9374,11 +9374,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dd0815c1-6cab-4a91-a1e0-a33f2ef69c8f",
+    "id": "e7bf801b-b8ff-4e9b-ae0e-415a603b8ab1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #782)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9386,11 +9386,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "45c7b498-d29e-4df2-96a3-5556d855e82b",
+    "id": "d67d8800-dc94-441d-bf3b-5af56e1772b2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #783)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9398,11 +9398,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "01993cdb-6f6d-4dc0-a734-a2bfd0c9fb75",
+    "id": "fc8cb69d-ccf6-40e7-9d32-1e31bb63ff8d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #784)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9410,11 +9410,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b34913a6-dd55-4252-9c40-320a3af4ef92",
+    "id": "8bfb8cf8-befb-488f-9b14-31ce7641737b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #785)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9422,11 +9422,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "42e18eb0-539f-47af-bc43-8282ccc624da",
+    "id": "e5fd3364-dbd4-4d91-802a-d7e3f2b07485",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #786)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9434,11 +9434,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "af8fa0e4-b9b2-44f5-a1ca-5c7b37c9c382",
+    "id": "8f72983b-c8c3-4299-b786-f946cfe59d2a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #787)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9446,11 +9446,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "60d3e4c1-eedc-430d-965b-2b5cd85e3e73",
+    "id": "8b2ada11-ddcb-484d-9c2a-8ddf8db92812",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #788)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9458,11 +9458,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bf65dc01-2fec-4350-8a4d-76ef38c39125",
+    "id": "40b80d74-23e1-4b65-9ac3-4042d7e3f5c9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #789)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9470,11 +9470,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a400bcbf-b968-487f-bb21-4de87ce8da68",
+    "id": "36e4d36f-d3a0-4810-a631-cc316cd971a4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #790)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9482,11 +9482,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "21dae348-4559-4ef2-9af8-52a8ffee48b3",
+    "id": "6755989b-2075-49ba-80ca-881ec3cbc7f3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #791)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9494,11 +9494,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "aab69e41-f9df-40dd-9d75-c2973ef39ed6",
+    "id": "522f1d12-1605-4289-a6a5-7ba1bd5ea3af",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #792)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9506,11 +9506,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d3543a27-c9b4-4788-8e47-3ea15c6cabb3",
+    "id": "19984482-579b-4a27-a43e-a6d18845df2c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #793)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9518,11 +9518,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a364fdcc-17b8-4e27-98fb-c9f5edc80499",
+    "id": "163182d9-119f-4156-8026-1efd9e12e887",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #794)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9530,11 +9530,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "95c816bf-d213-4837-a2f2-f2ea6e923212",
+    "id": "f730efd8-ae49-4bed-89b0-628e8b29269d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #795)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9542,11 +9542,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5a600c8f-3f71-447e-a05d-9e8e79e8d95e",
+    "id": "1284dc25-4b80-41fc-8bb6-0b51f9222939",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #796)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9554,11 +9554,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ea2afbaa-a433-4023-8154-b8ab887d5271",
+    "id": "04d0e179-f69d-46db-b03a-0b1137585880",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #797)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9566,11 +9566,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "67cb1a76-023d-492b-9434-6613fd47ff4f",
+    "id": "d6bdcc09-17ff-4f44-a80c-8d463464f0dd",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #798)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9578,11 +9578,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9bab371a-6edc-49f0-907a-de44710e40fb",
+    "id": "51fdc81d-b3a8-47c3-8573-49ccce75d2b2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #799)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9590,11 +9590,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6aa2def2-3a35-4754-9a0c-3a13b3603355",
+    "id": "57524225-c3ea-4f65-91e2-980fc5f571ca",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #800)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9602,11 +9602,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a93766f6-6d7e-4be4-b92b-eb902e32be49",
+    "id": "87631f20-7d10-4e3d-aa76-1ff29a3ba8da",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #801)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9614,11 +9614,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bb2a6ded-e7a5-49a1-88e8-cdc75341a699",
+    "id": "0f5d066d-817d-412c-85be-23b7174b6e4c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #802)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9626,11 +9626,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1c6fea6f-9056-4126-b815-11a4fdebb28f",
+    "id": "495819ee-f2de-4c6e-82a7-e9221b7ab712",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #803)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9638,11 +9638,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3f511792-c5d5-45a2-8625-b06937eec53e",
+    "id": "ad49487a-a41a-492e-9017-e968d8fee408",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #804)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9650,11 +9650,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5f477f24-7c00-43e8-9c7c-7f679af4cdf0",
+    "id": "f5545a8a-bad2-449e-98f4-0ab3ccd6d14e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #805)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9662,11 +9662,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3624ece8-da67-49ce-a273-5e2f92afa19c",
+    "id": "846ccf73-3a57-4286-9b91-80eb696dbd10",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #806)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9674,11 +9674,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d6d31fb3-ef72-468e-ad9f-34249e1ecc14",
+    "id": "dbefafbf-52dc-452d-b8b8-df42d3efaf45",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #807)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9686,11 +9686,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "eb243cc9-157c-4888-8072-b7d7c05c80a9",
+    "id": "ad156d41-5c77-48e6-8cf2-f18471601e6b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #808)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9698,11 +9698,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "73e59f19-6b53-440f-a93c-5ebe65b24b7a",
+    "id": "e9a90c39-c796-460b-9e45-66a56ced45eb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #809)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9710,11 +9710,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d7d3a293-4a02-4693-8d32-7901b48956cc",
+    "id": "3f6a707c-deb5-41d1-b109-6723ed9b5995",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #810)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9722,11 +9722,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "61af9556-0491-4d63-81eb-122269f6e782",
+    "id": "91315089-8606-4116-8262-c5cf179b6f75",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #811)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9734,11 +9734,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f1806954-3553-4087-88af-c45f6c1808ca",
+    "id": "74747780-8e94-4ee5-a3fa-57411c2c605d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #812)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9746,11 +9746,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d1d14ca1-175d-480e-a2ee-f226c369f44b",
+    "id": "a7914566-8841-4118-b04e-490a8dd6cf26",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #813)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9758,11 +9758,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9239778e-3f41-4c97-a104-f699630d1a3a",
+    "id": "4f89cb10-7d52-4d52-9acd-96e388267bcb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #814)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9770,11 +9770,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9a9485c1-51b0-4533-ae04-b17d34e055f3",
+    "id": "481132be-056c-43a0-a26e-dc929049a84d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #815)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9782,11 +9782,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d63b7280-3673-4ee6-9c92-9efd1daed939",
+    "id": "54a62754-54e7-4e1a-a3fc-671641270330",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #816)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9794,11 +9794,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b23bf7ce-50c4-45c2-8d05-d2a5e2db7842",
+    "id": "9620cb50-046f-485b-9524-54b343cd0d54",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #817)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9806,11 +9806,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5a14e9d7-0190-49cd-823a-43957e7b857a",
+    "id": "4198d585-6408-4c49-bbd6-c0e1d22ec910",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #818)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9818,11 +9818,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1efb1b91-9dc3-4e7d-8df8-3e888d967e54",
+    "id": "090590e3-25e0-4f44-a82f-4afd11147dcb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #819)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9830,11 +9830,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1c316660-bac7-4aea-9c21-32b45f07ec75",
+    "id": "8774d076-17c7-4f89-a6d4-3a4d5ff7dc68",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #820)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9842,11 +9842,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f7578996-0f67-45aa-b246-11bd61c764b4",
+    "id": "8141ca6e-cfc4-4697-a80c-198727d485d9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #821)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9854,11 +9854,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6339f38a-49b2-400e-aa89-1609add94fe1",
+    "id": "9c1f5f62-5c4d-420b-b21e-0b0fb80ffd2d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #822)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9866,11 +9866,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5ed78fb7-141f-4711-83b5-aeab0e547092",
+    "id": "37b8e79d-fd32-4357-ae46-2b69da178150",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #823)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9878,11 +9878,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ed8d0936-4a22-4a05-8614-8eaa8b4dc99a",
+    "id": "ac229159-23d3-457b-ba09-8bfff53d3abb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #824)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9890,11 +9890,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a07fee21-2af7-4403-a7be-845095a70904",
+    "id": "a884d35e-888c-417c-86fe-11654f560d4f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #825)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9902,11 +9902,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "01c5da67-be6d-4c07-a0e6-7eb33f0c3b3d",
+    "id": "e94d6456-c5e3-4e4c-ac82-396f26bfd1a0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #826)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9914,11 +9914,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5e5c91ae-9ede-4d78-b4d5-3d17db277056",
+    "id": "210eb452-77ac-4d4f-8ef5-35db85f4a276",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #827)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9926,11 +9926,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b368bf66-df05-4c00-b1d4-3f9d19de6315",
+    "id": "b6b64ac5-1c8e-43cb-b53f-9b4db1aad2b2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #828)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9938,11 +9938,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "67061e14-e23a-47d2-8f01-0dd73921e487",
+    "id": "1be085ab-d0b6-4b26-b1cb-34315f554d74",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #829)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9950,11 +9950,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f0b5ae91-3bf5-4f9a-a05a-cecec34bf009",
+    "id": "0acb1427-60a5-4c03-8542-be071d0d1cdb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #830)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9962,11 +9962,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7d54f9fd-21e8-4d0f-b007-21cb56b793c6",
+    "id": "5b68ed1d-0601-4d8f-95da-d4c65867f861",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #831)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9974,11 +9974,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dcb3d710-45ea-4fcf-92b2-9a517ac41089",
+    "id": "195b95d2-d0be-4e46-8e7d-1ae961a1dfce",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #832)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9986,11 +9986,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d10b2be3-5a10-4960-875f-cd8984e3317d",
+    "id": "04e4b427-bb54-45e7-85e4-c3ba9ed1d96c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #833)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9998,11 +9998,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ab55c34c-f2ef-4f5f-b079-ccf75b696980",
+    "id": "6ad7f21a-23b7-4045-84b3-b1de0b753c1c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #834)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10010,11 +10010,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "23b9626e-102d-4f27-9188-786a680ed75d",
+    "id": "62340e09-feed-41b8-aa91-709d8a831d33",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #835)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10022,11 +10022,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9ada5e50-d2e9-4a8b-bf15-f67fab4793b7",
+    "id": "8a84da41-60d7-431b-8294-07d1611e89ed",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #836)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10034,11 +10034,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4e8ad25f-65ea-44a4-9f33-5d0d1f58761e",
+    "id": "7f6df064-bcb9-4b9d-9dbd-81bc6a64551c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #837)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10046,11 +10046,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e4e31e19-d9a0-44df-b79f-b39e3409cd50",
+    "id": "4a2bc10d-eccd-4a8e-ad93-c18304495a61",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #838)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10058,11 +10058,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ce3a9d55-662f-4128-b98f-d1d3232d1cd0",
+    "id": "abac5fbb-f3f1-4990-a78d-6b3e990db75e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #839)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10070,11 +10070,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5120692f-1759-4da0-a816-54e4294f6e63",
+    "id": "2fc17072-dcf7-49d5-ab60-c0b47e1c6143",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #840)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10082,11 +10082,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "70f26640-8f36-4d68-a9c7-034ffd210ef7",
+    "id": "53c2aeab-93f5-4bb5-b787-fb5977ba89c2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #841)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10094,11 +10094,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ec172e30-1551-468d-a004-b2096d460b4d",
+    "id": "d58c8058-bca8-4787-aeb0-848dcd265d42",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #842)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10106,11 +10106,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b8004c17-53c2-485e-8aab-eacf163d4326",
+    "id": "ad201ed9-7241-4191-bb8e-e1873018a6cb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #843)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10118,11 +10118,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "335e2e22-d140-4af3-b7af-7fb895f5d44f",
+    "id": "5a96d62b-6dfa-4ac5-ab6f-133a773d3cb0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #844)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10130,11 +10130,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "599b48d4-7fd4-4241-ba6f-9adf86609f73",
+    "id": "81553df6-fda5-4627-9dee-cb18757c7e7e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #845)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10142,11 +10142,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "12a2f354-5fd5-442d-bad5-6b82d8355077",
+    "id": "7cb85b12-3f0a-441d-8bee-6ca9272261bf",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #846)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10154,11 +10154,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ae299c82-ec30-4f27-8c3e-6751455f583d",
+    "id": "4a81d5b9-ed74-4b8c-8d4f-28ea56f40994",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #847)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10166,11 +10166,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7e2b3e21-0585-4852-aa7c-ae5d0238cdf4",
+    "id": "7a401c78-3238-4cf8-91a5-0bf63daf5c0a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #848)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10178,11 +10178,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1b046264-bda5-44f0-9f36-87ba46cbc43c",
+    "id": "1ca29c10-eae3-45d3-817f-c62291ba48c8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #849)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10190,11 +10190,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "816dea1f-901a-4ef0-85eb-0bc24f072f06",
+    "id": "863605fe-8db1-46de-9741-d0e9b9cfb6f4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #850)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10202,11 +10202,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7c33b189-9885-4273-90b5-cc4c983ba2f4",
+    "id": "9524dcfb-734a-48ea-9b40-9fe928b1fbea",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #851)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10214,11 +10214,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c5350753-4136-4b2c-9c78-8bbf5c8cb318",
+    "id": "22e3cc34-f80f-413b-ac04-50e297a63cf1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #852)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10226,11 +10226,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b734f01b-263e-4f51-96d9-944e9d6a2b4e",
+    "id": "2bb0ea85-2a2a-41c6-97aa-1e6290187938",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #853)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10238,11 +10238,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "487d6bd1-2327-4c0f-ac0e-a85c05182c6b",
+    "id": "9bfbcb69-27b7-41c9-8e43-81b1f11d4d5c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #854)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10250,11 +10250,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "38f4c072-e167-4acc-b3cb-daaf19a999b4",
+    "id": "9f27094f-3fc4-44ea-ac13-41b16588774a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #855)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10262,11 +10262,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "71d1843d-c3cf-4d2f-8c2b-18cf836f2952",
+    "id": "1b8570b8-5ba1-4aa6-99ef-e6d8a7189b94",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #856)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10274,11 +10274,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "17687cef-05c5-4241-8566-0b04fcdeb606",
+    "id": "35affc1e-e465-4d50-8630-f7771ef886f4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #857)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10286,11 +10286,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7ceb18c9-6dbd-4840-9d96-ec1f04e50693",
+    "id": "697959c7-92c3-4a97-ab43-fe5e421ae36d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #858)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10298,11 +10298,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "850a5e44-4588-4d71-901f-620d6b9b10f3",
+    "id": "7213a160-68d4-4710-91ed-5d375c7e29f0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #859)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10310,11 +10310,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "69ef5c2c-5100-4920-9773-f961ab559778",
+    "id": "7e8c0862-43bb-4629-9d7d-c9d2bf45c0f2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #860)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10322,11 +10322,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "78388aca-00a5-4efb-bcf0-f70bb8e2a730",
+    "id": "336969b8-44c3-4e1e-bc45-c02839a903c0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #861)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10334,11 +10334,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9c9751c5-9c30-48ad-86a5-99ff83ee1e6f",
+    "id": "c9e1ce2e-151b-4899-8fee-26f5aa16e337",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #862)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10346,11 +10346,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1e0b399e-00b4-4479-b62f-da8ef62683ae",
+    "id": "74c7e396-5118-4071-8fe9-87019787711d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #863)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10358,11 +10358,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6cdc80c4-a1c7-4287-932f-5d55fd480d7f",
+    "id": "900e95e5-dcb6-400a-b87e-6d5acaa98de2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #864)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10370,11 +10370,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d4a24257-0d0a-4da3-afbd-937844c845c1",
+    "id": "76198110-28a1-49ad-90d2-ead7bd5ca98b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #865)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10382,11 +10382,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bcb965f8-f1eb-4d3c-89df-5bdbb3ec28a3",
+    "id": "1715e947-e910-448e-b9f0-23e82f29475f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #866)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10394,11 +10394,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "be0becef-2abd-4be0-bcc4-d7057504ed95",
+    "id": "7e3fad5a-2a4b-4461-ac1d-1472bce9392d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #867)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10406,11 +10406,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "38148c95-c919-48f0-ad24-06fbd51ca5db",
+    "id": "899969d5-d9ec-4f09-a673-1d1e9d47493f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #868)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10418,11 +10418,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7a23a8d6-c79b-4b2d-9ed9-0d933ff5a2d7",
+    "id": "28f70e4a-3313-447b-b7d2-fe15c0c3b8b0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #869)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10430,11 +10430,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9c8d0d48-6ec2-4096-a8ce-4f283c41658f",
+    "id": "f112b2fd-781b-48fe-91db-5275b69ab027",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #870)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10442,11 +10442,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a8711918-2fe4-4bcd-a1c4-a5e3e5a50196",
+    "id": "7b2e9a55-a495-4225-af0b-7da7a33830b4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #871)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10454,11 +10454,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "63399a8e-4422-41de-b2e8-653b28a9c848",
+    "id": "0e9f8667-12ca-4754-96e8-d62f0f6a8f6d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #872)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10466,11 +10466,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8c6be6a4-cd2f-4d85-9b2c-ccee4500b86e",
+    "id": "c5c6cac0-fac1-46ab-9fc5-bcab507a6174",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #873)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10478,11 +10478,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "23fc051a-8342-4b19-8aca-4e324d440532",
+    "id": "3dd809e7-5ab7-4559-a991-3577022e9a07",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #874)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10490,11 +10490,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d652af94-6701-4abd-b976-aff15e489bce",
+    "id": "a2c4854c-a707-47ae-b4fe-ad3f922d0675",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #875)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10502,11 +10502,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1b6012d8-1b77-46f6-80f8-a613eb7f2362",
+    "id": "d40dedee-808a-485c-b802-7dad46b4902b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #876)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10514,11 +10514,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "90597dc9-8294-4525-a902-223235a0af47",
+    "id": "69ce0fae-d8f9-4f47-bb2a-c4472a2dc601",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #877)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10526,11 +10526,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0ec143a7-7f90-446b-bc35-53e9d7aabfee",
+    "id": "951f18f3-ddfa-4cfb-864c-0fdc101636cf",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #878)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10538,11 +10538,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4bf440ed-d9c6-4583-892c-703b48abf407",
+    "id": "5d9e65b9-3bd4-4e61-ba97-a5568ad0c0c7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #879)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10550,11 +10550,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2624408c-e31a-4a4b-a57e-249aedcd7bd9",
+    "id": "b76b6a37-decc-4549-aa41-2a98ac5c3798",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #880)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10562,11 +10562,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c4d360dc-07e7-41ca-acdd-c3c1e2d6b305",
+    "id": "862b0224-e7e9-4f16-9838-3dc7d3627178",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #881)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10574,11 +10574,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2b584351-eaa6-47b4-9872-d411ebec2ed7",
+    "id": "dbebaf12-2314-4bd3-8d94-c917575781d5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #882)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10586,11 +10586,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9f6ddb42-3106-413c-aced-0b30a6819cd0",
+    "id": "74fa4a0f-c524-44f4-aa8a-d44817c4ee33",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #883)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10598,11 +10598,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "03601c70-d681-42a1-aaa8-7482341b542e",
+    "id": "4a412fb7-53f0-4ee4-999a-52d58df3aaba",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #884)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10610,11 +10610,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d30d7e11-7762-4349-828a-012cad00d795",
+    "id": "1d9bd607-ca64-4b84-bb94-7df37d80d573",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #885)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10622,11 +10622,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8d03d0bb-aa35-4954-bea3-ac2b1dd0de2a",
+    "id": "994552f1-4f7f-4d69-a11e-3cda0708af82",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #886)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10634,11 +10634,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c70197f0-462b-4150-9ee0-2efd8a068d35",
+    "id": "ef09f33c-11ca-4b05-90a6-2650b1d6e4fb",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #887)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10646,11 +10646,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e9f5808d-4aee-45fa-8bc6-22847db72486",
+    "id": "dcb36993-82fb-4cee-9e05-5e4fbdf79fbe",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #888)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10658,11 +10658,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "45252124-f2d4-4c5c-bc20-75d8f9e58450",
+    "id": "b550ef8d-7264-458b-8c30-5a06a55c5ac9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #889)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10670,11 +10670,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3869c66d-7e81-49e0-bc0b-ef96c553717e",
+    "id": "e145a07c-780f-4cd9-ab37-fb884a05a9da",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #890)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10682,11 +10682,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "29ad48fa-c1c1-4ff6-9e4f-bfd74163275d",
+    "id": "afb962aa-d2c9-4131-85e7-d353c44b3676",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #891)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10694,11 +10694,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c0cc1c43-42c5-4257-9b98-20e4849e9066",
+    "id": "cc72ee96-b8ac-41fb-858a-30349cb9972e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #892)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10706,11 +10706,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "df861e6c-2ea8-44b6-a625-851bbd55ec22",
+    "id": "da00be79-8678-4b81-9c2b-edb3a91518ff",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #893)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10718,11 +10718,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "59872f37-0390-4401-8142-4c6b234fa57d",
+    "id": "0bf39758-bc6e-4ccf-9e95-371d198f3df7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #894)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10730,11 +10730,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3153cc0a-9fbe-4b0d-a8be-8a7f59ec9845",
+    "id": "f1687a67-adb0-4802-b87c-2b9d2adb02df",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #895)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10742,11 +10742,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bb2da30c-27b7-46bb-83e1-6869a86f824b",
+    "id": "b9ae0bf5-5a9d-4c04-821c-d39f25f40dc1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #896)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10754,11 +10754,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "04c4dd05-3df9-42fa-8324-97b3532527fc",
+    "id": "164f2ffe-14ae-40da-8fe2-b36840c8ec15",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #897)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10766,11 +10766,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d3712aa8-2819-4d0f-bbbe-0dbaca83be6e",
+    "id": "977cfa15-1054-4647-8691-bedffb2ce61e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #898)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10778,11 +10778,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f13b3ea3-62c2-4d40-a84d-e27a4b6923b4",
+    "id": "c70bf091-7052-4031-8b2f-4859eb7d73c9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #899)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10790,11 +10790,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7f31cb51-8483-43e3-9c5f-78648f6b8d09",
+    "id": "9be34d32-e657-4038-96bd-9b59ddf7b3b8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #900)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10802,11 +10802,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3a93f844-9655-460b-b2bd-7f3d1c4b3436",
+    "id": "f924bf96-6772-47f9-a82b-8064c1817d49",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #901)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10814,11 +10814,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7838371f-905d-46db-9563-bc6dd15b375b",
+    "id": "8beeb11c-ce25-4669-ad34-3cb1d272ae0e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #902)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10826,11 +10826,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "066be24c-ae1d-44db-88a6-526f50f679b6",
+    "id": "6add1aee-3219-4c5d-a286-e8a85f0cd315",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #903)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10838,11 +10838,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0379c4ef-8f85-4ae6-82e8-e024df25d5cf",
+    "id": "47693acf-e14a-40e1-8687-73b659ccfebe",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #904)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10850,11 +10850,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5bc3d141-27e4-431a-8009-311f7a80e7f6",
+    "id": "b3c567af-0338-401f-9f31-73e1784e6995",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #905)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10862,11 +10862,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a220f820-71be-4c82-aa67-d250822df3de",
+    "id": "bcfd56a5-2832-4983-bf98-999dfbaebdcf",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #906)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10874,11 +10874,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0a627fc9-73da-48fb-89c5-b5f86786ef1c",
+    "id": "b535300a-423d-4495-8ca9-f53bde8576f0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #907)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10886,11 +10886,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "64593746-3083-4086-8a84-950140837f09",
+    "id": "4ab233c4-802f-456f-b6ac-7d0b83777620",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #908)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10898,11 +10898,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "74cde949-1256-4307-b04e-9bf836eb0a25",
+    "id": "5fb808d8-08c3-4166-9c9e-68eb607a6eb4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #909)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10910,11 +10910,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "074b56f6-39b5-4d43-adfd-e2d74a0c1d2b",
+    "id": "c7b5061a-9a3e-461f-a668-a418751fe1d8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #910)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10922,11 +10922,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fe6f8688-ef21-4a44-a1f1-fb9853b90bbf",
+    "id": "5d1beeff-66e8-465f-bf00-3c91669337d2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #911)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10934,11 +10934,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "62e67119-0765-4cdb-8243-8da30798e2e9",
+    "id": "28c24555-c07b-4da2-8da0-1e148f458c5e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #912)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10946,11 +10946,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "cdd9c0f5-8560-4db7-8f89-95319dad4bdb",
+    "id": "751bb320-942c-44d1-8bfb-d19222d57196",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #913)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10958,11 +10958,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f7c07fd7-64f9-4da2-9c65-50909682f399",
+    "id": "a7fdb641-40f4-4df1-843d-f75ececcfe41",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #914)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10970,11 +10970,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b6e24da5-21b9-44bb-86a2-b2e3537dee99",
+    "id": "6fdede03-a8d3-4386-ad6a-79168f1aff89",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #915)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10982,11 +10982,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6348e42b-d1e5-44e0-aff4-2ebb12e80443",
+    "id": "3842608a-99b6-4eb9-8060-14bfb356f343",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #916)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10994,11 +10994,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c048992d-061b-4bb4-b2d9-d2d243f71b3a",
+    "id": "f8ef2ac4-80f7-4787-b7f1-42aeb46e93d7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #917)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11006,11 +11006,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9a6a77ea-118d-4251-a3cf-c57939925319",
+    "id": "b79c6850-63b6-40b9-ac40-c96737aea33e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #918)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11018,11 +11018,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "db058b0b-5f59-4c75-9b4e-3dbdd2999087",
+    "id": "79a33d51-1da5-4462-82dd-8b38cf74dc27",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #919)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11030,11 +11030,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c078a5b8-2dc2-40cf-baae-50d04faf7187",
+    "id": "80ac3fa1-f847-4536-896f-12571a0f4392",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #920)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11042,11 +11042,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7aa78367-9344-4b58-a975-3d27acb8f2e1",
+    "id": "b0e8a6b5-1343-476a-836f-2c01577dcf78",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #921)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11054,11 +11054,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6b73900e-5c3e-4c22-b3f6-46a9a9e652ce",
+    "id": "20345d0c-a5d8-4786-957e-8e4912c483c6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #922)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11066,11 +11066,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6a220345-55dc-47ad-bb68-f11ecb90661a",
+    "id": "564d919b-13b3-427f-9af8-bfd9ad4479c4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #923)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11078,11 +11078,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "44da3c04-fd0a-4e75-84c8-40655ce70d05",
+    "id": "2f676090-d763-4a26-b7ff-4d1e14b3255e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #924)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11090,11 +11090,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "4a6db7ab-4866-409b-835e-558d205a2516",
+    "id": "73853bba-762e-481f-a0aa-1cbd9c9b213a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #925)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11102,11 +11102,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "067f0480-8bb7-44dd-af9b-2de50bc97f57",
+    "id": "bec6cbe2-70b3-4bae-a4d1-3324b47dcdd8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #926)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11114,11 +11114,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6105f101-bb44-4faf-896b-4597c17a1377",
+    "id": "14c72a18-8040-42ae-8d49-6eae0a0fab98",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #927)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11126,11 +11126,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "310e0f68-f18d-41ca-bdbb-fdceada7e0c1",
+    "id": "47071ec3-bbde-4e49-95e9-1120a777da71",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #928)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11138,11 +11138,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e914783c-7ca8-4ed0-b78b-a57d5bab4cc7",
+    "id": "2070fec1-c8fb-4aec-9234-e04faeb33d46",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #929)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11150,11 +11150,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "463c658a-32f5-4973-b0c2-fec5752be727",
+    "id": "f16f9a2e-f1e3-4e51-8c53-8638a4b70729",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #930)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11162,11 +11162,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9769fd4c-20b1-4ec3-9386-e744fd05295a",
+    "id": "0b27d5f7-a720-48f7-8a4b-1cd3bf8a9ac3",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #931)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11174,11 +11174,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8b9e50bd-37d8-43dd-a308-5436cb95b6e7",
+    "id": "ed31c87f-7acf-4a7c-a5fe-565182f1fa7b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #932)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11186,11 +11186,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "057c9496-2f0c-403f-a506-0eea42b96969",
+    "id": "21a71410-921a-46db-bb42-54259e858a49",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #933)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11198,11 +11198,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "546e7dc7-8c6f-44d3-871f-8ed0300c6c0a",
+    "id": "750750ec-e0e9-400c-a8bf-fd511df32320",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #934)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11210,11 +11210,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "c88adc1d-e647-4ad2-898f-41a38d6f62a0",
+    "id": "bfe01d41-08d5-43c9-b28f-2caccbe6ae6c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #935)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11222,11 +11222,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2638bfe9-9d94-4f95-a7ac-092c1e86f3de",
+    "id": "a0ac2343-d83e-4bd5-8615-b18f99b132f0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #936)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11234,11 +11234,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bbe084ee-fdac-4f32-b70f-c257b04f8633",
+    "id": "f4e2fc69-e5be-4700-bddd-1f85836eabf2",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #937)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11246,11 +11246,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9e1267e6-e5f5-4761-9a66-01df4c6f2ff1",
+    "id": "a8ed3268-9843-4f94-bf5c-4a2e4edab366",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #938)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11258,11 +11258,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "d9895705-cf44-4dee-a9f0-8188eb36a2b6",
+    "id": "cb645c23-0e64-4e3d-8bbd-bb2346f054a5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #939)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11270,11 +11270,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f5cdf7a2-634a-449a-951a-c6e4f16b8212",
+    "id": "d1235c2b-e1f1-4752-af2e-6d3cf3882794",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #940)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11282,11 +11282,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8ca3986b-2041-4679-a13b-7ae37947b2bd",
+    "id": "bcb155f0-e66f-4cdf-a602-1791f45ae4ef",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #941)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11294,11 +11294,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "19978bc7-c7e2-4fb6-a713-6cce671e9fe7",
+    "id": "15cce27c-7ef9-4c64-b4ab-a769ae25f173",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #942)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11306,11 +11306,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fc9a69f1-55ad-4a68-bc88-3cef30916765",
+    "id": "608af674-9092-441d-9db0-765e912bd5ad",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #943)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11318,11 +11318,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fb1bf9cd-7b9c-4f75-909b-60f10db59651",
+    "id": "2aa81b4d-1bba-4903-aa2c-c0640ac2c8e4",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #944)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11330,11 +11330,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f6501e0b-d091-4cdd-a566-ec31c11ba433",
+    "id": "b7fef9d5-5ed1-4d05-b4cc-6cd66ea54af7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #945)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11342,11 +11342,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "38d3cd7d-fdac-45b0-bf8a-47096760470a",
+    "id": "4bd38507-b4e4-4240-91f4-6a99a26a1470",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #946)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11354,11 +11354,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7909af3e-c16e-4bd9-84e3-3b2b4cd3dbcf",
+    "id": "0299c473-fd54-4d62-a0ca-c63afe7f9d07",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #947)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11366,11 +11366,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "a0efef32-4091-4fb8-9a2d-96fe35ead7c1",
+    "id": "3835bef3-60d8-4199-a926-3599221840de",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #948)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11378,11 +11378,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0df3c169-7590-43b3-80a7-353f4aeea2b7",
+    "id": "1556c2f9-eb3a-4e41-8a45-0e32cbb57c19",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #949)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11390,11 +11390,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dc903cca-f7a9-4469-bc26-2d5b82d63add",
+    "id": "3cd950ac-0e8c-46c8-986a-417a9f0e4fd9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #950)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11402,11 +11402,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "6e493540-40dc-4c4a-ad0e-cd869a7eeb09",
+    "id": "32236d19-19b7-4ae8-9963-42c6aff994cd",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #951)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11414,11 +11414,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "9f45cc6e-bc47-4310-aa33-2195f0befc4e",
+    "id": "02556896-e46d-42d2-930d-5c80f1f4025e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #952)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11426,11 +11426,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "15a0afeb-3591-49e9-a3fc-f6f4a46ff660",
+    "id": "22168b34-4286-4446-88a2-ae6512e883a9",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #953)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11438,11 +11438,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "419ddc72-f243-4f8c-8866-aa605bdc5dc6",
+    "id": "85aa1194-4c4a-409f-a1a0-ff6e4ee0b4d1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #954)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11450,11 +11450,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0a503291-bfc2-462e-8b53-2a07b4c29977",
+    "id": "fe75289b-97b1-448c-97a6-5820baffe2d6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #955)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11462,11 +11462,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3a798b85-6a8d-4598-8462-749c62f9c606",
+    "id": "dcacdd01-36d1-4a30-aa5b-6459bedde5ca",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #956)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11474,11 +11474,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "12b9c780-f5da-492c-925c-0fdc7fe3a5bd",
+    "id": "a38c2b3c-c668-4109-a207-cf24e9d1d0b8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #957)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11486,11 +11486,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b11373ce-9e6d-4944-a0f5-4679d744e2f9",
+    "id": "a3f9cb49-88f8-4fc6-ad86-a610b12abb05",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #958)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11498,11 +11498,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b57aabd1-de81-4b40-abc6-fdcbada9df6b",
+    "id": "977cecba-6dc5-4ee2-bd14-8cf7fee164fc",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #959)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11510,11 +11510,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "13dda3ba-ea83-4468-b976-791694177779",
+    "id": "fd850104-7453-498c-9bdf-018459504878",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #960)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11522,11 +11522,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "75a23e93-41f7-4631-9129-bb3709be3ebb",
+    "id": "42aa917b-8c81-4cbb-996a-7df0e11863b0",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #961)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11534,11 +11534,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "26d73829-54a8-4093-8086-4f88ecf8bc00",
+    "id": "f50a252b-f2b8-465c-82df-5d87dbfb80be",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #962)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11546,11 +11546,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f483d4e6-20ce-46ef-8921-c527931d8573",
+    "id": "65b4c718-7698-45c1-9855-ed426a189a5a",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #963)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11558,11 +11558,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "02a17570-8dbd-47a7-9695-6807bac5c4dd",
+    "id": "8d5637e6-e3c1-47c6-9a0e-8f3fe6a3c55e",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #964)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11570,11 +11570,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "0e351863-aeea-4f3f-be15-007018f9ead5",
+    "id": "5f70b3b3-f4d1-4658-ad15-58b513898310",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #965)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11582,11 +11582,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e98f4322-d9b3-402a-a638-ce09162c54b0",
+    "id": "c62243d1-07a5-48f6-a7f8-e80526826f47",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #966)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11594,11 +11594,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "daa8062a-f405-4ce5-a0b2-c5505bb2dcc7",
+    "id": "e05aafd0-cc57-4cdb-ab5b-892010dcff02",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #967)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11606,11 +11606,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b37c53f0-388a-459f-ac90-50983e985bde",
+    "id": "16fb1838-e355-475a-a017-c29cc22403a5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #968)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11618,11 +11618,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "3e3ab93d-73a4-4ba4-9b81-5bbf2500a60a",
+    "id": "39d93d6d-d49a-44b6-9a32-383ce21bb011",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #969)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11630,11 +11630,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "84d5d2cf-09a2-41fe-892e-8d8ac949da0a",
+    "id": "b9539a9d-7d65-469f-b4b3-dabc53bb71c5",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #970)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11642,11 +11642,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "29db4a5a-2f12-41bf-a3f0-c0f3dc452081",
+    "id": "60481446-ef2f-4dbe-bc3e-f8ea87273644",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #971)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11654,11 +11654,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5fb46c9f-bb61-4e4d-b76e-1dd699d446f7",
+    "id": "10b7f4af-fb24-497e-b886-0fa3d730098b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #972)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11666,11 +11666,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dfd52da4-df23-47fb-b9d5-8bf6bd3a271b",
+    "id": "1b1f95cc-190c-4655-be4f-4bcbe74ba96d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #973)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11678,11 +11678,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "792e1b4b-82d4-4ef3-98c6-cb2a6522b720",
+    "id": "8659ac8b-4cb3-4b27-9c8c-fe5b968a7aba",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #974)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11690,11 +11690,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "ff205115-d039-43a1-9a23-9fdc5bc6313f",
+    "id": "1993fa54-90bb-4825-be39-10a554047866",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #975)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11702,11 +11702,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "2eb553bf-27b0-4612-aaf6-7fbc933db1ae",
+    "id": "a501cee7-75a2-48c4-a55f-3d87eb5097db",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #976)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11714,11 +11714,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f4db99c6-41f1-4f9c-93dd-2b491d416120",
+    "id": "37746dee-c765-4afd-abfc-0d2b2df1a898",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #977)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11726,11 +11726,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "10d1b1be-00da-400e-a583-7c440d77d8c6",
+    "id": "2dd700d3-1b65-40fd-9ca9-26a965456868",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #978)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11738,11 +11738,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "604df1e5-10c4-4f3e-83cc-3a9a4eff0770",
+    "id": "61817d6b-9ab1-4899-8525-62f87cb98262",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #979)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11750,11 +11750,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bce24022-2891-4846-a25a-4fd7d0a5a477",
+    "id": "06e7f3e6-4aa8-4f1a-ad38-bd2c875de025",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #980)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11762,11 +11762,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b7ba1531-939b-4648-869f-b8fff4432fac",
+    "id": "83cf1a33-d87b-409a-bde3-ffebc2c97051",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #981)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11774,11 +11774,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "fddfcad3-a355-4b5a-bb53-e072a464d087",
+    "id": "3a161f81-817b-46f6-b6fc-187170c4474c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #982)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11786,11 +11786,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1806002b-882b-4b40-9f64-ba05771ba4db",
+    "id": "9cffd5a6-531f-432b-9456-653866205d98",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #983)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11798,11 +11798,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "7abe11e8-c343-4812-9133-c1d685e331c5",
+    "id": "987e2556-1767-4dd5-ab21-a6b6867b5820",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #984)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11810,11 +11810,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "28943fa3-2e70-46f0-a71b-a104e84bee43",
+    "id": "b39daa79-86f3-410e-ab14-97a821449036",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir?? (Kart: #985)",
+    "front": "Türkiye'nin kuzey-güney kuş uçuşu mesafesi kaç kilometredir??",
     "back": "666 km",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Enlemler arası mesafe her yerde 111 km'dir, 6 enlem farkı 666 km kuş uçuşu mesafe yapar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11822,11 +11822,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "dd7813de-8039-48f7-b127-c1498b6aa111",
+    "id": "eeca2f6a-eecf-43e6-83d7-4b72e2c0486f",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer?? (Kart: #986)",
+    "front": "Yıl boyunca ortak (ulusal) saat olarak kullandığımız 45° Doğu boylamı hangi ilimizden geçer??",
     "back": "Iğdır",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "2016 yılından itibaren kışın da yaz saati olan +3. saat dilimi (45° Doğu Iğdır) kalıcı olarak kullanılmaktadır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11834,11 +11834,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "b8458afc-fade-4c5c-8873-44ee57af1385",
+    "id": "c2fd2ff6-9f44-4e75-8c34-1e0d878cc888",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur?? (Kart: #987)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin en uzun kara sınırına sahip olduğu komşusudur??",
     "back": "Suriye",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Suriye sınırımız demiryolu bağlantısı da olan, en düz ve en uzun kara sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11846,11 +11846,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "197b16f6-0321-4283-9ecc-156f40bab96b",
+    "id": "3cc1658c-fe9a-45c7-b8cc-fab28a3309a1",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir?? (Kart: #988)",
+    "front": "Türkiye'nin en kısa kara sınırı hangi ülke iledir??",
     "back": "Nahçıvan (Azerbaycan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Nahçıvan sınırımız Dilucu sınır kapısıyla bağlı olduğumuz en kısa sınırımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11858,11 +11858,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "70a834bf-592f-4424-8beb-2fe8a5dca8d0",
+    "id": "9ccfb503-df07-4889-b191-e0b3e4de2ca8",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir?? (Kart: #989)",
+    "front": "1639 Kasr-ı Şirin Antlaşması ile belirlenen ve günümüze kadar en az değişen sınırımız hangi ülke iledir??",
     "back": "İran",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "İran sınırımız Zagros Dağları'nı takip eder ve 1639 Kasr-ı Şirin Antlaşması'ndan beri değişmemiştir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11870,11 +11870,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "da68211d-9452-4f72-8c03-e5dc7be876e0",
+    "id": "0a2c9fa0-7972-43b6-b3e8-001fce413ae6",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı? (Kart: #990)",
+    "front": "Türkiye'nin Avrupa'ya açılan en işlek kara ve demiryolu sınır kapısı?",
     "back": "Kapıkule (Bulgaristan)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Kapıkule Avrupa'ya açılan en işlek kara ve demiryolu gümrük kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11882,11 +11882,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "8f16c144-b069-49f2-a411-10253ece25cb",
+    "id": "64abcdaa-9d76-408c-8edd-7a90d3b02faa",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı? (Kart: #991)",
+    "front": "Türkiye'nin Irak ile olan ticaretinde en yoğun kullanılan sınır kapısı?",
     "back": "Habur",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Habur sınır kapısı Irak ile olan ticaretimizin ana can damarı olup en işlek Ortadoğu kapımızdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11894,11 +11894,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "db85181a-b50e-4184-a354-a03f9778f6a9",
+    "id": "4e548482-25cb-4821-973d-2dcf779d3424",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı? (Kart: #992)",
+    "front": "Türkiye'nin Gürcistan ile bağlantısını sağlayan ve Doğu Karadeniz ticaretinde büyük önemi olan sınır kapısı?",
     "back": "Sarp",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sarp sınır kapısı Gürcistan ile olan sınırımızda yer alır ve Kafkasya'ya kimlikle geçiş sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11906,11 +11906,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "5e73948a-da24-465f-9c70-f94f446de5e0",
+    "id": "d6ac9c85-de9f-4acd-9751-8a0bf52e20d7",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları enlem olarak? (Kart: #993)",
+    "front": "Türkiye'nin matematik konum koordinatları enlem olarak?",
     "back": "36°-42° Kuzey enlemleri",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Ekvator'un kuzeyinde olmamız nedeniyle gölge yönü öğle vakti daima kuzeyi gösterir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11918,11 +11918,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "64a50be8-a52a-4181-b09f-961dfcdd30de",
+    "id": "8c1b6b29-8284-4c83-ad55-cde63931bd02",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin matematik konum koordinatları boylam olarak? (Kart: #994)",
+    "front": "Türkiye'nin matematik konum koordinatları boylam olarak?",
     "back": "26°-45° Doğu boylamları",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Doğu-batı yönlü 19 boylam farkı ülkemizde 76 dakikalık yerel saat farkına yol açar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11930,11 +11930,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "1f18e322-169b-45c8-82fb-613cbc71a27b",
+    "id": "06517bdf-3817-40a2-aef1-03f2f83e339b",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir?? (Kart: #995)",
+    "front": "Aşağıdakilerden hangisi Türkiye'nin orta kuşakta yer almasının kanıtlarından biri değildir??",
     "back": "Ortalama yükseltinin fazla olması",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orta kuşak kanıtlarını Akdeniz iklimi, Batı rüzgarları, Cephe yağışları ve Dört mevsim (A-B-C-D) olarak kodlayabilirsiniz.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11942,11 +11942,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "f6d0c24c-dec2-42f0-bfb3-6e92ca151e77",
+    "id": "46400e7b-8798-462a-9cb7-8e770c4aba6d",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en kuzey uç noktası? (Kart: #996)",
+    "front": "Türkiye'nin en kuzey uç noktası?",
     "back": "Sinop - İnceburun",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sinop İnceburun en kuzey noktamız olup, yer çekiminin en fazla, çizgisel hızın en az olduğu yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11954,11 +11954,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "69e4ddac-94e5-46af-9aea-33d504551c90",
+    "id": "f3b82f8c-12e3-40d5-b818-16e6bff9b363",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en güney uç noktası? (Kart: #997)",
+    "front": "Türkiye'nin en güney uç noktası?",
     "back": "Hatay - Topraktutan (Beysun)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Hatay en güney noktamızdır ve güneş ışınlarını en büyük açıyla alarak çizgisel hızı en yüksek olan ilimizdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11966,11 +11966,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "e5281908-f1e9-47a0-b673-3f76976cf31a",
+    "id": "4a536444-7c1f-44e3-a9e9-6efe202f466c",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en batı uç noktası? (Kart: #998)",
+    "front": "Türkiye'nin en batı uç noktası?",
     "back": "Çanakkale - Avlaka Burnu (Gökçeada)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Çanakkale Avlaka Burnu en batı noktamızdır ve güneşin en son battığı yer burasıdır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11978,11 +11978,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "bf302ae0-d36f-4391-adae-00dd5f3b6bea",
+    "id": "e3270046-7bfe-4cbd-94f4-33a722817e99",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğu uç noktası? (Kart: #999)",
+    "front": "Türkiye'nin en doğu uç noktası?",
     "back": "Iğdır - Dilucu",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Iğdır Dilucu en doğu uç noktamızdır ve güneşin en erken doğup en erken battığı yerdir.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11990,11 +11990,11 @@ export const flashcards_turkiyenincografikonumu: Flashcard[] = [
     ]
   },
   {
-    "id": "70c41390-b64e-411d-bbf8-f8530c74cf83",
+    "id": "e7798e64-7d1e-42a0-820e-d9937a596721",
     "topicId": "turkiyenin-cografi-konumu",
-    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?? (Kart: #1000)",
+    "front": "Türkiye'nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır??",
     "back": "76 dakika",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Boylam farkı yerel saat farkını belirler, 19 boylam x 4 dakika = 76 dakika sabit fark vardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",

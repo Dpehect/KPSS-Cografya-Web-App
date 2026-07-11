@@ -18,7 +18,7 @@ export const iklimvebitkiortusu: Topic = {
       "İzlanda ve Asor ise dinamik kökenli basınç merkezleridir.",
       "Kıyı ile iç kesimler arasında iklimin hızla değişmesi özel konumun (dağların uzanışı ve yükselti) sonucudur."
 ],
-    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
+    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
   },
   {
     heading: "Türkiye'yi Etkileyen Rüzgarlar ve Yağış Oluşum Tipleri",
@@ -28,7 +28,7 @@ export const iklimvebitkiortusu: Topic = {
       "Karadeniz'deki orografik yağışlar, dağların kıyıya paralel ve hakim rüzgar yönüne dik uzanmasının bir sonucudur.",
       "Lodos rüzgarı denizcileri etkiler, karları hızla erittiği için çığ ve taşkınlara yol açabilir."
 ],
-    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Türkiye'deki İklim Tipleri (Karadeniz, Akdeniz, Karasal)",
@@ -38,7 +38,7 @@ export const iklimvebitkiortusu: Topic = {
       "Yağışların mevsimsel dağılışında en çok yağış düşen dönemler: Karadeniz -> Sonbahar, Akdeniz -> Kış, Ilıman Karasal -> İlkbahar, Sert Karasal -> Yaz mevsimidir.",
       "Güneydoğu Anadolu, Akdeniz yağış rejiminin etkisinde olmasına rağmen, Basra alçak basıncının getirdiği şiddetli buharlaşma nedeniyle Türkiye'nin en kurak bölgesidir."
 ],
-    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
+    imageUrl: "/images/topics/mavi_vatan_1783727834384.png"
   },
   {
     heading: "Bitki Örtüsü Sınıflandırması (Orman, Çalı, Ot Toplulukları)",
@@ -48,7 +48,7 @@ export const iklimvebitkiortusu: Topic = {
       "İç Anadolu'da meşe ormanlarının tahrip edilmesiyle ortaya çıkan bozkırlara antropojen bozkır denir. Bunların arasında tek tük ağaç topluluklarına rastlanması eski orman varlığının kanıtıdır.",
       "Türkiye'de orman üst sınırı sıcaklık ve enlem etkisi nedeniyle en yüksek Doğu Anadolu'da, en alçak ise Karadeniz kıyılarındadır."
 ],
-    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
+    imageUrl: "/images/topics/sinir_kapisi_1783727826782.png"
   },
   {
     heading: "Endemik ve Relikt Bitkiler: Türkiye'nin Bitki Zenginliği",
@@ -58,7 +58,7 @@ export const iklimvebitkiortusu: Topic = {
       "Sığla yağı, gövdesinden elde edilen çok özel bir salgıdır ve tarihi antik döneme kadar uzanan kozmetik/ilaç sanayi hammaddesidir.",
       "Mikroklima alanları relikt bitkilerin günümüze kadar ulaşmasında en önemli koruyucu sığınaklar olmuştur."
 ],
-    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Sıcaklık Dağılışı ve İzoterm Haritalarının Yorumlanması",
@@ -68,7 +68,7 @@ export const iklimvebitkiortusu: Topic = {
       "Güneydoğu Anadolu'nun yazın Akdeniz'den sıcak olmasının nedeni karasallık (nem azlığı) ve güneyden esen kuru rüzgarlardır.",
       "Yıllık sıcaklık farkının en az olduğu bölgemiz nemlilik nedeniyle Karadeniz, en fazla olduğu bölgemiz ise karasallık nedeniyle Doğu Anadolu'dur."
 ],
-    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
+    imageUrl: "/images/topics/turkiye_golleri_1783727842204.png"
   },
   {
     heading: "Nemlilik ve Yağış İlişkisi (Mutlak, Maksimum, Bağıl Nem)",
@@ -78,7 +78,7 @@ export const iklimvebitkiortusu: Topic = {
       "Güneydoğu Anadolu'da yazın bağıl nemin aşırı düşük olması, havada nem açığının (yağış uzaklığının) en yüksek olduğunu gösterir.",
       "Mutlak nem kıyılardan iç kesimlere gidildikçe ve yükseldikçe hızla azalır."
 ],
-    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
+    imageUrl: "/images/topics/fay_hatlari_1783727849459.png"
   },
   {
     heading: "Kar Yağışları, Karın Yerde Kalma Süresi ve Don Olayları",
@@ -98,7 +98,7 @@ export const iklimvebitkiortusu: Topic = {
       "Kızılçamlar kolay yanabilen reçineli yapıya sahiptir. Bu yüzden yazın Ege ve Akdeniz'de orman yangını riski çok yüksektir.",
       "Meşe ağacının Türkiye'nin hemen her yerinde yetişebilmesi, toprak ve iklim seçiciliğinin en az olmasındandır."
 ],
-    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
+    imageUrl: "/images/topics/ruzgar_haritasi_1783727857236.png"
   },
   {
     heading: "İklim Değişikliği ve Türkiye'nin Gelecekteki Su Stresi",
@@ -108,7 +108,7 @@ export const iklimvebitkiortusu: Topic = {
       "İklim değişikliğiyle birlikte Akdeniz iklim kuşağı kuzeye doğru kaymakta, İç Anadolu ve Güneydoğu'da yarı çöl iklimi özellikleri belirmektedir.",
       "Su tasarrufu için damla sulama yöntemleri ve kuraklığa dayanıklı tohumların kullanımı hayati önem taşımaktadır."
 ],
-    imageUrl: "/images/topics/ruzgar_haritasi_1783727857236.png"
+    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
   }
   ],
   mustKnow: [

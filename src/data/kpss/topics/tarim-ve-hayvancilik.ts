@@ -18,7 +18,7 @@ export const tarimvehayvancilik: Topic = {
       "GAP sayesinde bölgede nadas alanları hızla azalmış, pamuk ve mısır gibi sulamalı tarım ürünleri birinci sıraya yerleşmiştir.",
       "Makineleşme düzlük alanlarda insan gücüne olan ihtiyacı azaltarak işsizliğe ve dolayısıyla göçe neden olur."
 ],
-    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
+    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
   },
   {
     heading: "Tahıllar ve Baklagiller Üretimi",
@@ -28,7 +28,7 @@ export const tarimvehayvancilik: Topic = {
       "Mısır, Karadeniz'de halkın temel besin maddesi olduğundan ticari değeri düşüktür; Akdeniz'de ise sanayi ham maddesi olarak satıldığı için ekonomik değeri yüksektir.",
       "Çeltik ekim alanlarının akarsu boylarında yoğunlaşması tamamen su kaynakları ilişkisidir."
 ],
-    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
+    imageUrl: "/images/topics/bolgeler_cografyasi_1783726586047.png"
   },
   {
     heading: "Endüstri (Sanayi) Ürünleri ve Devlet Kontrolü",
@@ -38,7 +38,7 @@ export const tarimvehayvancilik: Topic = {
       "Şeker pancarı fabrikalarının çevresinde besi hayvancılığının gelişmesi, şeker pancarı küspesinin çok besleyici bir hayvan yemi olmasındandır.",
       "Pamuk, Güneydoğu Anadolu'da birinci sıradayken, Iğdır ovasında mikroklima olarak üretilir."
 ],
-    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
+    imageUrl: "/images/topics/cografi_konum_1783726519779.png"
   },
   {
     heading: "Meyveler, Yağ Bitkileri ve Mikroklima Alanları",
@@ -48,7 +48,7 @@ export const tarimvehayvancilik: Topic = {
       "Muz, kış ılıklığı isteği en yüksek olan tropikal meyvedir. Türkiye'de sadece Anamur-Alanya arasında mikroklima olarak yetişir.",
       "İncir, yaş olarak taşınması zor olduğundan kurutularak ihraç edilen en önemli meyvelerimizdendir."
 ],
-    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
+    imageUrl: "/images/topics/mavi_vatan_1783727834384.png"
   },
   {
     heading: "Türkiye'de Hayvancılık Faaliyetleri ve Türleri",
@@ -58,7 +58,7 @@ export const tarimvehayvancilik: Topic = {
       "Mera hayvancılığında ise kurak geçen yıllarda et ve süt üretimi hızla düşer, üretimde dalgalanma çok fazladır.",
       "Karadeniz'in balık miktarında birinci olmasının nedeni sularının soğuk, oksijen oranının fazla olması ve plankton zenginliğidir."
 ],
-    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
+    imageUrl: "/images/topics/sinir_kapisi_1783727826782.png"
   },
   {
     heading: "Tarımda Nadası Önlemenin Yöntemleri ve Nöbetleşe Ekim",
@@ -68,7 +68,7 @@ export const tarimvehayvancilik: Topic = {
       "Baklagiller toprağa azot kazandırarak kimyasal gübre ihtiyacını azaltır.",
       "Nöbetleşe ekimin yaygınlaşması, tarım arazilerinin her yıl aktif olarak ekonomiye katılmasını sağlar."
 ],
-    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
+    imageUrl: "/images/topics/yer_sekilleri_1783726529525.png"
   },
   {
     heading: "Organik Tarım ve İyi Tarım Uygulamaları Potansiyeli",
@@ -78,7 +78,7 @@ export const tarimvehayvancilik: Topic = {
       "Ege Bölgesi, organik tarımda hem üretici hem de ihracat merkezi olarak Türkiye'de ilk sıradadır.",
       "İyi tarım uygulamaları, barkod sistemiyle tüketicinin ürünün tarladan sofraya olan tüm aşamalarını takip etmesini sağlar."
 ],
-    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
+    imageUrl: "/images/topics/turkiye_golleri_1783727842204.png"
   },
   {
     heading: "Hayvancılıkta Verimi Artırma Yolları",
@@ -88,7 +88,7 @@ export const tarimvehayvancilik: Topic = {
       "Yerli sığır ırklarımızın (yerli kara, boz ırk) et ve süt verimi düşüktür; Kültür ırkları (Holstein, Simmental) ise yüksek verimlidir.",
       "Besi hayvancılığı yatırımları et ve süt üretimindeki mevsimsel fiyat dalgalanmalarını önler."
 ],
-    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
+    imageUrl: "/images/topics/fay_hatlari_1783727849459.png"
   },
   {
     heading: "Arıcılıkta Flora Çeşitliliği ve Marka Ballarımız",
@@ -98,7 +98,7 @@ export const tarimvehayvancilik: Topic = {
       "Çam balı, arıların çiçek poleni yerine kızılçam ağaçlarında yaşayan böceklerin salgılarını toplamasıyla üretilen özel bir salgı balıdır.",
       "Arıcılık faaliyetleri tarım alanlarında tozlaşmayı (polinizasyon) sağlayarak tarımsal verimliliği de dolaylı olarak artırır."
 ],
-    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
+    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
   },
   {
     heading: "Balıkçılıkta Sürdürülebilirlik Problemleri",
@@ -108,7 +108,7 @@ export const tarimvehayvancilik: Topic = {
       "Ege kıyılarında girintili çıkıntılı koyların varlığı kültür balıkçılığını (çipura, levrek kafes üretimi) çok geliştirmiştir.",
       "Aşırı avlanmanın önlenmesi için av yasaklarının denetlenmesi ve açık deniz balıkçılığının teşvik edilmesi gerekmektedir."
 ],
-    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
+    imageUrl: "/images/topics/ruzgar_haritasi_1783727857236.png"
   }
   ],
   mustKnow: [

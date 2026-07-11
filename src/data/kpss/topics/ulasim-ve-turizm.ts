@@ -18,7 +18,7 @@ export const ulasimveturizm: Topic = {
       "Geçitlerin tamamı engebeli kıyı bölgelerinde yoğunlaşmıştır; İç Anadolu ve Güneydoğu'da yol yapım maliyeti düzlükler nedeniyle düşüktür.",
       "Ovit Tüneli (Rize-Erzurum), Karadeniz'i Doğu Anadolu'ya bağlayan, kışın kapanan yolları açık tutan stratejik bir tüneldir."
 ],
-    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+    imageUrl: "/images/topics/turkiye_golleri_1783727842204.png"
   },
   {
     heading: "Demiryolu Ağı ve Bağlantısı Olmayan Önemli Merkezler",
@@ -28,7 +28,7 @@ export const ulasimveturizm: Topic = {
       "Sinop limanının doğal bir liman olmasına rağmen gelişmemesinin ana nedeni demiryolu bağlantısının olmaması ve hinterlandının darlığıdır.",
       "Zonguldak limanı, taş kömürü ve demir-çelik sanayisi nedeniyle demiryolu hattına sahip nadir Karadeniz limanlarındandır."
 ],
-    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+    imageUrl: "/images/topics/fay_hatlari_1783727849459.png"
   },
   {
     heading: "Denizyolu ve Havayolu Ulaşımı: Limanlarımızın Rolü",
@@ -38,7 +38,7 @@ export const ulasimveturizm: Topic = {
       "Ro-Ro Taşımacılığı: Tır ve kamyonların gemilerle deniz üzerinden taşınmasıdır. Mersin-Trieste (İtalya) en önemli hattır.",
       "OR-Gİ ve Rize-Artvin havalimanlarının denizin doldurulmasıyla yapılma nedeni, bölgede düzlük arazi (fiziki coğrafya engeli) bulunmamasıdır."
 ],
-    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+    imageUrl: "/images/topics/iklim_bitki_1783726537799.png"
   },
   {
     heading: "Türkiye'de Turizm Çeşitliliği ve Potansiyeli",
@@ -48,7 +48,7 @@ export const ulasimveturizm: Topic = {
       "Termal turizm, jeolojik yapıya (fay hatlarına) bağlı olduğu için iklim koşullarından etkilenmez; 12 ay boyunca turizme açıktır.",
       "Palandöken (Erzurum) kayak merkezi, pist uzunluğu ve kar kalitesiyle kış olimpiyatlarına ev sahipliği yapabilecek standarttadır."
 ],
-    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+    imageUrl: "/images/topics/ruzgar_haritasi_1783727857236.png"
   },
   {
     heading: "UNESCO Dünya Kültür Mirası Listesi ve Türkiye",
@@ -58,7 +58,7 @@ export const ulasimveturizm: Topic = {
       "Göbeklitepe (Şanlıurfa), 2018 yılında listeye dahil edilerek dünya arkeoloji tarihini kökten değiştirmiştir.",
       "Safranbolu Evleri (Karabük), korunmuş tarihi mimari dokusuyla yerli ve yabancı turistlerin en çok ziyaret ettiği kültürel miraslardandır."
 ],
-    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+    imageUrl: "/images/topics/nufus_yerlesme_1783726544550.png"
   },
   {
     heading: "Geçitlerin Lojistik Maliyetlere ve Ticarete Etkisi",
@@ -68,7 +68,7 @@ export const ulasimveturizm: Topic = {
       "Gülek Geçidi, Akdeniz kıyı sanayisinin İç Anadolu pazarına ulaşmasındaki en kritik geçittir.",
       "Lojistik maliyetlerin düşürülmesi, Türk ihraç ürünlerinin dış pazarlardaki rekabet gücünü artırır."
 ],
-    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+    imageUrl: "/images/topics/tarim_hayvancilik_1783726552170.png"
   },
   {
     heading: "Kültür Turizminde Doğu Ekspresi ve Demir Yolları",
@@ -78,7 +78,7 @@ export const ulasimveturizm: Topic = {
       "Kars Ani Harabeleri, tren hattının son durağındaki en önemli tarihi ve kültürel (UNESCO) destinasyondur.",
       "Benzer turistik tren projeleri Van Gölü Ekspresi ve Karaelmas Ekspresi hatlarında da planlanmaktadır."
 ],
-    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+    imageUrl: "/images/topics/maden_enerji_1783726561347.png"
   },
   {
     heading: "Kruvaziyer Turizmi ve Önemli Limanlarımız",
@@ -88,7 +88,7 @@ export const ulasimveturizm: Topic = {
       "İstanbul Galataport, tarihi yarımadaya yakınlığı ve modern terminal yapısıyla dünyanın en prestijli kruvaziyer limanlarındandır.",
       "Kruvaziyer turistleri konaklama yapmadıkları için harcamalarını doğrudan yeme-içme, hediyelik eşya ve yerel turlara yaparlar."
 ],
-    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+    imageUrl: "/images/topics/nukleer_enerji_1783727864452.png"
   },
   {
     heading: "Turizm Koridorları ve Bölgesel Markalaşma Projeleri",
@@ -98,7 +98,7 @@ export const ulasimveturizm: Topic = {
       "İnanç koridoru, Ortadoğu ve Hristiyan dünyasından yüksek sayıda kültür turisti çekmektedir.",
       "Yayla koridoru, eko-turizm ve doğa sporları (rafting, trekking) yatırımlarıyla Karadeniz kırsalını kalkındırmaktadır."
 ],
-    imageUrl: "/images/topics/ulasim_turizm_1783726578587.png"
+    imageUrl: "/images/topics/sanayi_ticaret_1783726570829.png"
   },
   {
     heading: "Ramsar Sözleşmesi ve Sulak Alanların Turizmdeki Rolü",

@@ -2,11 +2,11 @@ import type { Flashcard } from "@/types/study";
 
 export const flashcards_iklimvebitkiortusu: Flashcard[] = [
   {
-    "id": "24491043-b90f-4d94-9ec8-dcaa20cff9af",
+    "id": "8f3497bb-011f-48bc-962b-c36b36e6dfb0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #1)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -14,11 +14,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "61df3b66-7714-417c-ad26-e1ad7cd0412e",
+    "id": "65e7d2e1-fbf8-4a0f-a374-b792063b600d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #2)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -26,11 +26,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d0b72ccb-35f3-4ad9-82d6-f76230eaf871",
+    "id": "afe696c6-902b-4148-89f4-d7199341af25",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #3)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -38,11 +38,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f22c500d-9539-4428-87e1-f7710904f1e1",
+    "id": "035bcbcf-931c-45ba-82f7-0522089cb4ab",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #4)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -50,11 +50,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0cbc51f6-b21d-49df-b744-1e16ebad76ae",
+    "id": "6b8cb3b6-b68f-4b4b-b57d-e8cbcb96061b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #5)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -62,11 +62,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "86714961-16c0-423b-86b9-8fe87461debe",
+    "id": "5a07859f-d9d9-4565-802f-18eff7771d9e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #6)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -74,11 +74,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c7e3108a-87df-483e-ad64-623838dd7515",
+    "id": "943185e2-3c4d-4349-9198-192e50b2a942",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #7)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -86,11 +86,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e9f926ba-a3ff-4ba0-8cb1-36495d811b27",
+    "id": "7b99dfe1-5ff0-428f-9dd3-b94d84b46221",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #8)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -98,11 +98,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d23110b5-64bf-4754-9d12-234643d9874e",
+    "id": "24887014-f28d-4821-89e0-532a203cd995",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #9)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -110,11 +110,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9a964587-6255-476d-8506-5d0d87a46d73",
+    "id": "215ccc60-0d48-417f-95f0-1f38c9be1459",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #10)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -122,11 +122,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "649372f5-05e4-4fdb-a5de-2ba27a747c94",
+    "id": "bed2c13d-bd6d-4c42-80f6-e23f0d5c1bfb",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #11)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -134,11 +134,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3183fc1b-d755-467a-9845-584bcdf0fb97",
+    "id": "2e0422b8-2f2e-463e-97cb-7e5a31e7b085",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #12)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -146,11 +146,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bc2e6c80-2331-4ed3-a171-6fa5d04e82a4",
+    "id": "5e712202-56bd-4daa-a25b-2c81fff452e0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #13)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -158,11 +158,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b06ec825-a7be-4219-87a6-f4856df850b3",
+    "id": "5d254156-05de-405d-b436-3bab3e04954f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #14)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -170,11 +170,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7c886792-b776-4826-8069-2c406a9fe42a",
+    "id": "f03b61dd-0084-4a80-931a-ac20dea019e1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #15)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -182,11 +182,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b6edd5c0-2c7d-4dd1-a361-c6efc79279a7",
+    "id": "0242ce98-93dc-4af5-8782-84d2ec357341",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #16)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -194,11 +194,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d7975688-c15a-4715-a22a-221df650e080",
+    "id": "17f219e1-c4dc-4398-bdb1-8ff8778754ef",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #17)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -206,11 +206,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "79a1ccab-a59e-4c4a-947b-4d2634532f12",
+    "id": "48f4f857-82d3-4542-bc39-afbf4c5e7f4a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #18)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -218,11 +218,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ed741f61-c92a-4f23-b76f-5e0058f72b6c",
+    "id": "53328440-33b3-4894-ae5f-8353e7137125",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #19)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -230,11 +230,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "541a7b88-bd12-4643-af2f-3048d82d9300",
+    "id": "a5d33425-aa38-41a4-922e-d3690c50accc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #20)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -242,11 +242,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bac30ce6-0eba-4a46-8519-5815ed552ebc",
+    "id": "cd365bb1-b64f-458c-ae4d-c053f6a0109c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #21)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -254,11 +254,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a983b650-c85b-42ea-96cc-07eb277607ab",
+    "id": "eb8bf530-2ea3-4007-9b8f-cc2ebf40c299",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #22)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -266,11 +266,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "678c2e17-46b4-4a53-ae3a-0df49ba5cdb5",
+    "id": "bdf614f9-2a67-4c79-b22d-39f768b1c9c3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #23)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -278,11 +278,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0b88a3e4-9a8d-4b82-881a-ab97951eaeeb",
+    "id": "c9e223b8-599f-4a05-bafb-fc0ccb056343",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #24)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -290,11 +290,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ebf41bf6-6007-4f93-a4a9-f7f4c793c575",
+    "id": "5a5f4b2a-0d3d-434c-858f-384c4bcc4d62",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #25)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -302,11 +302,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0163c9bd-4a7a-405d-b27c-17b4f6ee1717",
+    "id": "42df74e1-be28-4f59-a0b0-ed9879223863",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #26)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -314,11 +314,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "49579dfc-8290-4ee0-a640-8a2c2e7da23d",
+    "id": "38aac4bc-e075-498c-9015-91fdd7220b47",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #27)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -326,11 +326,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a7f57631-d552-4436-b2a4-780de7f8c185",
+    "id": "d1814b50-e4e0-4e56-8b2f-bcb07b01781c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #28)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -338,11 +338,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "11a2fbbb-e4bd-48f8-8c6e-0cd352714005",
+    "id": "66a35281-6692-4353-96bc-3d9046b8f7d2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #29)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -350,11 +350,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "46ab679d-6e6d-448e-aca2-222e06adde29",
+    "id": "8af5df47-65c5-45c8-be03-0a67537010b6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #30)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -362,11 +362,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "49f36d81-f55c-4f9d-b8a9-d4612e4b8ef4",
+    "id": "a28d550e-ccb0-4b05-88e1-7145f6e7842f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #31)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -374,11 +374,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b5dd82f2-1b70-4e1f-b52b-5fb4f9ccf1b2",
+    "id": "2a609730-2940-48c2-b250-865906655770",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #32)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -386,11 +386,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3d45f32e-6b5e-4848-b3db-7c53c06b2f5e",
+    "id": "0497ce7f-9379-46fc-a0c3-273806c1ecb9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #33)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -398,11 +398,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "329a2219-dfa1-413c-993d-e20aac20db3b",
+    "id": "2ac0fcd3-fb48-44b3-b4a7-e1334131cdfb",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #34)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -410,11 +410,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8eda7b7c-ef46-47b0-b764-e3ca45713cbe",
+    "id": "4f1fdf09-1a0d-4fbc-879b-5f884d79993e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #35)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -422,11 +422,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a2c6627b-c453-47da-a621-4bffa801b914",
+    "id": "b7ab7033-bc8b-4ab9-a49e-a1504c4e5b52",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #36)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -434,11 +434,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "26e8117e-3f4c-4761-ac25-a48d097c546b",
+    "id": "1b40f344-2376-4cce-8c67-0c58d9245101",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #37)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -446,11 +446,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0768e053-5afb-412c-b079-8f9583ec85a9",
+    "id": "e062182a-ca20-4913-a322-c962947652e5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #38)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -458,11 +458,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f0f7e91b-a52c-41f4-ad24-d341ba748c92",
+    "id": "35498c9e-ab28-4702-b66b-c53de81e5715",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #39)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -470,11 +470,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3893c751-500e-434e-b75d-8b6a31478bdf",
+    "id": "3966fa6b-8b49-4886-b4c8-1777f26311be",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #40)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -482,11 +482,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "de63ca5d-e771-4c90-ae91-aea5232b9ac7",
+    "id": "002dbc5e-71ba-47d4-8c4e-1111230c8d6c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #41)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -494,11 +494,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "19ccf64a-1555-4a17-8143-ddcb60194715",
+    "id": "3dc2ebc2-effc-4f1e-8682-099f509685b2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #42)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -506,11 +506,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5d28d2e5-d560-445d-953c-dc84c3431803",
+    "id": "10e2623f-493e-47ea-9e9f-36054fb378de",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #43)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -518,11 +518,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "78db609f-a00e-4a88-bd65-8071431791f0",
+    "id": "2d5c354d-6a10-42c9-b0c3-aacb143ffb00",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #44)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -530,11 +530,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b03ec8f7-5f06-412a-9a96-f0a3f8fec33c",
+    "id": "77f3e7b6-c933-46a6-8e9e-87b5ad779bc2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #45)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -542,11 +542,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d78a7e76-0c0a-4c7d-8517-86def9fbe480",
+    "id": "f698bc62-90de-4a7b-baf6-95fb8bd49989",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #46)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -554,11 +554,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5de83ab4-436f-4d12-8048-b451fa67a38a",
+    "id": "79fda0bc-d727-48ac-800b-46b8a69e2189",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #47)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -566,11 +566,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fdee462e-1588-4ce1-9be9-df344982e454",
+    "id": "f660295d-8d62-4fba-bf89-ac6b6d9b14c3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #48)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -578,11 +578,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "72dc6ed9-40e6-4d93-a6ff-dbc945c38d2c",
+    "id": "713c7734-1d85-4508-936f-e1ccd96c62a7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #49)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -590,11 +590,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b6d89175-faac-4296-a209-246b015a4888",
+    "id": "43b7d7bf-1434-4827-b120-cbf4519ac1e3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #50)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -602,11 +602,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "39c73781-7265-4c98-b647-d1930b38f96c",
+    "id": "fe0b4388-cd3d-4261-a8b8-adb1ab5a3d6f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #51)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -614,11 +614,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "83049f3e-1e9e-4b29-a19b-314f60b5cf3c",
+    "id": "64ec7a8c-4e0d-40de-a39d-a81910d67e88",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #52)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -626,11 +626,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4b719e0c-b723-4e74-84b6-eaf7a8529b79",
+    "id": "004861d2-81b6-4d18-9081-7ab73a15d0eb",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #53)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -638,11 +638,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a73f6e95-2849-43f3-b93f-30c64c312a35",
+    "id": "6ee1a1b1-ff43-4933-a382-a40ce9d2c356",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #54)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -650,11 +650,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "def53527-e8c2-442a-a114-8de06e3c29fe",
+    "id": "4e7979d1-d62c-41b7-bf84-1bbe3634ae88",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #55)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -662,11 +662,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4e306a53-34aa-422a-aea9-cd844a43733d",
+    "id": "834721d5-ebc3-44be-926e-309487e0331c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #56)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -674,11 +674,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e30f15ad-49d1-45f0-8ba7-cdec92103062",
+    "id": "6ab5d0b4-9a93-49ed-8f2c-717dd349bdd4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #57)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -686,11 +686,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cad7e1df-964c-4d37-a427-19e3fabe90a3",
+    "id": "84b2521a-1699-459f-bf35-5a2d41d255b3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #58)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -698,11 +698,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "74b2df97-e8d5-47ea-849e-6932ee18ba32",
+    "id": "b45fdcca-5bb9-4d83-bdf3-f8f2126d11ff",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #59)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -710,11 +710,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a92ab40d-7997-4721-8a34-ac9b38a2f9ce",
+    "id": "73499af3-92a7-409f-b343-d5f70deff16d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #60)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -722,11 +722,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2d7eb9fd-fe47-4b66-9b1b-6abc360defaa",
+    "id": "f49dcf09-183a-4d48-88a7-5ac0edc27494",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #61)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -734,11 +734,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "468960a0-9dbc-49f6-8937-ca259ea6733a",
+    "id": "7e57971e-5e55-4a24-88da-37ac98ca3ed5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #62)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -746,11 +746,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "666edb0c-ce8b-434c-81dc-7e9e116205c4",
+    "id": "010d0fd1-919c-49c4-9d45-8e9ef26d03ea",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #63)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -758,11 +758,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bd943da0-5580-4ea2-9863-af9e8209c9a0",
+    "id": "9d9c74a4-ce03-4832-91b7-d94f10c663b7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #64)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -770,11 +770,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "93beaa29-c6d5-4566-90b1-5026c2297941",
+    "id": "f7dbe23b-b9ca-4b81-bcee-cda8860bb8b9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #65)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -782,11 +782,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6f50b008-2eb9-41bc-8726-0a313fadef8d",
+    "id": "9135a1f6-6e19-4e0f-a3c2-c053ccf4ee6e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #66)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -794,11 +794,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c855ceeb-e300-4cd4-973e-da065be194a7",
+    "id": "1d86c9f5-15b6-4290-aab6-fa31b33f0d4c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #67)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -806,11 +806,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6177182e-4377-45fa-bccb-394e9ad5e679",
+    "id": "9dd46ee6-b161-47f8-b503-96dd6da21fef",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #68)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -818,11 +818,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "92c76443-64bd-4c83-b122-2a11b3f953d8",
+    "id": "c35e04cf-97d5-4842-b7c5-10814dfcb01d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #69)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -830,11 +830,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "24012c75-0c9d-472b-a1c8-f7987f3cb90d",
+    "id": "69dfe6c2-f904-4e9d-b20b-92beaf25865c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #70)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -842,11 +842,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ac1071c1-ee57-4918-8166-5c888b0ffb67",
+    "id": "9ca7287d-a131-4f90-a667-7a51eff3ba4d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #71)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -854,11 +854,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2ff4a6f7-93f0-4396-8ce9-fbd219f0a3ee",
+    "id": "8ce11dd5-0c2d-4e9c-9a91-d4431bcef101",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #72)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -866,11 +866,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "13f2bebb-4754-410d-a050-05c22d9735bc",
+    "id": "5c12baa9-3f48-4a43-b474-1be8c858c067",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #73)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -878,11 +878,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e458ea82-f511-42db-82ce-addce597d5a4",
+    "id": "ee088b07-8a6f-45f2-8cad-bfd73aa627d3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #74)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -890,11 +890,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f5b2a1f9-e452-437a-a8d2-643a51296608",
+    "id": "fd90e2b5-c784-436c-8c5d-f9e1f8241063",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #75)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -902,11 +902,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d6c30010-2958-413e-badb-fdd66f34029a",
+    "id": "d9d6ee82-9813-43ea-94af-a81a150d8cb1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #76)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -914,11 +914,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3bbc44ea-494d-446e-bb9e-bd69cf9c38e4",
+    "id": "2d79ef92-7519-4646-a9fa-903dfc4d7a23",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #77)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -926,11 +926,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f689fff2-2f59-484c-9e4f-942d35bafcd7",
+    "id": "28ba12cd-e767-49e5-895e-999de34d1b25",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #78)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -938,11 +938,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b0e3d0e3-1a75-40bd-889b-cda3485dd861",
+    "id": "15a2a420-04b1-47a1-b12c-5999a9cb5a36",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #79)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -950,11 +950,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "54cceab1-792d-4344-ad3c-4bf4652ca110",
+    "id": "7669a99e-5acb-4acc-a672-e5dbb0175d2f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #80)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -962,11 +962,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "762be350-a0a4-449f-916a-f91a2a0feda0",
+    "id": "4498f78b-f40a-4042-bc22-0a7cd9fba6f6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #81)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -974,11 +974,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "76be979e-fb2b-4260-9534-318008c58ece",
+    "id": "9c336304-4111-401b-9990-08b750912a97",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #82)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -986,11 +986,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3e8a5d1f-0530-4717-b438-5f07a8889ce3",
+    "id": "859d70f9-0122-4556-99d1-8d45f7664fd7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #83)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -998,11 +998,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "486f483b-0eb0-4bb9-8416-94ba8e3def48",
+    "id": "8be9a82e-0806-4599-8c20-a1ed0a3991a4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #84)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1010,11 +1010,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b2d8a7cb-0758-4e55-ae7d-f237755fcd7c",
+    "id": "6277d1a0-da86-4bee-abc2-2d02cc6daee4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #85)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1022,11 +1022,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e6b95ae9-b012-49dd-9796-ee264defdd25",
+    "id": "c52cd48f-5c7b-4b76-83f2-4c60fef125fd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #86)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1034,11 +1034,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b60d3e06-d11a-4e0a-9a37-8c17d173b9d4",
+    "id": "cbe38775-285e-4efa-909d-6faf35c61a9d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #87)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1046,11 +1046,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5f13d408-242e-4d4a-bc02-1ec399e7a158",
+    "id": "d43afe0f-67b5-45c2-a88c-41e12853b013",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #88)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1058,11 +1058,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "43cc3a81-6ee6-4b23-9a3c-64c2602a1732",
+    "id": "47a9ee6b-bcc1-4fcd-9c53-9b1b51aba249",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #89)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1070,11 +1070,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ba610684-da11-49df-a3e5-65bec11092a9",
+    "id": "9a21a8f9-748b-46aa-8880-e3a449168a6f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #90)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1082,11 +1082,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "61227f0c-334e-46cc-96ef-0a1fafe92572",
+    "id": "42c7b95a-cb8d-46a9-bba1-6e01dc436632",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #91)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1094,11 +1094,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c43edcce-5573-4680-94b6-b5de69d2e6cc",
+    "id": "b5a2b5bc-9c26-4ed9-9785-d3664ec6521e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #92)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1106,11 +1106,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "63ace094-6b1e-4fe2-ba84-99622e6eec7c",
+    "id": "63cc61ca-cb8f-41f6-9dae-fa0f6c0aed84",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #93)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1118,11 +1118,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "adcf19f9-d5f6-41b2-9405-3067210da470",
+    "id": "1670c10e-ade9-4d54-9713-ccc8a66c2dfa",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #94)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1130,11 +1130,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ae3c6537-7fe7-4e2a-9e17-0ea839d64f4e",
+    "id": "4da364f7-3d9f-4e47-abed-bc281451b117",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #95)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1142,11 +1142,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7ada55ed-b211-4027-a54d-7c12ad4ea58d",
+    "id": "1aeb4c28-6a92-4b04-9694-f4b374b5d730",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #96)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1154,11 +1154,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4daa054c-38a4-40b6-b3e0-6e994fa883d9",
+    "id": "e2b902cc-68e9-49b7-afb8-142093dac028",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #97)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1166,11 +1166,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "25f39034-f84c-4ef0-951e-ee8fdb7d49ce",
+    "id": "3a8c4d3f-7940-4df6-97fc-1219c381df0c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #98)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1178,11 +1178,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e3cfa8a9-feda-44ce-a339-ba1cff9eb815",
+    "id": "845e2c51-a7f3-45a7-91f7-63083eaab222",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #99)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1190,11 +1190,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "27703cad-698f-48fc-89d6-f7cc99f94209",
+    "id": "3e905eec-786e-410f-99e2-de649cf9ab2e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #100)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1202,11 +1202,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c3d145e5-403b-48d4-bbb2-fb72032e51ed",
+    "id": "a623b20f-1c32-4d12-8c62-82f7da494f1b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #101)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1214,11 +1214,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bd7ae0dc-7da2-4974-b0ba-a7e3693f312f",
+    "id": "cf619747-755c-4197-a14e-55ec214c0d67",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #102)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1226,11 +1226,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8d4098fb-b4b1-487a-956f-27bd5ca72021",
+    "id": "b93e8a29-a292-418c-99f5-617370346411",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #103)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1238,11 +1238,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "569faf8f-dbc7-45ac-90bd-92fab9fdaebf",
+    "id": "ed65dc7e-62a8-4b28-b029-5249894780fc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #104)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1250,11 +1250,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "44911164-b458-426a-b667-1cd74f5c21d1",
+    "id": "cf56a297-62ad-4a34-bf4b-c017c5f389e1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #105)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1262,11 +1262,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "44f3a857-9e6d-4b71-9419-a701419a8a3e",
+    "id": "a483517e-4904-407c-9465-74a9501f5159",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #106)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1274,11 +1274,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3787ba3e-a31c-4105-9ff3-dac4bb52e91c",
+    "id": "22af1277-aed1-4f39-a738-0a5c9fbea6e3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #107)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1286,11 +1286,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d011117b-b88d-4889-9d9e-bfaef559cfe1",
+    "id": "631e4ed8-e8f8-480f-a240-074a0ced2fba",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #108)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1298,11 +1298,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2d9ef942-17f9-49e3-8adb-86d224bcd7c6",
+    "id": "95b07d7f-3ed4-4055-87f7-5cb57c438dcd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #109)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1310,11 +1310,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2166f85f-ea7c-4a6b-8b5e-9702d5e0b1f8",
+    "id": "c7af9e7c-55c3-4563-b53a-7977738af98b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #110)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1322,11 +1322,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4ccafffa-4804-49a3-9b88-050508f2a7bc",
+    "id": "a354d973-3fc1-456c-9d75-812ed3c40fa6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #111)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1334,11 +1334,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "719e1f26-6eee-4b26-ba49-5d67f9dc43d7",
+    "id": "0ba5d700-ed0a-4657-9658-c37bd718c46e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #112)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1346,11 +1346,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7e70ca29-8ea3-45c2-9035-4055df360fc8",
+    "id": "0eed7327-7589-441b-99f7-3c8f9abc614d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #113)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1358,11 +1358,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8468c78e-c94c-46da-9e6a-ca70c762408f",
+    "id": "950d8316-d60e-4752-90f5-2afedd8a16e1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #114)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1370,11 +1370,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "14d3461f-4719-4f6c-8a1c-2824a090ee84",
+    "id": "0386ddd8-7f4c-4e3d-80f0-37cdeb857051",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #115)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1382,11 +1382,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bb6944ad-d0c1-4039-9213-f9218fa14815",
+    "id": "23f2f54c-4a3e-4477-b9af-dbcee0b03dec",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #116)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1394,11 +1394,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8859d654-f640-461f-81c1-cf43cc712641",
+    "id": "55125276-a883-49ee-a1a2-ecc7b24ae3d7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #117)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1406,11 +1406,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "152e2816-ec63-4042-9898-7f3dbf418d3f",
+    "id": "9a7d81f6-788e-4fa9-aba2-97dd1742b74e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #118)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1418,11 +1418,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ea806917-af21-4c73-a762-23237228ce6d",
+    "id": "c17bfd6d-99a5-4d2d-8e4f-2687b3a764b7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #119)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1430,11 +1430,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "70a6786c-530a-4832-a3a0-9f3a53e24b90",
+    "id": "13bf3f1a-e388-4828-a1ab-e042e74c1f58",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #120)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1442,11 +1442,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d6605a0a-df2f-4aac-9741-00a1f071e00d",
+    "id": "53ee426c-67f6-41e2-bbf0-f86cc1f4317b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #121)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1454,11 +1454,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cf4a35cf-65da-4d60-950d-ec9811e50904",
+    "id": "a50a005a-b764-4f4a-8099-634f15602b45",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #122)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1466,11 +1466,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bc5c8014-7172-43b0-a98e-019c02b5a579",
+    "id": "90f07b01-2843-4ff9-aa17-d65e53f0857e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #123)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1478,11 +1478,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5a58aeed-b36f-478d-9198-4aa706b0e6f8",
+    "id": "466dc74f-670b-46c5-88be-bcd5a0e2e67c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #124)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1490,11 +1490,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "76b7eef3-6ccd-4929-b04a-0a66c0c73e62",
+    "id": "d2388396-5b5e-47d8-ba2e-e1c5c038239c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #125)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1502,11 +1502,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bedd7d98-e214-4ba7-a52d-a5cbd70a147d",
+    "id": "9319e231-01e5-4009-8fd4-7eafbfb1dc1c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #126)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1514,11 +1514,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f7dad40d-b9f1-4e70-af6a-3cafa2535ae8",
+    "id": "13c21060-5bfd-4568-a22a-5ba91dc559c5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #127)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1526,11 +1526,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0949350d-fee4-4b8a-9744-72bfb0c2f2d2",
+    "id": "0b3768cc-ea4a-46d9-a49d-4f79d34e8926",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #128)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1538,11 +1538,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5c27e933-097e-4340-ab1c-88d654cf065b",
+    "id": "426831d1-50da-45c9-9bc5-92484d44aa03",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #129)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1550,11 +1550,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "567567fb-43f1-4d13-809d-7027cc54b151",
+    "id": "b14aabea-f935-4aee-ba06-cbf8d0cd14a6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #130)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1562,11 +1562,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5d8e4720-3162-4cfa-90cc-91ae77f48d2b",
+    "id": "5f5d58e1-d844-4f08-b441-f5cd53d41e30",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #131)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1574,11 +1574,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4b72496e-2b78-4428-b76b-ccb1ab61e8d6",
+    "id": "852fba51-a43d-494f-b556-ddb74390cbcb",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #132)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1586,11 +1586,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7525c64b-a842-400d-b54c-d7a1703dfc1f",
+    "id": "a6c5d994-5fec-4ee9-82dd-b06d0c25a331",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #133)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1598,11 +1598,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "702f29f0-2db0-4eab-8815-c1c7914b64e1",
+    "id": "1bb58d03-a1a8-4df6-86ac-13d30fa121fd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #134)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1610,11 +1610,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "aaf776fa-0958-49b1-b8c6-2f91e1f705b7",
+    "id": "afe78066-cfbf-4701-a38e-ebddc6edd765",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #135)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1622,11 +1622,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4a1178bb-4089-481b-8fe1-554309f674a5",
+    "id": "e3339f30-e347-4dc8-9bf5-f917ad43f397",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #136)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1634,11 +1634,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "df591e5b-995a-479f-a37d-1858b2e85097",
+    "id": "bee8d69f-036f-4f9d-9d19-ce70a6c01ed8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #137)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1646,11 +1646,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "21bfdddc-8179-4661-93db-ecc830573b45",
+    "id": "e966c297-d602-4b3f-b98a-2450e6d12394",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #138)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1658,11 +1658,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9a4e5882-5415-432d-9cef-70a7eb5fd1eb",
+    "id": "99e00ff2-63db-4b34-a85d-96620e977e76",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #139)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1670,11 +1670,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4c1a8d27-31d3-44db-8b05-dc18581e4736",
+    "id": "f6044eda-ec57-4543-85b3-f3b3d6e23a8e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #140)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1682,11 +1682,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4cb5e733-1256-4d80-b83e-cd86bcace113",
+    "id": "fcaf5d93-8379-4705-8632-a93fbf21d6bd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #141)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1694,11 +1694,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "320b5167-da99-4bae-ad80-199e9a305f10",
+    "id": "26ded545-be94-4768-a8a7-6812fbfefe7d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #142)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1706,11 +1706,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "94ecd892-db0c-45d7-9002-32847f210a3c",
+    "id": "0c7cb811-2880-4afe-9783-d3f7433cdcc8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #143)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1718,11 +1718,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "be394661-e425-4179-ac89-b4c6a14043da",
+    "id": "3e99f5ed-9210-4a2e-a210-a8ffb084d378",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #144)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1730,11 +1730,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c6f2c58d-7cd7-417f-859d-c3c532558b69",
+    "id": "c23e1dc2-a32c-4159-ac33-299d989cd47c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #145)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1742,11 +1742,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "da44c0cb-f5b8-44fb-ad59-b9b530431082",
+    "id": "b3e9b95e-e26c-4088-b5a8-8ab18eb903a5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #146)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1754,11 +1754,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2ce94916-8bf5-4492-af65-5a3033947b75",
+    "id": "746e68ad-9a27-4d31-81dd-efcb02ed4053",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #147)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1766,11 +1766,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4f8e8a58-fa42-4f0e-859a-7e394053da55",
+    "id": "4450beff-7926-4916-936a-a75ca670dd5c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #148)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1778,11 +1778,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5195f623-396b-4018-8212-617a2ece1960",
+    "id": "a16cd127-d2bc-4266-bef3-21c1c7c68087",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #149)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1790,11 +1790,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3be2a84d-c1bb-4e8d-9c0a-4e81b4412595",
+    "id": "8593c740-bc3e-435a-a361-40ac66ec2f87",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #150)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1802,11 +1802,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4f057d6f-da8e-41a8-afe7-cac88ed021c3",
+    "id": "629bde3c-d7c3-4836-95bd-fc1b2d3975b6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #151)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1814,11 +1814,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e96165be-ea62-4131-a6f6-c20fbd8b7984",
+    "id": "6829fea4-6a98-4a1b-a6eb-c6518be75919",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #152)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1826,11 +1826,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8339eab6-1abb-4675-b102-bc21a5544ddb",
+    "id": "9d78c1ea-9ff6-40f0-8615-9418745bde69",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #153)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1838,11 +1838,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8f55b5c8-8086-442a-99e1-ade985ab3337",
+    "id": "a1abed70-4b11-4273-985d-67814b29ae5f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #154)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1850,11 +1850,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6f894f09-61a2-4ad8-9788-ff0ace82c62f",
+    "id": "64d2202e-15ac-4272-b0d8-2a5ba6f44fb5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #155)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1862,11 +1862,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0380d8c2-dd99-4d02-b3ee-c9cdd0d1e72d",
+    "id": "b3747bb0-f8d9-4160-b3ee-0c2fe831d8c4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #156)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1874,11 +1874,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e335fe40-f570-4639-962a-00a8b20e18ec",
+    "id": "daea2fdd-d5f4-4ecb-9201-d818395fb1ac",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #157)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1886,11 +1886,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7f93511e-1da2-4ade-b196-f70a989c29ce",
+    "id": "3d3bf763-bc37-49f6-a4df-ce86094958ea",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #158)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1898,11 +1898,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0b568419-6621-4b67-b91e-e75d647a7dbc",
+    "id": "359ccf70-6df2-47ae-a3bc-b1e4148cd9cf",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #159)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1910,11 +1910,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a19e6c98-4fb5-46a6-aa4b-845a59e895eb",
+    "id": "6d5b733f-6f01-4aa3-ba8b-bbdd54af02f3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #160)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1922,11 +1922,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c4cb94c6-f03e-4ea7-8a03-1f9f6d32381a",
+    "id": "db39695a-8506-4034-8659-af9ef4ee1d2a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #161)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1934,11 +1934,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "657bf39a-dc9c-490b-aeba-3254c8e56e94",
+    "id": "8d50de61-f191-400f-bdc0-6b09ec7716a3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #162)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1946,11 +1946,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7573ff49-3bf0-4fef-9159-3ced3747df56",
+    "id": "7074a356-0b84-4f6f-b0bd-28c8cb24d3f4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #163)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1958,11 +1958,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2ae0a51a-4850-4af0-8f96-5fb50f43a322",
+    "id": "3f79be55-5214-4a5b-88ea-ce70d156e86c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #164)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1970,11 +1970,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9764e739-46bb-4fde-8021-9ed890a74e32",
+    "id": "95a1e948-1f1d-4ecd-9fcc-b93ced899e6c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #165)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1982,11 +1982,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "53834648-bf5a-4c14-b8c5-4592af90025d",
+    "id": "5cfb51c5-8cb6-4d73-8708-8b80deec088f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #166)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -1994,11 +1994,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9dc671a9-d4cc-4e0d-93ab-83e9cd8aac9c",
+    "id": "67545840-4dc6-4c38-865d-99f059dcda97",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #167)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2006,11 +2006,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f22a4daa-d3d6-4bb3-a649-f874c5fc21c4",
+    "id": "915f454f-a32f-4ae7-9da2-85c730f18501",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #168)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2018,11 +2018,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "31fb9422-9458-431d-b344-3edd7981f3c3",
+    "id": "ca43a3a7-5875-4189-a485-7f3be3c85593",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #169)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2030,11 +2030,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f6bd7f29-3c6e-4f33-97b5-550d3aef7ad8",
+    "id": "c73534d4-a253-437a-b756-3dc4c57ac8ff",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #170)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2042,11 +2042,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "79781465-a7f0-471b-87d2-f72c1c7df1e1",
+    "id": "ab1e8ef5-a749-4550-8227-146c8fd3ad35",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #171)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2054,11 +2054,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a0fe8ccf-29d9-4c54-85a3-d08b9fb0b9d6",
+    "id": "7ec8a980-d98f-42fd-9bcf-32c9ca3e81b0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #172)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2066,11 +2066,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a7a4a996-7e8d-4290-aafd-1176b6356994",
+    "id": "f8c7a261-0f0d-4f33-a949-ff262594c389",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #173)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2078,11 +2078,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c246eb53-5639-48e7-816f-a5b458dbaa87",
+    "id": "88e752f2-5b4e-46e9-bebe-0e83771573e1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #174)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2090,11 +2090,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "abe5a984-be78-4027-bd81-832a02aecc05",
+    "id": "372daa38-cdb4-4dd9-92ca-4df86de92113",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #175)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2102,11 +2102,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0a4e2849-792f-46f2-b8d1-9e224e888291",
+    "id": "d3cf9706-738f-45ab-b282-f26cf1bd188f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #176)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2114,11 +2114,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d7edddc0-65cd-43bf-9bc6-ad524819ce3f",
+    "id": "7361e848-e867-4734-889f-1674d7672136",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #177)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2126,11 +2126,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "026979c2-4ae3-486f-9fce-8d0e3def044f",
+    "id": "141526b4-7984-497a-ad96-380b4e115ea3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #178)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2138,11 +2138,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9160236b-a9f0-4f6a-b9fe-0bf528285b3b",
+    "id": "f3282af3-bd30-4e05-b8fb-9ceaac080d09",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #179)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2150,11 +2150,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f7fcf081-fced-4730-bc20-715c2e844b90",
+    "id": "4eda992f-2207-4bb1-a81a-fcae5bfa80d2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #180)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2162,11 +2162,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "416d469d-6b98-4f9e-bc7b-c34a8e50179d",
+    "id": "a711ee1b-a4f2-4e7e-9475-0a48e12cbeb4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #181)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2174,11 +2174,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5ab81cae-2e5c-42cb-9ecc-c8fbf8ea6d12",
+    "id": "27a3260e-8697-4866-8b1d-f5100a67d62d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #182)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2186,11 +2186,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "efa7c1eb-ef5f-4492-82b8-223dc74f8e51",
+    "id": "f0ae506d-2319-4b1d-9075-745d432585fd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #183)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2198,11 +2198,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6d702962-923c-43ee-b22c-8fa140aa11c6",
+    "id": "fc095c8c-2dc5-45fb-87bd-759ab408dd3d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #184)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2210,11 +2210,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f8011fac-f568-46e2-b2b1-4dfbe160e719",
+    "id": "6a9c9d7e-aaa9-441a-a252-b76d8b2fb2e9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #185)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2222,11 +2222,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fb2239bf-46f6-4278-b8bc-b2c29ae457cf",
+    "id": "a0dc2e24-532f-4129-a150-9f3c774db733",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #186)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2234,11 +2234,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "eecd393d-9c23-46bc-bcfc-264a8bb42b92",
+    "id": "f757732f-62f5-4ec5-a110-d5a40a53981b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #187)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2246,11 +2246,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "872accac-1356-40d3-a96a-f89c1d1c0eb3",
+    "id": "e43dd700-6855-4a45-ab5d-65ea0bfecf29",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #188)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2258,11 +2258,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9fe0ec1b-58a5-4a3f-8329-01688d9e458a",
+    "id": "9272a03d-a73f-4b48-8d1c-9bcfcd038950",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #189)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2270,11 +2270,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e8a1ac78-0fb9-43dc-90e9-f0eac745d556",
+    "id": "902aaad2-8ae3-4084-8d46-c4f40b98c580",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #190)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2282,11 +2282,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4912c528-41c2-47ae-9683-bd4b7841006f",
+    "id": "6f0ae5b4-13a6-48df-af69-24dbd61077a3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #191)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2294,11 +2294,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f87aba64-7142-4f8c-ba84-25b29a61cc72",
+    "id": "baf5b949-8018-4f27-9a92-f6e86f8f8f76",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #192)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2306,11 +2306,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9dc58958-d10e-42be-86ae-35919ed69ec4",
+    "id": "b810dd8b-ea38-4e52-a147-b05abf6fa2dc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #193)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2318,11 +2318,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3c282d44-dcb0-42f2-abda-2aed28aeda33",
+    "id": "e438ddfd-4ff5-42e9-bf7c-d9dd6c0ef1a9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #194)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2330,11 +2330,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1da2cacb-9908-4f28-b294-714e67082521",
+    "id": "0be42b13-c14b-4042-8727-259ac0ed824e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #195)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2342,11 +2342,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2bcf332d-4e86-4424-9a9a-5965508efc05",
+    "id": "99c8c854-e81b-462e-91e0-56687accbdc6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #196)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2354,11 +2354,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3d5af861-cc7b-4c89-b34f-37a723b37192",
+    "id": "180ee04e-33cc-4dfb-a73c-3d860cf0e27b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #197)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2366,11 +2366,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e6ec8073-f0ef-4293-8ae7-e9b6e02c9d97",
+    "id": "fb6ac4aa-fc34-41a4-bdbc-b3e251276874",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #198)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2378,11 +2378,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "00293f3c-3687-47a6-a25c-d4cc1ebfd69d",
+    "id": "091bf090-3ebe-4e42-b590-01c58fcd07d8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #199)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2390,11 +2390,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "046222b3-88f2-4e7e-9540-c8a2f5a74eff",
+    "id": "58a41c76-4ea3-4adc-97ed-bbe9d8652f0a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #200)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2402,11 +2402,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5b6b4ff3-14b9-4109-8061-597a7caa39b0",
+    "id": "fca8fff9-b037-45cc-848d-cf4b71a21616",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #201)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2414,11 +2414,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b8544c71-8140-425a-94d0-dae0754fa4b6",
+    "id": "58d1027c-a85e-43ef-9dff-f99a021c8dc8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #202)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2426,11 +2426,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d341b825-87c8-4394-bb4e-ccf41fca60d9",
+    "id": "331ab7ab-4e14-4b93-bd5f-3e13e0aafeff",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #203)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2438,11 +2438,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "02a9c634-10e7-48cd-a9d2-6346a1a052fd",
+    "id": "db251128-addf-4a92-8de7-78c5fe449cb1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #204)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2450,11 +2450,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0258b0c5-0322-47dd-a308-a981b8ce3b0a",
+    "id": "459d374e-ccf2-417a-978c-af8502a67276",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #205)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2462,11 +2462,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "80958c1e-37ca-4292-8713-2cd149912b7c",
+    "id": "d803efda-a3d8-4d59-a1c6-5d31508523bc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #206)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2474,11 +2474,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8c2e3cb5-3b46-4708-b0d5-8e0e8a0738f5",
+    "id": "570300d2-24b0-4f5f-a715-9a3af832df69",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #207)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2486,11 +2486,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1c76c1f7-9a2f-49bf-9f6b-953762bd03f0",
+    "id": "1629874a-2c77-4cf6-a425-de579003a6d0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #208)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2498,11 +2498,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "52cdced5-eed3-4ff3-ba57-27de65821e6d",
+    "id": "0f3a2071-e417-4936-b5f7-714bd6f91e2e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #209)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2510,11 +2510,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e62b126d-81ed-477c-8086-56a84273fa8c",
+    "id": "5dba06c0-8285-49f5-9acf-d29509ad1f12",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #210)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2522,11 +2522,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5d0b7cfb-6927-4a13-9519-f1b762b50167",
+    "id": "42cd35d2-9f06-4671-8b2a-75de4c88e675",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #211)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2534,11 +2534,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fb9d87ee-8772-46ea-8680-c8ec671c3717",
+    "id": "333f1345-9fde-471e-a339-eca179232508",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #212)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2546,11 +2546,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e4d70b2c-5ed3-46d0-9665-608deef87c9d",
+    "id": "e493c3e4-f94b-47c7-99cf-1326f2dcea6f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #213)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2558,11 +2558,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2beb8187-609b-4a57-b807-f7b58904554b",
+    "id": "092e9e41-0f06-48d0-a825-48e0d628e22a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #214)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2570,11 +2570,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c8e17291-816e-4521-956e-45e33ae5e2a9",
+    "id": "633d9641-ba7a-4945-b4e9-5b3d6c8b118a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #215)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2582,11 +2582,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "caebcdc2-ffa0-41ea-a509-efbc98e811f5",
+    "id": "92840d16-61cd-4716-840b-12ea0ab49f46",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #216)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2594,11 +2594,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8062b376-e481-4e25-937d-eae09e99c640",
+    "id": "fb14e072-b140-4a96-9b54-e35d93bea843",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #217)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2606,11 +2606,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0cacbdcf-68d8-40c4-aa97-cb73724b9c13",
+    "id": "130b7097-60f7-40ef-9953-4511ba723999",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #218)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2618,11 +2618,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8bc8720b-78db-4c1d-a12d-a8d75fb86bb8",
+    "id": "525d770c-957f-4fe5-b631-38480aac4690",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #219)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2630,11 +2630,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1f5efbea-c7c6-460d-891c-18e248ec4363",
+    "id": "b8ee0180-026e-4cc4-b296-09b0a88a09f1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #220)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2642,11 +2642,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3847d372-1784-4266-9a42-47c0088b57cf",
+    "id": "64440d3d-4f47-40a3-9c9e-226e50c8f136",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #221)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2654,11 +2654,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9ee82b6d-d7c5-46fd-811e-8378f1444f4d",
+    "id": "43d7108d-8eec-41e7-9eab-12e4cf61233d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #222)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2666,11 +2666,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ed788367-1484-4d75-a2a1-4b8a6aedd8cd",
+    "id": "618303f1-da2e-4f6b-b694-f6f7d844da6c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #223)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2678,11 +2678,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3c606777-250c-4630-b459-52a13037f2d1",
+    "id": "d60225d7-59a7-442f-a086-d52ad4f94b73",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #224)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2690,11 +2690,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e8e5b718-8536-4f8b-b115-8930c215ef7b",
+    "id": "473e9c15-88a0-4d9e-8800-85de43f60815",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #225)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2702,11 +2702,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2098c9e0-f4c2-4b26-b945-0c782891f3db",
+    "id": "9bbebe1e-ddc7-4785-913c-5efdcbd58ae9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #226)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2714,11 +2714,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9533afc6-2e61-45a4-98e7-b0e6045888e4",
+    "id": "e63feeb0-199a-46c9-8c3c-1ea24a752f81",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #227)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2726,11 +2726,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "774532e2-0546-4b78-b7c8-f99e9c6ab3d1",
+    "id": "a2f63a64-1654-47a7-9eb4-0a3af3222d4e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #228)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2738,11 +2738,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "328ca91f-840e-4c65-a8d8-7e3bc3057a9d",
+    "id": "9bf9939d-ac95-4c9b-9b70-f6117be6e930",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #229)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2750,11 +2750,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f4efddc5-2662-416f-a8e7-581a260c7214",
+    "id": "0243cbf6-99aa-494a-ad2e-54960b5b3a85",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #230)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2762,11 +2762,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1b59402a-7198-47ad-9f19-fe87c1c2b6d0",
+    "id": "4c38894b-92aa-4ade-8aea-b5781fd962d8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #231)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2774,11 +2774,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "16d232de-6c3d-4ecc-8c39-967a0d339091",
+    "id": "8aa80e31-73e4-4f3a-8d88-8429ce4b141d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #232)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2786,11 +2786,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "837117dc-6d3a-428b-9c5d-7a41bcc84b58",
+    "id": "632c629a-a951-42dc-aaa4-0dd40b06406a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #233)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2798,11 +2798,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2a2ecdb1-d8ec-4b94-b8fb-b023b753479e",
+    "id": "7cd0891e-b7ab-4c7f-b6d7-2f4ecce525f2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #234)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2810,11 +2810,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "78a8ef58-1bae-4061-9eef-e76a9a63da3e",
+    "id": "78bebca7-e1ee-41a7-a92b-4bca25e99396",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #235)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2822,11 +2822,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "13f1ca3f-88b3-447b-bfb0-3f2f1e2c328b",
+    "id": "1fe03839-f924-48c3-be3d-43f09c99975c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #236)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2834,11 +2834,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b7b1a5b4-0b61-4de0-b938-21c059c5e690",
+    "id": "f0557f31-3c71-4dd0-9cf2-59c3c57383c8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #237)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2846,11 +2846,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "aab190be-445f-4b8c-8c34-cf2b37eec859",
+    "id": "1fa3c7ca-0427-42d5-a8d3-0ab9c5839d3e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #238)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2858,11 +2858,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a5d1251f-2c4f-4b2a-89ec-f5862bc2362a",
+    "id": "55746a53-85da-4414-bdbf-bd09601c4531",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #239)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2870,11 +2870,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8fbc8bb7-7bb8-40f9-9c87-e504f4ecdf42",
+    "id": "fe17b3c8-fcc2-456b-a612-9626c4d695d3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #240)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2882,11 +2882,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e9988de7-6ff7-4ffc-b824-8fec134a1daf",
+    "id": "fe83b1d5-2221-42d9-af8d-25ed0dc883b8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #241)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2894,11 +2894,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "35b70b44-9906-4e89-b575-1d55c2f55e3d",
+    "id": "26738b5e-7251-46aa-8158-120b55220257",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #242)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2906,11 +2906,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3997723a-26e6-4fbe-b26f-90141059c2ef",
+    "id": "f788bc62-961e-4bda-aad2-b4ef0d7a8dcd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #243)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2918,11 +2918,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5f8e3242-0ff0-4575-86f0-2622541da14e",
+    "id": "71bef9a1-de39-4506-9fcb-2dddd632fd53",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #244)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2930,11 +2930,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "adda7e1a-af1b-44d8-a942-afe32cc96aaf",
+    "id": "7d70c56d-b952-42a0-8603-2fad4e85c44e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #245)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2942,11 +2942,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fd032bea-55aa-4ed0-a6a7-33213ddb6210",
+    "id": "ce5bfbd2-806c-4bdc-81c5-4d49b35c7cc6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #246)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2954,11 +2954,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "36ddfffc-e31e-4017-abca-0b493aa6d70b",
+    "id": "ed46fd8c-7f87-4152-97e3-4d71fc783923",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #247)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2966,11 +2966,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c59125ed-c97f-40b7-9aba-231adca4829f",
+    "id": "b443931d-e7fc-439a-99c6-b24e6372c7a1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #248)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2978,11 +2978,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "49d1709f-e5cb-4254-be2e-c7f702c373bb",
+    "id": "7f07f5b6-ff39-4363-8d71-c773b7df6dbc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #249)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -2990,11 +2990,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5faca605-82bb-4cb3-87a0-00b69244209f",
+    "id": "d8c9c5de-0c7b-4819-83c3-23082b7069a7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #250)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3002,11 +3002,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a6b58982-d8d2-4284-b12c-3220dad55fd2",
+    "id": "152cec2c-83cf-43e1-863e-c020dede3abc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #251)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3014,11 +3014,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "067c6994-bf97-46cc-a707-ac3735bf8dba",
+    "id": "ce8779ee-d55d-43ae-861d-7139577483a6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #252)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3026,11 +3026,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8c227a74-1555-4f84-a1e1-0f3ab5d0bc14",
+    "id": "3ecef885-7a36-4acb-a27f-9d94cd88e5c4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #253)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3038,11 +3038,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8ac53ee3-f86f-410e-8939-823acc4c0c25",
+    "id": "4718976e-e19f-4b63-8a28-4e48b6f4292c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #254)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3050,11 +3050,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "26f090f8-6793-4dc5-bba1-0889d73a482c",
+    "id": "dd3bbedb-8b4f-4e73-9729-2a3b6d43460e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #255)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3062,11 +3062,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f8e5209f-daf3-4ea8-9eae-603778d926c5",
+    "id": "48044934-ce9a-49ce-9996-79f197edc079",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #256)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3074,11 +3074,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "54107be7-2f44-4726-8d60-26ba358691ce",
+    "id": "a155a93d-1294-4e71-a18a-1ea280927b95",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #257)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3086,11 +3086,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e9fcc473-cfa3-4d23-a2af-8b2ff62aef1b",
+    "id": "a8de113c-8fee-48d9-99ce-e4c065642b61",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #258)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3098,11 +3098,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1f609eab-ab35-4095-8e93-fd3e6eb5fa6a",
+    "id": "ebaf8214-2e83-4d9e-8590-20bf6f891bd5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #259)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3110,11 +3110,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6eb9fa9a-2008-4989-807e-07c34316fa98",
+    "id": "cf3fa2d4-f3f8-4c79-ad38-9a94f6cd26de",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #260)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3122,11 +3122,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "eb575193-7f5a-4408-899f-029363084eae",
+    "id": "d23e672d-f74e-459a-8911-e8b71a5d79ec",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #261)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3134,11 +3134,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "572ed91e-0eaf-4a73-83fa-11e57ce316a4",
+    "id": "9394dde1-8515-4e86-bc32-33a63cc74dfe",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #262)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3146,11 +3146,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3ddb18a6-2886-4dd7-ba29-32ee14335b6a",
+    "id": "ee1ec14f-3903-4ee5-b629-abf06cb2d108",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #263)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3158,11 +3158,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fc61f4a9-934a-4887-8fe2-a0f4a20797d4",
+    "id": "85bfd57a-db3c-4df8-a58c-25306752cc87",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #264)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3170,11 +3170,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "736f6a8b-c7c0-4682-8ded-dd569ba73278",
+    "id": "13822a98-ba71-4d4a-b9ba-6020dd6bbcee",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #265)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3182,11 +3182,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b4764119-dd54-42e0-8581-0dc54df84024",
+    "id": "972f53c8-9176-4d2d-bea4-e61dcb8433fb",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #266)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3194,11 +3194,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1324f30d-3c68-4b32-b044-5c420228c156",
+    "id": "aab78369-fc13-4b28-968d-9d7e0c89aefa",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #267)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3206,11 +3206,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "69969420-d9fa-4236-8794-2968b9d95732",
+    "id": "1f347697-653e-4bea-94b5-81e88f37cee6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #268)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3218,11 +3218,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "600e1af7-24bd-4023-abc0-973d4cf360bf",
+    "id": "df7fe1db-3b22-4cfb-abfd-b20324415caa",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #269)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3230,11 +3230,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b78381d5-7464-4bc9-bd3f-44f846a4f6ad",
+    "id": "f271a31b-7a02-4883-b913-22e7261a8764",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #270)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3242,11 +3242,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a6fd92d0-264a-4cbf-b668-be21aa872f58",
+    "id": "71bce7a0-00ba-4302-99f8-147db2733a34",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #271)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3254,11 +3254,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0c701e03-1310-4ecc-9f75-a30c9497b80e",
+    "id": "a51184b4-6979-48cd-87d2-b2c3e7c85f72",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #272)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3266,11 +3266,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "de79e4a1-4f1f-4f41-9e6f-463550abecd6",
+    "id": "7603a97c-8cf7-465c-95fe-2257acceb9d0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #273)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3278,11 +3278,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e8a13147-6d53-410f-af18-e1c7ca729a3f",
+    "id": "00115b40-90bb-4d4d-b67a-f8c9d3adaeee",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #274)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3290,11 +3290,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5150d293-b9d8-462f-be92-9a127c4511f7",
+    "id": "074b0ecf-cb12-41f7-b46a-4d5126705fd4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #275)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3302,11 +3302,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bbcd653d-cfa4-423e-b7d4-70df31434eb1",
+    "id": "946cffb9-2e6b-4a89-9fce-903efc99bc13",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #276)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3314,11 +3314,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "589a2706-0b54-457b-a62f-701f6f9d3c8c",
+    "id": "6067adc1-8bb5-4045-abf4-fc58a19b206a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #277)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3326,11 +3326,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "73baf741-936b-462a-8e51-32d567753dd8",
+    "id": "67de48d4-794a-44a6-b3db-796ed3484c14",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #278)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3338,11 +3338,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fe2ae78c-db8e-4a87-b67a-5385e3a1190b",
+    "id": "09846f93-97b7-4acf-9d81-a9ce15c63bdd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #279)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3350,11 +3350,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "51d16ce4-e605-4f89-92e9-389c046ac1c5",
+    "id": "5d82f10d-2a15-447c-a743-8ba438c0cb4d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #280)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3362,11 +3362,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "94fcdee0-ab72-4dac-a09c-9f0f3f4f6583",
+    "id": "6005a2e5-4009-40cb-848c-410dd653a9b9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #281)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3374,11 +3374,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6ead7bc4-5fac-4ca4-b08f-1605a840fcf0",
+    "id": "9e164a37-ec56-4642-a7e2-920b86327414",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #282)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3386,11 +3386,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "76a43ee3-7569-4153-9f03-a7ecfa641d0b",
+    "id": "52304b24-d4e1-49fb-9f0a-537cdac1e682",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #283)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3398,11 +3398,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9076d1dd-e949-4305-8948-cd23f4b5325d",
+    "id": "e4392f3c-a7a8-49be-ad1d-7a2784443139",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #284)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3410,11 +3410,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5f41fc27-66b3-4a4d-a4d9-2879b5e7475e",
+    "id": "af90062b-e815-426d-84a6-079b942f55b9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #285)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3422,11 +3422,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8c24955a-98c2-4375-a3a1-c898229a3672",
+    "id": "3dda3134-7bdf-46c4-b728-6f73f211503d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #286)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3434,11 +3434,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f46cc32b-83d5-4bbb-a76a-26f514eda98b",
+    "id": "20e337f1-ffe7-46f8-bc6e-3204048f721e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #287)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3446,11 +3446,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "092b4f7f-aad0-4eb8-87c2-3dd928510861",
+    "id": "7d747d84-fd24-432d-9a33-94b54eb4fa6d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #288)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3458,11 +3458,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ec9ef363-bd4f-45be-907a-4ea08f0414b9",
+    "id": "ba8fa903-6725-49a9-9dfa-b51291d6cffa",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #289)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3470,11 +3470,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9d91253f-9d18-423a-96e2-7211af529483",
+    "id": "e019e80b-9f98-4aac-9ee3-27ec4e1a13a7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #290)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3482,11 +3482,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "11e4966c-a80b-4f60-8164-69a75d3ec547",
+    "id": "0ea957fd-ce53-4006-935b-e93e222542bc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #291)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3494,11 +3494,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6717a75d-22f6-4f1b-bffa-d03f74fddeeb",
+    "id": "ee7e5a0c-2a28-467c-b6a6-272ac80475de",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #292)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3506,11 +3506,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f218cc2e-25cb-42e9-9d4d-dcc88e647e0d",
+    "id": "079c139d-7e7d-43b2-a4b6-30f56a6ecc0e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #293)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3518,11 +3518,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6ffc47fd-4a76-42d3-9c9a-7809be3a38fa",
+    "id": "7eeada10-1264-4ed4-9177-a43bf133d10a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #294)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3530,11 +3530,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "39f4c371-9349-4418-9fe2-a1278bd3fedb",
+    "id": "71320307-0f63-48ad-92d9-a69503874bb1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #295)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3542,11 +3542,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f53b9b27-7d4a-4a23-b8b8-53df90f8d4f9",
+    "id": "79aaeb05-2cf6-4129-8672-9ad3fb9dac3f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #296)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3554,11 +3554,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "827cdde7-2cb4-4ede-a6af-28840937ce3d",
+    "id": "89d9256d-d075-4ed0-bca5-71540cb4ff95",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #297)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3566,11 +3566,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4a1fb7d7-52b2-4340-9e5a-3957e15092c3",
+    "id": "02e4b8e3-86ac-4bac-bb51-6e794f9484e4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #298)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3578,11 +3578,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "924e1667-66ba-4c70-b49f-1e4f317c3b4b",
+    "id": "9ab28791-b669-467d-97ae-e74ea02e64ba",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #299)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3590,11 +3590,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a639b5a8-3086-4a0c-b801-45c544175690",
+    "id": "b5c33dfb-8a2b-4751-b932-eba59983b2e6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #300)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3602,11 +3602,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b338748b-0936-4425-b897-25025ea1f3bf",
+    "id": "1f2925de-1778-4a48-9faf-82b4f5b14250",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #301)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3614,11 +3614,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "11439112-a521-4ddd-88e0-2925a6fb0796",
+    "id": "dfefeba6-cb0a-474e-9b5c-836acc67214f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #302)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3626,11 +3626,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7915a1a3-b861-4a5b-b683-4842b5f9e696",
+    "id": "208c9cad-c178-4c4b-b5ec-c404f4dff80d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #303)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3638,11 +3638,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bd015911-1ddf-4ec8-bd6c-89649b4c929c",
+    "id": "7fd72bcf-0b3d-4388-a56d-9321eb40e831",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #304)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3650,11 +3650,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9bb24918-26dd-4fe2-afcd-19ba446d2651",
+    "id": "0e59acd6-8bb1-46eb-94c8-bd2a6366d8df",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #305)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3662,11 +3662,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5cc63331-93ad-471f-bc62-176ed143b1a2",
+    "id": "d60b1645-1b1f-4122-9d6e-755ca941df1a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #306)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3674,11 +3674,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "11e4c812-235e-4ba4-84ce-07a82ef13d9e",
+    "id": "4c1d0c51-691b-4a49-a5b7-c74f6d6bba95",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #307)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3686,11 +3686,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "30cb533a-e29b-4e9c-8e10-d41220b5c765",
+    "id": "45ee1381-5870-44b2-8efe-1165b662bb52",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #308)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3698,11 +3698,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "27e2b8cf-c14a-4eb6-a314-112d73339b2a",
+    "id": "37fde604-6f5c-42a0-b8f1-bd987e180220",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #309)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3710,11 +3710,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4f54b2c3-4160-464d-b8f6-7f317bce9662",
+    "id": "6f9e7081-8037-4f4e-bc78-70ac1f10b7ee",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #310)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3722,11 +3722,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "74a1f6d1-611d-4da2-b95e-1c54006029c2",
+    "id": "588510ac-658a-4670-ad6e-fc2892ae4185",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #311)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3734,11 +3734,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4d2e17f4-6f98-40d3-a76d-5a4d16036a9f",
+    "id": "7cce6220-772f-47d9-8e6a-881f5a30e250",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #312)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3746,11 +3746,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "60e55da2-97c2-487a-9858-b59c172c5701",
+    "id": "ac9bc520-fb0d-4d05-9509-0f5be7f47060",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #313)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3758,11 +3758,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f81c69e9-15a8-46ec-a45a-1eb79c69b25e",
+    "id": "f6650564-5544-4cbe-b6d1-18ca9e0d3bda",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #314)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3770,11 +3770,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4d0e00fb-6728-4c7b-90bf-ffed70ef46ca",
+    "id": "f3aa4190-f645-4f2b-b6cd-17bcb3f86975",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #315)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3782,11 +3782,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8b650396-4d47-452f-adbf-aca17764ea91",
+    "id": "6e54751d-00da-47fa-b756-d44de468c5ff",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #316)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3794,11 +3794,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5374d047-c24b-499d-91e2-4e9426db0a12",
+    "id": "33425ebc-36b1-48cb-9aca-78457d7a99fd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #317)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3806,11 +3806,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "021b1aa1-2aef-42b7-8ba6-627de0e3ac14",
+    "id": "175e5c78-7c95-439f-bc08-f54b70854114",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #318)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3818,11 +3818,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d91addac-58a0-4468-b088-f792cae53353",
+    "id": "8674417a-fd89-471c-9ed5-7d8ad731929f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #319)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3830,11 +3830,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f56140ac-73d1-4db1-8714-6ff722ed2a6f",
+    "id": "8590e323-f3af-4c8a-9f14-3a54648976b7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #320)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3842,11 +3842,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "79835b01-5117-4220-b030-17cd1a0f7937",
+    "id": "7a710872-ea65-4fa5-ab12-2d9e9bd30669",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #321)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3854,11 +3854,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d2918e97-6150-4c8c-bcd8-9213b87fc7f1",
+    "id": "1e1273f8-91b2-4859-b543-7dc0a053fb03",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #322)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3866,11 +3866,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d92c90b4-9126-4a30-b942-1ee0d97a502e",
+    "id": "5e9bfdfd-1a5c-4c14-9ae8-575d932fc239",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #323)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3878,11 +3878,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "dfd61486-9b12-4aee-a8bb-1b0deec188a1",
+    "id": "775dd2fc-3b4a-4fa2-9577-e211cf6fde2e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #324)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3890,11 +3890,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e9eedc49-1a79-4107-a539-3af5de9da700",
+    "id": "ef89be33-d78b-4867-ab6f-8c49c8be799b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #325)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3902,11 +3902,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "410ecec7-9154-435e-8ca1-2fd0a6495b25",
+    "id": "82264bac-998e-424c-b3bf-d602f8e15ffb",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #326)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3914,11 +3914,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "df287f4b-f346-4ab9-8200-0f2acc51f0de",
+    "id": "354e64d9-bef1-42e2-9dde-5e3f25c137ae",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #327)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3926,11 +3926,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "71770160-bcaa-40c6-be68-b8cfd0b92d36",
+    "id": "7a6313ba-d93b-4a9f-8afe-4285e6c15673",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #328)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3938,11 +3938,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fd391efe-c29b-4231-99e9-9ce9aaf31f31",
+    "id": "4bb3f07a-f452-4c5a-927f-ed2b3c3ba824",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #329)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3950,11 +3950,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "02964816-5ca5-4da0-af91-df88f7db808a",
+    "id": "6bf876d2-0b47-435d-b1a8-b3f22dc47ace",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #330)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3962,11 +3962,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9e4b3a98-b0b7-4b83-8e31-d0eee2c5635b",
+    "id": "4a1afa79-3fac-45b5-ba84-5590a151a0ee",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #331)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3974,11 +3974,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "122cf0f5-c3a0-43ee-9333-097b4ee75afb",
+    "id": "1c820617-d5ab-451c-aead-2dc6aec6855b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #332)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3986,11 +3986,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c7f0a7e1-811a-4588-8488-27d505488661",
+    "id": "e4c47371-4943-4b61-90d0-455066ae6a52",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #333)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -3998,11 +3998,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bd49bb0e-f2d9-45a0-bd2e-eed8fb78c683",
+    "id": "fe9d9b73-ebb7-4f09-962b-df6dbf41062b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #334)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4010,11 +4010,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6c69e3c8-e95c-4ed9-8486-734300879ac6",
+    "id": "10178980-65e2-473d-8516-430f3326cb79",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #335)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4022,11 +4022,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e64ab84e-c25d-4df8-9531-d06943e09453",
+    "id": "40e37ba5-5758-4012-8bb7-6377b57c7766",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #336)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4034,11 +4034,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4c5ac3e4-732f-4954-ae6c-5f04edd525fc",
+    "id": "607a54ca-a226-44ae-961a-0bb1eb81c6ad",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #337)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4046,11 +4046,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5cc76081-bb39-4047-a424-a1e83332d918",
+    "id": "492ddb8b-57d2-41de-8813-7bc559706274",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #338)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4058,11 +4058,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "154043c4-0206-4661-aed0-593956a54ac0",
+    "id": "8025ead9-5b17-4a10-9dd2-69df9643b352",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #339)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4070,11 +4070,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3db7040d-32f4-4cca-bfab-724c741b213d",
+    "id": "dd8f6828-088d-4e52-9029-47a974dd9c7f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #340)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4082,11 +4082,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bbc97c47-0aa0-4d85-8f3b-e58ac5258db3",
+    "id": "ef3044ac-fe29-4d75-b0a8-253e1c07e0ba",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #341)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4094,11 +4094,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1e252559-fcd3-4e15-b2ed-696ecf4a69e6",
+    "id": "51038235-350e-4ab4-9d5e-3b2ba12822d8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #342)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4106,11 +4106,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f57de152-efc5-4689-a893-f5335f53ade3",
+    "id": "7df63c28-06f4-40b4-b9e7-70ae2ee53c88",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #343)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4118,11 +4118,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "88d25a56-35a7-4e3b-8885-1edf6570fb29",
+    "id": "cce1d96a-080c-4859-83bc-c7fa83517cc1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #344)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4130,11 +4130,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a59a07d6-975a-4f1d-a91d-bb1c32f6d306",
+    "id": "6b227933-7ea8-4615-918c-3aea33e1fd25",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #345)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4142,11 +4142,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0b10c676-7cf5-4223-8e59-a26cd3fea83d",
+    "id": "52f4fe79-6262-488f-933b-07fba5994d02",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #346)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4154,11 +4154,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3a9b1d28-ab64-4435-9d59-48054a51f8ce",
+    "id": "c4de5fa9-89e2-4ddd-8c11-8249bdb30d1e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #347)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4166,11 +4166,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b27a84b9-7361-4a84-84db-9edf866ecbb6",
+    "id": "d37b1eac-6f94-45e1-b398-8a288913ba44",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #348)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4178,11 +4178,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "266ea4f9-7acb-4fab-9b6d-6d68be8d3b7c",
+    "id": "6a186389-285a-4ea0-85b9-1a9c6e09114a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #349)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4190,11 +4190,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d9ddd385-2297-482c-b1ac-bca9d7d3cdee",
+    "id": "c3f8ff4a-9104-4d9e-b0e7-d5c006878c2c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #350)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4202,11 +4202,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "af049e9e-ed10-4436-bdfe-765678867098",
+    "id": "409d9bfd-9c56-4950-9655-e19323767a83",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #351)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4214,11 +4214,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ebfe108b-e527-4044-ae24-376b3252a02e",
+    "id": "cad509b6-c809-45aa-bbfc-22d2333f547b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #352)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4226,11 +4226,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c6ad3fed-3614-477f-a441-e6a7d419e114",
+    "id": "548c70f2-fa49-4d47-be9b-14896aaa385d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #353)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4238,11 +4238,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1d377615-a0cc-4764-a2e3-496ab3f58e74",
+    "id": "362d66ce-1693-47e7-843d-a7f9d80c49f0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #354)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4250,11 +4250,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "493f2508-7b7e-40df-ad5b-906877d37abd",
+    "id": "2a52106d-9832-449e-946d-768a1cdebac9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #355)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4262,11 +4262,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7c091c91-df2c-486a-ae66-8125a42bf55d",
+    "id": "c4cd81c2-5c30-4481-85b3-8222d3036f0c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #356)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4274,11 +4274,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8c4c04a5-1212-4ac4-bdc7-b6b1a82b0806",
+    "id": "5db7c76e-5592-4f94-ab92-e1952d2d111d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #357)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4286,11 +4286,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9ee714d2-effa-4810-8521-12b8801b67c1",
+    "id": "4be40a99-3b1a-4dfa-b7b4-33b5d0e4216b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #358)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4298,11 +4298,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3c29aaf8-53ee-469b-847b-645fc0067865",
+    "id": "b16dd042-46d2-4e5e-b413-4f22bc55b460",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #359)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4310,11 +4310,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "41282853-4046-4568-bef7-03634fa0c1f6",
+    "id": "92ecf19b-9e43-40ea-add4-00d28b70118b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #360)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4322,11 +4322,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "740cc7a7-bd61-44af-a28f-fba308b46cb8",
+    "id": "1bafede8-6f03-432e-bef2-69d8bdf67d71",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #361)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4334,11 +4334,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "90ea6074-1478-4571-978b-08b6bdbf1154",
+    "id": "c34fa5ee-662e-4ae8-9ca3-361fa67b88c7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #362)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4346,11 +4346,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "125f7201-94ec-4b5d-905e-67b1e00bcbd7",
+    "id": "7aac44e8-e2f1-4759-8500-413d5f45c9bb",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #363)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4358,11 +4358,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d056700e-ccd5-4f5d-923c-57bb4556cf88",
+    "id": "622ef9eb-ef09-439f-9f13-9c68c8f08ca6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #364)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4370,11 +4370,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "df4db149-717d-45eb-a286-25bdc309d3d5",
+    "id": "c4b1fe36-8788-4a12-9c8b-876b23eda3a2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #365)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4382,11 +4382,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a98076da-077b-42d2-b20d-6a544e3857c1",
+    "id": "831d6f47-c9e4-42c7-abfe-d5b2fd3f26a1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #366)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4394,11 +4394,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d409442f-e352-411d-92d3-07430cdde26b",
+    "id": "9d41bb53-83aa-48f3-a266-b42d72a21466",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #367)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4406,11 +4406,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bfeee560-7f70-40d4-ac9a-975bd94230f5",
+    "id": "517f0ea7-60a4-4b53-a06f-31a7758983f2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #368)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4418,11 +4418,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "63d9c11a-8c9a-4029-abee-bab9fb46371d",
+    "id": "22c0f9a7-32b3-41af-ae67-4ca4f9d97aef",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #369)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4430,11 +4430,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "10790b56-da9a-4649-a2dc-2b943f6de1f5",
+    "id": "ce14c701-840c-4280-b9b4-4035e51d9f67",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #370)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4442,11 +4442,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c4a75b2e-698f-4f5b-9d25-878026c27d9f",
+    "id": "6399a2e0-f54f-454d-8ca7-ee3353b51b83",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #371)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4454,11 +4454,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9269c84c-4d98-4466-89ef-0dd21e9d3671",
+    "id": "095eb155-02da-419a-bf46-17701bb9548b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #372)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4466,11 +4466,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "00b078c2-bbda-4797-8f46-34d64fbb6238",
+    "id": "eb92968d-3ea5-47d2-94ef-98319a300688",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #373)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4478,11 +4478,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e9322479-b628-4a57-820d-197286de8174",
+    "id": "2259a458-7819-474f-a238-681f9482e441",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #374)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4490,11 +4490,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "838302c6-07cc-44e0-855e-c6ac4f91a0a7",
+    "id": "0020ab97-95df-4e61-a3d7-40ae858bce4d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #375)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4502,11 +4502,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e6d5bbf7-ce61-4d8b-9657-54ed5f9fefc6",
+    "id": "0199c88f-70f2-44fd-950d-598496665779",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #376)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4514,11 +4514,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "69335a02-6ed6-4235-971c-449aa53e0014",
+    "id": "d43d081e-b354-43e0-b94a-799ffda55d5c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #377)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4526,11 +4526,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5c1e7802-d028-4d78-8335-1d8568bfb5a5",
+    "id": "bae417aa-fb93-4535-8edc-a77d63a0d218",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #378)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4538,11 +4538,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0eb66b21-fce2-42dd-b239-07ff75330c52",
+    "id": "554bdeb5-b34b-4efe-bbf4-5a2caad42b0e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #379)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4550,11 +4550,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f49a484c-7c30-42bd-b9fe-108d04bc8beb",
+    "id": "1255bd16-7a6f-41b2-be44-f0c4cfde169c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #380)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4562,11 +4562,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4c11768d-4039-4354-8eb2-bbd40db0a33b",
+    "id": "4b77d2a5-03c9-4cf0-8587-4960a2fd97fc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #381)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4574,11 +4574,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bfe755b7-6642-441b-97fc-80b92fe33cb8",
+    "id": "9fe863e3-7a20-4669-8f61-4d3b47f83699",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #382)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4586,11 +4586,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "01018fcb-653b-4fac-aacc-9abf1ec892ab",
+    "id": "a5e0ba03-5e4e-4a3d-9991-504dce512d30",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #383)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4598,11 +4598,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d0346783-acef-4997-9a57-9bbc8f30dccf",
+    "id": "1e1d9896-8bd2-468d-a762-dab08866dd01",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #384)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4610,11 +4610,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "87d97a64-f0db-4e30-af1c-248c8038c3a7",
+    "id": "9e1f8b92-ae69-4464-8b2c-b5a72108b948",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #385)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4622,11 +4622,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8e1c0e6f-0941-4fb5-a939-b6574342f510",
+    "id": "661f3bd9-bd44-4bca-88ff-74397bfdb4b0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #386)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4634,11 +4634,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "546e57a7-b1fa-4313-b019-c92754fbe527",
+    "id": "4dcf78de-a8fa-4524-8dad-b5d1218b77f9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #387)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4646,11 +4646,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "231635f1-c557-4370-ab8f-dc694173fb78",
+    "id": "3fd99681-c642-4e86-b45a-527a07c340cf",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #388)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4658,11 +4658,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6e8dd124-5fe4-4968-8cd9-8552d95d0f00",
+    "id": "c242ca02-0616-44e5-ac1d-875e4e3100f6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #389)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4670,11 +4670,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "86755f48-c2c0-4f98-b079-7632cccb06e8",
+    "id": "4e8576d4-0d77-4651-a9f9-ea4cf55bcfb8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #390)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4682,11 +4682,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "adfae1a4-c91d-4be6-8c30-d59af66ba9f0",
+    "id": "fc116593-bf4a-4ae5-b497-c2e248f88903",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #391)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4694,11 +4694,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "44c7c947-685b-40c6-8928-bedeed219edf",
+    "id": "901e786f-3d6f-43db-8db5-02dc578ae633",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #392)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4706,11 +4706,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "28b3da3a-8a87-4e1a-a42b-af1625300772",
+    "id": "57f0788d-6478-41fc-bf30-f72cb8cc4b01",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #393)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4718,11 +4718,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "90ce0a8e-ec87-4f59-bc97-c8b62c7e25ef",
+    "id": "ee047cec-844a-4027-b1f7-f750fd8682f8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #394)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4730,11 +4730,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "09aac523-5ffc-40f5-bf78-e87f7bbe517d",
+    "id": "768e72c5-21f6-42f9-ad1e-c2efdb0f9436",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #395)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4742,11 +4742,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "90ac0f2d-2da6-4291-8454-bdd15162ec44",
+    "id": "89baddf6-97aa-4ab4-8afc-e56dca41cedd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #396)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4754,11 +4754,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "508873d3-2029-4df6-bc1e-e1ec236dc0fc",
+    "id": "3b4daab2-5223-4d44-b339-14d7789a7f7c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #397)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4766,11 +4766,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a0ee06ae-03c4-4f09-9119-98b36281bec7",
+    "id": "9b3faf9b-4973-4724-96a2-c2a6d4a60fb1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #398)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4778,11 +4778,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "37320765-7a39-4987-a479-c06704410045",
+    "id": "76d29ba1-0aae-4167-86e5-7b8232f093d0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #399)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4790,11 +4790,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "910e5aa8-b0cb-4c3d-aa90-5e62d2232ef2",
+    "id": "4b84b492-a771-4e81-ba28-158120496438",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #400)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4802,11 +4802,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7726d801-e461-4310-9f61-c411a7b8e62d",
+    "id": "77464f9b-d07b-4249-a144-d4a59294583d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #401)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4814,11 +4814,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "daa39a5d-f5ef-42ff-b114-c0efdd1046ce",
+    "id": "5414e317-cdcb-4e23-8c54-5093eb5864d3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #402)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4826,11 +4826,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2496bb66-8435-4d53-ba7e-72708a08bb9f",
+    "id": "e5fd936c-5fc6-4c84-97c9-003c081baaf5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #403)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4838,11 +4838,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5c1bb058-0812-49df-b7c0-c062d0bec116",
+    "id": "5a84a7db-725f-47b0-b77d-2b4ab1c3d6dc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #404)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4850,11 +4850,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5c93626f-473e-48d0-9e0c-3bfe3d3d63ce",
+    "id": "d36f9b56-b5af-4009-9375-994fab2d330c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #405)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4862,11 +4862,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1b2e091d-9e21-4430-841c-cf2d49ce1019",
+    "id": "451e2fce-eade-4358-a4c9-0516a7ba1317",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #406)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4874,11 +4874,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "73167059-ae15-44b2-a8bd-57e6678ca525",
+    "id": "1dd4ea02-afb7-4ac4-8c4a-b50702d43f7d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #407)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4886,11 +4886,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2885e323-0bb0-451f-953b-039538895300",
+    "id": "c99af9d9-3a19-4113-99ce-39b8d432358e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #408)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4898,11 +4898,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "487274c2-3c2e-49fa-a88f-1864822332b9",
+    "id": "b61c964d-b34f-41aa-8eed-a141660884a1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #409)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4910,11 +4910,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bd98f7f7-4842-47a5-a63a-fb65f20d5292",
+    "id": "f544b4ab-e31b-46f5-b48b-5318b7a99504",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #410)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4922,11 +4922,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "99c9024f-afc3-4a20-a408-74c565bc1e72",
+    "id": "97fbf956-5291-4c98-bb11-b5e156e52bb3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #411)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4934,11 +4934,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9ae72db9-c4a8-43be-828d-723d1d041e5b",
+    "id": "51bf1508-7783-45c7-8fab-b046378889a2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #412)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4946,11 +4946,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "476cc2f2-1e3b-4a44-92bb-7e48fe9197fb",
+    "id": "9dce8fdd-71aa-4abd-bd40-181fecfe49f3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #413)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4958,11 +4958,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "dea54625-208c-4e31-b755-7f3988bc1270",
+    "id": "86075e50-23c5-4ec5-9897-bc656c6b9d27",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #414)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4970,11 +4970,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a1eccb3c-3b40-46c6-af28-37ab904ec8d6",
+    "id": "43b3d5eb-3b66-4681-887e-314ec1443a77",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #415)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4982,11 +4982,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c014b6b0-4575-4cd2-a644-be525e6f91c9",
+    "id": "9820bda4-4d77-4231-bbef-23de2f3bd5ec",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #416)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -4994,11 +4994,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "498646f9-f90e-4c76-b4f3-59214e9d6bb6",
+    "id": "6ccc7c11-18ea-422f-985d-32e6d5a99329",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #417)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5006,11 +5006,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e0b39233-573e-43fd-a306-0872404e66e5",
+    "id": "15a58e73-c891-4bf5-af43-8f33f758df8c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #418)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5018,11 +5018,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "12174b95-6c8a-40d3-ac48-ba498112b413",
+    "id": "2f5e1de1-55b5-4faf-96dd-be7412c1ee16",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #419)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5030,11 +5030,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fad43f73-0009-4811-9391-9b2365695762",
+    "id": "37db7bea-a493-4f25-ac54-eb7940da133f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #420)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5042,11 +5042,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2634d777-241b-4e7b-b255-45851c2b2dea",
+    "id": "a7d13f2b-a563-42c4-bbf4-3c88b7e2f1e6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #421)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5054,11 +5054,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f0b4a6f4-b676-496b-928e-94cbda26786b",
+    "id": "131555b5-0562-4c84-8b62-aea1a47236dd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #422)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5066,11 +5066,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "65443ac2-c6ce-4583-8602-5c3c878ab5fb",
+    "id": "346c412f-06a9-42c3-8b4c-7a4651ee1098",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #423)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5078,11 +5078,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5d4ec66b-d8a6-4287-a8b1-39f1408f4102",
+    "id": "2db16694-66d2-4450-9979-db745c1ff9f7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #424)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5090,11 +5090,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4df39ad9-2ac7-47aa-b4e6-fd54b63fb295",
+    "id": "d396b2a1-c2f7-4694-99fc-31529d8e0367",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #425)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5102,11 +5102,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ec572439-9d34-4ae3-92c2-0af7f71187ee",
+    "id": "0befbdc6-e8a8-42fd-bce8-42a22f4c6742",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #426)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5114,11 +5114,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "caf16690-9549-4b78-94eb-ac0338c5bfec",
+    "id": "6e3ef427-fc36-4a1b-9c35-87897f39633b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #427)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5126,11 +5126,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "516cae86-7535-46fb-b0c3-44fd0dcc15e1",
+    "id": "b455c21b-1994-4e41-b0d3-3248cdd3f017",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #428)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5138,11 +5138,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "18a20350-d0a9-47d1-91e2-63d2fdcd4f76",
+    "id": "eedb0e0e-8ec0-41f2-9e5e-1667cd92f18f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #429)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5150,11 +5150,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a6b66b47-d84d-4cd6-bddc-019b5292d0a4",
+    "id": "cf071a4a-9095-47fa-a8db-e08ea51eb784",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #430)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5162,11 +5162,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bffc1dc1-171c-4f5c-b3a0-2eed4f2ac87d",
+    "id": "82d13797-0da5-4c6b-b1c2-7f163fcdbe7f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #431)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5174,11 +5174,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "798344b3-c65d-49cc-88ae-9d836a29a2bb",
+    "id": "4c4cf31b-a782-4fdf-a35a-7559bda77d09",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #432)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5186,11 +5186,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cae42461-c569-4232-a5de-7f2afad1ab99",
+    "id": "c5ce4b85-ca7b-4166-a6a0-edaff54cb42b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #433)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5198,11 +5198,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "51ff7890-ccca-4e8a-8d74-32909607e46d",
+    "id": "02ad5ea1-a15a-44dd-91d3-2ca1aa51e4cd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #434)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5210,11 +5210,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e4f4a384-0d70-4b56-a50e-a17b0eb82a6f",
+    "id": "a3f2f412-3f37-4566-b8be-5f2950337ff6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #435)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5222,11 +5222,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b4620e3d-e28f-407e-ae7d-bbcba733cc23",
+    "id": "68893881-eb41-4a57-ad59-ee2c97127853",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #436)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5234,11 +5234,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a4411b5d-bd24-4a8a-b99f-18d7cb2438ba",
+    "id": "c6d3a48f-a309-4113-b528-42a7167ad9ea",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #437)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5246,11 +5246,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9be5eb63-7190-4c43-b6d8-3d046f651235",
+    "id": "ed58de75-11b7-494f-9006-6507a360d093",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #438)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5258,11 +5258,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "547d65fc-6bf7-4a32-8b8e-f1bfdfbaf369",
+    "id": "2bf88b12-2e43-4146-a2b6-e4b81b856086",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #439)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5270,11 +5270,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3f0b8fbb-4577-40d0-8305-dd385e5c63a6",
+    "id": "c6836074-675c-4af6-bd7c-c25349406e48",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #440)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5282,11 +5282,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "339c00b2-1cb3-4b52-beba-27c3f900bc62",
+    "id": "f4967f15-17d9-4920-862c-c4b1d633b39d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #441)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5294,11 +5294,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e708f6e7-a921-424b-bfd7-164fdf39ecb8",
+    "id": "cd4d953a-a8a6-4285-bbc9-2df016aada08",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #442)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5306,11 +5306,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "444615c6-15fb-4389-a11d-145aaa6180f2",
+    "id": "ab553db7-98e8-4119-bf1c-c9a1b63b8019",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #443)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5318,11 +5318,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0c506636-3874-4ce4-a143-da977e393df5",
+    "id": "bb56e2d4-d52f-4daf-a950-ae0aa33421c3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #444)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5330,11 +5330,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0131f307-9879-40e5-b93c-c6021e3ce4d7",
+    "id": "c6804f93-cc54-4a32-b913-c4e5327676d7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #445)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5342,11 +5342,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "12779eb2-9c5b-49f1-a9ef-89b900b439f1",
+    "id": "a8f9b870-741e-4b06-b3c2-d588797bfcd5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #446)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5354,11 +5354,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5e11bcd3-6dce-4c16-b6fc-2aeae7beed09",
+    "id": "a169cb8c-38b8-404b-aa68-170a3d488c9f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #447)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5366,11 +5366,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "de14b157-91e9-4dc9-9c51-090ee9372745",
+    "id": "25b6ccd0-77f5-4ef3-bf81-c0e8a445a237",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #448)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5378,11 +5378,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5ad16f4c-6b46-412a-8f92-c05d5db437dc",
+    "id": "8a2d09a0-0821-48bd-95be-89c3639b46ed",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #449)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5390,11 +5390,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3f9f4bfc-4cd8-4ba7-a189-0763e69999a6",
+    "id": "aac135bf-086d-4869-b0f8-aa9ab15bfc5f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #450)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5402,11 +5402,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4bf26ec1-6f8b-4757-9642-eb3bbceea160",
+    "id": "a790c7c5-4e26-4033-93fb-78127b30cca2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #451)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5414,11 +5414,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "960c8618-d4d0-4221-9050-12d067a66f9e",
+    "id": "88156431-c427-42b7-815c-bc2909d71bb9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #452)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5426,11 +5426,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0748b55d-769b-4056-9994-fb1c67766291",
+    "id": "df664ecf-54d3-4505-960f-a81719770eb2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #453)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5438,11 +5438,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "abcfeaf5-f899-4815-9c4e-c29eb2ede118",
+    "id": "00784551-98f6-41e8-a21a-925d5d230389",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #454)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5450,11 +5450,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "34342f44-2b97-483e-b827-a904ca81d8f8",
+    "id": "fd957593-afe4-4e49-b45d-ecc9d8e8d77d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #455)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5462,11 +5462,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9fc383cd-3aa5-4ed6-83f1-e4756b80ba94",
+    "id": "825e5928-2749-4f19-8af3-0bba49730e43",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #456)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5474,11 +5474,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b6f5649b-e986-4c24-bc83-baf0bf45e068",
+    "id": "f9c23cc9-1fd0-45ed-84a7-925eb22f0ff3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #457)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5486,11 +5486,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "65cf8f21-aa7c-44b6-b9d0-cc6686884531",
+    "id": "e76cab2d-e58f-4073-b040-6e3aae3e934a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #458)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5498,11 +5498,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d9ca5b52-25e5-4af4-9604-5c297dbe63f3",
+    "id": "22a0273b-7b02-4a5b-bc04-687debd5810d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #459)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5510,11 +5510,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1324c93e-2168-4d6c-bfc5-7ab7082822e9",
+    "id": "7643df46-ff7a-4473-9502-d352c9263825",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #460)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5522,11 +5522,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "63b0d884-f17a-4754-a00b-8f30a609ef87",
+    "id": "9f9d31bb-3b0c-4860-9ecd-1afa4e18a3be",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #461)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5534,11 +5534,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "077b5c7c-7142-484b-8f17-6fcbd454f0dd",
+    "id": "3af2b9fd-f770-4768-95d0-a4f6e564403a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #462)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5546,11 +5546,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "06a7ab79-c7b3-46f8-9b67-3ea30b45a8ae",
+    "id": "76b344d2-39a3-4e6b-9cae-2fe43ace5cf9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #463)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5558,11 +5558,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b63e5e07-f558-4c55-ad59-c652909cfc89",
+    "id": "ce24f8a2-0fc8-4de1-85a5-cd379a7bc561",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #464)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5570,11 +5570,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7061a561-b58f-4e56-b880-0ae0bfddf597",
+    "id": "21e4d122-b3b5-49d4-b6af-857e22e516c4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #465)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5582,11 +5582,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2bfe7d2d-2d4b-4d48-8fda-5a679a14c7af",
+    "id": "8b9a1933-d51b-48c5-9152-cf219b163254",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #466)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5594,11 +5594,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1af00a26-40b1-472a-92cf-8747e6fa8b3f",
+    "id": "abba79a3-97c8-4ada-9bc5-9ca8e3c56d44",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #467)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5606,11 +5606,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "713797e4-f4b5-4ca8-90b2-5324589ce816",
+    "id": "0f5153d6-8c8c-462d-a147-ec6bfb9a5204",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #468)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5618,11 +5618,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "843ea001-412f-40d5-bd07-7a9aa0e695f5",
+    "id": "9cba6efa-e667-4a83-a6a4-686efebdf14d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #469)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5630,11 +5630,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "13c56aac-f4e8-479d-a514-0a50cad51a21",
+    "id": "be84f8da-a805-4f51-a841-b5ed09ad514d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #470)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5642,11 +5642,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7099846d-a852-4a9c-9aa5-2766a74b04bb",
+    "id": "381ce8ca-57f6-4937-bd36-611cfa537094",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #471)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5654,11 +5654,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a7efb2bf-397d-457a-b578-88a9e6045097",
+    "id": "1b75cea2-b848-4aa2-b050-30e2ff737bd3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #472)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5666,11 +5666,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "15e0414a-d863-4ad3-88d0-41c50d3f33d3",
+    "id": "0001aefa-ccaf-4c6c-876e-792abdde33cd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #473)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5678,11 +5678,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a1117eaf-e0c8-40cc-afb1-584fa2ad2a15",
+    "id": "469733fa-8066-4a25-9ddd-2796ad2e5984",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #474)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5690,11 +5690,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d01c6e73-4ea4-491f-b590-3d20baa74800",
+    "id": "0a8cb3e6-aaba-480b-8faa-429850bf3c5c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #475)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5702,11 +5702,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "26783a7f-a025-4436-9e94-902f750df9f6",
+    "id": "921cd0dc-83ac-45fc-9f3b-5a43d4fd1fd5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #476)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5714,11 +5714,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "38313a1d-3042-4445-812b-f24926a1dd4a",
+    "id": "77d46804-2993-428b-8138-62952314049a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #477)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5726,11 +5726,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ebb3103e-f715-42cc-bafc-27faf7dbfc94",
+    "id": "d663e26e-1321-4966-b993-354697a76977",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #478)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5738,11 +5738,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4ad2c71a-725e-4cf7-afb0-9a933f62ed0d",
+    "id": "6b4c443f-e4d0-4822-8a24-207c73828453",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #479)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5750,11 +5750,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f726c77e-0996-4f28-b561-29083d01e931",
+    "id": "bf945879-0f80-4de0-89c3-650a46bdab68",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #480)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5762,11 +5762,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ed205181-8cc3-4585-a875-af069dfaf916",
+    "id": "ed854d47-b3a2-4ca2-8be3-13f0a68fb75b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #481)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5774,11 +5774,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f4d427a8-2c9f-45b8-8f20-5b4ddac4fd01",
+    "id": "fc59dfa7-9a68-473a-9be4-0e98714fc72c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #482)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5786,11 +5786,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "20aecbf6-a1e7-400e-bee4-d77e48927468",
+    "id": "7d5dc135-c4fc-4d81-9a7f-8edb8aceaf93",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #483)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5798,11 +5798,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a46a7fa1-303a-43ca-92eb-5bdbf05e4ffc",
+    "id": "8b076ca0-6dd5-47b3-a26d-dbd578a22fca",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #484)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5810,11 +5810,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3638ce91-5469-4a85-8f41-40d1db63cdaa",
+    "id": "d5e1b229-01d1-4015-a767-055562a7a135",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #485)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5822,11 +5822,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "10dce086-de9f-46ea-8db1-e34b7f086d1d",
+    "id": "dc18511e-38e0-49b4-8d56-74a06d78bd6d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #486)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5834,11 +5834,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "254a9091-d9cb-44c6-a3d1-171744e78268",
+    "id": "52a919d3-0b4b-4ebe-b130-3c3931c21c5a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #487)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5846,11 +5846,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2dc2d821-acaf-40c9-a7b7-56b5509c002a",
+    "id": "7c0d3cb6-18f4-4666-b15f-fa88800ee92b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #488)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5858,11 +5858,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0d5ba140-b5e3-45c8-8f93-e5d22170dd6d",
+    "id": "b88c80bf-8635-4c22-beb8-be91d71b617b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #489)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5870,11 +5870,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "79d61757-3ed5-400a-8e71-19ebdea30f45",
+    "id": "d8270012-db89-4fac-9a24-c72d588cfc94",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #490)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5882,11 +5882,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d451bcf6-3ab6-48c3-9294-e6a51cbb610a",
+    "id": "0745669c-13b4-4021-bc0d-19e0c0ced204",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #491)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5894,11 +5894,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "556cf986-dd93-4c83-94cf-b8d7e30d9167",
+    "id": "8ba2e518-3b20-4bd7-9e56-3d720ea57d10",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #492)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5906,11 +5906,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b9b94c08-bc79-4246-acee-a52e8b3830bc",
+    "id": "5fbbbd44-3d8d-4e8f-98d5-20a8fc3a1fa3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #493)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5918,11 +5918,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b1ad5d9a-9cb6-42c6-95ee-fae6b155aded",
+    "id": "2c9ec889-da6a-4e95-a6c4-ddcdbb1d3324",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #494)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5930,11 +5930,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "582d43b7-e6c8-4754-aae8-3cf21ed7f940",
+    "id": "c57d58e6-ea16-4219-98bd-169de3b0130b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #495)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5942,11 +5942,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9643227b-1f85-425d-8807-8803c9de35ae",
+    "id": "b63c246d-66e2-476f-ac30-58055063d2c3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #496)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5954,11 +5954,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "46072c40-bcf9-40a4-9b22-7fa113f77447",
+    "id": "a41bf7cd-8e6b-4b4e-b098-42ece65c2b2e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #497)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5966,11 +5966,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6b9ef2e6-d549-4cd2-8c36-4a200fe678b1",
+    "id": "cfb42e25-d209-4375-be48-0f705cf3f6f9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #498)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5978,11 +5978,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "88c2cc8b-ddcd-4981-b6ac-bc2c2c230d1c",
+    "id": "28d0acd2-897c-4db2-a9e9-90b4a050d113",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #499)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -5990,11 +5990,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8a6be550-23d4-49a1-84f8-176b0948b13f",
+    "id": "0b9dcb34-d400-429b-b177-9da867fa286d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #500)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6002,11 +6002,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5d2c252c-9d1f-4e34-baa9-01a0d24bc5d4",
+    "id": "321102d5-aa75-4830-9684-926b026e4bc9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #501)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6014,11 +6014,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ab355e88-99af-433b-8121-b520ed40be03",
+    "id": "446a1bc8-5dff-447a-8df2-22297b909934",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #502)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6026,11 +6026,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7df963ff-8bc6-4105-954f-4aa037926152",
+    "id": "1caabc55-788a-4477-98c2-4377eb7bf1dd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #503)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6038,11 +6038,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0f400696-bce0-454b-833f-cdad6209f4f6",
+    "id": "9249ca5c-bd6d-4893-ae5d-8d329aa5dc90",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #504)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6050,11 +6050,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "240fbefe-3fe0-4fde-b07d-a264106043d0",
+    "id": "95d9cd0d-6a34-4468-8597-a372ee4d3d09",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #505)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6062,11 +6062,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "01a9ad43-919b-4704-8af2-ab000b7c19ac",
+    "id": "226503a4-38c0-410c-a2fe-8073b601d75f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #506)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6074,11 +6074,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "35c7a3f3-a359-437c-90f3-33efdab5f959",
+    "id": "7d359f42-edc1-4d52-acad-c7681849ffb6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #507)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6086,11 +6086,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b4c72421-e65f-4df3-b8a5-66232d9e0401",
+    "id": "ccf6a7b2-4d1a-492b-8ad2-aca002f94bed",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #508)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6098,11 +6098,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8e3d4b87-d62f-4fa3-a221-58e60194c5b1",
+    "id": "4552cfa9-a088-4ba0-a142-b1d4ea50691f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #509)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6110,11 +6110,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a83adb48-4e33-446d-84c3-fc7fcddc9633",
+    "id": "40b441de-51ef-48b8-97dd-9f6188542d57",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #510)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6122,11 +6122,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d6cefa92-081a-4870-8658-a8f1e066b5d8",
+    "id": "13c49827-9c12-4751-b088-3997e9106b51",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #511)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6134,11 +6134,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6b7e1a01-4c63-41eb-8c12-d4901103dd1b",
+    "id": "a7dda556-b681-4862-bfe3-50ee11bff617",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #512)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6146,11 +6146,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6ac9e4c0-c119-41d6-9b9a-2708491ea5e7",
+    "id": "ee0943b5-99fc-4263-bed9-2ec3ea28ffbd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #513)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6158,11 +6158,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8c155d99-99fd-42d4-a439-1d1870699bcf",
+    "id": "ca7c00a0-5fdf-48e6-812b-d66f4944f809",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #514)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6170,11 +6170,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9825272c-1920-477d-900b-3e9be4ce4748",
+    "id": "2643f6b0-7e1f-46ca-a346-d7a8aefa134d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #515)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6182,11 +6182,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e0908f61-a76b-4b57-88da-cfe65a2162ed",
+    "id": "af6f781d-b59c-4290-8c58-fe4a365cd1b2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #516)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6194,11 +6194,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e907f6f1-639c-4c8b-985e-3ab947af63b4",
+    "id": "410a45d2-b37b-4a5e-9a2c-f28ea1e3cae6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #517)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6206,11 +6206,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "941e4fb9-a24d-4e8b-bb83-5fa0ab323618",
+    "id": "523d5028-f5a8-4cc8-971e-a45e2d3e7a84",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #518)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6218,11 +6218,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6af7d337-46c6-456a-b755-dd16bb74d44c",
+    "id": "5fe7698f-227d-46fd-936a-4dca5d0d185b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #519)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6230,11 +6230,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3e44d193-4c7b-4170-8cd7-fa7097b5906e",
+    "id": "9c2f10aa-5053-42a7-b79c-b7a4e70c475f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #520)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6242,11 +6242,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "11b8d447-8871-44f2-8380-360310df7ea2",
+    "id": "4e859032-c99e-49c3-9307-9eacad2bd687",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #521)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6254,11 +6254,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1fa6d44a-6d29-4a3b-b75e-fc5c0d3d025c",
+    "id": "1065ca94-f3e0-4516-8c21-35b146a0a05f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #522)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6266,11 +6266,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "372ca764-2b1d-49a8-9e85-78560253ee50",
+    "id": "07a9d7f5-dfc8-477f-8195-76c9c70946a3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #523)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6278,11 +6278,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7d1affb5-b7da-4992-9771-ba3cadb391cb",
+    "id": "44d3c25d-04e6-40a4-801c-271bd13d3ec4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #524)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6290,11 +6290,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "43f475c9-351b-4e58-8d9a-e991db9f45cc",
+    "id": "7dc122b3-93c8-4d60-b1f2-1f5c0d721fc2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #525)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6302,11 +6302,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8ae4ee9d-487f-4201-ad73-8b4bc31ef860",
+    "id": "28443c0e-28e9-47d2-87c8-2868c92143a0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #526)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6314,11 +6314,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "dfd15a02-86b4-49fc-a37c-98774f6172d5",
+    "id": "9b0bf885-51f9-4154-97ec-b2eee34bdc0f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #527)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6326,11 +6326,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2cb5986b-41d3-4f63-9234-4d0bd8835af6",
+    "id": "4b7a9a68-9cb6-46c8-9bde-dcf471fb3d7e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #528)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6338,11 +6338,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0ff3efb1-f763-4b42-9e7f-edca6fd0baa8",
+    "id": "d7313fc0-f2b8-4aee-8fce-f158d1ec6098",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #529)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6350,11 +6350,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f406bddd-abe5-4894-bcee-90bc0d1cda48",
+    "id": "43389cbf-9f3e-42d9-8dc0-dac197b69877",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #530)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6362,11 +6362,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f70afcd0-b91e-4b55-896e-eb77612e7663",
+    "id": "6d1f8684-f095-4c5e-9613-69de3a849359",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #531)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6374,11 +6374,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "dd4c94dd-c116-4d23-ba2b-eb55fe5b9a90",
+    "id": "9c5833e3-6b57-4812-a078-6e2c01763b1e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #532)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6386,11 +6386,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a2803c7e-8397-4a3f-b168-528714121803",
+    "id": "f026dd59-925e-40f3-8adb-74ff599f8fc2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #533)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6398,11 +6398,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f35eeee2-237b-4fd0-adf9-19b0b3511a1b",
+    "id": "9d65ece3-6664-444f-aec3-b24f0a547570",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #534)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6410,11 +6410,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1c7785c6-e489-4de5-b2a4-973f30c95d29",
+    "id": "1d87e2cb-9318-4b7a-80b4-acaf98fbfff4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #535)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6422,11 +6422,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7d6d0568-041b-43dd-b9b9-01bfb31340e4",
+    "id": "49cb044e-93ee-49ba-9ae5-c2056d4b482d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #536)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6434,11 +6434,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cd2c7175-8248-4ee5-8e2a-921ce9906b5a",
+    "id": "1192cea9-da3f-4a41-adf3-bcc3a602f141",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #537)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6446,11 +6446,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "60ba2aea-c3d9-47dd-9c29-f2e9735f0537",
+    "id": "ff7dcfce-aa0c-4f7e-b603-b8c2a0f9389e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #538)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6458,11 +6458,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7b64a6a5-88e4-439b-8e37-1b28c2d0bb56",
+    "id": "875c4de9-59da-4771-8fde-f4d0ce6c14de",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #539)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6470,11 +6470,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6d31c746-b287-449c-ba05-c7f3df2f3b3d",
+    "id": "75f85cbd-a2b8-4e28-930b-04334966350c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #540)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6482,11 +6482,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "81a48a9f-b331-404a-849c-456db2c5cbd7",
+    "id": "7f487ffe-2492-4eb6-8168-17b546be3a21",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #541)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6494,11 +6494,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "48f31c1e-cab8-48e0-868c-e7ed675e8e99",
+    "id": "78ca6fed-1913-4beb-9299-d4699c49c6dc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #542)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6506,11 +6506,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9bc7d3b3-c6c8-4a91-bbc1-b64c0bf5efe5",
+    "id": "9686b810-30f7-4fe6-95ad-05da36d3b35b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #543)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6518,11 +6518,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c4c1b111-6810-4111-9097-cde727e839fe",
+    "id": "ac0c86e4-9e1d-43bc-99bf-6585e628d886",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #544)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6530,11 +6530,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c698b7ec-d5fa-4699-90c0-1b8a3cefffbb",
+    "id": "8dd5e986-1b8a-4613-a032-fde9d475425e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #545)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6542,11 +6542,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "dfcad561-f690-4e7f-aff8-482e1957cdca",
+    "id": "9875928a-ce78-4b7e-97a8-39ece35568e5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #546)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6554,11 +6554,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "673c502a-711e-4d28-a74c-86a2de3e6c2a",
+    "id": "4a7de337-4f4b-414a-acce-372e78dc863a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #547)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6566,11 +6566,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "83bb0456-eb3c-4162-81c4-46274a2ec24d",
+    "id": "ffddb8a9-edb5-4e8b-9ccb-3a77b9708aed",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #548)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6578,11 +6578,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "efe8f77f-9d6b-4fb7-98a1-278a46d7e461",
+    "id": "ac38e82e-64ae-445a-b4be-9fa28d373548",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #549)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6590,11 +6590,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0ad369d5-e8b5-4d3b-ad99-d545dc89d474",
+    "id": "da71ec55-f745-4775-a0ff-f0b14595ff3b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #550)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6602,11 +6602,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d04e7032-26eb-42af-9923-6ecc09eeef30",
+    "id": "b12a3bdb-4690-46b5-89dc-28bdd9585edc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #551)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6614,11 +6614,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4e735bca-e8a6-4c0f-8019-999e5540d24d",
+    "id": "e728dee3-5a8e-45f3-8e2f-74b74b89a48c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #552)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6626,11 +6626,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4c7f23bb-fc51-4773-84c4-c71673b5dd8c",
+    "id": "9b979707-8f63-4d97-8a22-79d8f34a731a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #553)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6638,11 +6638,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9af4c0c1-7e71-4265-a4a4-ebb2249667cc",
+    "id": "53a571b6-89e4-4dc6-abbf-5a481028cec8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #554)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6650,11 +6650,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "de5876db-787b-4899-a10e-a85a7056e56c",
+    "id": "7f49e15b-0aec-4dde-8bf6-397eb0e48bf8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #555)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6662,11 +6662,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "63564ec6-49ad-46a0-b437-67361a153fd4",
+    "id": "8f27d79b-b8d8-4105-96a3-05b3ca8bfb8a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #556)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6674,11 +6674,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9bd62067-f9ba-484f-b20b-6ba16fb7173f",
+    "id": "751b301c-ca05-4ba5-9c80-dd388bd56834",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #557)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6686,11 +6686,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a03c644f-c63b-4296-9010-ea906b2b04ed",
+    "id": "34b27d57-118d-49f2-a71a-a23ca03b98e8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #558)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6698,11 +6698,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "775783f2-36c1-4c30-a161-9467bf26e5d4",
+    "id": "3e25a4da-0366-426d-a311-4b8a47415906",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #559)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6710,11 +6710,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1ed6f802-1d5d-42e2-8cb3-90e0de69d005",
+    "id": "88cbbf97-3370-462a-82fc-1100bc85faa1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #560)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6722,11 +6722,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "91c14a26-9c0e-4b2c-ad24-e7b33ab7632e",
+    "id": "578b3d3b-3564-4f6b-9e46-f9d22dd7469b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #561)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6734,11 +6734,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "784482db-a2bb-4fdd-9754-7bb5a675ceb5",
+    "id": "881aa26b-4ac5-4fe4-9d7e-89a6a25fae9b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #562)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6746,11 +6746,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3d12a54d-56f6-4872-9d00-69cd3a4cf49e",
+    "id": "e763cf64-d05c-4532-b24e-f1f9e926c30b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #563)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6758,11 +6758,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3ad72671-ecab-4602-b30d-4f78fb1a5880",
+    "id": "fdef244f-19f6-4c63-a3bd-1df3c74f7246",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #564)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6770,11 +6770,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "01368270-d231-4532-8c3b-25f16f824825",
+    "id": "00a9fb23-aa15-4803-9695-6922e2e0ed88",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #565)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6782,11 +6782,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2cdf44dc-f43e-4c3a-bfe1-ec55106ffe2a",
+    "id": "6c1309d2-d0fa-4a34-9c1c-435cede68fa1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #566)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6794,11 +6794,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "378d1dd8-6dd8-4bdd-953d-37cfa05a72d9",
+    "id": "6cad7e11-6880-484e-b041-64581dea2409",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #567)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6806,11 +6806,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7f3837bb-017e-4d61-8c2b-7563093577b5",
+    "id": "c75a076c-5804-43a4-9582-e936787f879f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #568)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6818,11 +6818,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "557b49b0-2908-458d-b4b4-26589df7657f",
+    "id": "7bbe0ba6-42d2-43dd-b6b4-01785ab89cc9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #569)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6830,11 +6830,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f3f24668-f11b-4597-8d38-74d2b9e30e16",
+    "id": "907eeaf5-3495-41ad-99d6-fa4b7f995e99",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #570)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6842,11 +6842,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5a580709-fca6-4554-8caf-ba493e08b002",
+    "id": "b9348b1c-4e18-48ba-9358-baf1b561aab9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #571)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6854,11 +6854,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7248e0ed-2abe-4cea-958e-cd1d9621fa0e",
+    "id": "17c0253a-bd36-4f8e-8aa3-8f5621a3f737",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #572)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6866,11 +6866,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8117f140-c683-4178-8619-ce8eaa430127",
+    "id": "a591344b-31d7-41d6-8f86-1c697fb81d5c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #573)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6878,11 +6878,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2ffcea31-4e2e-4c02-8b46-36e11b533453",
+    "id": "bd1a42a3-69d6-4a28-a34d-977c71e813dc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #574)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6890,11 +6890,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "12356704-0e7d-4ef4-8fb6-d2a88dabac75",
+    "id": "e07cbd1b-53ba-4a01-886c-861ff38a63c5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #575)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6902,11 +6902,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3e072ece-e15b-44b8-a053-4d5d21b08471",
+    "id": "2e7f2c08-dcfb-4ec8-976c-cb8c31767d20",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #576)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6914,11 +6914,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "85364e6b-a103-47f5-bffe-3a1bb550d04f",
+    "id": "f0130921-79fc-46db-80df-9b5d66460106",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #577)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6926,11 +6926,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "413e47d6-3dcd-408d-a44b-266ba3e1a65e",
+    "id": "b51a07ab-7825-4244-a352-1a578c73004d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #578)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6938,11 +6938,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "517c64bf-bec3-49cd-8b0b-68d59f034773",
+    "id": "3b79cfbe-f12e-4025-951a-5d2cc97bb74b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #579)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6950,11 +6950,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8a66ddaf-ec28-4000-84a3-ee93f2e3f337",
+    "id": "b1eebc0f-611d-4ee1-9921-beef2db50389",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #580)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6962,11 +6962,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "413344fa-d67d-461e-ade6-f38114279363",
+    "id": "dec31e8a-03b4-40fe-bfdd-99ffd23e25f1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #581)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6974,11 +6974,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9a1ce318-b667-4c23-87b1-038179d99b68",
+    "id": "fc13d36e-78da-4087-b8a4-b3abf8c566d5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #582)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6986,11 +6986,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cff8731f-2a88-4187-913a-6ece0cd7da36",
+    "id": "d3bc9262-dc30-4e56-a21e-242e01b2be28",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #583)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -6998,11 +6998,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9240ccd8-abad-49b2-9906-434ee5a1f9f1",
+    "id": "5d4b46bf-4b35-4a8f-b7cd-8d3376dd70f0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #584)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7010,11 +7010,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "95977aea-c51a-43ff-83dc-cadae31d0a8f",
+    "id": "40c9331a-8130-476b-a632-22c5c14582d2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #585)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7022,11 +7022,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fb0e31f4-b39b-4587-90dc-890c0c9ce874",
+    "id": "964aba35-ce3e-461d-8b4d-e4048a65d9ba",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #586)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7034,11 +7034,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f5694bf0-c582-465a-9f73-e88220dba583",
+    "id": "dce0e881-9816-4b71-aa0a-add1fee34e0a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #587)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7046,11 +7046,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "16322b25-1621-420c-9797-04962596012f",
+    "id": "07ac2e76-12f5-4a89-bb2f-0c7ef6d03578",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #588)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7058,11 +7058,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a59d9b3b-8fa0-4daf-8d2a-43babae045ad",
+    "id": "737a545e-3431-4d30-b3ff-998293769aa7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #589)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7070,11 +7070,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "37b5cfac-927e-4e46-b5d6-a34f7fe98543",
+    "id": "1b1ffec2-fe45-46a4-bfe7-039941712f44",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #590)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7082,11 +7082,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "93e26e28-6175-4b7f-9245-1657e8790ea7",
+    "id": "11949255-bc5f-4064-890e-9c164ff80606",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #591)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7094,11 +7094,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "dc942220-e772-410b-a0fb-94a8468481ce",
+    "id": "3222a1c1-1590-4852-91b1-b9aef03bfd23",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #592)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7106,11 +7106,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8c131c83-ca88-4d8f-97f9-1e4478e4ef4b",
+    "id": "a9dc4d2e-ab43-44c5-b0e3-c623dd90e079",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #593)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7118,11 +7118,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cc5d0744-9403-4fa4-93f4-17ca60f49290",
+    "id": "4d900eb8-6f7f-4798-815c-a7c3f68ba6ae",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #594)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7130,11 +7130,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ea22a92b-48fe-4e33-9c74-7150c183f5f9",
+    "id": "ac210f16-cb19-4211-81a5-08f58019bb96",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #595)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7142,11 +7142,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8d999a85-f3b6-474f-9357-b3c9ca0a2f0c",
+    "id": "f0c06861-009a-46b4-9b6f-bd06a9762ecf",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #596)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7154,11 +7154,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d7755413-2fc9-491b-9e37-658c9a6233c0",
+    "id": "49fb60d8-0bd5-4c30-a1de-efaab85156ae",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #597)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7166,11 +7166,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a6e6cd93-7b35-40d5-a2f7-d44c8eaca5b4",
+    "id": "84496f02-75db-45e6-b6e3-07d9a3c4395d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #598)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7178,11 +7178,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bee4d3bc-1e2e-4462-8404-963eee6f9915",
+    "id": "3052a2e0-7707-41a0-8485-7d14ce842e4c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #599)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7190,11 +7190,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b8afc093-9cc5-480c-9b00-bea52ddc0556",
+    "id": "5341b5fb-34c2-482a-9464-efaccbbb98bf",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #600)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7202,11 +7202,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fc14d84f-7f15-4529-a54e-78c677de253d",
+    "id": "0724eac7-0fb5-4de0-a636-ecb606d0b24c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #601)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7214,11 +7214,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f0f8afe8-851a-415b-bea5-42390d580f77",
+    "id": "61fa5181-89f4-4afe-872b-bfb99d80138e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #602)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7226,11 +7226,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0ea1a66a-957f-4a75-9a30-a38a8757e4db",
+    "id": "a4ad22f8-ba42-466f-84e5-11eaaff32b6e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #603)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7238,11 +7238,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "892bf3b2-c0a6-43dc-943e-b5915522c5d7",
+    "id": "8dda97f8-737b-490e-b372-2cc434679710",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #604)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7250,11 +7250,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "572cf605-881a-4127-9866-eebcc0acdde9",
+    "id": "97cc9483-53ff-4b63-9388-d64094b2a149",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #605)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7262,11 +7262,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "94ccdff7-807c-4e40-a2f4-c5d2062c5e5f",
+    "id": "6d1f6b31-36b9-4cb2-95c5-5acc44d8cb30",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #606)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7274,11 +7274,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "67dee4c7-ec0d-4532-ac92-52f18fd6b09c",
+    "id": "c407946d-3587-47af-8b1b-cc9506572849",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #607)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7286,11 +7286,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "579c097c-bf7e-45c2-8c6f-4d5d19d1253a",
+    "id": "930ab43e-84c9-4dcf-920f-73c5ff068870",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #608)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7298,11 +7298,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "76c98f7e-0b18-470e-a33b-d58ad3295678",
+    "id": "5bd84e29-8851-43e3-bf30-cb81b077d204",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #609)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7310,11 +7310,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "81039e47-27fc-4a43-827e-7f83de56ee26",
+    "id": "d9496a09-3d41-4208-8174-f03b6fe175a7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #610)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7322,11 +7322,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9231db8b-3e45-464e-873f-62a77f050e49",
+    "id": "c32cf4a1-dd56-4f9f-a8c2-f5f523f19510",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #611)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7334,11 +7334,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d820bb52-1415-4d0e-a0d1-c028e8f17f1f",
+    "id": "70ac0ccd-d064-40fa-8c96-0b0cf98a31c4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #612)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7346,11 +7346,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3cd70beb-2412-4536-9ce0-473fefd93d28",
+    "id": "4871334d-75ec-45e2-90c4-1ffe0083eba2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #613)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7358,11 +7358,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "97448a9f-b04b-438d-8848-3fa489607320",
+    "id": "3e6c3543-9b84-4ce2-8997-66a54c1d1a90",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #614)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7370,11 +7370,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7b096ae3-ffa5-4484-a801-3311b4012520",
+    "id": "2db59524-3898-42d8-9a45-9c552e1bdfbc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #615)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7382,11 +7382,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a82d8caf-5ac0-4020-b7e2-9f71326a53f5",
+    "id": "b580b7c0-2cc5-4bdb-b4cc-85168dcb21da",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #616)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7394,11 +7394,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e95f9ccc-6eb7-4c4b-a93e-57ceec66c987",
+    "id": "4a764b8b-418b-492d-a784-b35fbf0c5bdd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #617)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7406,11 +7406,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0599d3d5-5bc2-455a-8dcb-e2f284a4ebdd",
+    "id": "4260f05c-0451-400f-8820-12ec28da249a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #618)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7418,11 +7418,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "50c3cfba-1d44-4d76-b611-e5b28f72fd69",
+    "id": "033e9586-9722-45ad-9f75-897c70ad3ac0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #619)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7430,11 +7430,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "24c84aa8-5d6c-4274-8610-99d3c8478889",
+    "id": "9d7c4b0a-c5bb-4497-a587-ee8bc9611e4f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #620)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7442,11 +7442,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bd70d1c8-eed8-4bd2-9333-3bd93c29f4d6",
+    "id": "ff6d78a5-9152-4ca0-b8a0-4461be7f1c6f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #621)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7454,11 +7454,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6a82e31c-065d-4149-9c9f-69de88c7f602",
+    "id": "b6c7dc8e-5085-498e-a367-c514f437b030",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #622)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7466,11 +7466,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b73bbeb6-f786-4a27-9961-ca8ba0d7e681",
+    "id": "e08423dc-e67f-465e-ad5f-b28806fd78b8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #623)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7478,11 +7478,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "39455b74-f467-48ed-9f81-9a944f10e947",
+    "id": "5b8c64e0-597c-47a8-8dce-894f0efd55fb",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #624)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7490,11 +7490,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9af531ef-0d5d-45a7-9291-2ddb34a8df15",
+    "id": "65a0c94b-ff18-4e19-b43a-7a601b20733c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #625)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7502,11 +7502,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ba4eeb39-281c-44e9-8b95-e7e589b58bbf",
+    "id": "a894564b-f013-4303-8301-f5e0ee01c5fa",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #626)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7514,11 +7514,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "aaf28cb1-81b8-4fb5-a61a-7795114e05e8",
+    "id": "4e1891b2-0b27-45b3-abfb-f7e8d805b4dc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #627)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7526,11 +7526,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4f36cc2f-fcaf-49bb-9487-b5d7b3cdbb7d",
+    "id": "5a05e601-56b4-4d67-a60d-d05a60f742f8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #628)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7538,11 +7538,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "01bec4ce-e713-44ae-9833-9afee9c7f3e2",
+    "id": "bba7f44f-9752-441a-a129-c4c73b5499bc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #629)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7550,11 +7550,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5eb3c33e-8cd2-40b9-b538-39840d3033ce",
+    "id": "d57bfed9-40c2-43e2-802c-36767ad2b6f2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #630)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7562,11 +7562,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1e81cbcd-091b-4c7f-8918-c7ec6cfc03fb",
+    "id": "b28b6140-3793-4a2c-b33a-5ca7d7f8b485",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #631)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7574,11 +7574,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8563c6c3-820a-4efd-99b1-c4d3fbb1409e",
+    "id": "b03c32f9-3b01-449e-a22d-ceeb9d35ea1f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #632)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7586,11 +7586,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "779893d4-92e8-4bf8-90fc-a2151f8ced07",
+    "id": "6aca451d-cee2-4e49-8ea5-36b79fe369b9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #633)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7598,11 +7598,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ac6dbc31-fa7c-4058-b0cf-bf775084ba9e",
+    "id": "f43e60e8-c6bd-4fca-aa84-097664179ff6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #634)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7610,11 +7610,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7821dcbf-8bf8-42de-a274-d0efba472125",
+    "id": "688a59b2-83b5-45c8-bb39-b876d05b9012",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #635)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7622,11 +7622,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "86f90809-e8f1-4ee3-832d-1025589bfe25",
+    "id": "c9808391-f7bc-401c-9da1-77f04538c778",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #636)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7634,11 +7634,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "dd4f4c1e-89cd-4831-b472-9ee566180d10",
+    "id": "2f958c44-afff-43f5-bd3d-6d75e75f5d73",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #637)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7646,11 +7646,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ca9d8ef3-fd4a-4b1c-9842-a9e2997c2bc2",
+    "id": "2b812ac2-eb43-4462-8c88-f718f5bca858",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #638)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7658,11 +7658,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "963b3be4-17dc-457a-9678-5f25b7642626",
+    "id": "9bb325b2-0d12-409f-a47d-095b9027c621",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #639)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7670,11 +7670,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "79cf03ea-16dc-4338-bc5e-611701c50b2a",
+    "id": "42529d8f-45fb-4646-bbd4-e36e5ae5365e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #640)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7682,11 +7682,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a45b49c4-ff7d-4906-b925-21b953394169",
+    "id": "f98418d2-9f7c-4071-a58c-8ef52cccc3aa",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #641)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7694,11 +7694,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9aebf90d-e0eb-44fc-a47f-1e5fdd0dd149",
+    "id": "cb102d6c-0062-468a-bace-eee1761583e2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #642)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7706,11 +7706,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b70d1b29-7d12-43d9-9166-0097c715233c",
+    "id": "ed3802c0-f80d-41d7-ad4e-b87df4265b74",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #643)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7718,11 +7718,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f5c20cf4-9b3f-44f3-b7f4-4494654a4a1e",
+    "id": "8c645cbb-89dd-4d19-9b2f-b5e4353da696",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #644)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7730,11 +7730,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bcf94aa6-7e09-4435-9fb0-847b1d50b357",
+    "id": "34c5e06c-e4ef-4c3e-860e-4452e85f0327",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #645)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7742,11 +7742,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0b92afc7-18fe-4afc-852f-5daf2402e61d",
+    "id": "4f491961-2027-4b1e-afcf-eaa205553427",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #646)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7754,11 +7754,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "200cb977-225c-44f7-8d68-08070835e920",
+    "id": "c1305412-29e4-40c5-ad07-db4675dfc64b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #647)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7766,11 +7766,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8b177546-053b-4c3f-8fe7-9a913f2eaaf5",
+    "id": "1e44fe49-d2ba-4255-af30-497711d52a28",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #648)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7778,11 +7778,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f8a43b39-37b2-43f6-b806-cc2778bc4e87",
+    "id": "0fdb4b24-7362-411e-a30d-6adbabe46920",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #649)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7790,11 +7790,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "26616893-aba5-4d4b-8928-c7a673f766cc",
+    "id": "58c25a5e-3dc7-43c8-9309-783704d2efb7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #650)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7802,11 +7802,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "66c1de4c-b888-411c-80e1-a7aea25825c1",
+    "id": "b1b0c99d-ad25-4435-9c8d-4d7c351531df",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #651)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7814,11 +7814,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "52ef2e4d-5d43-4350-85f9-86879415fbaf",
+    "id": "2130eb32-a115-4393-a4f9-46d9fcf3a8cb",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #652)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7826,11 +7826,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8f2f7f41-cd4f-42b3-8462-651353b4e62c",
+    "id": "d520ed59-bcc9-4bab-8a49-accc674a254b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #653)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7838,11 +7838,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d31e4731-4c4d-42e6-a774-c0fc3a53482b",
+    "id": "0b6e2b25-27b7-408c-b992-8228250c4da9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #654)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7850,11 +7850,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "003bf4d3-1a7d-4fb9-b4e0-35e995d81129",
+    "id": "be6deca7-ed7d-4f9d-9c95-604a8590cb2f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #655)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7862,11 +7862,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1b6b0851-2094-426b-b98b-18fc3d337c42",
+    "id": "11c173e9-17b3-4e2d-ad4d-aebea0e8e207",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #656)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7874,11 +7874,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c9db69d6-2b59-474c-a329-ba3bcab7b7bd",
+    "id": "3dc0984c-5bf0-401c-b116-77e2f0936c49",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #657)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7886,11 +7886,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2b5b552a-0efb-4ac9-a329-98b18582c30a",
+    "id": "344aa4ef-a076-4171-8acf-25d6c4361d98",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #658)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7898,11 +7898,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "14f8fc96-5bd0-42e7-ae87-8e28efcf561a",
+    "id": "73cc1398-75ae-4480-9587-2b3a2d6dd989",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #659)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7910,11 +7910,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "41c41a96-e6a4-42d6-806e-8c1a35b1c946",
+    "id": "726780df-d38f-4874-a0e1-fc23e7352e93",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #660)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7922,11 +7922,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "aaeee81f-9739-4c37-9242-d9e05a24d09b",
+    "id": "985e57ef-d7e0-4170-8d34-a78a118645e6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #661)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7934,11 +7934,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b8f85760-e107-4a4b-95ed-3d5a62281c7d",
+    "id": "f7ed65b6-aca0-4bd4-8095-bd76c77cfd7c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #662)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7946,11 +7946,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2ffe0339-4b41-494d-b0f7-ba2f395c5c1b",
+    "id": "d9ffcc0a-55de-41ca-a9fa-94810caa770d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #663)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7958,11 +7958,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9a231d41-f124-4c33-832b-ab453edb1bdd",
+    "id": "e58241cb-93d5-48ac-85e9-de8656d12bd2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #664)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7970,11 +7970,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0c0e96d1-b9c5-4bf8-8b06-3215cf528b93",
+    "id": "55b416e5-659c-415b-a518-67fa4a3a59ca",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #665)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7982,11 +7982,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7543a556-287a-49ef-a5ee-115eb4711245",
+    "id": "7dfeb186-10ad-4e6f-9ca4-09b53179a31f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #666)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -7994,11 +7994,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5ee9360d-b51b-40dc-83a6-b7df324e193d",
+    "id": "309470a0-e154-4ed7-9013-aa66c410f6c4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #667)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8006,11 +8006,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1e6b9d5e-a6a3-4c0d-a9cd-fec1adfa2e89",
+    "id": "1e71f3b3-4234-44df-8b1c-7482d87b3dc4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #668)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8018,11 +8018,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "da1cab07-23ff-478d-ac02-79a80c958432",
+    "id": "c8ca8f02-3374-406d-bc9d-f3b1ee0c87d7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #669)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8030,11 +8030,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "94c865d6-5501-4b94-abfb-b2f51157ce08",
+    "id": "92ffd46e-61ae-4188-aac5-60edd3df855c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #670)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8042,11 +8042,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5d0a07c4-8a42-405b-9325-3f77fa54da59",
+    "id": "d775ca64-def5-442a-98e5-cca2f8ac34ee",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #671)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8054,11 +8054,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7272d8a7-9847-4be3-9fdc-c90cc112ef99",
+    "id": "b0c1c724-b3e0-4ba6-a17f-ebfdc17188d8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #672)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8066,11 +8066,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "33918283-3ab1-4e32-9756-bfe8d368a851",
+    "id": "edcea994-6dad-484e-906c-0a01a6dfeb72",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #673)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8078,11 +8078,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "321e4f2d-f839-496c-b57b-c0d13da8fe94",
+    "id": "49e54099-baa4-43a9-86c3-d9c89fc1cf76",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #674)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8090,11 +8090,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cc7e20ee-8d9a-4584-a3f6-98c21ce0a6b1",
+    "id": "4cdf2ffa-ac6b-42ac-a520-a7d0148f0e29",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #675)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8102,11 +8102,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8b87791f-e30c-4e13-9b5d-63db61b63921",
+    "id": "c0a0aa3d-c61e-482f-a93d-174d34fe9369",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #676)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8114,11 +8114,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7beeadab-407f-4be5-8f8a-aa755987e2d1",
+    "id": "4a8a7328-81fc-4086-93f3-dca761bdc1ae",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #677)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8126,11 +8126,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "eb3ac11e-cecd-452c-aa2c-213f1d609bf4",
+    "id": "58ed93be-2a58-4364-b2f4-e0922b960e7e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #678)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8138,11 +8138,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bcd86b3d-6afb-4ff7-80b5-5d6c34eccad6",
+    "id": "0f14b05e-7f69-4234-9e7d-9c4551303c3e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #679)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8150,11 +8150,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7ad3545d-8bb8-48fa-97a3-de46c202802a",
+    "id": "8ba79145-4cf5-41f4-9ad3-7f8c5dc45d36",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #680)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8162,11 +8162,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1e7eb6af-2441-4343-87fe-ec4009ab121c",
+    "id": "b9431987-17ae-4335-8dc3-02836db0610f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #681)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8174,11 +8174,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cf813a8f-ed8a-481f-8331-0fb4c632a205",
+    "id": "d79aac9d-d656-4702-9981-aa2a9cd46853",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #682)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8186,11 +8186,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9075a26e-6c83-4a7e-87c6-a97d1b3a6214",
+    "id": "ab19e568-35e8-4a44-8013-68526eb7863c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #683)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8198,11 +8198,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ea791c19-afe5-4920-85c7-26eb8f36113b",
+    "id": "354586d7-3097-4ea2-8de1-4b2de854fa70",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #684)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8210,11 +8210,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2c83e80c-4f2d-4887-88c8-412261a1e08e",
+    "id": "67f674b4-b38a-4474-90b3-c3266256e639",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #685)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8222,11 +8222,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bfd38430-4720-41ab-a66f-28600bdd7a15",
+    "id": "6fa57be0-b2e8-41df-b613-f2288322279d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #686)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8234,11 +8234,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8dbd3f11-e32c-4925-bc72-28533c63b9e4",
+    "id": "fe5c0851-c01a-4042-99d6-c5739b4208dd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #687)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8246,11 +8246,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d7d237cf-d04d-4635-8bd4-c11bde792850",
+    "id": "334dc156-5fc5-49c4-9f7a-1375ebc577c0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #688)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8258,11 +8258,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0aace70f-96ab-4231-9436-2c4e0b946ccb",
+    "id": "083ccdde-aa27-41f4-bf6b-e0b5ce07bf79",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #689)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8270,11 +8270,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fc98a5e3-b56b-4c93-9e34-119cc5f8c433",
+    "id": "b3440d51-2a3f-46a1-afb7-67e5902f594f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #690)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8282,11 +8282,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f3e9896b-e8ce-4b1a-9921-86deab706ae3",
+    "id": "ad7a323d-f6d0-4c82-9108-5f88f72bd099",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #691)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8294,11 +8294,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1fea42ce-ce92-47fa-a705-61b9820c3cdd",
+    "id": "0a4cc81e-f607-48cc-a2d9-bb4bd56d2f74",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #692)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8306,11 +8306,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "134f322d-b7a9-44b1-b7d7-3e4764bbe06a",
+    "id": "5411209e-ee70-4260-8b8b-3457eb906f8b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #693)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8318,11 +8318,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6a709aaa-844a-4874-99f5-221e00c740ff",
+    "id": "7ec41a92-2d32-45d5-9f26-24007617b2df",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #694)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8330,11 +8330,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "65890d68-18ca-43d4-8c08-82b7d9002598",
+    "id": "f6d1eb0e-101a-405b-8594-d406360592b2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #695)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8342,11 +8342,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7fc36287-6d12-418c-ad03-8bc63e17009f",
+    "id": "36e62e96-dc35-4bc9-b95e-f48e97ab4264",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #696)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8354,11 +8354,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8cf9a3c9-62e1-47f9-b9af-dc5396aadba1",
+    "id": "1ef0aec0-0cec-4fc6-8f76-94e9a819baa3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #697)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8366,11 +8366,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0feba87e-7f41-4e53-aa81-911e9a7a8e60",
+    "id": "fe85d7f7-4a50-4ca1-aa6f-ce14cb5cb2bc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #698)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8378,11 +8378,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "214d4ec9-d880-492d-8c42-bbca6963dd4d",
+    "id": "2cc818b1-3b0a-4518-9dfb-586ca336e682",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #699)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8390,11 +8390,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2d2a41ad-34af-43ca-a1fa-8f19573e72b3",
+    "id": "d3bab300-85e6-43c5-8756-f0c9857ed779",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #700)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8402,11 +8402,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cbce1a10-f427-483c-9a24-8739745d5048",
+    "id": "18973681-ab9f-4840-a2d5-86b13be7bebc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #701)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8414,11 +8414,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "22d27ff7-40aa-41d0-9ba7-1a35f8532bf9",
+    "id": "b32d223c-d8f1-4308-b939-9721d0048a9a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #702)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8426,11 +8426,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0562b1fc-4e9a-4816-ad86-9716cad541af",
+    "id": "4780e80f-5019-4136-bb81-c8fe6d371020",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #703)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8438,11 +8438,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9e3b2f36-cea8-470e-8967-0d880e2c42e5",
+    "id": "7e71b0d3-ca91-4fa5-8c34-9bdd96fb2f1b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #704)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8450,11 +8450,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "04fadce2-43aa-4d16-8bf2-222f181c2519",
+    "id": "a1f1be57-4b36-4227-8ffa-b09970101fc2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #705)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8462,11 +8462,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b6934148-1f00-438b-97ef-8d46cc1ee14e",
+    "id": "4da81759-aa44-4f69-bd3a-f505424818c5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #706)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8474,11 +8474,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1e86f697-273b-4521-a184-e94282101000",
+    "id": "2eb579ea-0fe8-40c9-a9e8-ee52fcaa02f5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #707)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8486,11 +8486,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a63fccf6-fdc1-4f1c-b0a7-5ef78df2e3d2",
+    "id": "486b8093-548b-45c1-94a5-17bbcf795355",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #708)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8498,11 +8498,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "63e641a5-8caf-4798-8c98-a577f7a7a47a",
+    "id": "2b5a7997-364c-406f-a4e4-3b25af18f1c6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #709)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8510,11 +8510,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ff7ca11a-93f2-4a54-8593-7f6ee6563e03",
+    "id": "fadd4fad-7edb-4eaa-ac08-c7b77517429d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #710)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8522,11 +8522,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0060aae6-7dec-49a5-89f2-0649086fa9d7",
+    "id": "f70961ca-1ae2-4641-bff6-76c6994b9206",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #711)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8534,11 +8534,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "939fe5b8-d9bd-4d02-86c3-f60f07059c27",
+    "id": "305c1cee-66f2-474e-8bf4-a87fe9cf1f5d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #712)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8546,11 +8546,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "35d778ff-fab7-4d64-8d9c-bcb420120d60",
+    "id": "cb170d5a-7d74-424e-96ec-5f24444b7e02",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #713)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8558,11 +8558,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b53cffde-c52f-4a3f-b283-454e74c6dda6",
+    "id": "6f59a8f7-a10b-40b1-a81d-b0c814b044df",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #714)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8570,11 +8570,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b8734a93-81ad-4465-8e7d-8883f697d014",
+    "id": "aa84393b-e209-413d-940e-fa4e0b8cd843",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #715)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8582,11 +8582,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e9ff08fd-fe27-42b9-b4bb-54dfb4820081",
+    "id": "7b2c7baf-36dd-4648-a796-4d5c37c9a905",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #716)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8594,11 +8594,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "86a670fd-4e17-4c5f-b043-fc709e1edb70",
+    "id": "549cf69f-3206-41a5-abc3-0ff8cae5ac71",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #717)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8606,11 +8606,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "53cb89be-6a45-4208-8dce-fe54b88c5fa6",
+    "id": "e79e5e1f-5e0b-4d72-9bc8-e9aea7a4cc66",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #718)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8618,11 +8618,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ba4a40ef-71dd-4ef4-99f8-1ff7cd080311",
+    "id": "869c2d0f-30eb-4683-afe4-232386cf290c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #719)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8630,11 +8630,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1d2a2647-8891-4915-b14b-84decde59bd2",
+    "id": "927b2fdf-1e0e-4de4-a8a2-b251fa4ff924",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #720)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8642,11 +8642,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2d8bea21-bc67-4ac3-b7a2-9d2665e154fd",
+    "id": "3d7176c7-d12c-4334-bb2c-0fd13061a7f0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #721)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8654,11 +8654,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ca90a293-8bfb-4e50-a8a5-3af20745575b",
+    "id": "abf1ce56-a29a-4484-9784-2dcce8832433",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #722)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8666,11 +8666,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e6439caa-6bd6-4587-abaa-5b1ad43b607c",
+    "id": "2645a1fd-0d63-4578-a185-5c399393d981",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #723)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8678,11 +8678,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8c8dd5d3-d0fd-4e08-b87f-40bd3e7e82b2",
+    "id": "c5409be6-19d3-4412-90e2-675ff66809a1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #724)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8690,11 +8690,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b1f3872c-2e1c-45bb-96e3-94c5095c7f9b",
+    "id": "571098c6-6144-4c89-922a-ae2d558be97c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #725)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8702,11 +8702,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bf3812ff-909e-42a2-b7b5-b821bb36bcdd",
+    "id": "477505a8-f877-420f-a97d-d7a1fc1cd284",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #726)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8714,11 +8714,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "92d507af-e8a4-46ca-a3b0-7484d82bc436",
+    "id": "b2666768-b367-44cc-b900-1d755d1e7ccb",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #727)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8726,11 +8726,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "33a811ed-9df7-45c9-866b-3710260b09bd",
+    "id": "805e074c-53dc-4e30-88dd-2c9aaa1d0f35",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #728)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8738,11 +8738,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "714b01f1-88c0-4c12-a55d-4aae77678879",
+    "id": "da566c2e-2138-4e9f-a843-afbec0fd5d7f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #729)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8750,11 +8750,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c6b7cf13-2703-4898-8f6b-6f0d9492b231",
+    "id": "e4424d73-fd09-4870-af33-52ca4aab4853",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #730)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8762,11 +8762,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "713f79f8-b732-4b18-ba24-b888f38c2d83",
+    "id": "b21b5a5a-5db5-4eed-8919-80ded12ba42a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #731)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8774,11 +8774,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "76ff7cb2-b377-4601-a9b9-0a66ff59cab0",
+    "id": "fa31555b-2865-4beb-8b71-967725fe6a5b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #732)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8786,11 +8786,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d78895e4-38f6-4a9e-8efd-b93ebae5a3ae",
+    "id": "e7869a4e-fcf2-40b8-a6dc-c4c4682b2c3b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #733)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8798,11 +8798,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1fb4b7d0-afc8-4445-bb78-36518f299e97",
+    "id": "19056df1-f2af-4d79-92d5-2d6c9b9f84b2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #734)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8810,11 +8810,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5feba68c-9c85-4619-8c67-9fd60e635a1e",
+    "id": "96219543-ac7c-4e23-8843-60b1891b66ac",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #735)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8822,11 +8822,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ae8e4e67-73fa-4754-b704-8f4f332f4ed2",
+    "id": "05b60dd7-516e-4a2d-968b-9b507211cecd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #736)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8834,11 +8834,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9069af0b-e13a-44a3-8173-54ca93828ee9",
+    "id": "df3b164a-20fc-496f-b16e-db83eac6dda8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #737)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8846,11 +8846,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "dce1ce01-fbbf-458f-89f5-7d1ef02e1310",
+    "id": "c35d3605-7ec3-410a-99a5-70405ea52e5f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #738)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8858,11 +8858,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f123ac08-30ce-4824-9a5b-52e8b79b7c20",
+    "id": "b694f092-f682-48c9-a39d-d8b5dcde7d78",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #739)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8870,11 +8870,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "72d93333-fd3e-4187-aaff-f6d7ee038369",
+    "id": "bf9acaf1-e50b-403d-937c-2c1cd48bb97d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #740)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8882,11 +8882,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ab58762d-e253-4a91-b436-907df2b7cb3a",
+    "id": "5e23f28a-68c2-4ef6-9936-f605a62d6c1b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #741)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8894,11 +8894,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3409aa0d-a6f2-4c0b-8c3f-b1a99249f889",
+    "id": "15d4a937-9f3e-4f1b-a2c1-3f250626a7ca",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #742)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8906,11 +8906,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6d5cb207-24aa-42b2-8777-dbc78c24eacf",
+    "id": "69bfb06c-e05e-4e6c-8571-90d92537f62f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #743)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8918,11 +8918,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9b2a0e17-3290-49a5-a2c5-a25eab07be02",
+    "id": "ab0697f6-d17b-4fbf-81bf-ebc9de873e31",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #744)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8930,11 +8930,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "18e66c75-be6c-419a-8a64-d0d7d2cf887c",
+    "id": "cefbb228-ab52-493f-bb06-4a2161e3a316",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #745)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8942,11 +8942,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "79793d99-47b4-4847-a0aa-ecab0ed4d7c2",
+    "id": "1b9dddb8-b4b9-46bf-bdce-a3166f3cd62e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #746)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8954,11 +8954,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8345bb4f-6d96-4206-904b-b9f55d5f7aa4",
+    "id": "7caf92c0-f742-4eaf-9efd-5cb6a1d72700",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #747)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8966,11 +8966,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a30c3564-61e2-499d-ace4-c87252976fa2",
+    "id": "676eede0-d723-4c16-a1b1-13a7e777c9f2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #748)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8978,11 +8978,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7245ae92-e4b3-4149-9a2b-615ab2d375a8",
+    "id": "6af82e69-a5c8-4140-9c32-e89040e48224",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #749)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -8990,11 +8990,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f3d405a1-1b7a-4df6-a4e1-40532e8eed0f",
+    "id": "da5c9efa-219d-42c3-a400-3087c3bd8d91",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #750)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9002,11 +9002,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "92aa022b-6c46-4f81-8938-1ef2866ecfa4",
+    "id": "1d33596d-16fa-4084-bdab-7caf39dc6aa9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #751)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9014,11 +9014,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6b8c718e-39f9-4050-a137-693343902edf",
+    "id": "cb4bb198-9fcb-4bcd-bae0-4fc13fe17635",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #752)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9026,11 +9026,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2c173960-e903-4b94-bee4-67fea7053b58",
+    "id": "9a95f6bd-db17-4159-9d74-152fdbac65ac",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #753)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9038,11 +9038,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c9cae067-c9d8-4bc7-acf2-01cb59276568",
+    "id": "100d00e0-aeba-45e8-b7bd-e97a151c97e5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #754)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9050,11 +9050,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c56d1f2d-dc2a-4cc1-9a4d-07448c3dbc72",
+    "id": "9e6dcb84-d4ba-4123-989d-dfdea1ffa6d7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #755)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9062,11 +9062,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b1ab0bd1-d35a-4dbc-82b1-d54f180e0c6c",
+    "id": "0122c4f2-4aed-4f19-a1b8-92da6d148039",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #756)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9074,11 +9074,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5ff00b2c-7ab9-485b-969a-eb1d8dcdb471",
+    "id": "98edd66f-8983-403b-b91f-96a0d4e7e252",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #757)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9086,11 +9086,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d2883694-33a3-4ef0-b877-205613034938",
+    "id": "10a91b99-83af-4cc0-a60c-ea3302b7e438",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #758)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9098,11 +9098,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9fb156fb-3a34-44ca-8f96-e2439ef2ac7f",
+    "id": "dda5c129-4bec-4cf5-9390-a23b5f2008e5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #759)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9110,11 +9110,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "47915d73-6f31-4218-bfee-49627524d293",
+    "id": "efc5f44c-af0b-402a-9301-6dd382cc2a49",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #760)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9122,11 +9122,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cf2faef4-ed7e-4409-968d-826e1e7bd5f0",
+    "id": "8e00b269-b436-4212-bcdf-26f1133e3a53",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #761)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9134,11 +9134,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d7de97b9-ff65-4bbb-9bd1-5eb83ea9b9be",
+    "id": "4f1ddf1f-9bdb-4178-ba4e-499d24d87709",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #762)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9146,11 +9146,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7a8b85b9-44df-4b22-a6e8-c9b6aa7b339c",
+    "id": "46d26e01-0316-422c-a03b-2df330c72ecd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #763)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9158,11 +9158,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5947bcb4-c67e-4b61-8553-b61a2d85b681",
+    "id": "25c18c03-b755-4986-a589-13912efce1af",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #764)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9170,11 +9170,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ee2e7712-a4fd-4007-9bdb-e903a583442b",
+    "id": "7b569734-705e-47eb-9f1d-87f374294085",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #765)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9182,11 +9182,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "daac20f1-93b5-4f6a-8cc6-22fdfa1323be",
+    "id": "6f3d507b-d7f5-4608-87de-10bf8589cdbf",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #766)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9194,11 +9194,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "46a10c71-4f37-423c-af54-e50733fec51b",
+    "id": "fc85c836-cdaf-4414-9cf9-770a1c501a0b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #767)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9206,11 +9206,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9141b489-27a0-49a1-a39b-ccde0a48eae9",
+    "id": "45218f49-8be3-47fe-90ed-38cde8c8b7a0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #768)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9218,11 +9218,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "91a86357-3804-4094-bc43-1d5645dbd46e",
+    "id": "f519c5e7-be1b-45c0-91fb-c75e41a1116e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #769)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9230,11 +9230,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e9774717-fdd3-4190-a672-a5e745e2c85d",
+    "id": "76b3bd57-6711-497d-8006-ac1dc75ee4d7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #770)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9242,11 +9242,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1b1aff33-780a-49b2-b6bd-23ee400b6b40",
+    "id": "fba8c92b-6ae9-4a3d-967a-4e47a6a6e40e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #771)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9254,11 +9254,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "28c23c31-25e3-4178-999b-483b73684542",
+    "id": "a320237e-5e97-4bdb-aee0-a3047b431b24",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #772)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9266,11 +9266,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "34aaae50-3250-41fc-bb64-93ff80a7bc39",
+    "id": "ec59e23d-f81f-47bc-838b-441e214dd338",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #773)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9278,11 +9278,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f63a2f5c-467b-4968-bb2c-41f4b5f86f97",
+    "id": "c31460f7-5c76-49d6-a019-1bc0d54df396",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #774)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9290,11 +9290,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "93142ef5-8da4-4e47-ac7c-0c8115e6f664",
+    "id": "154f9b25-0963-4a1e-afb3-c8d19e8053ed",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #775)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9302,11 +9302,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6f94340a-dc43-466b-9375-f8178bd83078",
+    "id": "ff0daf3f-bf2a-4ab3-b2b9-6acc747861c5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #776)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9314,11 +9314,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9412c38f-161c-4b67-9d35-2c1bb11ce064",
+    "id": "b3dd003e-ec30-45d4-a5a2-38a197bd64bc",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #777)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9326,11 +9326,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a49d4908-2061-4548-85dd-0296c788eac6",
+    "id": "7a2a3bf6-69e3-4a25-88d9-6031eefceca9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #778)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9338,11 +9338,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f95804a2-9919-46d3-beed-66532c91642a",
+    "id": "b0ab7423-a4fc-4bb4-93df-c227e5343ed6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #779)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9350,11 +9350,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "00e1e29e-8a56-42a2-9006-cba8f1dc693a",
+    "id": "b13d060e-9adb-49ec-a3d6-21a1ee2b12b2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #780)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9362,11 +9362,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c701e701-490f-4a7c-ba39-f818b88f5939",
+    "id": "cbf52e28-b8c2-4118-acbf-1c61a20e5349",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #781)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9374,11 +9374,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "829b0a43-d01b-4fa5-b7ae-c302cf018237",
+    "id": "ec652272-1a95-4896-bbf6-65644148a7e2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #782)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9386,11 +9386,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1193cf48-6dea-4adb-a90d-fcf360335a63",
+    "id": "f43c4f28-f4fa-448b-ab70-fb19361c4d01",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #783)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9398,11 +9398,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "184ea80e-63be-4075-9446-001e01338c7d",
+    "id": "18eaa17e-747a-4d64-ab34-b53a28309490",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #784)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9410,11 +9410,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "befb72a2-4027-4ad0-89cd-1aa12739e95a",
+    "id": "77fc7dbe-bccb-43e1-8494-aa3ece33b006",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #785)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9422,11 +9422,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4138cc88-0da4-4c6b-ad3b-5f165ce0245f",
+    "id": "1eda7976-9550-426d-8541-724ebde76674",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #786)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9434,11 +9434,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ff032368-9032-4140-a764-6407491d8c20",
+    "id": "df8942fb-bfc2-49c1-801a-cc2639c11ef2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #787)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9446,11 +9446,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e6ff5583-1b73-458f-9f97-f41b8857e77e",
+    "id": "0a287233-689b-4aac-bd47-3bccdbacccef",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #788)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9458,11 +9458,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1d96efbc-b91d-40f2-8bab-88c0dd3abe5d",
+    "id": "f7f9bf81-c32e-47e1-842b-9c69c156f92f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #789)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9470,11 +9470,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1ee03f8e-2f97-4b04-9fff-60850e440fd0",
+    "id": "689d07df-1147-4332-9c2a-aabd7c520f4c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #790)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9482,11 +9482,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "940b93eb-c274-4c97-942a-61135c917f47",
+    "id": "a7245ebd-d1b3-41fc-885e-c9b368f7dc83",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #791)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9494,11 +9494,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b1ebb3db-68e7-47a0-90ed-2e810373f3a6",
+    "id": "4662c0a1-55a4-4348-a907-e17e82cb6af6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #792)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9506,11 +9506,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8ae3b59a-f46a-4f40-8137-fac3d1626d0c",
+    "id": "695c504e-ba79-4c08-874e-2462dbdc9358",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #793)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9518,11 +9518,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d6426d0c-511b-49ac-b2c2-61063273ed95",
+    "id": "38b432c5-d237-4428-b31d-a2832749ac9c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #794)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9530,11 +9530,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c1c75941-44f6-4623-a8bc-72836350c1e6",
+    "id": "94c3ca86-4ae8-4268-a8e9-86b3200804c9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #795)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9542,11 +9542,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d35b853f-976a-463e-b21e-c93a7c521524",
+    "id": "660a72b2-8d7b-4744-8559-d92aaa6a5355",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #796)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9554,11 +9554,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "09a0a247-3610-44b2-b941-cd8117949812",
+    "id": "ecc43851-05d0-448d-a28d-66cf88c18f3b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #797)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9566,11 +9566,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "63f32d8b-0c97-42d5-9462-8c67b2f1a3d2",
+    "id": "8b7690d1-a667-42d5-88cf-0e6735142297",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #798)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9578,11 +9578,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bcb8f316-9ab7-42d7-8142-db1ad90eb0fb",
+    "id": "d952cd2e-e437-4cd5-8bd8-d1ecf15cb406",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #799)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9590,11 +9590,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fb3db22a-f8b7-4fe7-9606-479036b16acb",
+    "id": "f0c0ad45-b3dc-4061-9310-3dd3622bd6d5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #800)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9602,11 +9602,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9d63bad2-ed56-440e-9080-075bcbd65870",
+    "id": "6a667466-80ae-4b76-b967-7262ebad6526",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #801)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9614,11 +9614,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "29b31a2e-9354-46af-ae2f-f21694831411",
+    "id": "bfc9ba08-414a-4bed-b1af-692f9170bacf",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #802)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9626,11 +9626,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2d178276-5a35-48b0-a26e-4881bdfef6dc",
+    "id": "07dba3ad-6677-4b07-96fa-62586eac280c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #803)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9638,11 +9638,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "619b663c-6480-40b8-8a57-bbea941273ad",
+    "id": "c698af01-36b3-466e-9fad-06a99283a2a0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #804)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9650,11 +9650,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9374f7e5-a7b3-4bcd-8252-9216e4dc0ecb",
+    "id": "6468658c-bce1-4188-a636-80f7d2353427",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #805)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9662,11 +9662,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "49ce5994-ad53-4779-99c4-9e6d128581d4",
+    "id": "ceb00ac6-8195-4f73-a9ac-88301d8c4a3f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #806)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9674,11 +9674,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fb497143-75d1-4da8-a3eb-499aa884006b",
+    "id": "f15cba78-147d-4c6f-9b10-93ec1d94db7b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #807)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9686,11 +9686,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fc6faa42-8064-405f-a374-560d9ce99133",
+    "id": "e4a30d19-5da1-429f-afcf-82bbf6623ed2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #808)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9698,11 +9698,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4a32f6a7-4965-4ffd-ae0c-c6f634ea986e",
+    "id": "993bd7e9-ef31-4cde-b88a-961b00455f9e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #809)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9710,11 +9710,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "532e9f6f-5ea1-4482-94c4-b38d421a3524",
+    "id": "f96eca85-1431-41d9-bda8-c164c0694107",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #810)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9722,11 +9722,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1c1e8433-662d-4430-8cc4-febe0d8556ce",
+    "id": "6274f3f1-8e26-438b-9188-876d3d069b8a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #811)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9734,11 +9734,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ecb0b16c-1ffe-4dc1-9e77-a9faeeee2b91",
+    "id": "ea9a2c13-a1bf-4b3e-9605-207eea2a6e2e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #812)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9746,11 +9746,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7c97b11d-655e-4bd6-9df2-dc7fad0121fa",
+    "id": "40c64754-014a-43f6-9bdd-31931fdd5837",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #813)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9758,11 +9758,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9cc0efbe-b3a6-4669-8e69-5a6bac0f4916",
+    "id": "870aaf7a-3197-4ac4-aead-90f257d6b1b0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #814)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9770,11 +9770,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0dc070f1-45ae-4aff-8629-a80f4beccfb3",
+    "id": "5db1c2ce-2509-4383-b8a0-0d60f468e362",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #815)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9782,11 +9782,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "719ace29-e57b-4083-9d12-8e67d5e97d7d",
+    "id": "c7f563da-c60b-41dd-9ba6-1f1483e85cc5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #816)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9794,11 +9794,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "dc93f6d4-f8a5-40a3-944e-3b8f471ab8d2",
+    "id": "94e83d67-942f-4a01-a3dd-917d4a7aa0dd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #817)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9806,11 +9806,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c4c1e827-cbf8-48a5-846c-ca15080d6aa2",
+    "id": "ed880371-f70c-400b-a4a8-383bc742b854",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #818)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9818,11 +9818,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "76f31422-867d-40fa-8d21-56e4c8b0c5b6",
+    "id": "1e4301a0-21e1-4882-ab37-1e0986b5fd82",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #819)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9830,11 +9830,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5263e589-fa68-4ba5-a64c-32b5ecc3acf1",
+    "id": "e51ca162-8644-45e5-aae6-416402aa6335",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #820)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9842,11 +9842,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "88a637e7-dc8e-4162-9454-f44ede18ed65",
+    "id": "0b8d5087-1e18-43dc-9581-14e468c0bb0d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #821)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9854,11 +9854,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c483b07b-91c0-48ea-9f2b-5fc5c75e1f47",
+    "id": "584a6250-39fa-4aa7-9881-fd03fdcd62d8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #822)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9866,11 +9866,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b3a4f748-07e3-4db8-bb81-7c601a2036c1",
+    "id": "76fbc20d-9282-4c0d-977b-225b1417fba5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #823)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9878,11 +9878,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "69c3687c-572f-4b80-bbfb-4cd454c6f7ef",
+    "id": "cd23eb73-480b-4766-b3bb-d8ab54e5cbf4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #824)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9890,11 +9890,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e5348946-d51b-4c71-8c8c-363feace0f50",
+    "id": "90640f32-6891-4c02-a17b-bff361c5ad12",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #825)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9902,11 +9902,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4ae46940-6067-4def-ba5f-87251f31dd30",
+    "id": "a0eae678-2372-4264-9a98-4884a281036e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #826)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9914,11 +9914,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d0f33352-a501-4fe6-ad08-33c4cbbd4951",
+    "id": "1133bfc6-ce65-4c27-a1cc-75f8543d3e0a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #827)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9926,11 +9926,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e91f4f97-3cec-4fb9-851f-d7a76ef87cf6",
+    "id": "eb3a327d-5c34-4a5c-bee5-ea42286f7893",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #828)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9938,11 +9938,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8dcb478d-53e6-4839-b3ef-49260d4c0b3d",
+    "id": "acf6a112-6fe0-4372-b8d5-a0b3cfe215b0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #829)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9950,11 +9950,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e1f1150f-f106-437a-b4b0-a69a214affda",
+    "id": "68070095-3556-4506-a9ea-f0d319bc8298",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #830)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9962,11 +9962,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ed23656a-7c35-46ba-82a0-a7f597e79702",
+    "id": "43de4381-0277-4b8f-8869-0d783ba6ffc9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #831)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9974,11 +9974,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "55711696-3338-4ac1-89ef-67b67e607811",
+    "id": "c203f6c3-0af5-4e2c-8ad4-aec80cb3aa39",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #832)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9986,11 +9986,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1244663e-a1f6-4c7a-9057-d41988ff4aaf",
+    "id": "349ef709-3dd1-4df2-91ab-f90d0461b4b4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #833)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -9998,11 +9998,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9320240c-1247-4ce2-a92c-b135b68b03d2",
+    "id": "52d71230-8aac-46cf-a3bf-85cecaecc809",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #834)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10010,11 +10010,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "44d08606-2ecb-4762-97a0-8020844abc9a",
+    "id": "c9184b94-cc5a-430b-bfe2-e60d3dd8225c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #835)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10022,11 +10022,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "36e2af5f-f89a-491f-a8b5-af520bdefc1c",
+    "id": "c8bae345-575f-4030-8edb-5f3e584cda71",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #836)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10034,11 +10034,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8c97d208-5ae8-41f3-b479-9613bd38428a",
+    "id": "cdadbcc6-d3a3-4912-ae5e-fcba90c977e2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #837)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10046,11 +10046,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1da0b160-bb65-47f8-84cd-1decbe05bfd3",
+    "id": "a57643d6-33eb-41f8-b88d-f113b68261c1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #838)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10058,11 +10058,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "56739ba2-1cef-4492-8c16-be3023f8f191",
+    "id": "beb42b74-7134-40a6-bb47-3571f55345a6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #839)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10070,11 +10070,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f5104aa6-74cb-4a57-8af6-ca897c6f75ca",
+    "id": "ab199714-7882-455a-aa4f-d94c1141d05a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #840)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10082,11 +10082,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9f89ded3-22b4-409d-9eb1-2ae02ee24e4a",
+    "id": "d038b078-9b0e-43d5-b312-9cc7dcfadd5b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #841)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10094,11 +10094,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e7cb1f0f-3b4e-41d1-bdff-c60e25628593",
+    "id": "8309a6d3-14f4-4d3f-ac75-f3be688098ed",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #842)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10106,11 +10106,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "287d959c-d6ca-496f-ad01-af7663009074",
+    "id": "0c21ef56-6746-4839-a3d9-1090a39392c9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #843)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10118,11 +10118,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "15126f20-4be2-43f1-a932-a3142b760f13",
+    "id": "78d45639-bf12-40b0-abdd-96157015347f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #844)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10130,11 +10130,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2aafc6f9-1bb4-4bca-b430-b048f49b8464",
+    "id": "342920e4-27c5-4484-967d-01360173f84c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #845)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10142,11 +10142,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a9c7150f-1a9a-41d9-9632-439127be2efa",
+    "id": "fc168cba-46ea-4414-9196-86a734e2df53",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #846)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10154,11 +10154,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9093f0cc-26be-4971-9477-c78f086c528e",
+    "id": "132cd1ba-7c12-4a50-bed5-a94b5ded1252",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #847)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10166,11 +10166,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5d9dffdb-f6f2-48f1-8579-797b293d9d70",
+    "id": "6d1b25cc-6e08-4562-ae3b-f0494ba47a07",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #848)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10178,11 +10178,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1d54e232-788e-4c01-9b00-4d2b7a9cd9a1",
+    "id": "c59f379d-669d-4926-94ce-5011e68b6fdb",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #849)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10190,11 +10190,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "76e9e18c-34f1-4d59-8717-c39a2a68e2ed",
+    "id": "45b225fe-b01c-4c20-839d-0ba6b6a2f9c5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #850)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10202,11 +10202,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2326c701-485c-44d5-8f25-b5b6c911f981",
+    "id": "356eb0ea-9512-484f-ad85-833bbdc18e32",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #851)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10214,11 +10214,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "713bb161-d3f5-494e-bee3-a4f7356b0ead",
+    "id": "4e0ab271-367c-49b9-95f4-006971120c45",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #852)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10226,11 +10226,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a8d84e42-000a-4b21-8861-fa2c05cb0e9e",
+    "id": "274c1e3b-1ea2-4dcf-acd5-4e948cfc3278",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #853)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10238,11 +10238,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0056c52a-4b0b-4485-937e-6296b55817e9",
+    "id": "98c15d22-4eed-4cc7-88c4-b6530d06ea56",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #854)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10250,11 +10250,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cc0a5270-2baa-46c9-969a-51ccbc2f5868",
+    "id": "679341ab-56c1-4185-b40f-f25b31b279b4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #855)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10262,11 +10262,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5d6a2071-b5d8-422f-9224-67a6eb092883",
+    "id": "ce1e4084-8c6c-44b2-9aa8-fa4e6c0cb4a3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #856)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10274,11 +10274,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "07279d6a-4918-4265-ac9e-6fa24fd8651f",
+    "id": "2373d00d-42a2-4c58-a07f-fb5cd66a1f3f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #857)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10286,11 +10286,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9e73d505-35a9-4452-b025-80a22887f4f1",
+    "id": "5d9e9c3c-dc6a-4eb2-9e47-7874594bf249",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #858)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10298,11 +10298,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "35f323a4-9eca-4f42-8c6d-c08b8001fabb",
+    "id": "17a59337-6c1a-40ca-8373-7442b8e84e98",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #859)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10310,11 +10310,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "59bc528f-8960-4a15-ab60-f7f4e9633998",
+    "id": "b8f326d6-0945-4802-a4e2-6fc849214203",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #860)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10322,11 +10322,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fe60d64f-909d-4376-bbbb-96eac29fdb93",
+    "id": "b634204a-2009-49ec-acb5-5990b927f45b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #861)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10334,11 +10334,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5393a227-442f-4a63-9d56-4ded9f71201b",
+    "id": "af9dd11b-b82d-4914-8214-a6a7ed4f99f3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #862)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10346,11 +10346,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "480fa291-0248-4ed0-ad5d-d381d7d7e284",
+    "id": "749dc48d-7043-4460-bcd4-eeb296ba6056",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #863)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10358,11 +10358,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f8f5b406-4c80-430f-acee-479c21bb3de9",
+    "id": "731a9856-605a-4fd4-830d-36df27b4b5b4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #864)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10370,11 +10370,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "62b1dd93-093b-46f0-8640-59ae912f9e1b",
+    "id": "c0044ce4-4a66-444c-b26a-f624bf5b4220",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #865)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10382,11 +10382,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b230a5f9-a11b-4f4c-85e6-2c060bc4fe09",
+    "id": "6101f0ed-32db-44fd-9ec0-9c52c659a30f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #866)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10394,11 +10394,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9dd9245c-bdb3-4173-9e7a-ec296a2134ce",
+    "id": "be0d6366-1fbf-4775-bf28-3b637f1160d8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #867)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10406,11 +10406,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "84e64b7f-c33a-4562-a8c0-d36a3a99fb53",
+    "id": "da650980-5a1c-4717-bac3-e612b23637b2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #868)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10418,11 +10418,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8c921d9e-8952-40cd-8a99-42fa6d1d412b",
+    "id": "5f2fb587-0f06-4806-8879-2f6194f761f2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #869)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10430,11 +10430,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0c7e9a2c-2045-409b-bce2-295a8f55acfb",
+    "id": "87dfea99-0430-4989-b8b3-0219f8e29d26",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #870)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10442,11 +10442,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "61220e2b-2578-494c-b4a4-a3dd8e1b5f8b",
+    "id": "8cbe802d-430a-4e44-be99-941ec8f41b02",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #871)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10454,11 +10454,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1ba99d1c-aac4-4c82-b75e-44198bbbc170",
+    "id": "4e4ea20a-0abe-4e51-866b-daac6f8354d8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #872)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10466,11 +10466,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "02ff983a-8d2a-4b8e-ba5e-e5317d3128f0",
+    "id": "6ecfbc0a-f39f-4a7f-a084-f6bae48b8f51",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #873)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10478,11 +10478,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0e18a915-d0f5-4b67-a22a-077f1e889603",
+    "id": "41840dd3-113e-4fa9-aa65-2843228aed0a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #874)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10490,11 +10490,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c8cc6548-0c91-420b-9ef5-f188d6287bbb",
+    "id": "88777718-1274-4899-be77-7fdae5d9ddd1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #875)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10502,11 +10502,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e0cc4d24-84d9-4178-a947-71deeac04dbf",
+    "id": "ac1dd983-e713-490c-843e-4250c5602e4b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #876)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10514,11 +10514,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "877ed8a7-1b5c-4334-b077-1180a7cd3b60",
+    "id": "e229343a-3941-4f43-aa57-0131cd2644d0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #877)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10526,11 +10526,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "58b5bfc0-8df6-4cb1-87e0-c38c5cb87e1c",
+    "id": "47770d8f-00ef-483f-9a69-3494ae4d2ce3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #878)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10538,11 +10538,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6683204d-6446-44af-89a3-1d972712ac0c",
+    "id": "7fc576f4-1518-44d5-82df-e128817d28e7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #879)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10550,11 +10550,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7430b831-6826-425b-a4f4-40e49fc11ee2",
+    "id": "dcdcd9a3-d50c-4f4b-b186-8443c983b11a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #880)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10562,11 +10562,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d49c20d4-73a1-4a07-a2d5-a861937db8ad",
+    "id": "c183c51b-454c-45aa-a84f-7041fd0ae6d2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #881)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10574,11 +10574,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cdc82c06-0d1e-4325-8fad-bfeab154aa4f",
+    "id": "f80fdcbb-e063-4f69-8c4b-10da532d1656",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #882)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10586,11 +10586,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "dd7a78b8-72a9-4e43-a1bb-6511e6a34331",
+    "id": "6ccb25a3-d180-49ea-9aca-5a7620a2c596",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #883)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10598,11 +10598,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2dcb6c2f-1dc9-4fbc-894e-02472cc1b57e",
+    "id": "564860c5-f937-47e3-9145-0b3e677983fa",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #884)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10610,11 +10610,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "0f293c37-93a6-4573-bc4c-3cb80fb176f5",
+    "id": "463dc132-a940-4a57-9d6e-1408292b4f78",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #885)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10622,11 +10622,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b7b8a313-6ea4-4eb9-8283-4823794c4fb0",
+    "id": "d07aabb7-ef37-4c7e-9e45-035f5331c79e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #886)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10634,11 +10634,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "32b42a2a-19c0-4db4-8e00-b728f780f70b",
+    "id": "a6ba2b03-289a-469e-8b44-c5ec426047fd",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #887)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10646,11 +10646,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c56e6ed5-1337-4af9-9086-a0ffb46dbe66",
+    "id": "7c7e3daf-d3ad-436e-a8b4-a181081f938a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #888)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10658,11 +10658,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a3ab3b24-b564-4b9b-bcef-12cd8922d425",
+    "id": "d437f82c-672e-41da-8b8d-9aff94fe3c73",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #889)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10670,11 +10670,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8ef46e86-8d16-435b-af57-773eadbcd93d",
+    "id": "7245e127-c292-4664-ba3f-fbb7f69d6fd0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #890)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10682,11 +10682,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c2dcb23e-790e-4fd6-a5ba-3da11d273e06",
+    "id": "2f65ba76-7bc3-4172-93ac-a26acb618cf7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #891)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10694,11 +10694,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cd8f3e11-ecd4-4e16-b93e-e414db556abb",
+    "id": "9a64fd6e-3933-468e-85e3-16ab1423495d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #892)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10706,11 +10706,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "43f188b8-757e-43b3-9345-565661a2b54f",
+    "id": "564e387b-6bce-48af-b79e-8796a1a5ef94",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #893)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10718,11 +10718,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a17ddfe0-b262-44b8-acf5-1664f0c0917a",
+    "id": "c75220e9-ba79-4c86-825b-23ce5dc251f5",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #894)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10730,11 +10730,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "209d97db-d10f-45e1-8257-d9ab0b88c408",
+    "id": "4a411824-f217-4245-b4f0-3a98080db83f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #895)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10742,11 +10742,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7737d7bf-c6dd-4bbd-a290-ef397b80e372",
+    "id": "3a31686d-c098-42e8-974a-dd0dcd3c1db9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #896)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10754,11 +10754,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7695d9c3-f18c-4c85-8218-7834498d9723",
+    "id": "2d00b0ff-f16e-4d8a-93a3-602a9d321512",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #897)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10766,11 +10766,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8d0e2ea3-ed3d-49dd-9a52-632f3c057f7e",
+    "id": "9dacc0f2-c472-4b41-90a0-2dfdc7fecc82",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #898)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10778,11 +10778,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fb5457d7-8342-4f5a-ae9b-6243e8856549",
+    "id": "88d739ed-a6dd-4087-9f53-d34036cce169",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #899)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10790,11 +10790,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9ccbf6a2-8531-4122-a33c-3cd9e9796a2e",
+    "id": "533ffca9-8d92-4e30-86cc-206f574f6818",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #900)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10802,11 +10802,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7a5f2a7d-0014-4778-b72f-ced2fb86799e",
+    "id": "87018056-4e48-4255-b930-79427fa6c181",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #901)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10814,11 +10814,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "af133b0d-261b-42f2-b5ee-9df68cdceb97",
+    "id": "aa66d45a-fe27-4b24-b810-eacde0402642",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #902)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10826,11 +10826,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "06b53d5a-3057-47f8-9fdc-7f41aefbb377",
+    "id": "08b141b4-c798-431a-b09c-a9afec06e05d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #903)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10838,11 +10838,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c04d1067-d357-4ea9-81c1-44c3153abc42",
+    "id": "1a44db2e-d59c-4a2a-baeb-c420c9184a54",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #904)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10850,11 +10850,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4f63b684-9f88-453c-9405-a6ff1cb7a23a",
+    "id": "86f97e5a-7b47-4478-8ec2-6b828ce34fb6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #905)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10862,11 +10862,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "01534c0e-8de2-400c-8672-884633ddfa89",
+    "id": "1392cf41-1627-460c-9117-f21f1fc52916",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #906)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10874,11 +10874,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ee8a70de-7236-4fcd-a83c-84308884213c",
+    "id": "ffcf7e4f-a9ef-4167-9cb6-9ad113b75391",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #907)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10886,11 +10886,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d971a17b-8f91-42e8-a4b5-cf24258a28af",
+    "id": "807b3041-f97c-4f8c-8562-ff01f04ceb8a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #908)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10898,11 +10898,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1a9fd230-4b33-4fab-866c-b976e10c917b",
+    "id": "a0413a2e-4204-438e-b66a-a38517e1e837",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #909)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10910,11 +10910,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1a632684-6400-44e1-97df-83dee131902d",
+    "id": "2d5d605f-6372-4aa6-9e17-687290bed991",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #910)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10922,11 +10922,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "64aee344-2fdf-4f60-a165-8c8d3949bb45",
+    "id": "5168ee79-7178-4f2b-a8bd-19a7efd3f92b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #911)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10934,11 +10934,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b8e4e438-95c3-49ac-bfdd-f086288ba408",
+    "id": "3807a5ee-9aff-46a9-a6e7-14b74f84cf51",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #912)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10946,11 +10946,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8203f2c9-2831-4555-9165-2c0bf8dfa0e1",
+    "id": "2e0c65a3-e800-4589-97b3-342487b13e5c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #913)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10958,11 +10958,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bc713955-000f-46fb-853e-794364f82601",
+    "id": "c106ceed-00ef-4294-b3de-3f0cec67667f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #914)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10970,11 +10970,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8d91d41b-767d-4938-95a8-2acd6446e9be",
+    "id": "01b18c44-2d1e-43d4-8543-b62b1f0727b8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #915)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10982,11 +10982,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6fdb81ec-297f-4b54-95bc-0ceecf525f0f",
+    "id": "fc7a8179-ea8b-412f-9e26-a4a9457a9ce0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #916)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -10994,11 +10994,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e1f44c06-6e80-40ae-af82-60475cbc4294",
+    "id": "d775b21d-4642-4029-b6ca-4051b9048f00",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #917)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11006,11 +11006,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f118f9cd-ac58-4a66-b51f-aa241eaf5e8e",
+    "id": "93efd77a-733c-4938-9bf4-80be777f3c5a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #918)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11018,11 +11018,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4de189e1-ac96-4fa0-a1cf-29efcad97f67",
+    "id": "5363d1e2-b093-44ad-8f94-586cdfbaf82f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #919)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11030,11 +11030,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "58fddc82-d180-4bb0-93fa-2ed768586849",
+    "id": "fdf8bb85-cbb2-461f-bcc3-356edffc0e14",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #920)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11042,11 +11042,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "bfb6e04f-a99f-43ed-8749-b2732331f298",
+    "id": "25ee6048-d850-486c-a508-a79e33f764ef",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #921)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11054,11 +11054,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "99dc6655-d7e1-49c7-b34c-98e7a2fa4a2b",
+    "id": "85d6f029-8108-4f65-984b-3cfc97e7c7c1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #922)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11066,11 +11066,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cf9953d1-edae-41ba-9162-9dfc9f8a319e",
+    "id": "f766e1a5-ec25-4559-ada0-64357190d5e7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #923)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11078,11 +11078,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c734f9e3-827e-49d9-b95a-5b822c170ff9",
+    "id": "968351c0-aafb-4463-b977-37ad60bf9f7a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #924)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11090,11 +11090,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "870e968d-82ca-4bb7-abb7-597384b0a21e",
+    "id": "5ed0cc02-310c-487a-9daa-b9376d855f02",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #925)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11102,11 +11102,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2c6ca7d5-846a-41e9-b1c7-f04eeeebca19",
+    "id": "ed445a2e-e5cc-42ff-822f-03c577d63b0b",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #926)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11114,11 +11114,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3a61e9db-a4a6-4d9b-b2a0-6af192228c06",
+    "id": "f5145bb6-f69a-4189-9aa0-a763389416c1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #927)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11126,11 +11126,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "eb5dc2ae-0f50-463e-b72e-f64809d3331b",
+    "id": "32e4071b-72f7-413e-a607-2712431df692",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #928)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11138,11 +11138,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "03b67150-9100-4d8e-86ef-eb01bb2d3d0e",
+    "id": "81358772-101e-4b9e-b46b-3d22169350d9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #929)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11150,11 +11150,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ee3bc909-79cf-45b6-9a68-b78dd14bd908",
+    "id": "5a9a15d5-d187-4dc0-bfd8-ac7f7d91480d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #930)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11162,11 +11162,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "713a7aa5-4ad0-4b5e-aad4-a85500481bc9",
+    "id": "f2ae3859-ffa4-48a4-ba4d-bd3cd5a95f62",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #931)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11174,11 +11174,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "63f75f96-bfad-45db-bfbb-8b266d79b981",
+    "id": "5edc0178-98fc-41e9-a0c4-b1d3a1adeb0a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #932)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11186,11 +11186,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c8ee4c02-3393-4ae1-af94-7f930a9b92ae",
+    "id": "140b11e7-4b4e-4c8b-b0bf-310474ab480a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #933)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11198,11 +11198,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "528dc6ed-7ae1-4a88-a80c-cdc403ac4e0d",
+    "id": "186732a3-8fba-45d3-a1dd-f392911d68ec",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #934)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11210,11 +11210,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4cd75e14-4b32-482c-a519-0815007141ec",
+    "id": "103d2285-c591-430d-a729-4555b9609df6",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #935)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11222,11 +11222,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d7b4a13d-d40b-48d2-a0f0-8ced84f6a3ee",
+    "id": "7173f417-ff77-4e14-b715-6d3841acb663",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #936)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11234,11 +11234,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "dc81be59-f21b-407c-94ef-0f1884774e5f",
+    "id": "9995cdac-8d76-4a74-aa5f-43ab435c58df",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #937)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11246,11 +11246,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c011ea0e-1334-4436-aad2-f2275dfc4a77",
+    "id": "77d0b63d-424a-420d-b274-29799d8aa851",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #938)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11258,11 +11258,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "54c4d5cd-2303-4253-bc9d-c4f49da8e5a2",
+    "id": "626386c0-c3f2-4f30-8f33-4ffdd47e43a3",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #939)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11270,11 +11270,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f16acbd2-0cc1-4ead-89a0-bb48572f4998",
+    "id": "8373158e-4259-4923-944a-f8632d39826f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #940)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11282,11 +11282,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3a7dc51d-b183-4f71-846d-94a70150e2da",
+    "id": "9afc8479-fedb-4d49-ba1e-4542689c1bce",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #941)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11294,11 +11294,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "782f54d2-93ba-402c-93c8-dd88ebf2b136",
+    "id": "2debf338-28a6-45c9-8914-07801737523c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #942)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11306,11 +11306,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "097ae211-78f0-433d-a418-0c624ab3de03",
+    "id": "5c1bc83e-8997-493d-b15d-95cc3a53866f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #943)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11318,11 +11318,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ccede5b9-ea40-4c4f-9eff-e834c185acb0",
+    "id": "4edd0ec2-d23e-4a6a-bee8-0082a7263c68",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #944)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11330,11 +11330,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a7da5995-e8c2-46d8-86a3-965136889191",
+    "id": "ad105f43-43e1-4eff-b658-0e4b84d24393",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #945)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11342,11 +11342,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "5728779f-038e-433c-9710-df667c6a8c38",
+    "id": "90b067f9-1dc0-4133-a082-9436d780d013",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #946)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11354,11 +11354,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e3d71385-65b7-43dc-9c5a-c4a8917795be",
+    "id": "83c7779f-64fe-4513-af48-608ba439f683",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #947)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11366,11 +11366,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7115701c-2913-45e4-b4a7-43c73f1ff4a7",
+    "id": "3357b9ba-d971-4796-a8e6-2c5442575279",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #948)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11378,11 +11378,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "dc665e1b-f796-4a2b-976e-6e86d66faec4",
+    "id": "c67ffca4-208a-46a3-8032-7eed8876603f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #949)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11390,11 +11390,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "257baa09-e3a5-4193-b22a-1a8575700f12",
+    "id": "b6e7d2dc-9201-4107-b678-a98545784503",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #950)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11402,11 +11402,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "dfe3d70f-d883-4ace-8af8-f6262a3347c2",
+    "id": "7ba2e0b1-4eaf-4bec-b0ba-587b6d849ceb",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #951)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11414,11 +11414,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a9c2e5bd-1d5c-4eb8-90f3-cecf4137a4ca",
+    "id": "f2062f71-b415-403a-92d8-69fdd40785ee",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #952)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11426,11 +11426,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "de7ad4f1-3d74-47ed-a0cd-050272a2d6f4",
+    "id": "44d5673f-f486-4694-91aa-76748b1c7f47",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #953)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11438,11 +11438,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7785348a-8ade-47e3-9892-696e34392e3b",
+    "id": "e06bc7c5-d250-4e3d-b0d9-ba3689560389",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #954)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11450,11 +11450,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "af81085b-088e-4bf4-9f96-984ec0eb44a2",
+    "id": "26679eaa-b003-4749-8d32-1f86a8106301",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #955)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11462,11 +11462,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "f6542902-af48-43cf-b5a7-6e5af03829d1",
+    "id": "6d172cf1-431d-4937-be3b-3a1ac0a945f1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #956)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11474,11 +11474,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "efb23c63-9a01-41ca-a752-a01f885c4c71",
+    "id": "ac011bea-3105-4812-a622-025a49d580ba",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #957)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11486,11 +11486,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3729e5d7-5aa7-4df0-8cb1-751439033c02",
+    "id": "9bff4ba5-999a-4127-8d59-85aa6e15f649",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #958)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11498,11 +11498,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1b6fe4cc-160f-408d-a516-6782cd448e1c",
+    "id": "9a1eacd0-cb20-4683-a7c6-244bee343889",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #959)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11510,11 +11510,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "656bd080-1106-472c-a623-7218ae6d5563",
+    "id": "89f81a52-b307-45c3-a260-90602033ef17",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #960)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11522,11 +11522,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "13502e1a-aadb-4d08-916e-d0ce06650e77",
+    "id": "03e32955-a670-4886-a0a4-257eeaf84c98",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #961)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11534,11 +11534,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b7d12e0b-317e-49ff-a5ac-638d4d5e2153",
+    "id": "b2418df6-52f0-4851-ad63-7dc3d3725d1c",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #962)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11546,11 +11546,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cfe3907b-c195-44af-9fd2-ebbe28bf8158",
+    "id": "ebff2f9a-89d3-48cf-87dd-4780822a8750",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #963)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11558,11 +11558,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "b329c9c1-0ae4-4ec5-9881-cd07cfa3a3d7",
+    "id": "0ff5906b-793f-4ee2-84fc-5e5a230d8f1f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #964)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11570,11 +11570,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "58b8b70f-a85f-4c3a-8586-b35c2b65c99c",
+    "id": "1e3b7f36-2060-4d0d-b1c7-f3340f75ace2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #965)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11582,11 +11582,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8bc2b653-29d0-4779-b8a3-c70833640c75",
+    "id": "d665afad-3f8d-4755-a27b-b670cbb801ec",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #966)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11594,11 +11594,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "8b528781-b078-454f-a8eb-50d13584eb83",
+    "id": "a9156b5e-19c6-4243-9020-5cae64ad2d79",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #967)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11606,11 +11606,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "61168d3c-2717-42eb-b57d-1758f3ddd299",
+    "id": "ffa79e7f-4d06-4c32-b794-534cde5345f8",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #968)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11618,11 +11618,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6f82d95e-c4fa-42d5-9d40-a1bdc481c7af",
+    "id": "85d9ae0e-3778-4c20-a6c6-6317ba686885",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #969)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11630,11 +11630,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "2d6a50fe-cb55-4d4d-89d2-2b52989dd417",
+    "id": "3a9c2a80-1539-4284-b633-ea86672139d0",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #970)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11642,11 +11642,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "520f0159-443c-4753-a7b2-f85a0041ab30",
+    "id": "1a800b8b-5078-43ba-b956-40d7f634f8e1",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #971)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11654,11 +11654,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "1362006c-25a7-406f-8420-8cd81b836732",
+    "id": "11f13817-2515-48da-9c83-fcb12b0c6900",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #972)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11666,11 +11666,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "320cf085-0c31-438b-8cf1-d285a2ba4f8e",
+    "id": "deba648b-dea2-49c6-8879-de97b5f07d20",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #973)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11678,11 +11678,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "ad8216d4-32c0-45e5-9d30-200484786e68",
+    "id": "c477f8a9-b975-47e4-a7d3-14d54b7041a2",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #974)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11690,11 +11690,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d4118fdd-f38d-4644-93a5-14113044a98e",
+    "id": "bbc2b67f-4e14-45d2-b082-74c710590877",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #975)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11702,11 +11702,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "3fa61bf8-c2b5-4a08-b9d7-ffa2f0de0610",
+    "id": "f80f4d40-d5a7-44cc-a97c-7ce50481a4d9",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #976)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11714,11 +11714,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cb2522cc-6010-4e9f-9e23-7fc49dda9473",
+    "id": "7d02013d-c641-4181-b121-7b48cef7e874",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #977)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11726,11 +11726,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "6db1de70-0b04-472c-9112-77db0849dc46",
+    "id": "5da62543-4cc6-45fc-9fdc-f8808ba0102a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #978)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11738,11 +11738,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c6485449-0396-4d55-a3c5-a5426abfa4f3",
+    "id": "de604063-c2eb-46e8-99c6-caa483317288",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #979)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11750,11 +11750,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "7a3b164d-6a56-4b83-898b-4c0786fe72c3",
+    "id": "f01b1a72-687d-4fd1-a117-a5236ec1d1e4",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #980)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11762,11 +11762,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "039df7f9-e77c-48ef-8116-3e276897c176",
+    "id": "a80bd393-533e-4b33-998e-8ab1c72ec312",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #981)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11774,11 +11774,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "994cd8d6-8979-4b05-9d12-c57de138bcde",
+    "id": "07c964b3-3401-45db-9b1f-f060f9bcbb0e",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #982)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11786,11 +11786,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "05445534-883f-4507-bbc9-8bf1656c870e",
+    "id": "13c28d56-f25c-4eee-ae16-7c1160bf4b2f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #983)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11798,11 +11798,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d907dae1-ae4c-429f-9a98-10bc059acc51",
+    "id": "e484cddd-85bc-4a53-b1b0-31372d227bff",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #984)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11810,11 +11810,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d49b8543-32ca-4b01-b0bc-411ca45bcfcb",
+    "id": "d4cadcca-f6b6-4a42-a6cd-663984d5441a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #985)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11822,11 +11822,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "00bb99bc-4041-46a8-972e-23f33a5c290b",
+    "id": "d711ec2f-738b-46d3-9705-72853a5d4860",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #986)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11834,11 +11834,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "c6b821ca-3a30-4159-a38d-6924aafb58b5",
+    "id": "b1894518-b9e2-43e6-b5c9-e1f611e84104",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #987)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11846,11 +11846,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "cfe2a462-5ffa-4781-b666-ef6cda50be65",
+    "id": "86b26333-e165-446f-b94c-d613b78a9d3a",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #988)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11858,11 +11858,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fe42e02a-b6b6-49bf-8ef0-8500f2998728",
+    "id": "a8f7983f-6f99-41f8-8a27-ca382b12dc34",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #989)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11870,11 +11870,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "e095f628-9df5-4ec5-b303-b9c756055aa3",
+    "id": "3b360776-eb08-4fa9-b257-84305d135c46",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #990)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11882,11 +11882,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "fb29bb5b-2abc-4e24-8ccc-d828b2757aee",
+    "id": "572506ab-46cd-4fa3-ac7b-77fba96fcd43",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi? (Kart: #991)",
+    "front": "Türkiye'de kışın çok soğuk, ayaz ve kuru kış şartları getiren termik kökenli basınç merkezi?",
     "back": "Sibirya Yüksek Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sibirya kışın aşırı soğuk ve ayaz getirir, termik kökenli bir yüksek basınçtır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11894,11 +11894,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "d95fe8c8-2869-4915-8590-09cc428af4fe",
+    "id": "0fceaf3f-4f12-4090-8444-a8c3f1972a03",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi? (Kart: #992)",
+    "front": "Türkiye'ye yazın esen, Güneydoğu'dan sokularak aşırı sıcaklık ve kuraklığa neden olan basınç merkezi?",
     "back": "Basra Alçak Basıncı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Basra alçak basıncı yaz aylarında Güneydoğu Anadolu'da aşırı kuraklık ve çölleşmeye neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11906,11 +11906,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "4a9eac83-fcbf-4114-a342-52936afafef2",
+    "id": "62edfb79-0bd8-461a-b503-73eca12c7243",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar? (Kart: #993)",
+    "front": "Kayıp Sakal şifresinde yer alan, kuzeydoğudan eserek kışın kuru soğuk yapan rüzgar?",
     "back": "Poyraz",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Poyraz kuzeydoğudan esen, sıcaklığı düşüren soğuk karakterli bir rüzgardır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11918,11 +11918,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9a857463-a5be-4329-b208-66120777cddb",
+    "id": "6629229a-c084-43dd-9bb8-c06a24bae45d",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar? (Kart: #994)",
+    "front": "Güneybatıdan esen, sıcak ve nemli olan, kışın soba zehirlenmelerine ve karların hızlı erimesine yol açan rüzgar?",
     "back": "Lodos",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Lodos güneybatıdan sıcak ve nemli eser, karları eriterek çığ riski ve soba zehirlenmesine neden olur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11930,11 +11930,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a41692eb-9aa8-48e4-848c-35bee91c8b9a",
+    "id": "687aa800-a70b-496b-9293-925e98663754",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar? (Kart: #995)",
+    "front": "Dağ yamacından aşağı esen havanın her 100 metrede 1°C ısınmasıyla oluşan rüzgar?",
     "back": "Fön (Föhn) Rüzgarı",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Fön rüzgarları kurutucu etki yapar, Doğu Karadeniz'de mikroklima tarım ürünlerinin yetişmesini sağlar.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11942,11 +11942,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "451a3511-42ba-4b15-996c-e042e34cbdcf",
+    "id": "8108b75a-5a06-4afd-8278-d06807681ed7",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi? (Kart: #996)",
+    "front": "Akdeniz iklim kuşağında kış aylarında görülen, sıcak ve soğuk hava kütlelerinin karşılaşmasıyla oluşan yağış tipi?",
     "back": "Cephesel (Frontal) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Cephesel yağışlar Türkiye'nin orta kuşakta yer almasının (matematik konum) doğrudan bir sonucudur.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11954,11 +11954,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "102fa8da-4a4f-4ab3-9f11-af8e73ba7e20",
+    "id": "01cb3e0b-1483-4b4e-ab95-eddf7c1684aa",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü? (Kart: #997)",
+    "front": "Doğu Karadeniz'de nemli hava kütlelerinin dağ yamaçları boyunca yükselerek oluşturduğu yağış türü?",
     "back": "Orografik (Yamaç) Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Orografik yağışlar dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarında yaygındır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11966,11 +11966,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "39381988-a017-439c-ab9c-4ecc8372e3cc",
+    "id": "4f870306-ba7c-40c4-bca4-c11d4ee03428",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı? (Kart: #998)",
+    "front": "İç Anadolu'da ilkbaharda görülen ve halk arasında 'Kırkikindi' olarak adlandırılan yükselim yağışlarının coğrafi adı?",
     "back": "Konveksiyonel Yağış",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Konveksiyonel yağışlar İç Anadolu'da ilkbaharda, Erzurum-Kars'ta ise yaz başlarında görülür.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11978,11 +11978,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "9495267d-9856-4a70-8646-554b45410eec",
+    "id": "85c642c2-fd73-43bf-9528-24bc30f2a58f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz? (Kart: #999)",
+    "front": "En fazla yağışı sonbaharda, en az yağışı ilkbaharda alan, her mevsim yağışlı iklimimiz?",
     "back": "Karadeniz İklimi",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Karadeniz ikliminde her mevsim yağış olduğundan kimyasal çözünme ve toprak yıkanması en fazladır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",
@@ -11990,11 +11990,11 @@ export const flashcards_iklimvebitkiortusu: Flashcard[] = [
     ]
   },
   {
-    "id": "a3b8dfe6-2970-42d8-ab06-92ef795dd8e4",
+    "id": "a9ad12eb-2611-4945-818a-bdafba3c805f",
     "topicId": "iklim-ve-bitki-ortusu",
-    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz? (Kart: #1000)",
+    "front": "Muğla Köyceğiz çevresinde yetişen, kozmetik ve ilaç sanayisinde kullanılan ünlü endemik ağaç türümüz?",
     "back": "Sığla Ağacı (Günlük)",
-    "hint": "Sınavda yüksek başarı için bu bilgiyi hafızanıza sabitleyin.",
+    "hint": "Sığla ağacı Muğla Köyceğiz havzasına özgü endemik bir ağaç olup kozmetikte sığla yağı üretimi için kullanılır.",
     "tags": [
       "coğrafya",
       "aktif-tekrar",

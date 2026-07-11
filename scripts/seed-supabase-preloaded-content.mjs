@@ -7,7 +7,25 @@ import { fileURLToPath } from "node:url";
 import { createClient } from "@supabase/supabase-js";
 import ts from "typescript";
 
+function loadEnvFile(filePath) {
+  if (!fs.existsSync(filePath)) return;
+  const lines = fs.readFileSync(filePath, "utf8").split(/\r?\n/);
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (!trimmed || trimmed.startsWith("#")) continue;
+    const index = trimmed.indexOf("=");
+    if (index === -1) continue;
+    const key = trimmed.slice(0, index).trim();
+    const value = trimmed.slice(index + 1).trim().replace(/^["']|["']$/g, "");
+    if (!process.env[key]) {
+      process.env[key] = value;
+    }
+  }
+}
+
 const root = process.cwd();
+loadEnvFile(path.join(root, ".env.local"));
+
 const migrationPath = path.join(root, "supabase/migrations/20260709_kpss_preloaded_content.sql");
 const table = "kpss_content_bundles";
 const seedVersion = "kpss-history-preloaded-v1";
@@ -129,53 +147,70 @@ function createStaticTests(data) {
   const topics = data.topics || [];
   const questions = data.questions || [];
   const tests = [];
-  const usedGlobal = new Set();
 
-  function pick(topicId, desiredDifficulty, limit = 20) {
+  function pick(topicId, desiredDifficulty, limit = 20, testNo = 1) {
     const byTopic = questions.filter((q) => q.topicId === topicId);
     const exact = byTopic.filter((q) => levelMap[q.difficulty] === desiredDifficulty);
     const rest = byTopic.filter((q) => levelMap[q.difficulty] !== desiredDifficulty);
-    return [...exact, ...rest].slice(0, limit);
+    const pool = [...exact, ...rest];
+    if (!pool.length) return [];
+    const start = ((testNo - 1) * limit) % pool.length;
+    const selected = [];
+    for (let i = 0; i < limit; i++) {
+      selected.push(pool[(start + i) % pool.length]);
+    }
+    return selected;
   }
 
   for (const topic of topics) {
     for (const level of ["kolay", "orta", "zor"]) {
-      const selected = pick(topic.id, level, 20);
-      if (!selected.length) continue;
-      tests.push({
-        id: `${topic.id}-${level}-1`,
-        topicId: topic.id,
-        level,
-        testNo: 1,
-        title: `${topic.title} ${level[0].toLocaleUpperCase("tr-TR") + level.slice(1)} Testi`,
-        questionIds: selected.map((q) => q.id),
-        questionCount: selected.length,
-        source: "supabase-preloaded",
-      });
+      for (let testNo = 1; testNo <= 50; testNo++) {
+        const selected = pick(topic.id, level, 20, testNo);
+        if (!selected.length) continue;
+        tests.push({
+          id: `${topic.id}-${level}-${testNo}`,
+          topicId: topic.id,
+          level,
+          testNo,
+          title: `${topic.title} ${level[0].toLocaleUpperCase("tr-TR") + level.slice(1)} Test ${testNo}`,
+          questionIds: selected.map((q) => q.id),
+          questionCount: selected.length,
+          source: "supabase-preloaded",
+        });
+      }
     }
   }
 
   for (const level of ["kolay", "orta", "zor"]) {
-    const selected = [];
-    for (const topic of topics) {
-      const one = pick(topic.id, level, 3).find((q) => !selected.some((s) => s.id === q.id));
-      if (one) selected.push(one);
-    }
-    const more = questions
-      .filter((q) => levelMap[q.difficulty] === level && !selected.some((s) => s.id === q.id))
-      .slice(0, Math.max(0, 27 - selected.length));
-    const final = [...selected, ...more].slice(0, 27);
-    if (final.length) {
-      tests.push({
-        id: `all-${level}-1`,
-        topicId: "all",
-        level,
-        testNo: 1,
-        title: `Karma KPSS Tarih ${level[0].toLocaleUpperCase("tr-TR") + level.slice(1)} Testi`,
-        questionIds: final.map((q) => q.id),
-        questionCount: final.length,
-        source: "supabase-preloaded",
-      });
+    for (let testNo = 1; testNo <= 50; testNo++) {
+      const selected = [];
+      for (const topic of topics) {
+        const pool = pick(topic.id, level, 3, testNo);
+        const one = pool.find((q) => !selected.some((s) => s.id === q.id));
+        if (one) selected.push(one);
+      }
+      const levelPool = questions.filter((q) => levelMap[q.difficulty] === level);
+      const start = ((testNo - 1) * 20) % levelPool.length;
+      let idx = 0;
+      while (selected.length < 20 && idx < levelPool.length) {
+        const q = levelPool[(start + idx) % levelPool.length];
+        if (!selected.some((s) => s.id === q.id)) {
+          selected.push(q);
+        }
+        idx++;
+      }
+      if (selected.length) {
+        tests.push({
+          id: `all-${level}-${testNo}`,
+          topicId: "all",
+          level,
+          testNo,
+          title: `Karma KPSS Coğrafya ${level[0].toLocaleUpperCase("tr-TR") + level.slice(1)} Test ${testNo}`,
+          questionIds: selected.map((q) => q.id),
+          questionCount: selected.length,
+          source: "supabase-preloaded",
+        });
+      }
     }
   }
 
@@ -231,7 +266,7 @@ function buildBundles(data) {
   return { bundles: normalized, aggregateHash, tests };
 }
 
-async function upsertInBatches(supabase, rows, batchSize = 50) {
+async function upsertInBatches(supabase, rows, batchSize = 5) {
   for (let i = 0; i < rows.length; i += batchSize) {
     const batch = rows.slice(i, i + batchSize);
     const { error } = await supabase.from(table).upsert(batch, { onConflict: "key" });

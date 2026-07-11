@@ -3,7 +3,7 @@
 An advanced, high-performance educational platform designed for the KPSS Geography exam preparation. Engineered with a zero-latency user experience, modular asset mapping, and a robust offline-first fallback data architecture.
 
 - **GitHub Repository**: https://github.com/Dpehect/KPSS-Cografya-Web-App
-- **Live Demo**: https://kpss-cografya-web-app.vercel.app/
+- **Live **: https://kpss-cografya-web-app.vercel.app/
 
 ---
 
